@@ -1,0 +1,719 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "7 May",
+                "normalised": "7 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 May",
+                "normalised": "8 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Rüdenhausen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 May",
+                "normalised": "8 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 May",
+                "normalised": "8 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Münchon",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "½ 6 Uhr",
+            "transport": "Landkutsche",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Schwabach",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Schmalkalden",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 May",
+                "normalised": "10 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Fuß",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 May",
+                "normalised": "10 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": "Augsburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 May",
+                "normalised": "10 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 May",
+                "normalised": "11 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Maynzc",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 May",
+                "normalised": "12 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 May",
+                "normalised": "12 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 May",
+                "normalised": "12 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 May",
+                "normalised": "7 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "½ o Uhr",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Ingolstädter",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Maynz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Maynz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Maynz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 May",
+                "normalised": "11 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Pfade",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 May",
+                "normalised": "11 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshuter",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 May",
+                "normalised": "11 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 May",
+                "normalised": "11 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingolstäder",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 May",
+                "normalised": "12 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshuter",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 May",
+                "normalised": "5 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Psäde",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 May",
+                "normalised": "8 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "10 Uhr",
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 May",
+                "normalised": "8 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "4 Uhr",
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "4 Uhr",
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "6 May",
+                "normalised": "6 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Münchon",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 May",
+                "normalised": "8 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Augsburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Maynz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 May",
+                "normalised": "9 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Post"
+        }
+    ],
+    "id": "1770-05-15_Num_20",
+    "source": {
+        "issue_date": "1770-05-15",
+        "issue_number": "Num. 20",
+        "canvases": [
+            159,
+            160,
+            161,
+            162
+        ]
+    }
+}

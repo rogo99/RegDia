@@ -1,0 +1,592 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "der Straubinger ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "S. T. Herr Baron von Obersdorf",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5.",
+                "normalised": "5."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "S. T. Freyherr von Berlichingen",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6.",
+                "normalised": "6."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "der Straubinger ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Julii.",
+                "normalised": "2 Julii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "Tir. Herr von Schmauz",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "4. Per Calesch, der Straubinger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "der Straubinger ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Julii.",
+                "normalised": "1 Julii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "S.T. Herr Baron von Strahl",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4 Per Kutsche, S.T. Herr Graf von Mindsmaul, S.T. Herr Graf von Cohenzel",
+                "normalised": "4 Per Kutsche, S.T. Herr Graf von Mindsmaul, S.T. Herr Graf von Cohenzel"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kutsche",
+                "family_name": "S.T. Herr Graf von Mindsmaul",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Calesch, Herr Adv. Jeroni, von Amberg",
+                "normalised": "5. Per Calesch, Herr Adv. Jeroni, von Amberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "Herr Adv. Jeroni, von Amberg",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6 Julii.",
+                "normalised": "6 Julii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Calesch",
+                "family_name": "Herr Adv. Jeroni, von Amberg",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Kutsche, der Ingolstädtcr ord. Bothe",
+                "normalised": "7. Per Kutsche, der Ingolstädtcr ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kutsche",
+                "family_name": "der Ingolstädtcr ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Der Münchner Postwagen, um 7 Uhr, Bormittags.",
+                "normalised": "3. Der Münchner Postwagen, um 7 Uhr, Bormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Postwagen",
+                "family_name": "Der Münchner",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Wagen, der Landshter Bothe",
+                "normalised": "4. Per Wagen, der Landshter Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wagen",
+                "family_name": "der Landshter Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta, S. T. Herr Graf von Rindsmaul, sc. f. 5.",
+                "normalised": "5. Per Posta, S. T. Herr Graf von Rindsmaul, sc. f. 5."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Posta",
+                "family_name": "S. T. Herr Graf von Rindsmaul",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Kutsche, der Ingolstädtcr ord. Bothe",
+                "normalised": "6. Per Kutsche, der Ingolstädtcr ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kutsche",
+                "family_name": "der Ingolstädtcr ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Wagen, der Landshuter Bothe",
+                "normalised": "7. Per Wagen, der Landshuter Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wagen",
+                "family_name": "der Landshuter Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Der Münchner Postwagen, um 7 Uhr, Bormittags.",
+                "normalised": "3. Der Münchner Postwagen, um 7 Uhr, Bormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Postwagen",
+                "family_name": "Der Münchner",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Wagen, der Landshter Bothe",
+                "normalised": "4. Per Wagen, der Landshter Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wagen",
+                "family_name": "der Landshter Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta, S. T. Herr Graf von Rindsmaul, sc. f. 5.",
+                "normalised": "5. Per Posta, S. T. Herr Graf von Rindsmaul, sc. f. 5."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Posta",
+                "family_name": "S. T. Herr Graf von Rindsmaul",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Kutsche, der Ingolstädtcr ord. Bothe",
+                "normalised": "6. Per Kutsche, der Ingolstädtcr ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kutsche",
+                "family_name": "der Ingolstädtcr ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Wagen, der Landshuter Bothe",
+                "normalised": "7. Per Wagen, der Landshuter Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wagen",
+                "family_name": "der Landshuter Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Der Münchner Postwagen, um 7 Uhr, Bormittags.",
+                "normalised": "3. Der Münchner Postwagen, um 7 Uhr, Bormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Postwagen",
+                "family_name": "Der Münchner",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Wagen, der Landshter Bothe",
+                "normalised": "4. Per Wagen, der Landshter Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wagen",
+                "family_name": "der Landshter Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta, S. T. Herr Graf von Rindsmaul, sc. f. 5.",
+                "normalised": "5. Per Posta, S. T. Herr Graf von Rindsmaul, sc. f. 5."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Posta",
+                "family_name": "S. T. Herr Graf von Rindsmaul",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Kutsche, der Ingolstädtcr ord. Bothe",
+                "normalised": "6. Per Kutsche, der Ingolstädtcr ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kutsche",
+                "family_name": "der Ingolstädtcr ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Wagen, der Landshuter Bothe",
+                "normalised": "7. Per Wagen, der Landshuter Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wagen",
+                "family_name": "der Landshuter Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null
+            }
+        }
+    ],
+    "id": "1770-07-10_Num_28",
+    "source": {
+        "issue_date": "1770-07-10",
+        "issue_number": "Num. 28",
+        "canvases": [
+            223,
+            224,
+            225,
+            226
+        ]
+    }
+}

@@ -1,0 +1,865 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerrauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "20 Aug.",
+                            "normalised": "20 Aug."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Peter",
+                                "family_name": "Matheson",
+                                "occupation_verbatim": "Burger und Gastgeb"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21. Gottfried",
+                            "normalised": "21. Gottfried"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gerst",
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Gerauere",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "19 Aug.",
+                            "normalised": "19 Aug."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nicolaus Gottfried",
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas Georg",
+                                "family_name": "Koch",
+                                "occupation_verbatim": "Burger und Gastgeb"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23. Georg Friederich",
+                            "normalised": "23. Georg Friederich"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Friederich",
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Eberhardt",
+                                "occupation_verbatim": "Burger, Weinschenk und Gastgeb"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsstitfs-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "20 Aug.",
+                "normalised": "20 Aug."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Amberger",
+                "family_name": "null",
+                "occupation_verbatim": "ord. Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Lindach",
+            "lodging": "Obermünster",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Calesch",
+                "family_name": "null",
+                "occupation_verbatim": "S.T. Herr Baron von Quendel"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 Aug.",
+                "normalised": "20 Aug."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Calesch",
+                "family_name": "null",
+                "occupation_verbatim": "S.T. Herr Baron von Quendel"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Nürnberger",
+                "family_name": "null",
+                "occupation_verbatim": "ord. Landkutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Landkutsche",
+            "origin": "Schweinsfurt",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "null",
+                "occupation_verbatim": "Amberger Silberbothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "null",
+                "occupation_verbatim": "Amberger ord. Bothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24.",
+                "normalised": "24."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per ord. Postwagen von Nürnberg",
+                "family_name": "null",
+                "occupation_verbatim": "Tit. Herr Oberlietenant von Hagen"
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Nürnberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "null",
+                "occupation_verbatim": "Amberger ord. Bothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "null",
+                "occupation_verbatim": "Hr. Serb"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "passiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19. Per Rutschen",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Baron von Karg",
+                "occupation_verbatim": "Chureollnischer Comittalgesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Rutschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Per Posta",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Fürst von Radzivil",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Pohlen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Se.Erceß. Herr von Wüstenik",
+                "normalised": "Per Posta, Se.Erceß. Herr von Wüstenik"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se.Erceß.",
+                "family_name": "Herr von Wüstenik",
+                "occupation_verbatim": "Hochfürsil. Hessenraffelischer Comittal-Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, He Puchler",
+                "normalised": "Per Posta, He Puchler"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "He",
+                "family_name": "Puchler",
+                "occupation_verbatim": "ein Weinhandler!",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Augspurg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Tit.von Rozbon",
+                "normalised": "Per Posta, Tit.von Rozbon"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "von Rozbon",
+                "occupation_verbatim": "Königl. Preußischer Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per ord. Postwagen nach Amberg",
+                "normalised": "Per ord. Postwagen nach Amberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Frau",
+                "family_name": "Haiderin",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21. Per Amberger ord. Rutsche",
+                "normalised": "Den 21. Per Amberger ord. Rutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "D.Storch",
+                "occupation_verbatim": "von Amberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Rutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 22. Per Nürnberger ord. Landkutsche",
+                "normalised": "Den 22. Per Nürnberger ord. Landkutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Monsfr.",
+                "family_name": "Rendels",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Landkutsche",
+            "origin": "Engelland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Sälesch, Hr. Rehmann",
+                "normalised": "Per Sälesch, Hr. Rehmann"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Rehmann",
+                "occupation_verbatim": "ein Handelsmann von Maynz",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Sälesch",
+            "origin": "Maynz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Staudinger",
+                "normalised": "Per Calesch, Hr. Staudinger"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Staudinger",
+                "occupation_verbatim": "ein Handelsmann von Wessenburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Wessenburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24. Per Posta, S. T. Herr Graf von Zech",
+                "normalised": "Den 24. Per Posta, S. T. Herr Graf von Zech"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Graf von Zech",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Wehlar",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per ord. Postwagen nach Nurnberg",
+                "normalised": "Per ord. Postwagen nach Nurnberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Emerich",
+                "occupation_verbatim": "ein Kaufmann von Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Tit. Herr von Gugl",
+                "normalised": "Per Calesch, Tit. Herr von Gugl"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Gugl",
+                "occupation_verbatim": "Churpfälzischer Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche, Se. Excell. Herr Baron von Lincker",
+                "normalised": "Per Kutsche, Se. Excell. Herr Baron von Lincker"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Herr Baron von Lincker",
+                "occupation_verbatim": "Churmazinischer Comitial- und Reichs-Directorial-Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "r. f. 12.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche, der Amberger ord. Bothe",
+                "normalised": "Per Kutsche, der Amberger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zu Fuß, ein Königl. Preußischer Unteroffizier, mit 2 Mann Reckronfen",
+                "normalised": "Zu Fuß, ein Königl. Preußischer Unteroffizier, mit 2 Mann Reckronfen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 25. Per Posta, Se. Excell. Herr von Pfau",
+                "normalised": "Den 25. Per Posta, Se. Excell. Herr von Pfau"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Herr von Pfau",
+                "occupation_verbatim": "Hochfürstl. Anhaltischer Comitial-Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Wehlar",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "r. f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S. T. Herr Baron von Jednivitk",
+                "normalised": "Per Posta, S. T. Herr Baron von Jednivitk"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron von Jednivitk",
+                "occupation_verbatim": "Churbayerischer Cammerherr",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Engelland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "r. f. 6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 26. Per Calesch, Tit. Herr Secretair Stich",
+                "normalised": "Den 26. Per Calesch, Tit. Herr Secretair Stich"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Secretair Stich",
+                "occupation_verbatim": "von Amberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brücke herein:",
+                "normalised": "An der hölzernen Brücke herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19. Simon Wizhofer, von Wien, mit Wolle, Terpentin, Wein, r.",
+                "normalised": "Den 19. Simon Wizhofer, von Wien, mit Wolle, Terpentin, Wein, r."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Simon",
+                "family_name": "Wizhofer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 23. Johann Georg Meringer, Deggendorfer Bothe.",
+                "normalised": "Den 23. Johann Georg Meringer, Deggendorfer Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brücke hinaus:",
+                "normalised": "An der hölzernen Brücke hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19. Johann Braun führet der verwitwiten Georg Martin Laurerin ihr ord. Schif nach Wien, mit ihm Tit. Herr Lieutenant Galhaut, von Florimont; Hr. Constantin, ein Griechischer Handelsman, und 56 gemeinen Personen.",
+                "normalised": "Den 19. Johann Braun führet der verwitwiten Georg Martin Laurerin ihr ord. Schif nach Wien, mit ihm Tit. Herr Lieutenant Galhaut, von Florimont; Hr. Constantin, ein Griechischer Handelsman, und 56 gemeinen Personen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Braun",
+                "family_name": "Laurerin",
+                "occupation_verbatim": "ein Griechischer Handelsman",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenhore herein:",
+                "normalised": "Zum Ostenhore herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17 Aug. Per z Caleschen, Hr. Fendler, Hr. Kreichas, und Hr. Reichel, Kansleute von Nurnberg, s. 6. paiziren durch.",
+                "normalised": "Den 17 Aug. Per z Caleschen, Hr. Fendler, Hr. Kreichas, und Hr. Reichel, Kansleute von Nurnberg, s. 6. paiziren durch."
+            },
+            "gate": null,
+            "direction": null
+        }
+    ],
+    "id": "1770-08-28_Num_35",
+    "source": {
+        "issue_date": "1770-08-28",
+        "issue_number": "Num. 35",
+        "canvases": [
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282
+        ]
+    }
+}

@@ -1,0 +1,489 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "9. Per Kutsche-, S.T.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Schlitten",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Herr Haberkorn, ein Geisl., und Hr. Geckel, ein Kasen- Beamier, beyde von Passau",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Per Calesch",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Herr Hemauer, Pfarrer von Duffing",
+            "lodging": "s. 2. pakiren durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Schlitten",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "der Straubinger ord. Bothe",
+            "lodging": "log. in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9. Per Calesch",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": "Zum Ostenthore hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Frau Oswaldin, Rechnungs-Commissar.von Straubing",
+            "lodging": "s. 2",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Schlitten",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": "Zum Ostenthore hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "der Straubinger ord. Bothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tir.",
+                "family_name": "Herr von Feuchten",
+                "occupation_verbatim": "ein Geisl. von Deggendorf",
+                "occupation_normalised": "Geisl."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "David Wertheimer, ein Jude von Wien",
+            "lodging": "s. 2",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Schlitten",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "der Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 Jan. Der Münchner Postwagen",
+                "normalised": "7 Jan."
+            },
+            "gate": null,
+            "direction": "Zum Weyh St. Peterthore herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "7 Uhr, Abends",
+                "value": "7"
+            },
+            "transport": "Postwagen",
+            "origin": "Tit. Herr Hofrath Jäger, von Kopdorf",
+            "lodging": "f. z. log. in 3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8. Per Wagen",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "der Landshuter Vothe",
+            "lodging": "log. in Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9. Per Wagen",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "der Dingelsfinger Vothe",
+            "lodging": "log. in Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche",
+                "normalised": "Per Kutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "der Silberbothe von Amberg",
+            "lodging": "paßiret durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Schlitten",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "der Ingolstädtcr Bothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Der Wiener Postwagen",
+                "normalised": "Der Wiener Postwagen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "7 Uhr, Abends",
+                "value": "7"
+            },
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Wagen",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "der Landshuter Bothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Abelmann",
+                "occupation_verbatim": "Kayserl. Cammerherr",
+                "occupation_normalised": "Cammerherr"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "f.3",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Schlitten",
+                "normalised": "Per Schlitten"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "der Ingolstädtcr Bothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Wagen",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "der Landshuter Bothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "6 Jan. Per Wagen",
+                "normalised": "6 Jan."
+            },
+            "gate": null,
+            "direction": "Zum Jacobertore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Frank",
+                "occupation_verbatim": "ein Hopfenhändler aus Böhmen",
+                "occupation_normalised": "Hopfenhändler"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "log, in Psauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9. Per Wagen",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "der Augsburger ord. Voche",
+            "lodging": "damit Mousr. Mocany, ein Kaufmann aus Italien, log, in goldenen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Schikten",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Heilmann",
+                "occupation_verbatim": "ein Handelsmann von Jissen",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Schikten",
+            "origin": null,
+            "lodging": "f. 2. log, in Gleyphanten",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-01-16_Num_3",
+    "source": {
+        "issue_date": "1770-01-16",
+        "issue_number": "Num. 3",
+        "canvases": [
+            27,
+            28,
+            29,
+            30
+        ]
+    }
+}

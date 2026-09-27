@@ -1,0 +1,267 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Hineck",
+                "occupation_verbatim": "von Hineck",
+                "occupation_normalised": "von Hineck"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c. log. in weissen Lam.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rauh",
+                "occupation_verbatim": "Hochfürstlich-Hohenlohischer Geh. Rath",
+                "occupation_normalised": "Hochfürstlich-Hohenlohischer Geh. Rath"
+            },
+            "time": {
+                "verbatim": "½ 12 Uhr",
+                "normalised": "½ 12 Uhr"
+            },
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rümmelmann",
+                "occupation_verbatim": "Prinz Hildburghausischer Hofrathe",
+                "occupation_normalised": "Prinz Hildburghausischer Hofrathe"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Eglofsheim",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Lerchenfeld",
+                "occupation_verbatim": "Graf von Lerchenfeld",
+                "occupation_normalised": "Graf von Lerchenfeld"
+            },
+            "time": {
+                "verbatim": "10 Uhr",
+                "normalised": "10 Uhr"
+            },
+            "transport": "Posta",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.6. log. in 3 Helmen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Ottran",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "8 Uhr",
+                "normalised": "8 Uhr"
+            },
+            "transport": "Wiener Postwagen",
+            "origin": "Wien",
+            "lodging": "Spiegel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Trutzmeng",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Rümmelmann",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshuter ord. Bothe",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Strahlendorf",
+                "occupation_verbatim": "Herzoglich-Württembergischer Courier",
+                "occupation_normalised": "Herzoglich-Württembergischer Courier"
+            },
+            "time": null,
+            "transport": "zu Pferde",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rauh",
+                "occupation_verbatim": "Augsburger ord. Bothe",
+                "occupation_normalised": "Augsburger ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "gold. Bären",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Frau",
+                "family_name": "Röllin",
+                "occupation_verbatim": "Gerichtsschreiberin von Noting",
+                "occupation_normalised": "Gerichtsschreiberin von Noting"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "weis[sen Hahn]",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Dullibo",
+                "occupation_verbatim": "Handelsmann aus Italien",
+                "occupation_normalised": "Handelsmann aus Italien"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Spiegel",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Hübner",
+                "occupation_verbatim": "Handelßmann aus Sachsen",
+                "occupation_normalised": "Handelßmann aus Sachsen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        }
+    ],
+    "id": "1770-12-18_Num_51",
+    "source": {
+        "issue_date": "1770-12-18",
+        "issue_number": "Num. 51",
+        "canvases": [
+            407,
+            408,
+            409,
+            410
+        ]
+    }
+}

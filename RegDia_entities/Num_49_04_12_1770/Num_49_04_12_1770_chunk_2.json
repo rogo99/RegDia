@@ -1,0 +1,614 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Cornelins",
+                "family_name": "Geizels",
+                "occupation_verbatim": "Handelsmaü",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Brabaut",
+            "lodging": "f. 2.",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Dec.",
+                "normalised": "1 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": "Deggendorfer Bothe"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 26 Nov.",
+                "normalised": "26 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Simon",
+                "family_name": "Wikofer",
+                "occupation_verbatim": "von Wien",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Ruyser, Baumwolle, ingl. mit Bazgage",
+            "lodging": "Sr. Hochfürsl. Durchl. Prinz Carl von Lothringen",
+            "s_value": {
+                "verbatim": "rc.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24 Nov.",
+                "normalised": "24 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Specht",
+                "occupation_verbatim": "Officier von der Kaysersl. Feldartillerie",
+                "occupation_normalised": "Offizier"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "goldenen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Nov.",
+                "normalised": "27 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sr.",
+                "family_name": "Excell. Herr Graf von Hartig",
+                "occupation_verbatim": "Königl. Churböhmischer Comittialgesandter",
+                "occupation_normalised": "Königlich Churböhmischer Comittialgesandter"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "re.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Nov.",
+                "normalised": "29 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Trx.",
+                "family_name": "Herr von Schmid",
+                "occupation_verbatim": "Regierungsrath von Straubing",
+                "occupation_normalised": "Regierungsrat"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30 Nov.",
+                "normalised": "30 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmid",
+                "occupation_verbatim": "Regierungsrath von Straubing",
+                "occupation_normalised": "Regierungsrat"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24 Dec.",
+                "normalised": "24 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Koch",
+                "occupation_verbatim": "Pfarrer von Ortenburg",
+                "occupation_normalised": "Pfarrer"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Dec.",
+                "normalised": "28 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Daler",
+                "occupation_verbatim": "Handelsmann aus Ungarn",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Dec.",
+                "normalised": "29 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Müller",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30 Dec.",
+                "normalised": "30 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmid",
+                "occupation_verbatim": "Regierungsrath von Straubing",
+                "occupation_normalised": "Regierungsrat"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Dec.",
+                "normalised": "1 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Daler",
+                "occupation_verbatim": "Handelsmann aus Ungarn",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Nov.",
+                "normalised": "27 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Buschinger",
+                "occupation_verbatim": "Juriste von Augspurg",
+                "occupation_normalised": "Jurist"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Nov.",
+                "normalised": "29 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Buschinger",
+                "occupation_verbatim": "Juriste von Augspurg",
+                "occupation_normalised": "Jurist"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Nov.",
+                "normalised": "29 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se.",
+                "family_name": "Excell. Herr Baron von Mätternich",
+                "occupation_verbatim": "ie. von Wien",
+                "occupation_normalised": "Baron"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. io.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Dec.",
+                "normalised": "27 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Lorienq",
+                "occupation_verbatim": "Kaufmann aus Italien",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": {
+                "verbatim": "um 9 Uhr",
+                "normalised": "9 Uhr",
+                "value": "9"
+            },
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "Abends",
+                "value": "Abends"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Dec.",
+                "normalised": "29 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Buschinger",
+                "occupation_verbatim": "Juriste von Augspurg",
+                "occupation_normalised": "Jurist"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Dingelsfinger Bothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Dec.",
+                "normalised": "29 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Buschinger",
+                "occupation_verbatim": "Juriste von Augspurg",
+                "occupation_normalised": "Jurist"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Jungsfäder ord. Wothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30 Dec.",
+                "normalised": "30 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Buschinger",
+                "occupation_verbatim": "Juriste von Augspurg",
+                "occupation_normalised": "Jurist"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landschuter ord. Bothe",
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 26 Dec.",
+                "normalised": "26 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Mayredam",
+                "occupation_verbatim": "von Wien",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weissen Kamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Dec.",
+                "normalised": "27 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Riezling",
+                "occupation_verbatim": "Juriste von Zingolstadt",
+                "occupation_normalised": "Jurist"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Dec.",
+                "normalised": "27 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christoph",
+                "family_name": "Parsch",
+                "occupation_verbatim": "Hopfenhändler aus Böhmen",
+                "occupation_normalised": "Hopfenhändler"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "goldenen Adler",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Dec.",
+                "normalised": "27 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mfr.",
+                "family_name": "Baronzeto",
+                "occupation_verbatim": "Handelsmann aus Italien",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Dec.",
+                "normalised": "27 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christoph",
+                "family_name": "Parsch",
+                "occupation_verbatim": "Hopfenhändler aus Böhmen",
+                "occupation_normalised": "Hopfenhändler"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Augspurger ord. Bothe",
+            "lodging": "gold. Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Dec.",
+                "normalised": "28 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Münich",
+                "occupation_verbatim": "von Büllingen, im Schwarzwald",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": {
+                "verbatim": "im Schwarzwald",
+                "normalised": "im Schwarzwald",
+                "value": "7"
+            },
+            "transport": null,
+            "origin": null,
+            "lodging": "goldenre Greif",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Dec.",
+                "normalised": "29 Dec."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Straßer",
+                "occupation_verbatim": "Handelsmaun von Nürnberg",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "zu fuß",
+            "origin": null,
+            "lodging": "wetfs sen Hahn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Nov.",
+                "normalised": "29 Nov."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Diesfeld",
+                "occupation_verbatim": ""
+            }
+        }
+    ],
+    "id": "1770-12-04_Num_49",
+    "source": {
+        "issue_date": "1770-12-04",
+        "issue_number": "Num. 49",
+        "canvases": [
+            391,
+            392,
+            393,
+            394
+        ]
+    }
+}

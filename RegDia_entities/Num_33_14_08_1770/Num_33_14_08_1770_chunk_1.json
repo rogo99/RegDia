@@ -1,0 +1,549 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 6 Aug.",
+                            "normalised": "6 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Heinrich",
+                                "family_name": "Röbel",
+                                "occupation_verbatim": "Burger und Krauter",
+                                "occupation_normalised": "Merchant and Herbalist"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jofr.",
+                                "family_name": "Catharina",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 4.",
+                            "normalised": "4"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ursula Margaretha",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Friedrich",
+                                "family_name": "Albig",
+                                "occupation_verbatim": "Bürger, Wein- und Methschenk, auch Gastgeb.",
+                                "occupation_normalised": "Merchant, Wine and Mead Seller, also Innkeeper"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 5.",
+                            "normalised": "5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Esaias Andreas",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Rainer",
+                                "occupation_verbatim": "Bürger und Schuhmacher",
+                                "occupation_normalised": "Merchant and Shoemaker"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Isabella Maria",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Hagen",
+                                "occupation_verbatim": "Gärtner und Bedienter bey des Königlich-Schwedisch-Worpommerischen Herrn Gesandten von Greiffenheim, Excell. rc.",
+                                "occupation_normalised": "Gardener and Servant at the Court of the King of Sweden and Pommerania, Excell. rc."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Ludwig Christoph",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Ludwig",
+                                "family_name": "Strasskircher",
+                                "occupation_verbatim": "Bürger, Kauf- und Handelsmann",
+                                "occupation_normalised": "Merchant, Merchant and Trader"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In den Catholischen Pfarren",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 5.",
+                            "normalised": "5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Peter Antonis",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh.",
+                                "family_name": "Caspar Mosmann",
+                                "occupation_verbatim": "Burger und Kupferschmidt",
+                                "occupation_normalised": "Merchant and Copper Smelter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre und 32 Wochen weniger 3 Tage alt",
+                            "age_days": 121
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 5.",
+                            "normalised": "5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Döring",
+                                "occupation_verbatim": "Burgers und Gastgebs allhier, sel. nachgelassene eheliebl. Tochter",
+                                "occupation_normalised": "Merchant and Innkeeper here, deceased, surviving spouse's daughter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "19 Jahre, 19 Wochen und 1 Tag alt",
+                            "age_days": 740
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 5.",
+                            "normalised": "5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Euphrosyna",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Adam",
+                                "family_name": "Zinn",
+                                "occupation_verbatim": "Portier bey des Churfürstlich-Braunschweigischen Herrn Commissariagesnds",
+                                "occupation_normalised": "Doorkeeper at the Court of the Prince-Bishop of Brunswick"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre und 21 Wochen alt",
+                            "age_days": 137
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ein todt zur Welt geborenes Söhlein",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Widmann",
+                                "occupation_verbatim": "Bürger und Bierschreiber",
+                                "occupation_normalised": "Merchant and Beer Writer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 9.",
+                            "normalised": "9"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Bartholomäus Salomon",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Christian",
+                                "family_name": "Schmatz",
+                                "occupation_verbatim": "angehender Bürger und Perückenmacher",
+                                "occupation_normalised": "Apprentice Merchant and Wig Maker"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "7 Wochen und 2 Tage alt",
+                            "age_days": 50
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 5 Aug.",
+                "normalised": "5 August"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Bleyer",
+                "occupation_verbatim": "Bergmann",
+                "occupation_normalised": "Miner"
+            },
+            "time": "Vormittags",
+            "transport": "zu Fuß",
+            "origin": "Böhmen",
+            "lodging": "gold. Engel"
+        },
+        {
+            "date": {
+                "verbatim": "Den 5 Aug.",
+                "normalised": "5 August"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Betterl",
+                "occupation_verbatim": "Bildershändler",
+                "occupation_normalised": "Picture Seller"
+            },
+            "time": "Vormittags",
+            "transport": "zu Fuß",
+            "origin": "Böhmen",
+            "lodging": "gold. Engel"
+        },
+        {
+            "date": {
+                "verbatim": "Den 5 Aug.",
+                "normalised": "5 August"
+            },
+            "gate": "Per Calesch",
+            "direction": "in",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Schmidmeyer",
+                "occupation_verbatim": "Kaufmann von Eger",
+                "occupation_normalised": "Merchant from Eger"
+            },
+            "time": "nicht angegeben",
+            "transport": "Calesch",
+            "origin": "Eger",
+            "lodging": "gold. Engel"
+        },
+        {
+            "date": {
+                "verbatim": "Den 6 Aug.",
+                "normalised": "6 August"
+            },
+            "gate": "Per Posta",
+            "direction": "in",
+            "person": {
+                "given_name": "Mfr.",
+                "family_name": "Gerrain",
+                "occupation_verbatim": "Kaufmann von Straßburg",
+                "occupation_normalised": "Merchant from Strasbourg"
+            },
+            "time": "nicht angegeben",
+            "transport": "Postal Coach",
+            "origin": "Straßburg",
+            "lodging": "grünen Eranz"
+        },
+        {
+            "date": {
+                "verbatim": "Den 6 Aug.",
+                "normalised": "6 August"
+            },
+            "gate": "Zu Pferde",
+            "direction": "in",
+            "person": {
+                "given_name": "He.",
+                "family_name": "Popp",
+                "occupation_verbatim": "Oberpfälzischer Gränzmauthner von Tresselfstein",
+                "occupation_normalised": "Upper Palatine Frontier Guard from Tresselfstein"
+            },
+            "time": "nicht angegeben",
+            "transport": "Pferd",
+            "origin": "Tresselfstein",
+            "lodging": "weissen Hahn"
+        },
+        {
+            "date": {
+                "verbatim": "Den 6 Aug.",
+                "normalised": "6 August"
+            },
+            "gate": "Per Posta",
+            "direction": "in",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Frankenstein",
+                "occupation_verbatim": "ein Cavalier aus Holland",
+                "occupation_normalised": "a Cavalier from Holland"
+            },
+            "time": "nicht angegeben",
+            "transport": "Postal Coach",
+            "origin": "Holland",
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "Den 7 Aug.",
+                "normalised": "7 August"
+            },
+            "gate": "Per Nürnberger ord. Landkutsche",
+            "direction": "in",
+            "person": {
+                "given_name": "Joh. Georg",
+                "family_name": "Lindner",
+                "occupation_verbatim": "Bürger von Neumark",
+                "occupation_normalised": "Merchant from Neumark"
+            },
+            "time": "nicht angegeben",
+            "transport": "Nürnberger Landkutsche",
+            "origin": "Neumark",
+            "lodging": "Löwen in Gitter"
+        },
+        {
+            "date": {
+                "verbatim": "Den 8 Aug.",
+                "normalised": "8 August"
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schmidmeyer",
+                "occupation_verbatim": "Kaufmann von Eger",
+                "occupation_normalised": "Merchant from Eger"
+            },
+            "time": "nicht angegeben",
+            "transport": "Calesch",
+            "origin": "Eger",
+            "lodging": "nicht angegeben"
+        },
+        {
+            "date": {
+                "verbatim": "Den 9 Aug.",
+                "normalised": "9 August"
+            },
+            "gate": "Zu Pferde",
+            "direction": "in",
+            "person": {
+                "given_name": "Mfr.",
+                "family_name": "Dremer",
+                "occupation_verbatim": "ein Musicus von Dresden",
+                "occupation_normalised": "a Musician from Dresden"
+            },
+            "time": "nicht angegeben",
+            "transport": "Pferd",
+            "origin": "Dresden",
+            "lodging": "schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "Den 10 Aug.",
+                "normalised": "10 August"
+            },
+            "gate": "Per Posta",
+            "direction": "in",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Frankenstein",
+                "occupation_verbatim": "ein Cavalier aus Holland",
+                "occupation_normalised": "a Cavalier from Holland"
+            },
+            "time": "nicht angegeben",
+            "transport": "Postal Coach",
+            "origin": "Holland",
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "Den 11 Aug.",
+                "normalised": "11 August"
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Sommer",
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": "a Merchant from Nuremberg"
+            },
+            "time": "nicht angegeben",
+            "transport": "Calesch",
+            "origin": "Nuremberg",
+            "lodging": "nicht angegeben"
+        },
+        {
+            "date": {
+                "verbatim": "Den 12 Aug.",
+                "normalised": "12 August"
+            },
+            "gate": "Zu Pferde",
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bischoff",
+                "occupation_verbatim": "ein Handelsmann von Sonnenberg",
+                "occupation_normalised": "a Merchant from Sonnenberg"
+            },
+            "time": "nicht angegeben",
+            "transport": "Pferd",
+            "origin": "Sonnenberg",
+            "lodging": "nicht angegeben"
+        },
+        {
+            "date": {
+                "verbatim": "Den 5 Aug.",
+                "normalised": "5 August"
+            },
+            "gate": "Zur feinernen Drucke hinaus",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Neumann",
+                "occupation_verbatim": "Kayserrl. Cabinetsbourier",
+                "occupation_normalised": "Imperial Cabinet Secretary"
+            },
+            "time": "Abends",
+            "transport": "Postal Coach",
+            "origin": "nicht angegeben",
+            "lodging": "nicht angegeben"
+        },
+        {
+            "date": {
+                "verbatim": "Den 6 Aug.",
+                "normalised": "6 August"
+            },
+            "gate": "Per ord: Postwagen nach Amberg",
+            "direction": "to",
+            "person": {
+                "given_name": "Tir.",
+                "family_name": "Herr D. Meyer",
+                "occupation_verbatim": "von Erlangen",
+                "occupation_normalised": "from Erlangen"
+            },
+            "time": "nicht angegeben",
+            "transport": "Postal Coach",
+            "origin": "Erlangen",
+            "lodging": "nicht angegeben"
+        },
+        {
+            "date": {
+                "verbatim": "Den 6 Aug.",
+                "normalised": "6 August"
+            },
+            "gate": "Per Posta",
+            "direction": "to",
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Herr Graf von Durtheim",
+                "occupation_verbatim": "Herzoglich=Würtembergischer Comitialgesandter",
+                "occupation_normalised": "Ducal Württemberg Delegate"
+            },
+            "time": "nicht angegeben",
+            "transport": "Postal Coach",
+            "origin": "nicht angegeben",
+            "lodging": "nicht angegeben"
+        }
+    ],
+    "id": "1770-08-14_Num_33",
+    "source": {
+        "issue_date": "1770-08-14",
+        "issue_number": "Num. 33",
+        "canvases": [
+            259,
+            260,
+            261,
+            262
+        ]
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gertrauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "10 Sept.",
+                            "normalised": "10 September"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Caspar",
+                                "family_name": "Herzog",
+                                "occupation_verbatim": "Bürger und Brantkeweinbremer",
+                                "occupation_normalised": "Bürger and Brantkeweinbremer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Caspar",
+                                "occupation_verbatim": "Bürger und Brantkeweinbremer",
+                                "occupation_normalised": "Bürger and Brantkeweinbremer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "11 Herr",
+                            "normalised": "11 Herr"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann",
+                                "family_name": "Frey",
+                                "occupation_verbatim": "Bürger, Kaufz. und Handelsmann",
+                                "occupation_normalised": "Bürger, Kaufz. and Handelsmann"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Frey",
+                                "occupation_verbatim": "Bürger, Kaufz. und Handelsmann",
+                                "occupation_normalised": "Bürger, Kaufz. and Handelsmann"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "9. Barbara",
+                            "normalised": "9. Barbara"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Barbara",
+                                "family_name": "Kolltein",
+                                "occupation_verbatim": "Beyssher Wittib, der Zeit Pfundnerin in Köbl",
+                                "occupation_normalised": "Beyssher Wittib, the time Pfundner in Köbl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jo",
+                                "family_name": "Hann Gottlob Ludwig",
+                                "occupation_verbatim": "Beyssher und Zimmermann",
+                                "occupation_normalised": "Beyssher and Zimmermann"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "81 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Maria Gertraud",
+                            "normalised": "10. Maria Gertraud"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Gertraud",
+                                "family_name": "Ulm",
+                                "occupation_verbatim": "Beyssher althier",
+                                "occupation_normalised": "Beyssher althier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh",
+                                "family_name": "Heinrich Lorenz",
+                                "occupation_verbatim": "Beyssher althier",
+                                "occupation_normalised": "Beyssher althier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahre weniger 7 Wochen und 4 Täge alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Susanna Margaretha",
+                            "normalised": "12. Susanna Margaretha"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna Margaretha",
+                                "family_name": "Eppelein",
+                                "occupation_verbatim": "Burger und Becke",
+                                "occupation_normalised": "Burger and Becke"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Johann",
+                                "family_name": "Michael Eppelein",
+                                "occupation_verbatim": "Burger und Becke",
+                                "occupation_normalised": "Burger and Becke"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "14 Wochen weniger 1 Tag alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "9. Johann Wendelin",
+                            "normalised": "9. Johann Wendelin"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wendelin",
+                                "family_name": "Meißner",
+                                "occupation_verbatim": "Bürger und Pernquenmacher",
+                                "occupation_normalised": "Bürger and Pernquenmacher"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Wendelin",
+                                "occupation_verbatim": "Bürger und Pernquenmacher",
+                                "occupation_normalised": "Bürger and Pernquenmacher"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "10 Sept.",
+                            "normalised": "10 September"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Bleyer",
+                                "occupation_verbatim": "Wittiber und Beysiker allhier",
+                                "occupation_normalised": "Wittiber and Beysiker allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Bleyer",
+                                "occupation_verbatim": "Wittiber und Beysiker allhier",
+                                "occupation_normalised": "Wittiber and Beysiker allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Anna Maria",
+                            "normalised": "13. Anna Maria"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Schmidbauer",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Beysiker allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Daniel",
+                                "family_name": "Schmidbauer",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Beysiker allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Barbara",
+                            "normalised": "13. Barbara"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Barbara",
+                                "family_name": "Giester",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Beysiker allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Giester",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Beysiker allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. Anna Walburga",
+                            "normalised": "15. Anna Walburga"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Walburga",
+                                "family_name": "Engelmann",
+                                "occupation_verbatim": "Tagelöhner im Hochfürstl. Tarischen Stall",
+                                "occupation_normalised": "Tagelöhner im Hochfürstl. Tarischen Stall"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Engelmann",
+                                "occupation_verbatim": "Tagelöhner im Hochfürstl. Tarischen Stall",
+                                "occupation_normalised": "Tagelöhner im Hochfürstl. Tarischen Stall"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "11. Maria Theresia",
+                            "normalised": "11. Maria Theresia"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresia",
+                                "family_name": "Hitzinger",
+                                "occupation_verbatim": "Beyfsher allhier",
+                                "occupation_normalised": "Beyfsher allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Hitzinger",
+                                "occupation_verbatim": "Beyfsher allhier",
+                                "occupation_normalised": "Beyfsher allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "10 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Ursula",
+                            "normalised": "13. Ursula"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ursula",
+                                "family_name": "Tauch",
+                                "occupation_verbatim": "Beyfsher allhier",
+                                "occupation_normalised": "Beyfsher allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Balthasar",
+                                "family_name": "Tauch",
+                                "occupation_verbatim": "Beyfsher allhier",
+                                "occupation_normalised": "Beyfsher allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre und 10 Monathe alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Anna Maria",
+                            "normalised": "14. Anna Maria"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Grenelbeck",
+                                "occupation_verbatim": "Beyfsher allhier",
+                                "occupation_normalised": "Beyfsher allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Grenelbeck",
+                                "occupation_verbatim": "Beyfsher allhier",
+                                "occupation_normalised": "Beyfsher allhier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Tit.Herr",
+                "family_name": "Grosshauser",
+                "occupation_verbatim": "Pfleger von Breitenbrunn",
+                "occupation_normalised": "Pfleger von Breitenbrunn"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "s.4.",
+            "s_value": {
+                "verbatim": "paßiren",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Barbara",
+                "family_name": "Untmannin",
+                "occupation_verbatim": "von Wien",
+                "occupation_normalised": "von Wien"
+            },
+            "time": null,
+            "transport": "ord. Postwagen",
+            "origin": "Amberg",
+            "lodging": "mit 2 Kneipferden",
+            "s_value": {
+                "verbatim": "paßiren",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Johann",
+                "family_name": "Gaff",
+                "occupation_verbatim": "von Erfurt",
+                "occupation_normalised": "von Erfurt"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "mit 2 Kneipferden",
+            "s_value": {
+                "verbatim": "pasiren",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer Courier",
+                "occupation_normalised": "Hochgräflich-Fuggerischer Courier"
+            },
+            "time": "43 Uhr Nachmittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 43 Uhr Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer Courier",
+                "occupation_normalised": "Hochgräflich-Fuggerischer Courier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 43 Uhr Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer Courier",
+                "occupation_normalised": "Hochgräflich-Fuggerischer Courier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 43 Uhr Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer Courier",
+                "occupation_normalised": "Hochgräflich-Fuggerischer Courier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 43 Uhr Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer Courier",
+                "occupation_normalised": "Hochgräflich-Fuggerischer Courier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 43 Uhr Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer Courier",
+                "occupation_normalised": "Hochgräflich-Fuggerischer Courier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 43 Uhr Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Sept.",
+                "normalised": "10 September"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Benecker",
+                "occupation_verbatim": "Hochgräflich-Fuggerischer"
+            }
+        }
+    ],
+    "id": "1770-09-18_Num_38",
+    "source": {
+        "issue_date": "1770-09-18",
+        "issue_number": "Num. 38",
+        "canvases": [
+            299,
+            300,
+            301,
+            302
+        ]
+    }
+}

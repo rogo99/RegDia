@@ -1,0 +1,306 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "14 April",
+                            "normalised": "14 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": "Wacker",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg Adam",
+                                "family_name": "Wacker",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15 April",
+                            "normalised": "15 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Pikel",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Johann Michael",
+                                "family_name": "Pikel",
+                                "occupation_verbatim": "Bürger und Becke",
+                                "occupation_normalised": "Bürger and Butcher"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "16 April",
+                            "normalised": "16 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Michael",
+                                "family_name": "Kaufler",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Kaufler",
+                                "occupation_verbatim": "Beyssizer und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beyssizer and Bricklayer here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 April",
+                            "normalised": "18 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": "Schübel",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Schübel",
+                                "occupation_verbatim": "Bürger und Melbser",
+                                "occupation_normalised": "Bürger and Melbser"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 April",
+                            "normalised": "20 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gerhard Friedrich",
+                                "family_name": "Dürsch",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Dürsch",
+                                "occupation_verbatim": "Bürger und Löbl",
+                                "occupation_normalised": "Bürger and Loebel"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadtpfar zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "13 April",
+                            "normalised": "13 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Thomas",
+                                "family_name": "Grad",
+                                "occupation_verbatim": "Beysitzer und Zimmergeselle allhier",
+                                "occupation_normalised": "Beysitzer and Woodworker here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joseph",
+                                "family_name": "Grad",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15 April",
+                            "normalised": "15 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christina Theresia",
+                                "family_name": "Ertl",
+                                "occupation_verbatim": "Bräutnacht allhier",
+                                "occupation_normalised": "Bridegroom here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Stephanns",
+                                "family_name": "Ertl",
+                                "occupation_verbatim": "Bräutnacht allhier",
+                                "occupation_normalised": "Bridegroom here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "16 April",
+                            "normalised": "16 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Ignatius",
+                                "family_name": "Pfaag",
+                                "occupation_verbatim": "Bürger und Schneidermeister zu Stadt am Hof",
+                                "occupation_normalised": "Bürger and Tailor Master at the City at the Hof"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Petrus",
+                                "family_name": "Pfaag",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahre alt",
+                            "age_days": 1460
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "16 April",
+                            "normalised": "16 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Lohmayein",
+                                "occupation_verbatim": "Beysizerin allhier",
+                                "occupation_normalised": "Beysizer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "43 Jahr alt",
+                            "age_days": 15540
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17 April",
+                            "normalised": "17 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Theresia Cordula",
+                                "family_name": "Hügler",
+                                "occupation_verbatim": "Mahler und Beysizer allhier",
+                                "occupation_normalised": "Painter and Beysizer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Nikolaus",
+                                "family_name": "Hügler",
+                                "occupation_verbatim": "Mahler und Beysizer allhier",
+                                "occupation_normalised": "Painter and Beysizer here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr und 3 Monathalt",
+                            "age_days": 73
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "15 April",
+                            "normalised": "15 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Ludovica",
+                                "family_name": "Kofbock",
+                                "occupation_verbatim": "Hochfürstlich - Zarischer Bedienter",
+                                "occupation_normalised": "High-Francian - Zare's Servant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Xaverins",
+                                "family_name": "Kofbock",
+                                "occupation_verbatim": "Hochfürstlich - Zarischer Bedienter",
+                                "occupation_normalised": "High-Francian - Zare's Servant"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [],
+    "id": "1770-04-24_Num_17",
+    "source": {
+        "issue_date": "1770-04-24",
+        "issue_number": "Num. 17",
+        "canvases": [
+            135,
+            136,
+            137,
+            138
+        ]
+    }
+}

@@ -1,0 +1,635 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "28 Aug.",
+                            "normalised": "2023-08-28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Braun",
+                                "occupation_verbatim": "Beysitzer",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Heinrich",
+                                "family_name": "Gerber",
+                                "occupation_verbatim": "Bürger und Goldarbeiter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25. 26.",
+                            "normalised": "2023-08-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christoph Heinrich Ludwig",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Heinrich",
+                                "family_name": "Gerber",
+                                "occupation_verbatim": "Bürger und Goldarbeiter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26.",
+                            "normalised": "2023-08-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christian",
+                                "family_name": "Plettner",
+                                "occupation_verbatim": "Bürger und Schneider",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts: Pfarr, Obermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann",
+                "family_name": "Ruef",
+                "occupation_verbatim": "Bürger und Schreiner",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28 Aug.",
+                "normalised": "2023-08-28"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann",
+                "family_name": "Heinrich",
+                "occupation_verbatim": "Bürger und Schreiner",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser",
+                "occupation_verbatim": "Beysifer und Mauerer-Geselle",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Aug.",
+                "normalised": "2023-08-27"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johannes",
+                "family_name": "Wiser"
+            }
+        }
+    ],
+    "id": "1770-09-04_Num_36",
+    "source": {
+        "issue_date": "1770-09-04",
+        "issue_number": "Num. 36",
+        "canvases": [
+            283,
+            284,
+            285,
+            286
+        ]
+    }
+}

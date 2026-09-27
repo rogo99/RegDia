@@ -1,0 +1,596 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerufse",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "4 Junii",
+                            "normalised": "4 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Charlotta Christina",
+                                "family_name": "Brühl",
+                                "occupation_verbatim": "Bedienter bey des Herzogl. Braunschweig-Wolfenbüttelischen Herrn Comitialgesandten Freysherrn von Bassewitz Ercell.",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christian",
+                                "family_name": "Brühl",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6 Junii",
+                            "normalised": "6 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Margaretha Christina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Christoph",
+                                "family_name": "Zitzmann",
+                                "occupation_verbatim": "Bürger und Kupferschmidt",
+                                "occupation_normalised": "Bürger and Copper Smith"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6 Junii",
+                            "normalised": "6 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Barbara",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Christoph Gottlob",
+                                "family_name": "Blezing",
+                                "occupation_verbatim": "Handlungsverwandter",
+                                "occupation_normalised": "Trading Partner"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6 Junii",
+                            "normalised": "6 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Margaretha Susanna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Eppelein",
+                                "occupation_verbatim": "Bürger und Decker",
+                                "occupation_normalised": "Bürger and Carpenter"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "4 Junii",
+                            "normalised": "4 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Adam",
+                                "family_name": "Wacker",
+                                "occupation_verbatim": "Beyfischer",
+                                "occupation_normalised": "Fisherman"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "7 Wochen alt",
+                            "age_days": 49
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5 Junii",
+                            "normalised": "5 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Matthias",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Adann",
+                                "family_name": "Reisiegel",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": "Bürger"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Jahre, 22 Wochen und 5 Tage alt",
+                            "age_days": 385
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "2 Junii",
+                            "normalised": "2 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Ottilia",
+                                "family_name": null,
+                                "occupation_verbatim": "Bader zu Deying",
+                                "occupation_normalised": "Bather at Deying"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Aigeshon",
+                                "occupation_verbatim": "Bader zu Deying",
+                                "occupation_normalised": "Bather at Deying"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 Junii",
+                            "normalised": "3 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": "Sebastian Diller, Beysiker althier",
+                                "occupation_normalised": "Beysiker at Alt-Here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastian",
+                                "family_name": "Diller",
+                                "occupation_verbatim": "Beysiker althier",
+                                "occupation_normalised": "Beysiker at Alt-Here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 Junii",
+                            "normalised": "8 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": null,
+                                "occupation_verbatim": "Simon Schwertl, Beysiker und Maurer zu Stadt am Hof",
+                                "occupation_normalised": "Beysiker and Mason at Stadt am Hof"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Schwertl",
+                                "occupation_verbatim": "Beysiker und Maurer zu Stadt am Hof",
+                                "occupation_normalised": "Beysiker and Mason at Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "1 Junii",
+                            "normalised": "1 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": "des Joh. Georg Dettingers, Bedientens allhier, Echewirthin",
+                                "occupation_normalised": "of John George Dettinger, Servant here, Housewife"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Dettinger",
+                                "occupation_verbatim": "Bedientens allhier",
+                                "occupation_normalised": "Servant here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "50 Jahr alt",
+                            "age_days": 1825
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5 Junii",
+                            "normalised": "5 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius Maximilianus",
+                                "family_name": null,
+                                "occupation_verbatim": "Josephus Huefnagel, Be- dienter allhier",
+                                "occupation_normalised": "Josephus Huefnagel, Servant here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Huefnagel",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Servant here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6½ Jahre alt",
+                            "age_days": 214
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5 Junii",
+                            "normalised": "5 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Margaretha",
+                                "family_name": null,
+                                "occupation_verbatim": "Paulus Krauß, Beyssiger allhier",
+                                "occupation_normalised": "Paulus Krauß, Workman here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Paulus",
+                                "family_name": "Krauß",
+                                "occupation_verbatim": "Beyssiger allhier",
+                                "occupation_normalised": "Workman here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Tage alt",
+                            "age_days": 7
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5 Junii",
+                            "normalised": "5 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Erhard Klein",
+                                "family_name": null,
+                                "occupation_verbatim": "Beyssiger allhier",
+                                "occupation_normalised": "Workman here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Erhard",
+                                "family_name": "Klein",
+                                "occupation_verbatim": "Beyssiger allhier",
+                                "occupation_normalised": "Workman here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "36 Jahr alt",
+                            "age_days": 1314
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5 Junii",
+                            "normalised": "5 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Martinus Carl",
+                                "family_name": null,
+                                "occupation_verbatim": "Tagewerker und Beyssiger allhier",
+                                "occupation_normalised": "Day Laborer and Workman here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martinus",
+                                "family_name": "Carl",
+                                "occupation_verbatim": "Tagewerker und Beyssiger allhier",
+                                "occupation_normalised": "Day Laborer and Workman here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "74 Jahr alt",
+                            "age_days": 2660
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichstifts-Pfarr Niedermünster",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "2 Junii",
+                            "normalised": "2 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Josephus",
+                                "family_name": null,
+                                "occupation_verbatim": "Sebastian Gleizner, Innwohner alda",
+                                "occupation_normalised": "Sebastian Gleizner, Resident here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastian",
+                                "family_name": "Gleizner",
+                                "occupation_verbatim": "Innwohner alda",
+                                "occupation_normalised": "Resident here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4 Junii",
+                            "normalised": "4 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia",
+                                "family_name": null,
+                                "occupation_verbatim": "Johann Holzer, Dreischer alda",
+                                "occupation_normalised": "Johann Holzer, Woodcutter here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": "Dreischer alda",
+                                "occupation_normalised": "Woodcutter here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "7 Junii",
+                            "normalised": "7 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Josephus",
+                                "family_name": null,
+                                "occupation_verbatim": "Sebastian Gleizner, Innwohner alda",
+                                "occupation_normalised": "Sebastian Gleizner, Resident here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastian",
+                                "family_name": "Gleizner",
+                                "occupation_verbatim": "Innwohner alda",
+                                "occupation_normalised": "Resident here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "s Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 Junii",
+                            "normalised": "8 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius Josephus Augustinus",
+                                "family_name": null,
+                                "occupation_verbatim": "Peter Georg Pessendorfer, Hochfürstl. Reichsftts-Gärtner alda",
+                                "occupation_normalised": "Peter Georg Pessendorfer, High-Fiscal Gardener here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Peter Georg",
+                                "family_name": "Pessendorfer",
+                                "occupation_verbatim": "Hochfürstl. Reichsftts-Gärtner alda",
+                                "occupation_normalised": "High-Fiscal Gardener here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "r Jahr und 3 Monathe ale",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "2 Junii",
+                "normalised": "2 June"
+            },
+            "gate": "Türken",
+            "direction": "in",
+            "person": {
+                "given_name": "Johannes Dunsky",
+                "family_name": "Kellermiester",
+                "occupation_verbatim": "Kellermiester aus Ungarn",
+                "occupation_normalised": "Cellar Master from Hungary"
+            },
+            "time": "s. 2.",
+            "transport": "Posta",
+            "origin": "Ungarn",
+            "lodging": "in der blauen Lilie"
+        },
+        {
+            "date": {
+                "verbatim": "4 Junii",
+                "normalised": "4 June"
+            },
+            "gate": "Türken",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr Baron von Pleitenberg",
+                "family_name": null,
+                "occupation_verbatim": "Rauyserl. Cammerherr und Teutschen Ordens.Commandeurer",
+                "occupation_normalised": "Rauyserl. Chamberlain and Teutonic Order Commander"
+            },
+            "time": "s. 3.",
+            "transport": "Posta",
+            "origin": "unknown",
+            "lodging": "beym S. T. Herrn Grafen von Palm"
+        },
+        {
+            "date": {
+                "verbatim": "4 Junii",
+                "normalised": "4 June"
+            },
+            "gate": "Türken",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr Baron von Wildenau",
+                "family_name": null,
+                "occupation_verbatim": "Landrichter von Burglengenfeld",
+                "occupation_normalised": "Land Judge of Burglengenfeld"
+            },
+            "time": "s. 2.",
+            "transport": "Posta",
+            "origin": "unknown",
+            "lodging": "in 3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "4 Junii",
+                "normalised": "4 June"
+            },
+            "gate": "Türken",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr Bannler",
+                "family_name": "Vothe",
+                "occupation_verbatim": "Pflegöverweiser von Pruck",
+                "occupation_normalised": "Pflegöverweiser of Pruck"
+            },
+            "time": "f. z.",
+            "transport": "Calesch",
+            "origin": "unknown",
+            "lodging": "in weissen Hahn"
+        },
+        {
+            "date": {
+                "verbatim": "4 Junii",
+                "normalised": "4 June"
+            },
+            "gate": "Türken",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr Oestern",
+                "family_name": "Vothe",
+                "occupation_verbatim": "Herr Oestern",
+                "occupation_normalised": "Herr Oestern"
+            },
+            "time": "f. z.",
+            "transport": "Posta",
+            "origin": "Amberg",
+            "lodging": "unknown"
+        },
+        {
+            "date": {
+                "verbatim": "4 Junii",
+                "normalised": "4 June"
+            },
+            "gate": "Türken",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr Oestern",
+                "family_name": "Vothe"
+            }
+        }
+    ],
+    "id": "1770-06-12_Num_24",
+    "source": {
+        "issue_date": "1770-06-12",
+        "issue_number": "Num. 24",
+        "canvases": [
+            187,
+            188,
+            189,
+            190
+        ]
+    }
+}

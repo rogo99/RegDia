@@ -1,0 +1,599 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 17 Sept.",
+                            "normalised": "17 September"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "M. Paul Emannel",
+                                "family_name": "Grebmer",
+                                "occupation_verbatim": "Burger und Kappelbeck",
+                                "occupation_normalised": "Bürger und Kappelbeck"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Igrfr.",
+                                "family_name": "Eva Maria Schleisingerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 19. Magdalena Margaretha",
+                            "normalised": "19. Magdalena Margaretha"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Magdalena Margaretha",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Leonhard",
+                                "family_name": "Oberdorffer",
+                                "occupation_verbatim": "Holzaußwerfer",
+                                "occupation_normalised": "Holzaußwerfer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Catharina Ursula",
+                            "normalised": "20. Catharina Ursula"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jakob Hubmann",
+                                "family_name": "Burger und Braunteinebrenner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Catharina Ursula",
+                            "normalised": "20. Catharina Ursula"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jakob Hubmann",
+                                "family_name": "Burger und Braunteinebrenner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Catharina Ursula",
+                            "normalised": "20. Catharina Ursula"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jakob Hubmann",
+                                "family_name": "Burger und Braunteinebrenner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Catharina Ursula",
+                            "normalised": "20. Catharina Ursula"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jakob Hubmann",
+                                "family_name": "Burger und Braunteinebrenner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In den Catholischen Pfarren",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 17 Sept.",
+                            "normalised": "17 September"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Falzboden",
+                                "family_name": "Beysitzer allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Anna Maria Sigmundin",
+                                "family_name": "von Salern",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 21. Christianus Crescentius Alonsius",
+                            "normalised": "21. Christianus Crescentius Alonsius"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christianus Crescentius Alonsius",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Tit. Herr Josephus Zollner",
+                                "occupation_normalised": "Tit. Herr Josephus Zollner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Tit. Herr Josephus Zollner",
+                                "family_name": "Med. Doct. Hochfürstl. Bischoff. Hof- und Hochstifts-Physicus",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Leonard Kamerl",
+                                "occupation_normalised": "Leonard Kamerl"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard Kamerl",
+                                "family_name": "Beysiger allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Jeremias",
+                            "normalised": "22. Johann Jeremias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jeremias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-09-25_Num_39",
+    "source": {
+        "issue_date": "1770-09-25",
+        "issue_number": "Num. 39",
+        "canvases": [
+            307,
+            308,
+            309,
+            310
+        ]
+    }
+}

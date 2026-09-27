@@ -1,0 +1,509 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "25. In Zuß.",
+                "normalised": "25. September"
+            },
+            "gate": "Zuß.",
+            "direction": "in",
+            "person": {
+                "given_name": "Behr",
+                "family_name": "Moyses",
+                "occupation_verbatim": "Jude von Zirndorf"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "S. T. Frau Gräfin von Pettshart, ic. von Sulzbach, f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26. Die Nürnberger ord. Landkutsche",
+                "normalised": "26. September"
+            },
+            "gate": null,
+            "direction": "out",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null
+            },
+            "time": "6 Uhr",
+            "transport": "Landkutsche",
+            "origin": "Nürnberger",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Posta, Hr. Schultz, ein Kaufmann von Nurnberg, f. 2.",
+                "normalised": "28. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Schultz",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Kaufmann von Nurnberg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nurnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Sept: Joseph Bierbauer, von Hassnerszell, mit Schmelztiegeln.",
+                "normalised": "25. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Bierbauer",
+                "occupation_verbatim": "von Hassnerszell"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hassnerszell",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27. Georg Stingel, von Hassnerszell, mit Schmelztiegeln u. schwarz Küchengeschirr, Johann Georg Meringer, Deggendorfer Bothe.",
+                "normalised": "27. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Stingel",
+                "occupation_verbatim": "von Hassnerszell"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hassnerszell",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29. Franz Stahlmeyer, von Hassnerszell, mit Schmelztiegeln und schwarzen Küchengeschirre.",
+                "normalised": "29. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Franz",
+                "family_name": "Stahlmeyer",
+                "occupation_verbatim": "von Hassnerszell"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hassnerszell",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25. Heinrich Sörndl führet in einem Gemsel die Bagage des S.T. Herrn Baron von Virell, Königl. Französischen Gesandten am Kaysertl. Hof, nach Wien.",
+                "normalised": "25. September"
+            },
+            "gate": null,
+            "direction": "out",
+            "person": {
+                "given_name": "Heinrich",
+                "family_name": "Sörndl",
+                "occupation_verbatim": "Führet in einem Gemsel die Bagage des S.T. Herrn Baron von Virell, Königl. Französischen Gesandten am Kaysertl. Hof"
+            },
+            "time": null,
+            "transport": "Gemsel",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Gottlieb Bisshum, Jun. führet in einem Plättel nach Wien, Hrn. du Bernoy, Kaufmann von Lüttich, f. 4. und 10 gemeine Personen.",
+                "normalised": "28. September"
+            },
+            "gate": null,
+            "direction": "out",
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Bisshum",
+                "occupation_verbatim": "Jun."
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": "Lüttich",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4. und 10 gemeine Personen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30. Georg Gruber führet das ord. Schiff nach Wien, mit ihm, Hr. Oworzack, von Driebselsfeld, der Kaysertlich- auch Kaysertl. Königl. Hofammer-Buchhalterey-Officiante in Wien, und Hr. Theodor Constantin, re. aus Macedonien, uebst 58 gemeine Personen.",
+                "normalised": "30. September"
+            },
+            "gate": null,
+            "direction": "out",
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Gruber",
+                "occupation_verbatim": "führet das ord. Schiff nach Wien"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "mit ihm, Hr. Oworzack, von Driebselsfeld, der Kaysertlich- auch Kaysertl. Königl. Hofammer-Buchhalterey-Officiante in Wien, und Hr. Theodor Constantin, re. aus Macedonien, uebst 58 gemeine Personen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22. Per Calesch, Tit. Fran von Rüchel, Regierungsrathin von Straubing, f. 3.",
+                "normalised": "22. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Tit. Fran",
+                "family_name": "von Rüchel",
+                "occupation_verbatim": "Regierungsrathin von Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Posta, Sr. Excell. Herr Graf von Türcheim, Herzogl. Würtembergischer Gesandter, f. 4.",
+                "normalised": "25. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Graf von Türcheim",
+                "occupation_verbatim": "Herzogl. Würtembergischer Gesandter"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "26. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "der Straubinger ord. Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Posta, S.T. Herr Graf von Glosen, von Armstorf, f. 4.",
+                "normalised": "27. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Graf von Glosen",
+                "occupation_verbatim": "von Armstorf"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Armstorf",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Posta, S.T.Herr Graf von Panngarten, Churbayerischer Camierherr, f. 2.",
+                "normalised": "28. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "S.T.Herr",
+                "family_name": "Graf von Panngarten",
+                "occupation_verbatim": "Churbayerischer Camierherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22. Per Wagen, der Landshuter ord. Bothe, log. in Pfauen.",
+                "normalised": "22. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "der Landshuter ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshut",
+            "lodging": "Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23. Per Posta, S. T. Herr Baron de Plettenberg, re. f.4.",
+                "normalised": "23. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron de Plettenberg",
+                "occupation_verbatim": "re."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24. Per Wagen, der Landshuter ord. Bothe, log. in Türkien.",
+                "normalised": "24. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "der Landshuter ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Türkien",
+            "lodging": "Türkien",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25. Zu Fuss, Theresa Leitlin, eine Cramer'sfran, log. in Mohren.",
+                "normalised": "25. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Theresa",
+                "family_name": "Leitlin",
+                "occupation_verbatim": "eine Cramer'sfran"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "Mohren",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26. Zu Fuss, Johann Peter Blechschmidt, ein Handelsmann von Hildburghausen, log. in gold. Bären.",
+                "normalised": "26. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Johann Peter",
+                "family_name": "Blechschmidt",
+                "occupation_verbatim": "ein Handelsmann von Hildburghausen"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hildburghausen",
+            "lodging": "gold. Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Wiener Postwagen, um 3 Uhr, Nachmittags, däbey Jacob Kopf, und Mfr. Barvie, ein Stud. von Wien, log. in schwarzen Bären.",
+                "normalised": "27. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Jacob",
+                "family_name": "Kopf",
+                "occupation_verbatim": "ein Stud. von Wien"
+            },
+            "time": "3 Uhr",
+            "transport": "Wiener Postwagen",
+            "origin": "Wien",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Posta, S.T.Herr Baron von Dänzel, f. 5. paziren durch.",
+                "normalised": "28. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "S.T.Herr",
+                "family_name": "Baron von Dänzel",
+                "occupation_verbatim": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22. Per Posta, Tit. Herr von Rieder, Kayserl. Hofseoncepist, f. 2.",
+                "normalised": "22. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rieder",
+                "occupation_verbatim": "Kayserl. Hofseoncepist"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24. Per Wagen, der Landshuter ord. Bothe, log. in Türkien.",
+                "normalised": "24. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "der Landshuter ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Türkien",
+            "lodging": "Türkien",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25. Zu Fuss, Theresa Leitlin, eine Cramer'sfran, log. in Mohren.",
+                "normalised": "25. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Theresa",
+                "family_name": "Leitlin",
+                "occupation_verbatim": "eine Cramer'sfran"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "Mohren",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26. Zu Fuss, Johann Peter Blechschmidt, ein Handelsmann von Hildburghausen, log. in gold. Bären.",
+                "normalised": "26. September"
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Johann Peter",
+                "family_name": "Blechschmidt",
+                "occupation_verbatim": "ein Handelsmann von Hildburghausen"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hildburghausen",
+            "lodging": "gold. Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27"
+            }
+        }
+    ],
+    "id": "1770-10-02_Num_40",
+    "source": {
+        "issue_date": "1770-10-02",
+        "issue_number": "Num. 40",
+        "canvases": [
+            319,
+            320,
+            321,
+            322
+        ]
+    }
+}

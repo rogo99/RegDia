@@ -1,0 +1,574 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Geraufse",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "1 Julii",
+                            "normalised": "1 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christian Martin",
+                                "family_name": "Berner",
+                                "occupation_verbatim": "Burger u. Schuhmacher",
+                                "occupation_normalised": "Burger and Shoemaker"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M.",
+                                "family_name": "Thomas",
+                                "occupation_verbatim": "Burger u. Schuhmacher",
+                                "occupation_normalised": "Burger and Shoemaker"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4. Julii",
+                            "normalised": "4 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Catharina",
+                                "family_name": "Bischer",
+                                "occupation_verbatim": "Burger und Handelsmann",
+                                "occupation_normalised": "Burger and Merchant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr.",
+                                "family_name": "Johann Christoph",
+                                "occupation_verbatim": "Burger und Handelsmann",
+                                "occupation_normalised": "Burger and Merchant"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "30 Junii",
+                            "normalised": "30 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Regina",
+                                "family_name": "Fischerin",
+                                "occupation_verbatim": "hiesige Bürgerl. Inventeur-Dieners Wittib",
+                                "occupation_normalised": "Local Citizen, Inventory Servant, Widow"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "72 Jahre und 12 Wochen alt",
+                            "age_days": 260
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 Julii",
+                            "normalised": "1 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christina Sibylla",
+                                "family_name": "Mühlberger",
+                                "occupation_verbatim": "Burger, Wolftreicher und Salztrager",
+                                "occupation_normalised": "Burger, Wolf Herder and Salt Trader"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Andreas",
+                                "family_name": "Mühlberger",
+                                "occupation_verbatim": "Burger, Wolftreicher und Salztrager",
+                                "occupation_normalised": "Burger, Wolf Herder and Salt Trader"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2. Julii",
+                            "normalised": "2 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Sibylla",
+                                "family_name": "Hanck",
+                                "occupation_verbatim": "Burger, und Löbl. Omr. Stadt Kaisner alhier",
+                                "occupation_normalised": "Burger, and Local Mayor of the City of Kaisner here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr.",
+                                "family_name": "Johann Heinrich",
+                                "occupation_verbatim": "Burger, und Löbl. Omr. Stadt Kaisner alhier",
+                                "occupation_normalised": "Burger, and Local Mayor of the City of Kaisner here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Ce Den",
+                            "normalised": "This Day"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Barbara",
+                                "family_name": "Walchin",
+                                "occupation_verbatim": "Schneiderst Tochter zu Blößberg",
+                                "occupation_normalised": "Tailor's Daughter at Blößberg"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Isfr.",
+                                "family_name": "Anna",
+                                "occupation_verbatim": "Barbara Walchin",
+                                "occupation_normalised": "Barbara Walchin"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "3 Julii",
+                            "normalised": "3 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nicolaus",
+                                "family_name": "Nappel",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Elisabetha",
+                                "family_name": "Fleiszingerin",
+                                "occupation_verbatim": "verwittigte Beysitzerin allhier",
+                                "occupation_normalised": "widowed Beysitzer here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7. Julii",
+                            "normalised": "7 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresa",
+                                "family_name": "Fröhlich",
+                                "occupation_verbatim": "Burger und Seilermeister zu Stadt am Hof",
+                                "occupation_normalised": "Burger and Tailor at Stadt am Hof"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Fröhlich",
+                                "occupation_verbatim": "Burger und Seilermeister zu Stadt am Hof",
+                                "occupation_normalised": "Burger and Tailor at Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "1. Julii",
+                            "normalised": "1 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catzariena",
+                                "family_name": "Imingerin",
+                                "occupation_verbatim": "verwittigte Beysizerin allhier",
+                                "occupation_normalised": "widowed Beysizer here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "80 Jahr alt",
+                            "age_days": 29250
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1. Julii",
+                            "normalised": "1 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Mümännin",
+                                "occupation_verbatim": "verwittichte Beysikerin allhier",
+                                "occupation_normalised": "widowed Beysiker here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "78 Jahr alt",
+                            "age_days": 28350
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1. Julii",
+                            "normalised": "1 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": "Raußlinn",
+                                "occupation_verbatim": "Todengräberin allhier",
+                                "occupation_normalised": "Grave Digger here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "49 Jahr alt",
+                            "age_days": 17580
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4. Julii",
+                            "normalised": "4 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Adam",
+                                "family_name": "Schwager",
+                                "occupation_verbatim": "gewesener Posthalter zu Waldmünchen",
+                                "occupation_normalised": "former Postmaster at Waldmünchen"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "72 Jahr alt",
+                            "age_days": 25920
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "St. Rupreche",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "3 Julii",
+                            "normalised": "3 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian Matthias",
+                                "family_name": "Dierlinger",
+                                "occupation_verbatim": "verwitthiber Beysicher allhier",
+                                "occupation_normalised": "married Beysicher here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Anna Maria",
+                                "family_name": "Ehrenspegerin",
+                                "occupation_verbatim": "Wittib",
+                                "occupation_normalised": "Widow"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 Julii",
+                            "normalised": "3 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Adam",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": "verwitthöter Beysicher allhier",
+                                "occupation_normalised": "married Beysicher here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Asra",
+                                "family_name": "Wildin",
+                                "occupation_verbatim": "Wittib",
+                                "occupation_normalised": "Widow"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 Julii",
+                            "normalised": "1 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Dommayer",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Beysiker here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacob",
+                                "family_name": "Dommayer",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Beysiker here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "1 Julii",
+                "normalised": "1 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Tit. Herr von Schmanz",
+                "occupation_normalised": "Tit. Herr von Schmanz"
+            },
+            "time": "Vormittags",
+            "transport": "2. log. in weissen Lamm",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "2 Julii",
+                "normalised": "2 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Ferdinand",
+                "family_name": "Ullmann",
+                "occupation_verbatim": "ein Spitzenhändler aus Böhmen",
+                "occupation_normalised": "a Bohemian Cutlery Merchant"
+            },
+            "time": "zu Fuß",
+            "transport": null,
+            "origin": "Böhmen",
+            "lodging": "goldenen Bären",
+            "s_value": {
+                "verbatim": "log. in gol-den en Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "2 Julii",
+                "normalised": "2 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Amberger ord.",
+                "occupation_verbatim": "Per Kutsche",
+                "occupation_normalised": "By Kutsche"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "2 Julii",
+                "normalised": "2 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Mrz.",
+                "family_name": "Schroaf",
+                "occupation_verbatim": "ein Kaufmannsdieier von Augspurg",
+                "occupation_normalised": "a Merchant Thief from Augsburg"
+            },
+            "time": "zu Pferde",
+            "transport": "Per Pferde",
+            "origin": "Augsburg",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "log. in Spiegel",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "2 Julii",
+                "normalised": "2 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Mäzenhauser",
+                "family_name": "Hofamerrath Tit.",
+                "occupation_verbatim": "Per ord. Postwagen von Amberg",
+                "occupation_normalised": "By Order Post Wagon from Amberg"
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Amberg",
+            "origin": "Amberg",
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. 4. und Simon de Gelder, ein jüdischer Doc. und Rabbiner von Jerusalem, log. beym Hirschl",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "3 Julii",
+                "normalised": "3 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Madame Schmidin",
+                "family_name": "Schmidin",
+                "occupation_verbatim": "Per Nürnberger ord. Landkutsche",
+                "occupation_normalised": "By Nuremberg Order Land Coach"
+            },
+            "time": null,
+            "transport": "Per Nürnberger ord. Landkutsche",
+            "origin": "Anspach",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "Mademois. Holzerin, von Petersbürge, und Mons. Free, ein Stud. von Bamberg, log. in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "3 Julii",
+                "normalised": "3 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Sonntag",
+                "occupation_verbatim": "Per Kutsche",
+                "occupation_normalised": "By Kutsche"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Siebenbürgen",
+            "lodging": "in weissen Lam",
+            "s_value": {
+                "verbatim": "2 Confl. Stud. aus Siebenbürgen, log. in weissen Lam",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "3 Julii",
+                "normalised": "3 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Formie",
+                "occupation_verbatim": "ein Kaufmann von Augsburg",
+                "occupation_normalised": "a Merchant from Augsburg"
+            },
+            "time": "zu Pferde",
+            "transport": "Per Pferde",
+            "origin": "Augsburg",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "log. in Spiegel",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "4 Julii",
+                "normalised": "4 July"
+            },
+            "gate": "zu Steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Baron von Pfetten",
+                "family_name": "S.T. Herr",
+                "occupation_verbatim": "Per Kutsche",
+                "occupation_normalised": "By Kutsche"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Dirlstein",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "S.T. Herr Baron von Pfetten, vvn Dirlstein, f. 2. passiren durch"
+            }
+        }
+    ],
+    "id": "1770-07-10_Num_28",
+    "source": {
+        "issue_date": "1770-07-10",
+        "issue_number": "Num. 28",
+        "canvases": [
+            219,
+            220,
+            221,
+            222
+        ]
+    }
+}

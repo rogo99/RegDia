@@ -1,0 +1,615 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Amberger",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "der Amberger orb.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 51.",
+                "normalised": "51."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Landkutsche",
+                "family_name": "Nürnberger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "um 1 Uhr",
+                "normalised": "1 Uhr",
+                "value": "1"
+            },
+            "transport": "Landkutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": "Deggendorfer Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Simon",
+                "family_name": "Wizhofer",
+                "occupation_verbatim": "Rupfer, Wolle, Wein",
+                "occupation_normalised": "Rupfer, Wolle, Wein"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Bierbauer",
+                "occupation_verbatim": "Schmelztiegeln",
+                "occupation_normalised": "Schmelztiegeln"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Hasnerkzell",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wolfgang",
+                "family_name": "Raimer",
+                "occupation_verbatim": "Marktgütherschiff",
+                "occupation_normalised": "Marktgütherschiff"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Nicolaus",
+                "family_name": "Laurer",
+                "occupation_verbatim": "Schiff",
+                "occupation_normalised": "Schiff"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt"
+        }
+    ],
+    "id": "1770-08-21_Num_34",
+    "source": {
+        "issue_date": "1770-08-21",
+        "issue_number": "Num. 34",
+        "canvases": [
+            271,
+            272,
+            273,
+            274
+        ]
+    }
+}

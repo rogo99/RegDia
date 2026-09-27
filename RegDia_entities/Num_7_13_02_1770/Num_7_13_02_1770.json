@@ -1,0 +1,826 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Geräuerte",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 5 Febr.",
+                            "normalised": "5 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Riedel",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Maria Magdalena Linhin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6. Stephan Bauernhuber",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Stephan Bauernhuber",
+                                "family_name": "Burger",
+                                "occupation_verbatim": "Glickelmann und Schlegelarbeiter",
+                                "occupation_normalised": "Glickelmann and Schlegelarbeiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Aus na Demesselin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Geräufere",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 3. Catharina Elisabetha",
+                            "normalised": "3 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Elisabetha",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg Milling",
+                                "family_name": "Beysiker und Holz auswerfer",
+                                "occupation_verbatim": "Beysiker und Holz auswerfer",
+                                "occupation_normalised": "Beysiker and Holz auswerfer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 4. Sibylla Susanna",
+                            "normalised": "4 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sibylla Susanna",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang Heinrich Frickinger",
+                                "family_name": "Thorwart",
+                                "occupation_verbatim": "Thorwart",
+                                "occupation_normalised": "Thorwart"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6. Johann Jacob",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jacob",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Jacob Luick",
+                                "family_name": "Burger und Schneider",
+                                "occupation_verbatim": "Burger und Schneider",
+                                "occupation_normalised": "Burger and Schneider"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6. Johann Gottlieb",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Water",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Michael Rädlein",
+                                "family_name": "Burger",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": "Burger"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 6 Febr.",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Laurentius Meindt",
+                                "family_name": "Bewsifer allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Barbara Brunnerin",
+                                "family_name": "vers-wittbten Beysiferin von hier",
+                                "occupation_verbatim": "vers-wittbten Beysiferin von hier",
+                                "occupation_normalised": "vers-wittbten Beysiferin von hier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6 Febr.",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ferdinandus Kofler",
+                                "family_name": "J uwohner in denen Collegiat-Stiftshäusern zu St. Johannis",
+                                "occupation_verbatim": "J uwohner in denen Collegiat-Stiftshäusern zu St. Johannis",
+                                "occupation_normalised": "J uwohner in denen Collegiat-Stiftshäusern zu St. Johannis"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Igrfr. Maria Regina Fenchenerin",
+                                "family_name": "von hier",
+                                "occupation_verbatim": "von hier",
+                                "occupation_normalised": "von hier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 5. Ludwiv Cornelius",
+                            "normalised": "5 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ludwiv Cornelius",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Bater",
+                                "occupation_normalised": "Bater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Gottlieb Laurer",
+                                "family_name": "Burger, Fischer und Schiffsmeister",
+                                "occupation_verbatim": "Burger, Fischer und Schiffsmeister",
+                                "occupation_normalised": "Burger, Fischer and Schiffsmeister"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Tage alt",
+                            "age_days": 6
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6. Georg Schönecker",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Schönecker",
+                                "family_name": "Burger und Wachtschreiber allhier",
+                                "occupation_verbatim": "Burger und Wachtschreiber allhier",
+                                "occupation_normalised": "Burger and Wachtschreiber allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "50 Jahr und 17 Wochen alt",
+                            "age_days": 185
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 5 Febr.",
+                            "normalised": "5 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gaius Mayer",
+                                "family_name": "Beyssher allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Catharina Hallin",
+                                "family_name": "Wittib",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6. Johannes Hackel",
+                            "normalised": "6 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Hackel",
+                                "family_name": "Herrschafsl. Bedienter",
+                                "occupation_verbatim": "Herrschafsl. Bedienter",
+                                "occupation_normalised": "Herrschafsl. Bedienter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jgr. Elisabetha Nitherin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 5. Christoph Adam",
+                            "normalised": "5 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christoph Adam",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Adam Lindner",
+                                "occupation_normalised": "Adam Lindner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Adam Lindner",
+                                "family_name": "Webergeselle und Beysiker allhier",
+                                "occupation_verbatim": "Webergeselle und Beysiker allhier",
+                                "occupation_normalised": "Webergeselle and Beysiker allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 8. Josephus Franciscus",
+                            "normalised": "8 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Franciscus",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Franciscaß Widmann",
+                                "occupation_normalised": "Franciscaß Widmann"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscaß Widmann",
+                                "family_name": "Kutscher bey Sr. Excell.",
+                                "occupation_verbatim": "Kutscher bey Sr. Excell.",
+                                "occupation_normalised": "Kutscher bey Sr. Excell."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 9. Maria Theresa Apollonia",
+                            "normalised": "9 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresa Apollonia",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Hr. Matthias Aschenbrenner",
+                                "occupation_normalised": "Hr. Matthias Aschenbrenner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr. Matthias Aschenbrenner",
+                                "family_name": "Schulmeister in dem Fürstl. Reichsftift St Emiram",
+                                "occupation_verbatim": "Schulmeister in dem Fürstl. Reichsftift St Emiram",
+                                "occupation_normalised": "Schulmeister in dem Fürstl. Reichsftift St Emiram"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 10. Catharina",
+                            "normalised": "10 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Stephan Rappel",
+                                "occupation_normalised": "Stephan Rappel"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Stephan Rappel",
+                                "family_name": "Innwohner in der Commedey",
+                                "occupation_verbatim": "Innwohner in der Commedey",
+                                "occupation_normalised": "Innwohner in der Commedey"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsifts-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 4 Febr.",
+                            "normalised": "4 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Sebastian",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Johann Adam prädel",
+                                "occupation_normalised": "Johann Adam prädel"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Adam prädel",
+                                "family_name": "Scheuk alda",
+                                "occupation_verbatim": "Scheuk alda",
+                                "occupation_normalised": "Scheuk alda"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 5 Febr.",
+                "normalised": "5 February"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Georg Philipp",
+                "family_name": "Baier",
+                "occupation_verbatim": "Johann Georg Nies, Grenadier unter all-hiesiger Stadtgarnison",
+                "occupation_normalised": "Johann Georg Nies, Grenadier unter all-hiesiger Stadtgarnison"
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen von Amberg",
+            "origin": "Amberg",
+            "lodging": "Tit. Herr von der Lühe",
+            "s_value": {
+                "verbatim": "Tit. Herr von der Lühe",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Nicolaus Gottlieb",
+                "normalised": "9 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Nicolaus Gottlieb",
+                "family_name": "Bater",
+                "occupation_verbatim": "M. Johann Gottlieb Rohrbeck, Burger und Metsger",
+                "occupation_normalised": "M. Johann Gottlieb Rohrbeck, Burger and Metsger"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit. Herr von der Lühe",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Ludwiv Cornelius",
+                "normalised": "5 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ludwiv Cornelius",
+                "family_name": "Bater",
+                "occupation_verbatim": "Johann Gottlieb Laurer, Burger, Fischer und Schiffsmeister",
+                "occupation_normalised": "Johann Gottlieb Laurer, Burger, Fischer and Schiffsmeister"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit. Herr von der Lühe",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Georg Schönecker",
+                "normalised": "6 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Georg Schönecker",
+                "family_name": "Burger und Wachtschreiber allhier",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit. Herr von der Lühe",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8. Barbara",
+                "normalised": "8 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Barbara",
+                "family_name": "des Johann Kirchgattingers",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit. Herr von der Lühe",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Simon Hofmann",
+                "normalised": "9 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Simon Hofmann",
+                "family_name": "Burger"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": "Nürnberg",
+            "direction": "nach",
+            "person": {
+                "given_name": "Pac.",
+                "family_name": "Scheible",
+                "occupation_verbatim": "Earthäuser von Freudenthal"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Churpfalz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 11 Febr.",
+                "normalised": "11. Febr."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggedorfer Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": "Tic. Herrn von der Lühe, Cavalier aus dem Mecklenburgischen"
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Daniel",
+                "family_name": "Bühmel",
+                "occupation_verbatim": "Tir. Herr Hayek von Waldstetten"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Febr.",
+                "normalised": "2. Febr."
+            },
+            "gate": "Ostenchore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Neumayer",
+                "family_name": "Oberschreiber von Scharding",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Bothe",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7.",
+                "normalised": "7."
+            },
+            "gate": null,
+            "direction": "durch",
+            "person": {
+                "given_name": "Fran",
+                "family_name": "Heilmayerin",
+                "occupation_verbatim": "Weinwirthin von Straubing"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "2.",
+            "s_value": {
+                "verbatim": "paziren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Buger",
+                "family_name": "Pfarrer von Radenberg",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Bothe",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3 Febr.",
+                "normalised": "3. Febr."
+            },
+            "gate": "Jacobertore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Beck",
+                "occupation_verbatim": "Handelsmann von Augsburg"
+            },
+            "time": null,
+            "transport": "Fuß",
+            "origin": null,
+            "lodging": "goldenen Greif",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5 Febr.",
+                "normalised": "5. Febr."
+            },
+            "gate": null,
+            "direction": "von München",
+            "person": {
+                "given_name": "Müller",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Tobacksfabricante von Fürth"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Augsburg",
+            "lodging": "weisen Hahn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6.",
+                "normalised": "6."
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Augsburger ord.",
+                "occupation_verbatim": "Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Straubing",
+            "lodging": "goldenen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7.",
+                "normalised": "7."
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ingolstädter ord.",
+                "occupation_verbatim": "Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Straubing",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Siegler",
+                "occupation_verbatim": "Pfarrer von Leitenhausen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Andreas",
+                "family_name": "Rohrmüller",
+                "occupation_verbatim": "Churbayerischer Landbereiter"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Straubing",
+            "lodging": "Pfau",
+            "s_value": null
+        }
+    ],
+    "id": "1770-02-13_Num_7",
+    "source": {
+        "issue_date": "1770-02-13",
+        "issue_number": "Num. 7",
+        "canvases": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+        ]
+    }
+}

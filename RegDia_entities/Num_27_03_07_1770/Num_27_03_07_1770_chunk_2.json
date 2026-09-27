@@ -1,0 +1,631 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "24. Per Posta, S.T.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Graf von Fugger",
+                "occupation_verbatim": "Kayserl. Unterlietenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Per ord. Postwagen",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vormittags",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Calesch",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tie.",
+                "family_name": "Manatinzky von Schwanbach",
+                "occupation_verbatim": "ein Cavalier aus Böhmen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Kutsche",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Baron von Lincer",
+                "occupation_verbatim": "Churmaynzischer Comitial- und Reichs-Directorial-Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc. f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26. Per Kutsche",
+                "normalised": "26."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Amberger ord.",
+                "family_name": "Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26. Per Kutsche",
+                "normalised": "26."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Silberbothe von Amberg",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Die Nurnberger ord.",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Landkutsche",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "um ½ 6 Uhr",
+                "normalised": "6:30"
+            },
+            "transport": "Landkutsche",
+            "origin": "Nurnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Vormittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Zu Pferde",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bohm",
+                "occupation_verbatim": "ein Burger von Prag",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Posta",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Durchl.",
+                "family_name": "Fürst von Salm",
+                "occupation_verbatim": "rc. rc.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Posta",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Graf von Poltzazky",
+                "occupation_verbatim": "Kayserl. Gesandter von München",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 9.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Posta",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wolf",
+                "occupation_verbatim": "ein Kaufmann von Würzburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Calesch",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Agger",
+                "occupation_verbatim": "Domecapitulischer Geisil. Rath und Stadt-Pfarrer von Schwandorf",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Calesch",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Siegriz",
+                "occupation_verbatim": "Rastner von Höchenburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Posta",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Barou von Oberndorf",
+                "occupation_verbatim": "Churpfälzischer Landschafts-Präsident",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Calesch",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Häckel",
+                "occupation_verbatim": "einen Kaufmann aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Frankreich",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Calesch",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hen.",
+                "family_name": "Garrelli",
+                "occupation_verbatim": "aus Craian",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Craian",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Posta",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Baron von Gumpenberg",
+                "occupation_verbatim": "Churbayerischer Hauptmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Posta",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Schweller",
+                "occupation_verbatim": "Churbayerischer Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Posta",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Baron von Frauenberg",
+                "occupation_verbatim": "Churbayerischer Oberleutnant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Calesch",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Fränke von Grosschedel",
+                "occupation_verbatim": "von Landau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Landau",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Posta",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Schweller",
+                "occupation_verbatim": "Churbayerischer Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Calesch",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Fränke von Grosschedel",
+                "occupation_verbatim": "von Landau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Landau",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Posta",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Schweller",
+                "occupation_verbatim": "Churbayerischer Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Posta",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Baron von Frauenberg",
+                "occupation_verbatim": "Churbayerischer Oberleutnant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Calesch",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Fränke von Grosschedel",
+                "occupation_verbatim": "von Landau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Landau",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Posta",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Schweller",
+                "occupation_verbatim": "Churbayerischer Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Calesch",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Fränke von Grosschedel",
+                "occupation_verbatim": "von Landau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Landau",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29. Per Posta",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Schweller",
+                "occupation_verbatim": ""
+            }
+        }
+    ],
+    "id": "1770-07-03_Num_27",
+    "source": {
+        "issue_date": "1770-07-03",
+        "issue_number": "Num. 27",
+        "canvases": [
+            215,
+            216,
+            217,
+            218
+        ]
+    }
+}

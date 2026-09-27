@@ -1,0 +1,476 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Fraule von Wetkein",
+                "occupation_verbatim": "von München",
+                "occupation_normalised": "Munich"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "in weissen Lam",
+            "s_value": {
+                "verbatim": "f. 4-",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sr.",
+                "family_name": "Erecß. Herr Baron von Karg",
+                "occupation_verbatim": "Churcöllnischer Comitials Gesandter",
+                "occupation_normalised": "Churcöllnisch Comitials Gesandter"
+            },
+            "time": null,
+            "transport": "Kutshe",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ze. f. 24.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zu Füsz, Jacob Silbermann, ein Bilderhändler von Eger, log. in gold. Engel, f. 2.",
+                "normalised": "zu Füsz, Jacob Silbermann, ein Bilderhändler von Eger, log. in gold. Engel, f. 2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Jacob",
+                "family_name": "Silbermann",
+                "occupation_verbatim": "Bilderhändler von Eger",
+                "occupation_normalised": "Bilderhändler from Eger"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Eger",
+            "lodging": "in gold. Engel",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zu Füsz, Jacob Strasser, ein Tartifselhändler von Nurnberg, log. in weissen Hahn.",
+                "normalised": "zu Füsz, Jacob Strasser, ein Tartifselhändler von Nurnberg, log. in weissen Hahn."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Jacob",
+                "family_name": "Strasser",
+                "occupation_verbatim": "Tartifselhändler von Nurnberg",
+                "occupation_normalised": "Tartifselhändler from Nurnberg"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Nurnberg",
+            "lodging": "in weissen Hahn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zu Pferde, S.T., Herr Baron von Pfetten, Obristhofmeister von Amberg, log. in 3 Helmen, f. 4.",
+                "normalised": "zu Pferde, S.T., Herr Baron von Pfetten, Obristhofmeister von Amberg, log. in 3 Helmen, f. 4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Pfetten",
+                "occupation_verbatim": "Obristhofmeister von Amberg",
+                "occupation_normalised": "Obristhofmeister from Amberg"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": null,
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zur steinernen Brucke hinaus:",
+                "normalised": "Zur steinernen Brucke hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Posta, Herr Fait, Kayserl. Courier, um 17 Uhr, Abends.",
+                "normalised": "Den 4. Per Posta, Herr Fait, Kayserl. Courier, um 17 Uhr, Abends."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Fait",
+                "occupation_verbatim": "Kayserl. Courier",
+                "occupation_normalised": "Imperial Courier"
+            },
+            "time": {
+                "verbatim": "um 17 Uhr, Abends",
+                "normalised": "17 Uhr, Abends"
+            },
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per ord. Postwagen nach Amberg, Hu. Reisenocker, Mauthbeamter von Ham",
+                "normalised": "Den 5. Per ord. Postwagen nach Amberg, Hu. Reisenocker, Mauthbeamter von Ham"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hu.",
+                "family_name": "Reisenocker",
+                "occupation_verbatim": "Mauthbeamter von Ham",
+                "occupation_normalised": "Mauthbeamter from Ham"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Kutsche, der Amberger ord. Bothe.",
+                "normalised": "Den 6. Per Kutsche, der Amberger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der",
+                "family_name": "Amberger ord. Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Die Nürnberger ord. Landkutsche, um 7 Uhr, Vormittags.",
+                "normalised": "Den 7. Die Nürnberger ord. Landkutsche, um 7 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Die",
+                "family_name": "Nürnberger ord. Landkutsche",
+                "occupation_verbatim": "Landkutsche",
+                "occupation_normalised": "Landkutsche"
+            },
+            "time": {
+                "verbatim": "um 7 Uhr, Vormittags",
+                "normalised": "7 Uhr, Vormittags"
+            },
+            "transport": "Landkutsche",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche, Tit. Herr Fleischmann, Pfleger von Parsberg, s. 4.",
+                "normalised": "Per Kutsche, Tit. Herr Fleischmann, Pfleger von Parsberg, s. 4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Fleischmann",
+                "occupation_verbatim": "Pfleger von Parsberg",
+                "occupation_normalised": "Pfleger from Parsberg"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Parsberg",
+            "lodging": "s. 4",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Hr. Behling, ein Kaufmann von Zittau, s. 3.",
+                "normalised": "Per Posta, Hr. Behling, ein Kaufmann von Zittau, s. 3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Behling",
+                "occupation_verbatim": "Kaufmann von Zittau",
+                "occupation_normalised": "Kaufmann from Zittau"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Zittau",
+            "lodging": "s. 3",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Per Kutsche, Tit. Herr Hofammerrath Sobeck, von München, s. 4.",
+                "normalised": "Den 9. Per Kutsche, Tit. Herr Hofammerrath Sobeck, von München, s. 4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Hofammerrath Sobeck",
+                "occupation_verbatim": "von München",
+                "occupation_normalised": "from Munich"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "München",
+            "lodging": "s. 4",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Der ord. Postwagen nach Nürnberg, um ½ 8 Uhr, Vormittags.",
+                "normalised": "Der ord. Postwagen nach Nürnberg, um ½ 8 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": {
+                "verbatim": "um ½ 8 Uhr, Vormittags",
+                "normalised": "½ 8 Uhr, Vormittags"
+            },
+            "transport": "Postwagen",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Herr D. Weniger, von Straubing.",
+                "normalised": "Per Calesch, Herr D. Weniger, von Straubing."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "D. Weniger",
+                "occupation_verbatim": "von Straubing",
+                "occupation_normalised": "from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S. T. Herr Graf von Biroti, von Cremona, in Italien, f. 2.",
+                "normalised": "Per Posta, S. T. Herr Graf von Biroti, von Cremona, in Italien, f. 2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Graf von Biroti",
+                "occupation_verbatim": "von Cremona, in Italien",
+                "occupation_normalised": "from Cremona, Italy"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Cremona",
+            "lodging": "f. 2",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "Den 7. Per Calesch, der Straubinger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der",
+                "family_name": "Straubinger ord. Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "Den 10. Per Calesch, der Straubinger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der",
+                "family_name": "Straubinger ord. Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenthore hinaus:",
+                "normalised": "Zum Ostenthore hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Calesch, Herr Adv. Altmann, von Straubing.",
+                "normalised": "Den 3. Per Calesch, Herr Adv. Altmann, von Straubing."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Adv. Altmann",
+                "occupation_verbatim": "von Straubing",
+                "occupation_normalised": "from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Calesch, Tit. Fran von Schopp, Churbayerische Hauptmann, f. 2.",
+                "normalised": "Den 4. Per Calesch, Tit. Fran von Schopp, Churbayerische Hauptmann, f. 2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Fran von Schopp",
+                "occupation_verbatim": "Churbayerische Hauptmann",
+                "occupation_normalised": "Churbayerische Hauptmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "f. 2",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta, S.T. Herr Baron von Arnding, Churbayerischer Commisfair, f. 6.",
+                "normalised": "Den 5. Per Posta, S.T. Herr Baron von Arnding, Churbayerischer Commisfair, f. 6."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Arnding",
+                "occupation_verbatim": "Churbayerischer Commisfair",
+                "occupation_normalised": "Churbayerischer Commisfair"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "f. 6",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Tit. Herr Zinal, Stadt-Syndicus von Straubing.",
+                "normalised": "Per Calesch, Tit. Herr Zinal, Stadt-Syndicus von Straubing."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Zinal",
+                "occupation_verbatim": "Stadt-Syndicus von Straubing",
+                "occupation_normalised": "Stadt-Syndicus from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S.T. Herr Lord Turcokel, und Tit. Herr von Hogsom, f. aus England, f. 4.",
+                "normalised": "Per Posta, S.T. Herr Lord Turcokel, und Tit. Herr von Hogsom, f. aus England, f. 4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Lord"
+            }
+        }
+    ],
+    "id": "1770-11-13_Num_46",
+    "source": {
+        "issue_date": "1770-11-13",
+        "issue_number": "Num. 46",
+        "canvases": [
+            367,
+            368,
+            369,
+            370
+        ]
+    }
+}

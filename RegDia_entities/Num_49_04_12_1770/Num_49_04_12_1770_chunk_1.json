@@ -1,0 +1,529 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Regensburg",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "26 Nov.",
+                            "normalised": "26 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Leonhard",
+                                "family_name": "Häckel",
+                                "occupation_verbatim": "Bürger und Brannweinbrenner",
+                                "occupation_normalised": "Bürger and brandy distiller"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Maria Doeotha",
+                                "family_name": "Reindelsfederin",
+                                "occupation_verbatim": "Lein- und Darchetwebers Witwe",
+                                "occupation_normalised": "linen and damask weaver's widow"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 Nov.",
+                            "normalised": "27 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joh. Nicolaus",
+                                "family_name": "Zittauer",
+                                "occupation_verbatim": "Beyssitzer und der Buchdruckereykunstverwandter",
+                                "occupation_normalised": "Beyssitzer and book printer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Juliana Jacobina",
+                                "family_name": "Panzerin",
+                                "occupation_verbatim": "Scribentens Witwe",
+                                "occupation_normalised": "scribe's widow"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "26 Nov.",
+                            "normalised": "26 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wilhelmina Ernestina Adelheit",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Johann Gottfried Sebold",
+                                "occupation_normalised": "Johann Gottfried Sebold"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Gottfried",
+                                "family_name": "Sebold",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": "Bürger"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 Nov.",
+                            "normalised": "27 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Leonhard",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "ein unechtes Kind",
+                                "occupation_normalised": "an illegitimate child"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "28 Nov.",
+                            "normalised": "28 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Regina",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "M. Johann Carl Hinterleutner",
+                                "occupation_normalised": "M. Johann Carl Hinterleutner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Carl",
+                                "family_name": "Hinterleutner",
+                                "occupation_verbatim": "Burger, Lein- und Warchetweber",
+                                "occupation_normalised": "Bürger, linen and warp weaver"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30 Nov.",
+                            "normalised": "30 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "M. Ernst Christian Hesse",
+                                "occupation_normalised": "M. Ernst Christian Hesse"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Ernst Christian",
+                                "family_name": "Hesse",
+                                "occupation_verbatim": "Burger und Schlosser",
+                                "occupation_normalised": "Bürger and carpenter"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "26 Nov.",
+                            "normalised": "26 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": "Woratti",
+                                "occupation_verbatim": "Mahler und Beysiker allhier",
+                                "occupation_normalised": "painter and brazier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Theresia",
+                                "family_name": "Rakenstallerin",
+                                "occupation_verbatim": "von hier",
+                                "occupation_normalised": "from here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 Nov.",
+                            "normalised": "28 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna",
+                                "family_name": "Baptift",
+                                "occupation_verbatim": "Water",
+                                "occupation_normalised": "water"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joseph Lorenzon",
+                                "family_name": "Beysiker allhier",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "24 Nov.",
+                            "normalised": "24 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Antonia",
+                                "family_name": "Bettendorferin",
+                                "occupation_verbatim": "ledigen Standes",
+                                "occupation_normalised": "single status"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "53 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 Nov.",
+                            "normalised": "26 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Nepomuc.",
+                                "family_name": "Water",
+                                "occupation_verbatim": "Antonius Müllner",
+                                "occupation_normalised": "Antonius Müllner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Antonius",
+                                "family_name": "Müllner",
+                                "occupation_verbatim": "Burger und Fischer zu Stadt am Hof",
+                                "occupation_normalised": "Bürger and fisherman at Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 Nov.",
+                            "normalised": "27 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia",
+                                "family_name": "Abingerin",
+                                "occupation_verbatim": "verwittibte Beysikerin allhier",
+                                "occupation_normalised": "widowed brazier here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "55 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "26 Nov.",
+                            "normalised": "26 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Johann Georg Prössil",
+                                "occupation_normalised": "Johann Georg Prössil"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Prössil",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "brazier here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30 Nov.",
+                            "normalised": "30 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Johann Georg Nantner",
+                                "occupation_normalised": "Johann Georg Nantner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Nantner",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "brazier here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "26 Nov.",
+                "normalised": "26 November"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Johann Daniel",
+                "family_name": "Böhm",
+                "occupation_verbatim": "Bürger und Gürtler allhier",
+                "occupation_normalised": "Bürger and belt maker here"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2. pafte ren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28 Nov.",
+                "normalised": "28 November"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Jungfer Juliana Maria",
+                "family_name": "Bater",
+                "occupation_verbatim": "Tit. Herr Johann Wilhelm Bözner",
+                "occupation_normalised": "Tit. Herr Johann Wilhelm Bözner"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Bas-",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "1 Tag alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "29 Nov.",
+                "normalised": "29 November"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Johann Paul",
+                "family_name": "Holzer",
+                "occupation_verbatim": "Haufknecht allhier",
+                "occupation_normalised": "hauling servant here"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hrn. Johaun Matthais Holzer",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "35 Jahr, 23 Wochen und 1 Tag alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1 Dec.",
+                "normalised": "1 December"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Elisabetha Barbara",
+                "family_name": "Lerchner",
+                "occupation_verbatim": "Nachtwächters im obern Wohri",
+                "occupation_normalised": "night watchman in upper Wohri"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Andreas Lerchner",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "21 Jahre weniger 5 Wochen und 5 Tage alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Nov.",
+                "normalised": "25 November"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Dr. Sery",
+                "family_name": "Kaufmann von Rurnbers",
+                "occupation_verbatim": "f. 2. pafte ren durch",
+                "occupation_normalised": "f. 2. pafte ren through"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Rurnbers",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2. pafte ren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 Nov.",
+                "normalised": "26 November"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Monsr. Faitz",
+                "family_name": "Raisierl. Courier",
+                "occupation_verbatim": "pasiret durch um ½ 6 Uhr, Vormittags",
+                "occupation_normalised": "passed through at half past 6 o'clock in the morning"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um ½ 6 Uhr, Vormittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Nov.",
+                "normalised": "27 November"
+            },
+            "gate": "Zu Fu[unclear]",
+            "direction": "in",
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Schyufelder",
+                "occupation_verbatim": "Handelsmann aus Sachsen",
+                "occupation_normalised": "trader from Saxony"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Sachsen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2. log. in gols denen Greif",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 Nov.",
+                "normalised": "26 November"
+            },
+            "gate": "Zu Steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Monsr. Fait",
+                "family_name": "Hochfürstl. Tarischer Courier",
+                "occupation_verbatim": "um 4 Uhr, Nachmittags",
+                "occupation_normalised": "high prince tarisher courier"
+            },
+            "time": "Nachmittags",
+            "transport": "Posta",
+            "origin": "Tarisch",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 4 Uhr, Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28 Nov.",
+                "normalised": "28 November"
+            },
+            "gate": "Zu Steinernen Brucke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Monsr. Beauchedon",
+                "family_name": "Kaufmann aus Frankreich",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Frankreich",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-12-04_Num_49",
+    "source": {
+        "issue_date": "1770-12-04",
+        "issue_number": "Num. 49",
+        "canvases": [
+            387,
+            388,
+            389,
+            390
+        ]
+    }
+}

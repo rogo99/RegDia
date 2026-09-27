@@ -1,0 +1,579 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "15. Per Calesch",
+                "normalised": "15."
+            },
+            "gate": null,
+            "direction": "Ostenhore",
+            "person": {
+                "given_name": "Herr Spengler",
+                "family_name": "Hochfürstl. Hohenlohischer Stallmeister",
+                "occupation_verbatim": "Hochfürstl. Hohenlohischer Stallmeister",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19. Per Posta",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "S.T. Herr Baron von Jedtwiz",
+                "family_name": "Churbayerischer Lichtenant",
+                "occupation_verbatim": "Churbayerischer Lichtenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Per Posta",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "S.T. Herr von Beckers",
+                "family_name": "Hochfürstlich-Tarischer Geh.Rath",
+                "occupation_verbatim": "Hochfürstlich-Tarischer Geh.Rath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21. Per Calesch",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Tir. Herr von Lem",
+                "family_name": "ein Cavalier aus der Psalz",
+                "occupation_verbatim": "ein Cavalier aus der Psalz",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23. Per Posta",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Tit. Herr Bachmeyer",
+                "family_name": "Dragonerliutenant",
+                "occupation_verbatim": "Dragonerliutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24. Per Calesch",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "der Straubinger ord. Bothe",
+                "family_name": null,
+                "occupation_verbatim": "der Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Febr. Per Posta",
+                "normalised": "17. Febr."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Herr Schonburg",
+                "family_name": "Pfleger von Lauterbach",
+                "occupation_verbatim": "Pfleger von Lauterbach",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Febr. Per Posta",
+                "normalised": "17. Febr."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "S.T. Herr Baron von Moser",
+                "family_name": "Kayserrl. Reichshofrath",
+                "occupation_verbatim": "Kayserrl. Reichshofrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "rc. f.6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Der Münchner Postwagen",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": null,
+            "time": "½ 6 Uhr",
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Tit. Herr von Wurzer",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Churbayerischer Hofcammerath von München",
+                "family_name": "Tit. Herr von Wurzer",
+                "occupation_verbatim": "Churbayerischer Hofcammerath von München",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "2.",
+            "s_value": {
+                "verbatim": "pasiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Tit. Herr von Wurzer",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Herr von Ebermeyer",
+                "family_name": "ein Kaufmann von Nürnberg",
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3.",
+            "s_value": {
+                "verbatim": "pasiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Tit. Herr von Wurzer",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Herr von Ebermeyer",
+                "family_name": "ein Kaufmann von Nürnberg",
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3.",
+            "s_value": {
+                "verbatim": "pasiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21. Per Calesch",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterchorre",
+            "person": {
+                "given_name": "Tit. Herr Demnisch",
+                "family_name": "Churbayerischer Fähndrich von Hollnsteinischen Regimente",
+                "occupation_verbatim": "Churbayerischer Fähndrich von Hollnsteinischen Regimente",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pasiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Posta",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterthore",
+            "person": {
+                "given_name": "Hr. Dazdorf",
+                "family_name": "ein Kaufmann von Nurnberg",
+                "occupation_verbatim": "ein Kaufmann von Nurnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3.",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Hr. Plattner",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": "Weyb St. Peterthore",
+            "person": {
+                "given_name": "ein Kaufmann von Nurnberg",
+                "family_name": "Hr. Plattner",
+                "occupation_verbatim": "ein Kaufmann von Nurnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "4.",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": {
+                "given_name": "Hr. Pascoly",
+                "family_name": "ein Handelsmann von Mossburg",
+                "occupation_verbatim": "ein Handelsmann von Mossburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "Ochsenkopf",
+            "s_value": {
+                "verbatim": "log. in Ochsenkopf",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": {
+                "given_name": "S.T. Herr Baron von Horben",
+                "family_name": "Königlich-Französischer Officier",
+                "occupation_verbatim": "Königlich-Französischer Officier",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": {
+                "given_name": "S.T. Herr Baron von Rieth",
+                "family_name": "Kaysert. General",
+                "occupation_verbatim": "Kaysert. General",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "f. 6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Zu Pferde",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore hinaus",
+            "person": {
+                "given_name": "S.T. Herr Baron von Jett",
+                "family_name": "Hofravalter von Sr. Durchl. Prinzen von Thuru und Taris",
+                "occupation_verbatim": "Hofravalter von Sr. Durchl. Prinzen von Thuru und Taris",
+                "occupation_normalised": null
+            },
+            "time": "früh um 3 Uhr",
+            "transport": "Pferde",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null,
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Febr. Per Posta",
+                "normalised": "22. Febr."
+            },
+            "gate": null,
+            "direction": "Jacobertore herein",
+            "person": null
+        }
+    ],
+    "id": "1770-02-27_Num_9",
+    "source": {
+        "issue_date": "1770-02-27",
+        "issue_number": "Num. 9",
+        "canvases": [
+            75,
+            76,
+            77,
+            78
+        ]
+    }
+}

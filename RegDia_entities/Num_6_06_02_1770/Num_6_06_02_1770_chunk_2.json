@@ -1,0 +1,621 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 2 Febr.",
+                "normalised": "2 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hirsch",
+                "family_name": "Neuburger",
+                "occupation_verbatim": "ein Jude von hier",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Febr.",
+                "normalised": "2 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Paulus",
+                "family_name": "Dürschinger",
+                "occupation_verbatim": "ein Pferdehändler von Schweinau",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Zu Pferde",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Frau Baronin von Bernklaue",
+                "occupation_verbatim": "ec.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 31 Jan.",
+                "normalised": "31 January"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Christoph Raimer",
+                "occupation_verbatim": "führet ein Schiff mit Marktgüthern nach Passau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Passau",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "damit 18 gemeine Personen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Jan.",
+                "normalised": "27 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Krepo",
+                "occupation_verbatim": "Churbayerischer Land-Revisor",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "paizi ren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 Jan.",
+                "normalised": "27 January"
+            },
+            "gate": "Per Posta",
+            "direction": null,
+            "person": {
+                "given_name": "Se. Erecßl.",
+                "family_name": "Herr Baron von Fechenbach",
+                "occupation_verbatim": "Hochfürstlich-Würzburgischer Comittialgesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "i.e. f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 r.",
+                "normalised": "2"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Liboneck",
+                "occupation_verbatim": "Kayserrl. Oberleutenant",
+                "occupation_normalised": null
+            },
+            "time": "log. in 3 Helmen",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 r.",
+                "normalised": "2"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Liboneck",
+                "occupation_verbatim": "Kayserrl. Oberleutenant",
+                "occupation_normalised": null
+            },
+            "time": "log. in 3 Helmen",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Salzmann",
+                "occupation_verbatim": "ein Handelsmann von Wilzhofen",
+                "occupation_normalised": null
+            },
+            "time": "log. in Spiegl;",
+            "transport": "Zu Fusk",
+            "origin": null,
+            "lodging": "Mstr. Collein, ein Kaufmann von Vienna, in Frankreich",
+            "s_value": {
+                "verbatim": "log. in der weissen Taube.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Seitz",
+                "occupation_verbatim": "Chursächsicher Major",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": "log. in der Aselmeyersischen Behansung.",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Fehr.",
+                "normalised": "1 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Mocck",
+                "occupation_verbatim": "und Herr Eggenhofer, 2 Geisfl. von Stranbing",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Bären.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Febr.",
+                "normalised": "1 February"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ferk",
+                "occupation_verbatim": "Expositus von Ecking",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Adler.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Reindel",
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Bären.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Mahler",
+                "occupation_verbatim": "und Hr. Frank, Handelsleute von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Dan",
+                "occupation_verbatim": "ein Handelsmann von Eisenach",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Hagenauer",
+                "occupation_verbatim": "Hofbaumeister von Salzburg",
+                "occupation_normalised": null
+            },
+            "time": "f.a.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Jan.",
+                "normalised": "28 January"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fichtel",
+                "occupation_verbatim": "ein Kaufmann von Linz",
+                "occupation_normalised": null
+            },
+            "time": "f. z.",
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Jan.",
+                "normalised": "28 January"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Reindel",
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Bären.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Badio",
+                "occupation_verbatim": "ein Italiäner von München",
+                "occupation_normalised": null
+            },
+            "time": "log. in Pfauen.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ortner",
+                "occupation_verbatim": "Kaysfrl. Cabinetscourier",
+                "occupation_normalised": null
+            },
+            "time": "um ¼ 1 Uhr, Mittags.",
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um ¼ 1 Uhr, Mittags.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Mocck",
+                "occupation_verbatim": "und Herr Eggenhofer, 2 Geisfl. von Stranbing",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Bären.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ferk",
+                "occupation_verbatim": "Expositus von Ecking",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Adler.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Jan.",
+                "normalised": "29 January"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Reindel",
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": "log. in schwarzen Bären.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 Jan.",
+                "normalised": "29 January"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Mahler",
+                "occupation_verbatim": "und Hr. Frank, Handelsleute von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Dan",
+                "occupation_verbatim": "ein Handelsmann von Eisenach",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Hagenauer",
+                "occupation_verbatim": "Hofbaumeister von Salzburg",
+                "occupation_normalised": null
+            },
+            "time": "f.a.",
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Jan.",
+                "normalised": "28 January"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fichtel",
+                "occupation_verbatim": "ein Kaufmann von Linz",
+                "occupation_normalised": null
+            },
+            "time": "f. z.",
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Jan.",
+                "normalised": "28 January"
+            }
+        }
+    ],
+    "id": "1770-02-06_Num_6",
+    "source": {
+        "issue_date": "1770-02-06",
+        "issue_number": "Num. 6",
+        "canvases": [
+            51,
+            52,
+            53,
+            54
+        ]
+    }
+}

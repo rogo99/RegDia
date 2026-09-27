@@ -1,0 +1,373 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 25.",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 26.",
+                "normalised": "26."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27.",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28.",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29 April.",
+                "normalised": "29 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20 April.",
+                "normalised": "20 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 22 April.",
+                "normalised": "22 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 25.",
+                "normalised": "25."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 26.",
+                "normalised": "26."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27.",
+                "normalised": "27."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 April.",
+                "normalised": "28 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-05-01_Num_18",
+    "source": {
+        "issue_date": "1770-05-01",
+        "issue_number": "Num. 18",
+        "canvases": [
+            143,
+            144,
+            145,
+            146
+        ]
+    }
+}

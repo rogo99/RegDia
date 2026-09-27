@@ -1,0 +1,518 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "15 Junii",
+                "normalised": "15 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Samuel",
+                "family_name": "David",
+                "occupation_verbatim": "Hirsch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "zu Pferde",
+            "origin": "Sulzbach",
+            "lodging": "in Posthorn",
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Junii",
+                "normalised": "15 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Sichert",
+                "occupation_verbatim": "von",
+                "occupation_normalised": "Sichert"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Amberg",
+            "lodging": "f. 2. paßiren durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Junii",
+                "normalised": "15 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Giovanelli",
+                "occupation_verbatim": "Kaysert.",
+                "occupation_normalised": "Giovanelli"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Kabinettscouvier",
+            "lodging": "paßiret durch um ⅔ 9 Uhr",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Junii",
+                "normalised": "16 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Thomas",
+                "family_name": "Grun",
+                "occupation_verbatim": "Italiäner",
+                "occupation_normalised": "Grun"
+            },
+            "time": null,
+            "transport": "In Fuß",
+            "origin": "Ochsenkopf",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Junii",
+                "normalised": "16 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Canisius",
+                "occupation_verbatim": "Kaysert.",
+                "occupation_normalised": "Canisius"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Amberg",
+            "lodging": "f. 2. paßiren durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Junii",
+                "normalised": "17 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": "Meyer"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Augspurg",
+            "lodging": "f. 3. paßiren durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Junii",
+                "normalised": "17 June"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Seidenfelder",
+                "occupation_verbatim": "Spitzenzindler",
+                "occupation_normalised": "Seidenfelder"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Sachsen",
+            "lodging": "paßiret durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Jun. Gottlieb Ziegler",
+                "normalised": "11 June Gottlieb Ziegler"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Ziegler",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Zur steinernen Brucke hinaus",
+            "origin": "von hier",
+            "lodging": "mit Marktgütern von Linz",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Junii Johann Georg Meringer",
+                "normalised": "12 June Johann Georg Meringer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": "Meringer"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Amberg",
+            "lodging": "f. 16",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Jun. Paul Ziegler führet in einem Pläckel nach Wien",
+                "normalised": "11 June Paul Ziegler leads in a Pläckel to Vienna"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Paul",
+                "family_name": "Ziegler",
+                "occupation_verbatim": " führet",
+                "occupation_normalised": "Ziegler"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "S. T. Herrn Grafen von Lerchenfeld",
+            "lodging": "S. T. Herrn Grafen von Lerchenfeld",
+            "s_value": {
+                "verbatim": "nebst 15 gemeine Personen",
+                "value": "15 common people"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Georg Christoph Raimer, führet das ord. Schiff nach Wien",
+                "normalised": "17. Georg Christoph Raimer, leads the regular ship to Vienna"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Georg Christoph",
+                "family_name": "Raimer",
+                "occupation_verbatim": "führet",
+                "occupation_normalised": "Raimer"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Herr Canisius, Kayserl. Lieutenant",
+            "lodging": "Herr Canisius, Kayserl. Lieutenant",
+            "s_value": {
+                "verbatim": "Hr. Canisius, Kayserl. Lieutenant",
+                "value": "Herr Canisius, Kayserl. Lieutenant"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Junii. Per Posta, Herr Doblinger, ein Caplan von Pfäde",
+                "normalised": "8 June. Per Posta, Herr Doblinger, a Caplan from Pfäde"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Doblinger",
+                "occupation_verbatim": "ein Caplan von Pfäde",
+                "occupation_normalised": "Doblinger"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Pfäde",
+            "lodging": "bey S.T. Herrn Domprobst",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Junii. Per Calesch, Hr. Scheierle, Rentamts-Oberschreiber von Straubing",
+                "normalised": "9 June. Per Calesch, Hr. Scheierle, Rentamts-Oberschreiber from Straubing"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Scheierle",
+                "occupation_verbatim": "Rentamts-Oberschreiber",
+                "occupation_normalised": "Scheierle"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Straubing",
+            "lodging": "f. 2. passiren durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Junii. Per Calesch, Hr. Bischoff, und Hr. Motschmann, Handelsleute von Sonnenberg",
+                "normalised": "10 June. Per Calesch, Hr. Bischoff, and Hr. Motschmann, merchants from Sonnenberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bischoff",
+                "occupation_verbatim": "Handelsleute",
+                "occupation_normalised": "Bischoff"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Sonnenberg",
+            "lodging": "f. 4. log. in Posthorn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Junii. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären",
+                "normalised": "11 June. Per Calesch, the Straubinger regular carriage, logged in black bears"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bischoff",
+                "occupation_verbatim": "der Straubinger ord. Bothe",
+                "occupation_normalised": "Bischoff"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Straubing",
+            "lodging": "log. in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Junii. Per Posta, Hr. Leißner, ein Handelsmann aus Sachsen",
+                "normalised": "12 June. Per Posta, Hr. Leißner, a merchant from Saxony"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Leißner",
+                "occupation_verbatim": "ein Handelsmann aus Sachsen",
+                "occupation_normalised": "Leißner"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Sachsen",
+            "lodging": "f. 3. passiren durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Junii. Per Calesch, Tic. Herr von Quentel, Churbayerischer Volonteur",
+                "normalised": "13 June. Per Calesch, Tic. Herr von Quentel, Chur-Bavarian volunteer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Herr von Quentel",
+                "occupation_verbatim": "Churbayerischer Volonteur",
+                "occupation_normalised": "Herr von Quentel"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Churbayerischer Volontuer",
+            "lodging": "log. in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Junii. Per Calesch, S.T. Herr Baron von Gumpenberg, Churbayerischer Grenadier-Hauptmann",
+                "normalised": "11 June. Per Calesch, S.T. Herr Baron von Gumpenberg, Chur-Bavarian Grenadier-Hauptmann"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Gumpenberg",
+                "occupation_verbatim": "Churbayerischer Grenadier-Hauptmann",
+                "occupation_normalised": "Herr Baron von Gumpenberg"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Churbayerischer Grenadier-Hauptmann",
+            "lodging": "f. z.",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Junii. Per Münchner Postwagen, um 5 Uhr, Wends, Msgr. Lucas, ein Kaufmann aus Paris",
+                "normalised": "10 June. Per Münchner Postwagen, at 5 o'clock, Wends, Msgr. Lucas, a merchant from Paris"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msgr.",
+                "family_name": "Lucas",
+                "occupation_verbatim": "ein Kaufmann aus Paris",
+                "occupation_normalised": "Lucas"
+            },
+            "time": "5 Uhr",
+            "transport": "Per Münchner Postwagen",
+            "origin": "Paris",
+            "lodging": "log. in 3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Junii. Per Posta, S.T. Herr Baron von Wereld, Churfälzischer Officier",
+                "normalised": "11 June. Per Posta, S.T. Herr Baron von Wereld, Chur-Palatinate officer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Wereld",
+                "occupation_verbatim": "Churfälzischer Officier",
+                "occupation_normalised": "Herr Baron von Wereld"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Wereld",
+            "lodging": "f. z.",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Junii. Per Wagen, der Dingelfinger Bothe, log. in Türken",
+                "normalised": "12 June. Per Wagen, the Dingelfinger carriage, logged in Turks"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Battenstein",
+                "occupation_verbatim": "Handlungs-Verwander",
+                "occupation_normalised": "Battenstein"
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": "Frankfurt",
+            "lodging": "log. in Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Julii. Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "13 July. Per Calesch, the Straubinger regular carriage"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Battenstein",
+                "occupation_verbatim": "Handlungs-Verwander",
+                "occupation_normalised": "Battenstein"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Straubing",
+            "lodging": "log. in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 Julii. Per Wagen, der Dingelfinger Bothe",
+                "normalised": "14 July. Per Wagen, the Dingelfinger carriage"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Battenstein",
+                "occupation_verbatim": "Handlungs-"
+            }
+        }
+    ],
+    "id": "1770-06-19_Num_25",
+    "source": {
+        "issue_date": "1770-06-19",
+        "issue_number": "Num. 25",
+        "canvases": [
+            199,
+            200,
+            201,
+            202
+        ]
+    }
+}

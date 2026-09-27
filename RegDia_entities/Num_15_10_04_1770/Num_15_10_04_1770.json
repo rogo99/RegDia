@@ -1,0 +1,965 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Geraufste",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "31 Merz.",
+                            "normalised": "March 31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Andreas",
+                                "family_name": "Bater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Sigmund",
+                                "family_name": "Biedermann"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5 April.",
+                            "normalised": "April 5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Bater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Herr Johann Georg",
+                                "family_name": "Obermeyer"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "31 Merz.",
+                            "normalised": "March 31"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Isfr.",
+                                "family_name": "Susanna Barbara",
+                                "role": "subject",
+                                "occupation_verbatim": "Möslerin, hiesig Bürgerl. Holzmesser und Gastgebs Tochter am Prebrum"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "26 Jahre und 22 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 April.",
+                            "normalised": "April 1"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "August Wolfgang",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "29 Wochen und 4 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2.",
+                            "normalised": "2"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Anna Mararetha",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "27 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Zwillinge",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Tage alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "31 Merz.",
+                            "normalised": "March 31"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Eod.",
+                                "family_name": "Anna Pfnierein",
+                                "role": "subject",
+                                "occupation_verbatim": "hiesige Soldatens Wittib"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "83 Jahre weniger 6 Wochen alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Stadt am Hof",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "3 April.",
+                            "normalised": "April 3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Christina Susanna Ludwigin",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4 Anna Maria",
+                            "normalised": "April 4"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Anna Maria",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5. Johann Georg",
+                            "normalised": "May 5"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Johann Georg",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7. Johann Gottlieb",
+                            "normalised": "July 7"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Lorenz Liechel",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "verwitweter Mühlknecht und gewesener Beysitzer allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "40 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Theresia",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "5 April.",
+                            "normalised": "April 5"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Xaverius",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1.",
+                            "normalised": "1"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Catharina",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "des Adam Schiels, Inwohners im Obermünster-Haus, Chewirthin"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2.",
+                            "normalised": "2"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Caspar",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr und 3 Mon. alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Getzfriedin"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "42 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4.",
+                            "normalised": "4"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Barbara",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Hr. Johann Baptist Schiffelholz",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Büchsenpanner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "49 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadz-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "1 April",
+                            "normalised": "April 1"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Thomas Christoph",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7.",
+                            "normalised": "7"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Catharina",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Lorenz Liechel",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "verwitweter Mühlknecht und gewesener Beysitzer allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "40 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Theresia",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "5 April",
+                            "normalised": "April 5"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Xaverius",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1.",
+                            "normalised": "1"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Catharina",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "des Adam Schiels, Inwohners im Obermünster-Haus, Chewirthin"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2.",
+                            "normalised": "2"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Caspar",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr und 3 Mon. alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Getzfriedin"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "42 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4.",
+                            "normalised": "4"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Barbara",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Hr. Johann Baptist Schiffelholz",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Büchsenpanner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "49 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "5 April",
+                            "normalised": "April 5"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Xaverius",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "1.",
+                            "normalised": "1"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Catharina",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "des Adam Schiels, Inwohners im Obermünster-Haus, Chewirthin"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2.",
+                            "normalised": "2"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Caspar",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr und 3 Mon. alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Getzfriedin"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "42 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4.",
+                            "normalised": "4"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Barbara",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Hr. Johann Baptist Schiffelholz",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Büchsenpanner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "49 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "1.",
+                            "normalised": "1"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Catharina",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "des Adam Schiels, Inwohners im Obermünster-Haus, Chewirthin"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2.",
+                            "normalised": "2"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Caspar",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr und 3 Mon. alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3.",
+                            "normalised": "3"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Getzfriedin"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "42 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4.",
+                            "normalised": "4"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Barbara",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6.",
+                            "normalised": "6"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Hr. Johann Baptist Schiffelholz",
+                                "family_name": "",
+                                "role": "subject",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Büchsenpanner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "49 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "2 April",
+                "normalised": "April 2"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr. Herring",
+                "family_name": "",
+                "occupation_verbatim": "Hochfürstlich-Colloredoscher"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 April.",
+                "normalised": "1 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Stuber",
+                "occupation_verbatim": "Capellân von Hazendorf",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": null,
+            "lodging": "in 3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Wagen",
+                "normalised": "2 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Augspurger ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": "Augspurg",
+            "lodging": "in goldenen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Posta",
+                "normalised": "6 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schwabe",
+                "occupation_verbatim": "Kaufmann von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Augspurg",
+            "lodging": "in gold. Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Posta",
+                "normalised": "2 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Breuz",
+                "occupation_verbatim": "Hochfürstlich-Tarischer Hoseavalier",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. s.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Rutschen",
+                "normalised": "3 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Graf von der Wall",
+                "occupation_verbatim": "Churbayerischer Comis-tialgesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Rutschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ze. f. 8.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta",
+                "normalised": "5 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "herein",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "von Nied",
+                "occupation_verbatim": "Kaysertl. General",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ze. f. 6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "5 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Cajoni",
+                "occupation_verbatim": "Kaysertl. Schildeourier",
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "um 7½ Uhr",
+                "normalised": "7:30 Uhr",
+                "value": "7.5"
+            },
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3 r Merz",
+                "normalised": "3 March"
+            },
+            "gate": "Weinchore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wagner",
+                "occupation_verbatim": "Marggräflsche-Brandenburg-Onolzbachischer Stallmeister",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Donawöhrt",
+            "origin": "Donawöhrt",
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 April",
+                "normalised": "2 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "de Visme",
+                "occupation_verbatim": "Königl. Englischer Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Hilm",
+            "origin": "Hilm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Baron von Heib",
+                "occupation_verbatim": "rc. und 3 Tic.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Donawöhrt",
+            "origin": "Donawöhrt",
+            "lodging": "in Spiegel",
+            "s_value": null
+        }
+    ],
+    "id": "1770-04-10_Num_15",
+    "source": {
+        "issue_date": "1770-04-10",
+        "issue_number": "Num. 15",
+        "canvases": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+        ]
+    }
+}

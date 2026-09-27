@@ -1,0 +1,538 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Herrauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "15 October",
+                            "normalised": "15 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Adam",
+                                "family_name": "Nirsch",
+                                "occupation_verbatim": "Burger und Deler",
+                                "occupation_normalised": "Bürger und Deler"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "16 October",
+                            "normalised": "16 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Thomann",
+                                "occupation_verbatim": "Burger und Kramhändler",
+                                "occupation_normalised": "Bürger und Kramhändler"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Geraufere",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "15 October",
+                            "normalised": "15 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "von Maunz",
+                                "occupation_verbatim": "Bürger und C. C. Steuer-Amts resignirter Professor, auch Kauf- und Handelsmann",
+                                "occupation_normalised": "Bürger und C. C. Steuer-Amts resignirter Professor, auch Kauf- und Handelsmann"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Gruber",
+                                "occupation_verbatim": "Frieseur und Bediener",
+                                "occupation_normalised": "Frieseur und Bediener"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "74 Jahre weniger 5 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17 October",
+                            "normalised": "17 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Heinrich",
+                                "family_name": "Roth",
+                                "occupation_verbatim": "ehevoriger Burger, Tuchmacher und Soldat",
+                                "occupation_normalised": "ehevoriger Burger, Tuchmacher und Soldat"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahre, 38 Wochen weniger 3 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 October",
+                            "normalised": "18 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christina Euphrosina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Philipp",
+                                "family_name": "Schleicher",
+                                "occupation_verbatim": "Bürger und Hohmesseer",
+                                "occupation_normalised": "Bürger und Hohmesseer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre und 28 Wochen alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "15 October",
+                            "normalised": "15 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Weizel",
+                                "occupation_verbatim": "Beysiger",
+                                "occupation_normalised": "Beysiger"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "22 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19 October",
+                            "normalised": "19 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Martin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Merz",
+                                "occupation_verbatim": "Beysiger",
+                                "occupation_normalised": "Beysiger"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 October",
+                            "normalised": "20 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Bischoff",
+                                "occupation_verbatim": "vacirender Bedienter",
+                                "occupation_normalised": "vacirender Bedienter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "14 October",
+                "normalised": "14 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Tit. Herr Tresenrenter",
+                "occupation_normalised": "Tit. Herr Tresenrenter"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Königl. Dänischer Ober-Auditeur",
+            "lodging": "Franz Hauptm. Gritschin",
+            "s_value": {
+                "verbatim": "nebst dessen Herr Bruder",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 October",
+                "normalised": "15 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr Stierling",
+                "occupation_normalised": "Tit. Herr Stierling"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Hocharistlich-Otatischer Secretair",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 October",
+                "normalised": "15 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Baron von Bender",
+                "occupation_normalised": "S.T. Herr Baron von Bender"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "rc. von Wien",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 October",
+                "normalised": "15 October"
+            },
+            "gate": "Füsz",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Maria Anna",
+                "family_name": "Keyserwerthin",
+                "occupation_verbatim": "Handelsfrau",
+                "occupation_normalised": "Handelsfrau"
+            },
+            "time": null,
+            "transport": "Rutsche",
+            "origin": "Dunkelsbühl",
+            "lodging": "goldenen Falken",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 October",
+                "normalised": "16 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr Sinther",
+                "occupation_normalised": "Tit. Herr Sinther"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Hochgrästlich-Sradio-nusicher Consulent",
+            "lodging": "weissen Lamiz",
+            "s_value": {
+                "verbatim": "log. in weissen Lamiz",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 October",
+                "normalised": "16 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr Altmann",
+                "occupation_normalised": "Tit. Herr Altmann"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Tobaks-Apaldo-Director von Nanderz",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paskiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 October",
+                "normalised": "16 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr Kette",
+                "occupation_normalised": "Tit. Herr Kette"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Juriste von Würzburg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paskiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 October",
+                "normalised": "16 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr Burger",
+                "occupation_normalised": "Tit. Herr Burger"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Handelsmann von Sonnenberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paskiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 October",
+                "normalised": "17 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr Trentini",
+                "occupation_normalised": "Tit. Herr Trentini"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Geisflächer von Prag",
+            "lodging": "Poshorn",
+            "s_value": {
+                "verbatim": "log. in Poshorn",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 October",
+                "normalised": "17 October"
+            },
+            "gate": "Füsz",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Peter",
+                "family_name": "Möhsel",
+                "occupation_verbatim": "Spigenhändler",
+                "occupation_normalised": "Spigenhändler"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": "goldenen Bären",
+            "s_value": {
+                "verbatim": "log. in goldenen Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 October",
+                "normalised": "17 October"
+            },
+            "gate": "Füsz",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Dr",
+                "family_name": "Hülzmann",
+                "occupation_verbatim": "Jurist von Paderborn",
+                "occupation_normalised": "Jurist von Paderborn"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Paderborn",
+            "lodging": "der blauen Lilie",
+            "s_value": {
+                "verbatim": "log. in der blauen Lilie",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 October",
+                "normalised": "18 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Walter",
+                "occupation_normalised": "S.T. Herr Walter"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Lederhändler von Sonnenberg",
+            "lodging": "Ochsenkopf",
+            "s_value": {
+                "verbatim": "log. in Ochsenkopf",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 October",
+                "normalised": "18 October"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "hereinz",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Baron von Gugl",
+                "occupation_normalised": "S.T. Herr Baron von Gugl"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Churpsälzischer Lieutenant",
+            "lodging": "Poshorn",
+            "s_value": {
+                "verbatim": "log. in Poshorn",
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-10-23_Num_43",
+    "source": {
+        "issue_date": "1770-10-23",
+        "issue_number": "Num. 43",
+        "canvases": [
+            339,
+            340,
+            341,
+            342
+        ]
+    }
+}

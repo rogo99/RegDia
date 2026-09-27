@@ -1,0 +1,1195 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Hiesige Begebenheiten",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "25 May",
+                            "normalised": "25 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Gertraud",
+                                "family_name": "Schliiger",
+                                "occupation_verbatim": "Burger und Hutmacher",
+                                "occupation_normalised": "Burger and Hatmaker"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Heinrich",
+                                "family_name": "Schliiger",
+                                "occupation_verbatim": "Burger und Hutmacher",
+                                "occupation_normalised": "Burger and Hatmaker"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "20 May",
+                            "normalised": "20 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Gehwolf",
+                                "occupation_verbatim": "Burger, Kuopf- und Handarbeiter",
+                                "occupation_normalised": "Burger, Copper and Handworker"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Albrecht",
+                                "family_name": "Gehwolf",
+                                "occupation_verbatim": "Burger, Kuopf- und Handarbeiter",
+                                "occupation_normalised": "Burger, Copper and Handworker"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr, 32 Wochen und 4 Tage alt",
+                            "age_days": 32
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 May",
+                            "normalised": "22 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sibylla Sabine",
+                                "family_name": "Mösslinger",
+                                "occupation_verbatim": "Burger und Salzwickier",
+                                "occupation_normalised": "Burger and Salt Merchant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Gabriel",
+                                "family_name": "Mösslinger",
+                                "occupation_verbatim": "Burger und Salzwickier",
+                                "occupation_normalised": "Burger and Salt Merchant"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24 May",
+                            "normalised": "24 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "M. Christoph Sigmund",
+                                "family_name": "Kettner",
+                                "occupation_verbatim": "Burger und Schuhmacker",
+                                "occupation_normalised": "Burger and Shoemaker"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M.",
+                                "family_name": "Kettner",
+                                "occupation_verbatim": "Burger und Schuhmacker",
+                                "occupation_normalised": "Burger and Shoemaker"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "24 May",
+                            "normalised": "24 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "M. Christoph Sigmund",
+                                "family_name": "Kettner",
+                                "occupation_verbatim": "Burger und Schuhmacker",
+                                "occupation_normalised": "Burger and Shoemaker"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M.",
+                                "family_name": "Kettner",
+                                "occupation_verbatim": "Burger und Schuhmacker",
+                                "occupation_normalised": "Burger and Shoemaker"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "21 May",
+                            "normalised": "21 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Petrus",
+                                "family_name": "Saltner",
+                                "occupation_verbatim": "Bränknecht und Beysiger allhier",
+                                "occupation_normalised": "Bricklayer and Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Gottlich",
+                                "family_name": "Dürsch",
+                                "occupation_verbatim": "Bürger, Lübl. Smr. Stadt Werk- und Zimmermeister allhier",
+                                "occupation_normalised": "Bürger, Lübl. Smr. Town Wood and Carpenter here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 May",
+                            "normalised": "20 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ioh Georga",
+                                "family_name": "Kalsboden",
+                                "occupation_verbatim": "Rater, Thomas Kalsboden, Fuhrknecht und Beysiger allhier",
+                                "occupation_normalised": "Rat, Thomas Kalsboden, Cartman and Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Thomas",
+                                "family_name": "Kalsboden",
+                                "occupation_verbatim": "Rater, Thomas Kalsboden, Fuhrknecht und Beysiger allhier",
+                                "occupation_normalised": "Rat, Thomas Kalsboden, Cartman and Town Crier here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 May",
+                            "normalised": "21 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": "Falter",
+                                "occupation_verbatim": "Bürger und Schneidermeister zu Stadt am Hof",
+                                "occupation_normalised": "Bürger and Tailor here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Eiberinus",
+                                "family_name": "Falter",
+                                "occupation_verbatim": "Bürger und Schneidermeister zu Stadt am Hof",
+                                "occupation_normalised": "Bürger and Tailor here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 May",
+                            "normalised": "23 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Franciscus Xaverius",
+                                "family_name": "Harbauer",
+                                "occupation_verbatim": "Bey-siger allhier",
+                                "occupation_normalised": "Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes Petrus",
+                                "family_name": "Harbauer",
+                                "occupation_verbatim": "Bey-siger allhier",
+                                "occupation_normalised": "Town Crier here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 May",
+                            "normalised": "23 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Franciscus de Paula",
+                                "family_name": "Hügler",
+                                "occupation_verbatim": "Mahler und Beysiger allhier",
+                                "occupation_normalised": "Painter and Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Nicolaus",
+                                "family_name": "Hügler",
+                                "occupation_verbatim": "Mahler und Beysiger allhier",
+                                "occupation_normalised": "Painter and Town Crier here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24 May",
+                            "normalised": "24 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Petrus Josephus",
+                                "family_name": "Schäufele",
+                                "occupation_verbatim": "Hausknecht an dem Hochfürstl. Thurn- und Tarischen Hof",
+                                "occupation_normalised": "House Servant at the High Prince Thurn and Taxis Court"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Schäufele",
+                                "occupation_verbatim": "Hausknecht an dem Hochfürstl. Thurn- und Tarischen Hof",
+                                "occupation_normalised": "House Servant at the High Prince Thurn and Taxis Court"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 May",
+                            "normalised": "25 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus",
+                                "family_name": "Gisamer",
+                                "occupation_verbatim": "Beysiger zu Stadt am Hof",
+                                "occupation_normalised": "Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Gisamer",
+                                "occupation_verbatim": "Beysiger zu Stadt am Hof",
+                                "occupation_normalised": "Town Crier here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 May",
+                            "normalised": "26 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Eva Theresia",
+                                "family_name": "Halser",
+                                "occupation_verbatim": "Schreiber allhier",
+                                "occupation_normalised": "Writer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus",
+                                "family_name": "Halser",
+                                "occupation_verbatim": "Schreiber allhier",
+                                "occupation_normalised": "Writer here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 May",
+                            "normalised": "26 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Hösel",
+                                "occupation_verbatim": "Grenadier unter allhiesiger Stadtgarde",
+                                "occupation_normalised": "Grenadier under the local city guard"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Antonius",
+                                "family_name": "Hösel",
+                                "occupation_verbatim": "Grenadier unter allhiesiger Stadtgarde",
+                                "occupation_normalised": "Grenadier under the local city guard"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 May",
+                            "normalised": "26 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Amann",
+                                "occupation_verbatim": "Zimmergeselle allhier",
+                                "occupation_normalised": "Carpenter here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonard",
+                                "family_name": "Amann",
+                                "occupation_verbatim": "Zimmergeselle allhier",
+                                "occupation_normalised": "Carpenter here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "21 May",
+                            "normalised": "21 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Dominicus",
+                                "family_name": "Niedel",
+                                "occupation_verbatim": "Beysiker althier",
+                                "occupation_normalised": "Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus",
+                                "family_name": "Trost",
+                                "occupation_verbatim": "Beysiker und Fischers-knecht allhier",
+                                "occupation_normalised": "Town Crier and Fisherman here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "72 Jahr alt",
+                            "age_days": 72
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 May",
+                            "normalised": "21 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia",
+                                "family_name": "Trost",
+                                "occupation_verbatim": "Beysiker und Fischers-knecht allhier",
+                                "occupation_normalised": "Town Crier and Fisherman here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus",
+                                "family_name": "Trost",
+                                "occupation_verbatim": "Beysiker und Fischers-knecht allhier",
+                                "occupation_normalised": "Town Crier and Fisherman here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2½ Jahr alt",
+                            "age_days": 2.5
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 May",
+                            "normalised": "22 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joh. Michael",
+                                "family_name": "Löffler",
+                                "occupation_verbatim": "Inwohner in des Hochw. Domcapitul. Hochfürstl. Hochsifts-Häusern",
+                                "occupation_normalised": "Resident in the High Imperial Court"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Antonius",
+                                "family_name": "Löffler",
+                                "occupation_verbatim": "Inwohner in des Hochw. Domcapitul. Hochfürstl. Hochsifts-Häusern",
+                                "occupation_normalised": "Resident in the High Imperial Court"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr, 3 Monathe und 4 Tage alt",
+                            "age_days": 6
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 May",
+                            "normalised": "23 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": "Fenderl",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Fenderl",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Town Crier here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "ein halb Jahr alt",
+                            "age_days": 6
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "20 May",
+                            "normalised": "20 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Hasfreiter",
+                                "occupation_verbatim": "Beysiker und Roßhändler allhier",
+                                "occupation_normalised": "Town Crier and Horse Trader here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg",
+                                "family_name": "Hasfreiter",
+                                "occupation_verbatim": "Beysiker und Roßhändler allhier",
+                                "occupation_normalised": "Town Crier and Horse Trader here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr und 6 Wochen alt",
+                            "age_days": 1
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 May",
+                            "normalised": "20 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": "Kiermayer",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Town Crier here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacobus",
+                                "family_name": "Kiermayer",
+                                "occupation_verbatim": "Beysiker allhier",
+                                "occupation_normalised": "Town Crier here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Tage alt",
+                            "age_days": 8
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 May",
+                            "normalised": "20 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael",
+                                "family_name": "Mangekammer",
+                                "occupation_verbatim": "Inuwohner in dem Obermünster-Hauß",
+                                "occupation_normalised": "Resident in the Upper Monastery House"
+                            },
+                            {
+                                "role": "father"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-05-29_Num_22",
+    "source": {
+        "issue_date": "1770-05-29",
+        "issue_number": "Num. 22",
+        "canvases": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "25 May",
+                "normalised": "25 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Barons Mägerl",
+                "family_name": "von Wiesenfelden",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "S.T.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 May",
+                "normalised": "25 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sauer",
+                "family_name": null,
+                "occupation_verbatim": "Posta",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Brüssel",
+            "lodging": "paßiren durch",
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 May",
+                "normalised": "26 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Fischer",
+                "family_name": "Galanteriehändler aus Franken",
+                "occupation_verbatim": "Wagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "goldenen Adler",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Leiszner",
+                "family_name": "Handelsmann aus Sachsen",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ruppensperg",
+                "family_name": "Kaufmann von Nürnberg",
+                "occupation_verbatim": "Postwagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Franz",
+                "family_name": "Jurist von Wien",
+                "occupation_verbatim": "Postwagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 May",
+                "normalised": "22 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Churbayerischer Kriegscommisfaire",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 May",
+                "normalised": "23 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joseph Goldschmid",
+                "family_name": "Hoffactor von Pappenheim",
+                "occupation_verbatim": "Pferd",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 May",
+                "normalised": "16 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 May",
+                "normalised": "26 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vogel",
+                "family_name": "Handelsmann aus Sachsen",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 May",
+                "normalised": "27 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Reid",
+                "family_name": "Passagier",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Röthenbacher",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Voit",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Waitzenbeck",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Hundinger",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Reid",
+                "family_name": "Passagier",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Röthenbacher",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Voit",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Waitzenbeck",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Hundinger",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Dossley",
+                "family_name": "Casarnen-Verwalter zu Pressburg",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "schwarzen Adler",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Baron von Horben",
+                "family_name": "Hochfürstlich-Tarischer Hof-Marschall",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "6 Kutschen",
+                "family_name": "Hochfürstl. Durchl. Fürst von Thurn und Taxis",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "nebst einer Suite von 50 Personen",
+            "s_value": {
+                "verbatim": "um 12 Uhr, Mittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 May",
+                "normalised": "24 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Dossley",
+                "family_name": "Casarnen-Verwalter zu Pressburg",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 May",
+                "normalised": "25 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Lamber",
+                "family_name": "Hochfürstl. Tarischer Cammerdiener",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 May",
+                "normalised": "26 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Wagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null
+        }
+    ]
+}

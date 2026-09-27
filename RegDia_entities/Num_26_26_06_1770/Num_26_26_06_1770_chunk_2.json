@@ -1,0 +1,526 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": "Vormittags",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Esstafetta",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": "hierin",
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "21 Junii.",
+                "normalised": "21 Junii."
+            },
+            "gate": "hinaus",
+            "direction": null,
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Biszthum",
+                "occupation_verbatim": "jun. führet in einem Plättel nach Wien, Herrn Gothing, Jur. Praet.",
+                "occupation_normalised": "jun. führet in einem Plättel nach Wien, Herrn Gothing, Jur. Praet."
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Thomas",
+                "family_name": "Hörndl",
+                "occupation_verbatim": "führet das orb. Schiff nach Wien",
+                "occupation_normalised": "führet das orb. Schiff nach Wien"
+            },
+            "time": null,
+            "transport": "orb. Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20 Junii.",
+                "normalised": "20 Junii."
+            },
+            "gate": "hierin",
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Graf von Taufkirchen",
+                "occupation_verbatim": "Churbayerischer Hauptmann re. f. 2.",
+                "occupation_normalised": "Churbayerischer Hauptmann re. f. 2."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ströb",
+                "occupation_verbatim": "ein Kaufmann von Eisenach",
+                "occupation_normalised": "ein Kaufmann von Eisenach"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Baron von Horneck",
+                "occupation_verbatim": "Churbayerischer Cammerherr",
+                "occupation_normalised": "Churbayerischer Cammerherr"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Baronin von Lerchenfeld",
+                "occupation_verbatim": "Rentmeisterin von Straubing",
+                "occupation_normalised": "Rentmeisterin von Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Elsperger",
+                "occupation_verbatim": "ein Handlungsverwudter von Nürnberg",
+                "occupation_normalised": "ein Handlungsverwudter von Nürnberg"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "15.",
+                "normalised": "15."
+            },
+            "gate": "hierin",
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Baron von Schbnan",
+                "occupation_verbatim": "Churbayerischer Hauptmann",
+                "occupation_normalised": "Churbayerischer Hauptmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Palock",
+                "occupation_verbatim": "Hr. Salay, und Hr. Sixay, Stud. aus Ungarn",
+                "occupation_normalised": "Hr. Salay, und Hr. Sixay, Stud. aus Ungarn"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Poshorn",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joh. Georg",
+                "family_name": "Auer",
+                "occupation_verbatim": "ein Fleischschaaber von Pest, in Ungarn",
+                "occupation_normalised": "ein Fleischschaaber von Pest, in Ungarn"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Türken",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Eckel",
+                "occupation_verbatim": "ein Kaufmann von München",
+                "occupation_normalised": "ein Kaufmann von München"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "General von Höhenhauser",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Frau von Lichtenstein",
+                "occupation_verbatim": "aus der Ober-Pfalz",
+                "occupation_normalised": "aus der Ober-Pfalz"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "3",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Junii.",
+                "normalised": "22 Junii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Gusakovsky",
+                "occupation_verbatim": "und Tit. Herr von Schwelisky, Cas-Cavaliers aus Polen",
+                "occupation_normalised": "und Tit. Herr von Schwelisky, Cas-Cavaliers aus Polen"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Junii.",
+                "normalised": "22 Junii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Corva",
+                "occupation_verbatim": "Churpfälzischer Hauptmann",
+                "occupation_normalised": "Churpfälzischer Hauptmann"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingolstädter ord. Vothe",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Gril",
+                "occupation_verbatim": "von Augspurg; und Hr. Kaberstich, von Maynz, Handelsleute",
+                "occupation_normalised": "von Augspurg; und Hr. Kaberstich, von Maynz, Handelsleute"
+            },
+            "time": null,
+            "transport": "Wiener Postwagen",
+            "origin": "Schwarzen Bären",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mfr.",
+                "family_name": "Sureki",
+                "occupation_verbatim": "ein Kaufmann von Wien",
+                "occupation_normalised": "ein Kaufmann von Wien"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "St. Jacob",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "15.",
+                "normalised": "15."
+            },
+            "gate": "hinaus",
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Gubanelli",
+                "occupation_verbatim": "Kaysfcr. Cabinetscourier",
+                "occupation_normalised": "Kaysfcr. Cabinetscourier"
+            },
+            "time": {
+                "verbatim": "8 Uhr",
+                "value": "8",
+                "unit": "Uhr"
+            },
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Schugart",
+                "occupation_verbatim": "ein Passagier",
+                "occupation_normalised": "ein Passagier"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Gusakovsky",
+                "occupation_verbatim": "und Tit. Herr von Schwelisky, Cas-Cavaliers aus Polen",
+                "occupation_normalised": "und Tit. Herr von Schwelisky, Cas-Cavaliers aus Polen"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Kleinschmid",
+                "occupation_verbatim": "ein Weinhandler von Maynz",
+                "occupation_normalised": "ein Weinhandler von Maynz"
+            },
+            "time": {
+                "verbatim": "1 Uhr",
+                "value": "1",
+                "unit": "Uhr"
+            },
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Gusakovsky",
+                "occupation_verbatim": "und Tit. Herr von Schwelisky, Cas-Cavaliers aus Polen",
+                "occupation_normalised": "und Tit. Herr von Schwelisky, Cas-Cavaliers aus Polen"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Silberpöthe von Amberg",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Corva",
+                "occupation_verbatim": "Churpfälzischer Hauptmann",
+                "occupation_normalised": "Churpfälzischer Hauptmann"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingolstädter ord. Vothe",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Junii.",
+                "normalised": "22 Junii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Luschinzy",
+                "occupation_verbatim": "Rayerl. Fähnrich",
+                "occupation_normalised": "Rayerl. Fähnrich"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Ulm",
+            "lodging": "goldenen Adler",
+            "s_value": null
+        }
+    ],
+    "id": "1770-06-26_Num_26",
+    "source": {
+        "issue_date": "1770-06-26",
+        "issue_number": "Num. 26",
+        "canvases": [
+            207,
+            208,
+            209,
+            210
+        ]
+    }
+}

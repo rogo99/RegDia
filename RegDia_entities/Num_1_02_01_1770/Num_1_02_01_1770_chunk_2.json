@@ -1,0 +1,17 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [],
+    "id": "1770-01-02_Num_1",
+    "source": {
+        "issue_date": "1770-01-02",
+        "issue_number": "Num. 1",
+        "canvases": [
+            14
+        ]
+    }
+}

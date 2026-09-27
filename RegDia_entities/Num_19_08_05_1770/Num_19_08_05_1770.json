@@ -1,0 +1,1125 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Ger aufsetzt",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "29 April",
+                            "normalised": "29 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sibylla Margaretha",
+                                "family_name": "Tanscher",
+                                "occupation_verbatim": "Bürger und Ländler",
+                                "occupation_normalised": "Bürger and Farmer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Jacob",
+                                "family_name": "Tanscher",
+                                "occupation_verbatim": "Bürger und Ländler",
+                                "occupation_normalised": "Bürger and Farmer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29 April",
+                            "normalised": "29 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Adler",
+                                "occupation_verbatim": "Bürger und Pesruquenmacher",
+                                "occupation_normalised": "Bürger and Painter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hieronymus Gottlieb",
+                                "family_name": "Adler",
+                                "occupation_verbatim": "Bürger und Pesruquenmacher",
+                                "occupation_normalised": "Bürger and Painter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 May",
+                            "normalised": "1 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wolfgang",
+                                "family_name": "Esterlin",
+                                "occupation_verbatim": "Bürger und Schlosser",
+                                "occupation_normalised": "Bürger and Blacksmith"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Joh. Georg",
+                                "family_name": "Esterlin",
+                                "occupation_verbatim": "Bürger und Schlosser",
+                                "occupation_normalised": "Bürger and Blacksmith"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 May",
+                            "normalised": "1 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Philipp Jacob",
+                                "family_name": "Himmler",
+                                "occupation_verbatim": "Bürger und Wagner",
+                                "occupation_normalised": "Bürger and Woodworker"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Johann Leonhard",
+                                "family_name": "Himmler",
+                                "occupation_verbatim": "Bürger und Wagner",
+                                "occupation_normalised": "Bürger and Woodworker"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 May",
+                            "normalised": "3 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sibylla Maria",
+                                "family_name": "Zahn",
+                                "occupation_verbatim": "Bürger und Tuchhändler",
+                                "occupation_normalised": "Bürger and Cloth Merchant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr. Georg Ludwig",
+                                "family_name": "Zahn",
+                                "occupation_verbatim": "Bürger und Tuchhändler",
+                                "occupation_normalised": "Bürger and Cloth Merchant"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 May",
+                            "normalised": "3 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Carl",
+                                "family_name": "Bruckmüller",
+                                "occupation_verbatim": "Bürger und Handelsmann",
+                                "occupation_normalised": "Bürger and Merchant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr. Conrad Carl",
+                                "family_name": "Bruckmüller",
+                                "occupation_verbatim": "Bürger und Handelsmann",
+                                "occupation_normalised": "Bürger and Merchant"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 May",
+                            "normalised": "3 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "August Wilhelm",
+                                "family_name": "Struve",
+                                "occupation_verbatim": "Kaysel. und Großfürsil. Ruzisch- auch Bischöflich-Lübeckischer resp. Legationsrathe und Secretair",
+                                "occupation_normalised": "Kaysel. and Grand Prince Ruzisch- also Bishop of Lübeck Legation Councillor and Secretary"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Tie. Herr Anton Sebastian",
+                                "family_name": "Struve",
+                                "occupation_verbatim": "Kaysel. und Großfürsil. Ruzisch- auch Bischöflich-Lübeckischer resp. Legationsrathe und Secretair",
+                                "occupation_normalised": "Kaysel. and Grand Prince Ruzisch- also Bishop of Lübeck Legation Councillor and Secretary"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "30 April",
+                            "normalised": "30 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg",
+                                "family_name": "Neubauer",
+                                "occupation_verbatim": "Deysitzer und Taglöhner",
+                                "occupation_normalised": "Day laborer and Day laborer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre, 11 Wochen und 2 Tag alt",
+                            "age_days": 115
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 May",
+                            "normalised": "3 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Carl Gottlob",
+                                "family_name": "Zeitzmann",
+                                "occupation_verbatim": "Bedienter bey des Hochansehnt. Kayserl. Herrn Concommisarii",
+                                "occupation_normalised": "Servant of the Highly Esteemed Imperial Lord Commissioner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "51 Jahre, 31 Wochen und 2 Tage alt",
+                            "age_days": 3155
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 May",
+                            "normalised": "3 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johauna Rosina Margaretha",
+                                "family_name": "Dözlars",
+                                "occupation_verbatim": "Burgers und Ziegelarbeiterd allhter",
+                                "occupation_normalised": "Burgers and Bricklayer Allotter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "39 Jahr alt",
+                            "age_days": 39
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 May",
+                            "normalised": "3 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jsafr. Rosina Judith Maria",
+                                "family_name": "Hosmannin",
+                                "occupation_verbatim": "Pfründnerin in Lübl. Omr.",
+                                "occupation_normalised": "Parishioner in Lübl. Omr."
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "80 Jahr alt",
+                            "age_days": 80
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4 May",
+                            "normalised": "4 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Nicolaus",
+                                "family_name": "Röhm",
+                                "occupation_verbatim": "gewesener Portier bey weil. S. T. Freyherrn von Kniestdt",
+                                "occupation_normalised": "former Porter at Weil. S. T. Freyherrn von Kniestdt"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "73 Jahre, 7 Wochen und 2 Tage alt",
+                            "age_days": 2709
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4 May",
+                            "normalised": "4 May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Paul",
+                                "family_name": "Wolfrum",
+                                "occupation_verbatim": "Burger und Holzauswerfer allhier",
+                                "occupation_normalised": "Bürger and Wood Processor Here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahre weniger 12 Wochen und 3 Tage alt",
+                            "age_days": 213
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tic.Herr v.Moscov",
+                "occupation_normalised": "Tic.Herr v.Moscov"
+            },
+            "time": "Vormittags",
+            "transport": "Tic. Herr de Forcnees",
+            "origin": "Amsterdam",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "s. z. log.",
+                "value": "s. z. log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S. T. Frau Gräfin von Castel",
+                "occupation_normalised": "S. T. Frau Gräfin von Castel"
+            },
+            "time": "Vormittags",
+            "transport": "S. T. Frau Baronin von Wofz",
+            "origin": "Rüdenhausen",
+            "lodging": "weisen Lamm",
+            "s_value": {
+                "verbatim": "s. 11. log.",
+                "value": "s. 11. log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Amberger ord.",
+                "occupation_normalised": "Amberger ord."
+            },
+            "time": "Vormittags",
+            "transport": "Knutsche",
+            "origin": "Weiz",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Lemle Isaac",
+            "origin": "Alexander",
+            "lodging": "Wertheimer",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Jacob Wassermann",
+            "origin": "Alexander",
+            "lodging": "Alexander",
+            "s_value": {
+                "verbatim": "log.",
+                "value": "log."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 April",
+                "normalised": "30 April"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": "Kutsche"
+            },
+            "time": "Vormittags"
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Garty",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann von Augspurg",
+                "occupation_normalised": "Handelsmann von Augsburg"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Rotter, ein Handelsmann von Rudelfade, f. 2.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Rotter",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann von Rudelfade",
+                "occupation_normalised": "Handelsmann von Rudelfade"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "Posthorn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Meirner, Oberungeldner von Burglengenfeld, und Herr Fischer, Churfälzischer Fähndrich, f. 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Meirner",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Oberungeldner von Burglengenfeld",
+                "occupation_normalised": "Oberungeldner von Burglengenfeld"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Straubinger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenchore hinaus:",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": "Ostenchore",
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Mya. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Straubinger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per per Postcalesch, S. T. Herr Baron von Jedwiz, und Tir. Herr von Oberhauser, Churbayrische Oberlieutenant.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Baron von Jedwiz",
+                "family_name": "S. T. Herr",
+                "occupation_verbatim": "Churbayrische Oberlieutenant",
+                "occupation_normalised": "Churbayrische Oberlieutenant"
+            },
+            "time": null,
+            "transport": "Postcalesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Tir. Herr de David, Controleur von Ihr Königl. Hoheit, Prinzessin Charlotta, w. f. 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "de David",
+                "family_name": "Tir. Herr",
+                "occupation_verbatim": "Controleur von Ihr Königl. Hoheit, Prinzessin Charlotta",
+                "occupation_normalised": "Controleur von Ihr Königl. Hoheit, Prinzessin Charlotta"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "w.",
+                "value": "4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "5."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Straubinger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Weyh St. Peterchore herein:",
+                "normalised": "27 April."
+            },
+            "gate": null,
+            "direction": "St. Peterchore herein",
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Schönbuchner, Verwalter von Lanterbach, f. 2.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Schönbuchner",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Verwalter von Lanterbach",
+                "occupation_normalised": "Verwalter von Lanterbach"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Adler",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, eine Esaffetta von Eglofsheim, um 3/4 10 Uhr, Abends.",
+                "normalised": "3/4 10 Uhr, Abends."
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "3/4 10 Uhr, Abends",
+            "transport": "Posta",
+            "origin": "Eglofsheim",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29. Per Münchner Postwagen, um 4/7 Uhr, Abends.",
+                "normalised": "4/7 Uhr, Abends."
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "4/7 Uhr, Abends",
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Dingelsinger Bothe, log. in Türken.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Dingelsinger",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 May. Per Wagen, der Landshuter ord. Bothe, log. in Türken.",
+                "normalised": "1."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Landshuter ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Wagen, der Ingolstädter Bothe, log. in Türken.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Ingolstädter",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Posta, S.T. Herr von Rothenhan, Kaysertl. Cammerherr, f. 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Rothenhan",
+                "family_name": "S.T. Herr",
+                "occupation_verbatim": "Kaysertl. Cammerherr",
+                "occupation_normalised": "Kaysertl. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.",
+                "value": "4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Herr Cajeroni, Kaysertl. Conrier, um 5/6 Uhr, früh, bald wieder hinaus.",
+                "normalised": "5/6 Uhr, früh"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Cajeroni",
+                "family_name": "Herr",
+                "occupation_verbatim": "Kaysertl. Conrier",
+                "occupation_normalised": "Kaysertl. Conrier"
+            },
+            "time": "5/6 Uhr, früh",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta) mit 4 Kutschcn, Ihre Königl. Hoheit, Prinzessin Charlotta, rc. f. 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Prinzessin Charlotta",
+                "family_name": "Ihre Königl. Hoheit",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "24.",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc.",
+                "value": "24."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S.T. Herr Graf von Ladron, Chursächsischer Obristhofmeister, f. 6.",
+                "normalised": "6."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Graf von Ladron",
+                "family_name": "S.T. Herr",
+                "occupation_verbatim": "Chursächsischer Obristhofmeister",
+                "occupation_normalised": "Chursächsischer Obristhofmeister"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.",
+                "value": "6."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Wagen, der Landskuter Bothe, log. in Pfauen.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Landskuter",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Weyh St.Peterchore hinaus:",
+                "normalised": "1 May."
+            },
+            "gate": null,
+            "direction": "St.Peterchore hinaus",
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Der Münchner Postwagen, um 7 Uhr, Bormittags.",
+                "normalised": "7 Uhr, Bormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "7 Uhr, Bormittags",
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Der Wiener Postwagen, um ½ 1 Uhr Mittags.",
+                "normalised": "½ 1 Uhr Mittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "½ 1 Uhr Mittags",
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Landskuter ord. Bothe.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "der Landskuter ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, eine Estaffetta nach Pfsde., um 6 Uhr, Nachmittags.",
+                "normalised": "6 Uhr, Nachmittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "6 Uhr, Nachmittags",
+            "transport": "Posta",
+            "origin": "Pfsde.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per posta, Se. Exceu. Herr de Bime, Königlich = Englischer Gesands ter, se. f. s.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "de Bime",
+                "family_name": "Se. Exceu.",
+                "occupation_verbatim": "Königlich = Englischer Gesands ter",
+                "occupation_normalised": "Königlich = Englischer Gesands ter"
+            }
+        }
+    ],
+    "id": "1770-05-08_Num_19",
+    "source": {
+        "issue_date": "1770-05-08",
+        "issue_number": "Num. 19",
+        "canvases": [
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154
+        ]
+    }
+}

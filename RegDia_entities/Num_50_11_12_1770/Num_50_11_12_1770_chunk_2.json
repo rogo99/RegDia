@@ -1,0 +1,461 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "5 Dec.",
+                "normalised": "5 December"
+            },
+            "gate": "Haff und Hau",
+            "direction": "Ostenchorre",
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Straubinger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 Dec.",
+                "normalised": "7 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Manedinsky",
+                "family_name": "Herr",
+                "occupation_verbatim": "Kayserl. Crayzeazirer",
+                "occupation_normalised": "Kayserl. Crayzeazirer"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Kayserl.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. s.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Dec.",
+                "normalised": "8 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Straubinger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "4 Dec.",
+                "normalised": "4 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Landshuter",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "log. in Türken",
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 Dec.",
+                "normalised": "5 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Dingelsfinger",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "log. in Türken",
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 Dec.",
+                "normalised": "5 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Morenheim",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Herr von",
+                "occupation_normalised": "Herr von"
+            },
+            "time": "um 2/3 Uhr",
+            "transport": "Posta",
+            "origin": "Kayserl. Shildcourier",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "freih, paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 Dec.",
+                "normalised": "5 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ingolstädter",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Herr von",
+                "occupation_normalised": "Herr von"
+            },
+            "time": "log. in Türken",
+            "transport": "Kutsche",
+            "origin": "Ingolstädter",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 Dec.",
+                "normalised": "5 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Lubeinsky",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Herr von",
+                "occupation_normalised": "Herr von"
+            },
+            "time": "log. in 2 Helmen",
+            "transport": "Posta",
+            "origin": "Tit. Herr von Lubeinsky",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ein Cavalier aus Noblen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "6 Dec.",
+                "normalised": "6 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Selemann",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": "um 8 Uhr, Abends",
+            "transport": "Wiener Postwagen",
+            "origin": "Wien",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 Dec.",
+                "normalised": "7 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Landshuter ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "2 Dec.",
+                "normalised": "2 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mätternich",
+                "family_name": "Graf von",
+                "occupation_verbatim": "Errecll.",
+                "occupation_normalised": "Errecll."
+            },
+            "time": "f. 6",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 Dec.",
+                "normalised": "7 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Silber",
+                "occupation_verbatim": "Tit.",
+                "occupation_normalised": "Tit."
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "2 Dec.",
+                "normalised": "2 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Reuter",
+                "family_name": "Herr",
+                "occupation_verbatim": "Reuter",
+                "occupation_normalised": "Reuter"
+            },
+            "time": "log. in Spiegel",
+            "transport": "Posta",
+            "origin": "Neuburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "4 Dec.",
+                "normalised": "4 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vothe",
+                "family_name": "Augsburger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "log. in gold. Bären",
+            "transport": "Wagen",
+            "origin": "Augsburger ord.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28 Dec.",
+                "normalised": "28 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Dreyfeld",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": "log. in gold. Adler",
+            "transport": "Pferde",
+            "origin": "Augsburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 Dec.",
+                "normalised": "7 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bauer",
+                "family_name": "Josephus",
+                "occupation_verbatim": "Tit.",
+                "occupation_normalised": "Tit."
+            },
+            "time": "log. im Jesuiter-Colleg",
+            "transport": "Kutsche",
+            "origin": "Ingolstädter ord.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Pat. Prior der Jesuiten zu Angsburg",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Dec.",
+                "normalised": "8 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Lingenberg",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": "log. in Pfug",
+            "transport": "Calesch",
+            "origin": "Wien",
+            "lodging": "Pfug",
+            "s_value": {
+                "verbatim": "f. 2",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Dec.",
+                "normalised": "8 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Schmauz",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Herr von",
+                "occupation_normalised": "Herr von"
+            },
+            "time": "log. in weissen Lamm",
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Dec.",
+                "normalised": "8 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Farenbach",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Herr von",
+                "occupation_normalised": "Herr von"
+            },
+            "time": "log. in weissen Lamm",
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. 3",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Dec.",
+                "normalised": "9 December"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "la Rosée",
+                "family_name": "Graf von",
+                "occupation_verbatim": "Tit.",
+                "occupation_normalised": "Tit."
+            },
+            "time": "log. in weissen Lamm",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-12-11_Num_50",
+    "source": {
+        "issue_date": "1770-12-11",
+        "issue_number": "Num. 50",
+        "canvases": [
+            399,
+            400,
+            401,
+            402
+        ]
+    }
+}

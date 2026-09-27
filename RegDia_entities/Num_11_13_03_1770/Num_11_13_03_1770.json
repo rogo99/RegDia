@@ -1,0 +1,1141 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerrauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "5 Merz",
+                            "normalised": "5 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Hieronymus",
+                                "family_name": "Paul von Mämmingen",
+                                "occupation_verbatim": "Lieutenant bey Löbl. Gmr. Stadegarde",
+                                "occupation_normalised": "Lieutenant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Catharina Johanna Huberin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Andreas Brandner",
+                            "normalised": "6 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Brandner",
+                                "occupation_verbatim": "Burger, Woll- und Strumpfwäscher",
+                                "occupation_normalised": "Burger"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Anna Elisabetha",
+                                "family_name": "Brochenbergerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9. Friederich Anton Faber",
+                            "normalised": "9 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Friederich Anton",
+                                "family_name": "Faber",
+                                "occupation_verbatim": "Burger, Stadt- und Land-Chirurgus zu Löwenstein",
+                                "occupation_normalised": "Burger"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johanna Elisabetha",
+                                "family_name": "Püchelbergerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Gerauferte",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "5. Philipp Esperesther",
+                            "normalised": "5 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Philipp",
+                                "family_name": "Esperesther",
+                                "occupation_verbatim": "Burzer und Gastgeb",
+                                "occupation_normalised": "Burzer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "41 Jahre 3 Wochen und 4 Tage alt",
+                            "age_days": 41
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Herr Johann Christoph de Ahna",
+                            "normalised": "6 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Christoph",
+                                "family_name": "de Ahna",
+                                "occupation_verbatim": "Herzoglich - Württembergischer Legations-Cauzelist allhier",
+                                "occupation_normalised": "Legations-Cauzelist"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "71 Jahre weniger 4 Tage alt",
+                            "age_days": 71
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8. Christian",
+                            "normalised": "8 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christian",
+                                "family_name": null,
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": "Vater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Paul",
+                                "family_name": "Geh.",
+                                "occupation_verbatim": "Burzer und Salzzwicker allhier",
+                                "occupation_normalised": "Burzer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre weniger 7 Wochen und 3 Tage alt",
+                            "age_days": 3
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "4 Merz",
+                            "normalised": "4 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Francisca",
+                                "family_name": "Baumann",
+                                "occupation_verbatim": "Stephanns Baumann, Beyßher zu Stadt am Hof",
+                                "occupation_normalised": "Beyßher"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Stephann",
+                                "family_name": "Baumann",
+                                "occupation_verbatim": "Beyßher zu Stadt am Hof",
+                                "occupation_normalised": "Beyßher"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7 Rosalia Agnes Magdalena",
+                            "normalised": "7 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Rosalia Agnes",
+                                "family_name": "Magdalena",
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": "Vater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus Johannes",
+                                "family_name": "Stusche",
+                                "occupation_verbatim": "Beyßher allhier",
+                                "occupation_normalised": "Beyßher"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die, Maria Anna",
+                            "normalised": "8 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": "Vater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Friedrich",
+                                "family_name": "Dorer",
+                                "occupation_verbatim": "Tapezierer und Beyßher allhier",
+                                "occupation_normalised": "Tapezierer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8. Johann Baptist",
+                            "normalised": "8 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": null,
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": "Vater"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Seitel",
+                                "occupation_verbatim": "Beyßher zu Stadt am Hof",
+                                "occupation_normalised": "Beyßher"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsifts-Pfarr, Obermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "3 Merz",
+                            "normalised": "3 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wolfgang",
+                                "family_name": "Ott",
+                                "occupation_verbatim": "frey resignirter Stadtschreiber zu Stadt am Hof",
+                                "occupation_normalised": "Stadtschreiber"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Hochlöbl. Congregation der Verkündigung Mariä",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "3 Merz",
+                            "normalised": "3 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wolfgang",
+                                "family_name": "Ott",
+                                "occupation_verbatim": "frey resignirter Stadtschreiber zu Stadt am Hof",
+                                "occupation_normalised": "Stadtschreiber"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "2 Merz",
+                "normalised": "2 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Christoph",
+                "family_name": "Röslar",
+                "occupation_verbatim": "Beyssiger und in Löbl. Oimr. Stadt Bauführhof Strohschneider",
+                "occupation_normalised": "Beyssiger"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4. log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Merz",
+                "normalised": "10 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Magdalena Catharina",
+                "family_name": "Ellsier",
+                "occupation_verbatim": "Beyssiger allhier",
+                "occupation_normalised": "Beyssiger"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4. log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "4 Merz",
+                "normalised": "4 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Josephus Daunhauser",
+                "family_name": "Grenadier von der Churbayerischen Garnison zu Stadt am Hof",
+                "occupation_verbatim": "Grenadier",
+                "occupation_normalised": "Grenadier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "47 Jahr alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 Merz",
+                "normalised": "5 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Wolfgang Ott",
+                "family_name": "Herr",
+                "occupation_verbatim": "Herr Johann Wolfgang Ott, frey resignirter Stadtschreiber zu Stadt am Hof",
+                "occupation_normalised": "Stadtschreiber"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "67 Jahr alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7 Merz",
+                "normalised": "7 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Andreas Aurer",
+                "family_name": "vacirender Kutscher u. Beysitzer zu Stadt am Hof",
+                "occupation_verbatim": "vacirender Kutscher u. Beysitzer",
+                "occupation_normalised": "Kutscher"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "46 Jahr alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Merz",
+                "normalised": "8 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Isfr. Elisabetha",
+                "family_name": "Bitzenbämerin",
+                "occupation_verbatim": "Dienstmagd zu Stadt am Hof",
+                "occupation_normalised": "Dienstmagd"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "18 Jahre und 8 Monathe alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Merz",
+                "normalised": "9 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joh. Forthueber",
+                "family_name": "Beyssizer und Sprachmeister zu Stadt am Hof",
+                "occupation_verbatim": "Beyssizer und Sprachmeister",
+                "occupation_normalised": "Beyssizer"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "57 Jahr alt",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "4 Merz",
+                "normalised": "4 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "von Galberg",
+                "occupation_verbatim": "ein Cavalter von Würzburg",
+                "occupation_normalised": "Cavalter"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4. log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "5 Merz",
+                "normalised": "5 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Fran",
+                "family_name": "Störin",
+                "occupation_verbatim": "eine verwittibte Kupferstecherin von Nürnberg",
+                "occupation_normalised": "Kupferstecherin"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "z. log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "6 Merz",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Anna Maria",
+                "family_name": "Brack",
+                "occupation_verbatim": "Junwohner zu Cara",
+                "occupation_normalised": "Junwohner"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4. log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Merz",
+                "normalised": "9 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Meyer Levi",
+                "family_name": "Levi",
+                "occupation_verbatim": "ein Jude von Bodenwiesen",
+                "occupation_normalised": "Jude"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "beym Wertheimer",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4 Merz.",
+                "normalised": "4 March"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Pasquale",
+                "family_name": "Arbaria",
+                "occupation_verbatim": "Handelsmann von Como",
+                "occupation_normalised": "Merchant from Como"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "login Spiegel",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Calesch.",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bauer",
+                "family_name": "Mauthbeamter von Kelheim",
+                "occupation_verbatim": "Bauer, Mauthbeamter von Kelheim",
+                "occupation_normalised": "Farmer, Tax Collector from Kelheim"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2. pasiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8. Zu Fuz",
+                "normalised": "8 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Fred",
+                "family_name": "Chirurgus von Gräk",
+                "occupation_verbatim": "Chirurgus von Gräk",
+                "occupation_normalised": "Surgeon from Gräk"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Türken",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Per Calesch.",
+                "normalised": "9 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger ord.",
+                "occupation_verbatim": "Straubinger ord.",
+                "occupation_normalised": "Ordinary Soldier from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "log. in schwarzen Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Calesch.",
+                "normalised": "3 March"
+            },
+            "gate": "Zum Ostenthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tit.Herr",
+                "family_name": "von Spichel",
+                "occupation_verbatim": "Tit.Herr von Spichel",
+                "occupation_normalised": "Tit.Herr from Spichel"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Pfeger von Kirchberg",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Calesch.",
+                "normalised": "4 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bauer",
+                "family_name": "Mauthbeamter von Kelheim",
+                "occupation_verbatim": "Bauer, Mauthbeamter von Kelheim",
+                "occupation_normalised": "Farmer, Tax Collector from Kelheim"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Calesch.",
+                "normalised": "5 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Baron",
+                "family_name": "von Eydorf",
+                "occupation_verbatim": "Baron von Eydorf",
+                "occupation_normalised": "Baron from Eydorf"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Regierungsrath von Straubing",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Calesch.",
+                "normalised": "7 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger ord.",
+                "occupation_verbatim": "Straubinger ord.",
+                "occupation_normalised": "Ordinary Soldier from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log. in schwarzen Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10. Per Calesch",
+                "normalised": "10 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger ord.",
+                "occupation_verbatim": "Straubinger ord.",
+                "occupation_normalised": "Ordinary Soldier from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4 Merz.",
+                "normalised": "4 March"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Münchner",
+                "family_name": "Postwagen",
+                "occupation_verbatim": "Münchner Postwagen",
+                "occupation_normalised": "Munich Mail Coach"
+            },
+            "time": {
+                "verbatim": "um 6 Uhr",
+                "value": "6 AM"
+            },
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Nachmittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta",
+                "normalised": "5 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Estaffetta",
+                "family_name": "Eglofsheim",
+                "occupation_verbatim": "Estaffetta von Eglofsheim",
+                "occupation_normalised": "Messenger from Eglofsheim"
+            },
+            "time": {
+                "verbatim": "um 3 Uhr",
+                "value": "3 AM"
+            },
+            "transport": "Postal Coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "früh",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "5 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hoffreden",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr. Hoffreden",
+                "occupation_normalised": "Hr. Hoffreden"
+            },
+            "time": null,
+            "transport": "Postal Coach",
+            "origin": "Straßburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 4. pakiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "5 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger ord.",
+                "occupation_verbatim": "Straubinger ord.",
+                "occupation_normalised": "Ordinary Soldier from Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "damit Hr. Kaiser",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Wagen",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshuter ord.",
+                "occupation_verbatim": "Landshuter ord.",
+                "occupation_normalised": "Ordinary Soldier from Landshut"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Dingelssinger",
+                "occupation_verbatim": "Dingelssinger Bothe",
+                "occupation_normalised": "Bothe from Dingelssingen"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Graf",
+                "family_name": "von Fugger",
+                "occupation_verbatim": "Graf von Fugger",
+                "occupation_normalised": "Count from Fugger"
+            },
+            "time": null,
+            "transport": "Postal Coach",
+            "origin": "3 Helmen",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "Cre. f. z. log. in",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Wagen",
+                "normalised": "7 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Ingolstäber",
+                "occupation_verbatim": "Ingolstäber Bothe",
+                "occupation_normalised": "Bothe from Ingolstäbe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8. Per Posta",
+                "normalised": "8 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Estaffetta",
+                "family_name": "Eglofsheim",
+                "occupation_verbatim": "Estaffetta von Eglofsheim",
+                "occupation_normalised": "Messenger from Eglofsheim"
+            },
+            "time": {
+                "verbatim": "um 2/4 Uhr",
+                "value": "2:30 AM"
+            },
+            "transport": "Postal Coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "früh",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wiener Postwagen",
+                "normalised": "8 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Döring",
+                "family_name": "Herr",
+                "occupation_verbatim": "Herr Döring",
+                "occupation_normalised": "Herr Döring"
+            },
+            "time": null,
+            "transport": "Vienna Mail Coach",
+            "origin": null,
+            "lodging": "auf der Post",
+            "s_value": {
+                "verbatim": "log. auf der Post",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Per Wagen",
+                "normalised": "9 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshuter",
+                "occupation_verbatim": "Landshuter Bothe",
+                "occupation_normalised": "Bothe from Landshut"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": "log. in Pfauen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3 Merz.",
+                "normalised": "3 March"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Esstafetta",
+                "family_name": "Egloffsheim",
+                "occupation_verbatim": "Esstafetta nach Egloffsheim",
+                "occupation_normalised": "Messenger to Egloffsheim"
+            },
+            "time": {
+                "verbatim": "um 1 Uhr",
+                "value": "1 PM"
+            },
+            "transport": "Postal Coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Mittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Der Münchner Postwagen",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Postwagen",
+                "family_name": "Münchner",
+                "occupation_verbatim": "Münchner Postwagen",
+                "occupation_normalised": "Munich Mail Coach"
+            },
+            "time": {
+                "verbatim": "um ½ 9 Uhr",
+                "value": "9:30 AM"
+            },
+            "transport": "Mail Coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Vormittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Der Wiener Postwagen",
+                "normalised": "6 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Postwagen",
+                "family_name": "Wiener",
+                "occupation_verbatim": "Wiener Postwagen",
+                "occupation_normalised": "Vienna Mail Coach"
+            },
+            "time": {
+                "verbatim": "um ½ 1 Uhr",
+                "value": "1:30 PM"
+            },
+            "transport": "Mail Coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Mittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Kutsche",
+                "normalised": "7 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Amberger Silberbothe",
+                "occupation_verbatim": "Amberger Silberbothe",
+                "occupation_normalised": "Silver Bothe from Amberg"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen",
+                "normalised": "7 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshuter ord.",
+                "occupation_verbatim": "Landshuter ord.",
+                "occupation_normalised": "Ordinary Soldier from Landshut"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log. in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen",
+                "normalised": "7 March"
+            }
+        }
+    ],
+    "id": "1770-03-13_Num_11",
+    "source": {
+        "issue_date": "1770-03-13",
+        "issue_number": "Num. 11",
+        "canvases": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+        ]
+    }
+}

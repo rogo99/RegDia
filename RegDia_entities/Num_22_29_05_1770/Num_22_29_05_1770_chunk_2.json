@@ -1,0 +1,644 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "25 May",
+                "normalised": "25 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Barons Mägerl",
+                "family_name": "von Wiesenfelden",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "S.T.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 May",
+                "normalised": "25 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sauer",
+                "family_name": null,
+                "occupation_verbatim": "Posta",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Brüssel",
+            "lodging": "paßiren durch",
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 May",
+                "normalised": "26 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Fischer",
+                "family_name": "Galanteriehändler aus Franken",
+                "occupation_verbatim": "Wagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "goldenen Adler",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Leiszner",
+                "family_name": "Handelsmann aus Sachsen",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ruppensperg",
+                "family_name": "Kaufmann von Nürnberg",
+                "occupation_verbatim": "Postwagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Franz",
+                "family_name": "Jurist von Wien",
+                "occupation_verbatim": "Postwagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 May",
+                "normalised": "22 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Churbayerischer Kriegscommisfaire",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 May",
+                "normalised": "23 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joseph Goldschmid",
+                "family_name": "Hoffactor von Pappenheim",
+                "occupation_verbatim": "Pferd",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 May",
+                "normalised": "16 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 May",
+                "normalised": "26 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vogel",
+                "family_name": "Handelsmann aus Sachsen",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 May",
+                "normalised": "27 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Reid",
+                "family_name": "Passagier",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Röthenbacher",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Voit",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Waitzenbeck",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Hundinger",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Reid",
+                "family_name": "Passagier",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Röthenbacher",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Voit",
+                "family_name": "Handelsleute von Linz",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Waitzenbeck",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Hundinger",
+                "family_name": "Handelsleute aus Desierreich",
+                "occupation_verbatim": "Calesch",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Dossley",
+                "family_name": "Casarnen-Verwalter zu Pressburg",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "schwarzen Adler",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Baron von Horben",
+                "family_name": "Hochfürstlich-Tarischer Hof-Marschall",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "6 Kutschen",
+                "family_name": "Hochfürstl. Durchl. Fürst von Thurn und Taxis",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "nebst einer Suite von 50 Personen",
+            "s_value": {
+                "verbatim": "um 12 Uhr, Mittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 May",
+                "normalised": "24 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Dossley",
+                "family_name": "Casarnen-Verwalter zu Pressburg",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 May",
+                "normalised": "25 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Lamber",
+                "family_name": "Hochfürstl. Tarischer Cammerdiener",
+                "occupation_verbatim": "Postal",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26 May",
+                "normalised": "26 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Wagen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 May",
+                "normalised": "20 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schmid",
+                "family_name": "Canzler von Straubing",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21 May",
+                "normalised": "21 May"
+            },
+            "gate": null
+        }
+    ],
+    "id": "1770-05-29_Num_22",
+    "source": {
+        "issue_date": "1770-05-29",
+        "issue_number": "Num. 22",
+        "canvases": [
+            175,
+            176,
+            177,
+            178
+        ]
+    }
+}

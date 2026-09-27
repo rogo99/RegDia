@@ -1,0 +1,1147 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gertrauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Dett 19 Nov.",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wolfgang",
+                                "family_name": "Roseumeyer",
+                                "occupation_verbatim": "Grenadiercorporal",
+                                "occupation_normalised": "Grenadier corporal"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sr. Joh.",
+                                "family_name": "Christian Nehbach",
+                                "occupation_verbatim": "Burger und Goldarbeiter",
+                                "occupation_normalised": "Burger and Goldsmith"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod, die, Johann Andreas",
+                            "normalised": "17 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sr. Joh.",
+                                "family_name": "Christian Nehbach",
+                                "occupation_verbatim": "Burger und Goldarbeiter",
+                                "occupation_normalised": "Burger and Goldsmith"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod, die, Johann Andreas",
+                            "normalised": "18 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Adam Sandler",
+                                "family_name": "Sandler",
+                                "occupation_verbatim": "Burger und Metzger",
+                                "occupation_normalised": "Burger and Butcher"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod, die, Carl Friedrich Johann",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Carl Friedrich Johann",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Herr Ludwig Carl",
+                                "family_name": "Eckbrecht von Durckheim",
+                                "occupation_verbatim": "Erbherr",
+                                "occupation_normalised": "Heirloom owner"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 18. Hr. Lorenz Christoph Haller",
+                            "normalised": "18 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Lorenz Christoph",
+                                "family_name": "Haller",
+                                "occupation_verbatim": "Burger und Bierbräuer",
+                                "occupation_normalised": "Burger and Beer brewer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr. Johann Christian",
+                                "family_name": "Rehbach",
+                                "occupation_verbatim": "Burger und Goldarbeiter",
+                                "occupation_normalised": "Burger and Goldsmith"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "61 Jahre, 20 Wochen und 1 Tag alt",
+                            "age_days": 427
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 19. Johann Andreas",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr. Johann Christian",
+                                "family_name": "Rehbach",
+                                "occupation_verbatim": "Burger und Goldarbeiter",
+                                "occupation_normalised": "Burger and Goldsmith"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Friederich",
+                            "normalised": "20 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Friederich",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr. Johann Christian",
+                                "family_name": "Rehbach",
+                                "occupation_verbatim": "Burger und Goldarbeiter",
+                                "occupation_normalised": "Burger and Goldsmith"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 21. Junger Sabina Susanna",
+                            "normalised": "21 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sabina Susanna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Philipp Ruchl",
+                                "family_name": "Ruchl",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": "Burger"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "15 Jahre und 30 Wochen alt",
+                            "age_days": 545
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Baptist",
+                            "normalised": "22 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang Keppel",
+                                "family_name": "Keppel",
+                                "occupation_verbatim": "Kutscher",
+                                "occupation_normalised": "Coachman"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 19 Nov.",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Quirinus",
+                                "family_name": "Harbauer",
+                                "occupation_verbatim": "Burger und Leineweber",
+                                "occupation_normalised": "Burger and Linen weaver"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jfr.",
+                                "family_name": "Anna Margaretha Rottbauerin",
+                                "occupation_verbatim": "von Schwäbelweiss",
+                                "occupation_normalised": "from Schwäbelweiss"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 18. Maria Eva",
+                            "normalised": "18 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Ludwig Eggel",
+                                "family_name": "Eggel",
+                                "occupation_verbatim": "Justliciergesfreyter",
+                                "occupation_normalised": "Justice officer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 19. Johann Benedict",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Benedict",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz Maingl",
+                                "family_name": "Maingl",
+                                "occupation_verbatim": "Beysiger",
+                                "occupation_normalised": "Beysiger"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Anna Theresia",
+                            "normalised": "20 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Theresia",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Bruckbeck",
+                                "family_name": "Bruckbeck",
+                                "occupation_verbatim": "Burger und Lederer",
+                                "occupation_normalised": "Burger and Leather worker"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 21. Maria Elisabetha",
+                            "normalised": "21 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias Trenner",
+                                "family_name": "Trenner",
+                                "occupation_verbatim": "Briefsträger",
+                                "occupation_normalised": "Letter carrier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Johann Baptist",
+                            "normalised": "22 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang Keppel",
+                                "family_name": "Keppel",
+                                "occupation_verbatim": "Kutscher",
+                                "occupation_normalised": "Coachman"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 21 Nov.",
+                            "normalised": "21 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Petrus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias Bruckbeck",
+                                "family_name": "Bruckbeck",
+                                "occupation_verbatim": "Inwohner der Commedey",
+                                "occupation_normalised": "Resident of Commedey"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die, Theresia",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang Knaus",
+                                "family_name": "Knaus",
+                                "occupation_verbatim": "vacirender Bedienter",
+                                "occupation_normalised": "vacant servant"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Wolfgang",
+                            "normalised": "20 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus Niedermayer",
+                                "family_name": "Niedermayer",
+                                "occupation_verbatim": "Soldat in hiesiger Löbl. Stadtgarde",
+                                "occupation_normalised": "Soldier in local regiment"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahre alt",
+                            "age_days": 219
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 22. Anna Maria Barbara",
+                            "normalised": "22 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria Barbara",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Carl Knot",
+                                "family_name": "Knot",
+                                "occupation_verbatim": "Jäger",
+                                "occupation_normalised": "Hunter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "22 Jahre alt",
+                            "age_days": 784
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die, Christoph Berner",
+                            "normalised": "22 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christoph Berner",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "ledigen Stands",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "40 Jahr alt",
+                            "age_days": 1460
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 21. Johann Baptist",
+                            "normalised": "21 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang Keppel",
+                                "family_name": "Keppel",
+                                "occupation_verbatim": "Kutscher",
+                                "occupation_normalised": "Coachman"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsifts Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 19 Nov.",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Quirinus",
+                                "family_name": "Harbauer",
+                                "occupation_verbatim": "Burger und Leineweber",
+                                "occupation_normalised": "Burger and Linen weaver"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jfr.",
+                                "family_name": "Anna Margaretha Rottbauerin",
+                                "occupation_verbatim": "von Schwäbelweiss",
+                                "occupation_normalised": "from Schwäbelweiss"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 18. Maria Eva",
+                            "normalised": "18 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Ludwig Eggel",
+                                "family_name": "Eggel",
+                                "occupation_verbatim": "Justliciergesfreyter",
+                                "occupation_normalised": "Justice officer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 19. Johann Benedict",
+                            "normalised": "19 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Benedict",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz Maingl",
+                                "family_name": "Maingl",
+                                "occupation_verbatim": "Beysiger",
+                                "occupation_normalised": "Beysiger"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20. Anna Theresia",
+                            "normalised": "20 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Theresia",
+                                "family_name": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-11-27_Num_48",
+    "source": {
+        "issue_date": "1770-11-27",
+        "issue_number": "Num. 48",
+        "canvases": [
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Weissenfellner",
+                "occupation_verbatim": "Handelsmann von Augspurg",
+                "occupation_normalised": "Handelsmann von Augsburg"
+            },
+            "time": null,
+            "transport": "zu Pferde",
+            "origin": null,
+            "lodging": "in goldenen Bären",
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Koch",
+                "occupation_verbatim": "Pfarrer von Ortenburg",
+                "occupation_normalised": "Pfarrer von Ortenburg"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": "beym Hrn. Krippuer",
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Tresenrenter",
+                "occupation_verbatim": "Königlich Dänischer Ober-Auditeur",
+                "occupation_normalised": "Königlich Dänischer Ober-Auditeur"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Frau",
+                "family_name": "Heydelsfin",
+                "occupation_verbatim": "Baürichterin von Strambing",
+                "occupation_normalised": "Baürichterin von Strambing"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": "in schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Straubinger ord.",
+                "occupation_normalised": "Straubinger ord."
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Kummelmann",
+                "occupation_verbatim": "Prinz-Hildburghauzischer Hofrath",
+                "occupation_normalised": "Prinz-Hildburghauzischer Hofrat"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": "paßiren durch",
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Behaim",
+                "occupation_verbatim": "Baron",
+                "occupation_normalised": "Baron"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Kreß",
+                "occupation_verbatim": "Baron",
+                "occupation_normalised": "Baron"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Huber",
+                "occupation_verbatim": "Weinhanler",
+                "occupation_normalised": "Weinhanler"
+            },
+            "time": {
+                "verbatim": "um 4/8 Uhr Vormittags",
+                "normalised": "4/8 Uhr Vormittags",
+                "value": "4/8 Uhr Vormittags"
+            },
+            "transport": "Per Münchner Postwagen",
+            "origin": null,
+            "lodging": "in weissen Hahn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Riede!",
+                "occupation_verbatim": "Kayserl. Cabinetscourier",
+                "occupation_normalised": "Kayserlicher Cabinetscourier"
+            },
+            "time": {
+                "verbatim": "um 7/10 Uhr, Abends",
+                "normalised": "7/10 Uhr, Abends",
+                "value": "7/10 Uhr, Abends"
+            },
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": "paftret durch",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Eftaffetta",
+                "family_name": "Sale",
+                "occupation_verbatim": "von",
+                "occupation_normalised": "von"
+            },
+            "time": {
+                "verbatim": "um 7/3 Uhr, früh",
+                "normalised": "7/3 Uhr, früh",
+                "value": "7/3 Uhr, früh"
+            },
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Moser",
+                "occupation_verbatim": "Hopfenhändler",
+                "occupation_normalised": "Hopfenhändler"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": "in weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Roth",
+                "occupation_verbatim": "Advocaten von Landshue",
+                "occupation_normalised": "Advocaten von Landshue"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Lenke",
+                "occupation_verbatim": "Regierungsrath von Oettingen",
+                "occupation_normalised": "Regierungsrath von Oettingen"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Stubenrauch",
+                "occupation_verbatim": "Churbayerischer Geh. Minister",
+                "occupation_normalised": "Churbayerischer Geheimer Minister"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": "f. 2.",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Esstafetta",
+                "family_name": "Sale",
+                "occupation_verbatim": "nach",
+                "occupation_normalised": "nach"
+            },
+            "time": {
+                "verbatim": "um 12 Uhr, Nachts",
+                "normalised": "12 Uhr, Nachts",
+                "value": "12 Uhr, Nachts"
+            },
+            "transport": "Mit einem Schiffe",
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Der",
+                "family_name": "Münchner Postwagen",
+                "occupation_verbatim": "um ½ 1 Uhr, Mittags",
+                "occupation_normalised": "um ½ 1 Uhr, Mittags"
+            },
+            "time": null,
+            "transport": "Der Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Der",
+                "family_name": "Wiener Postwagen",
+                "occupation_verbatim": "um ½ 9 Uhr, Vormittags",
+                "occupation_normalised": "um ½ 9 Uhr, Vormittags"
+            },
+            "time": null,
+            "transport": "Der Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Durchl.",
+                "family_name": "Fürst von Lamberg",
+                "occupation_verbatim": "rc.",
+                "occupation_normalised": "rc."
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 10.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Lück",
+                "occupation_verbatim": "Posthalter von Costanz",
+                "occupation_normalised": "Posthalter von Costanz"
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": null,
+            "lodging": "in gol denen Creuz",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fuchs",
+                "occupation_verbatim": "ein Hopfenhändler aus Böymen",
+                "occupation_normalised": "ein Hopfenhändler aus Böymen"
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": null,
+            "lodging": "in gol denen Adler",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 24.",
+                "normalised": "24."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Schaslitcky",
+                "occupation_verbatim": "Cornet vom Württenbergschen Husarenregimente",
+                "occupation_normalised": "Cornet vom Württembergschen Husarenregiment"
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe",
+            "origin": "Ulm",
+            "lodging": "in gold. Adler",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ]
+}

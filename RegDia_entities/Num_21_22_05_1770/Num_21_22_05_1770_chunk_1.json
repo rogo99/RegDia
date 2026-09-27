@@ -1,0 +1,626 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12. May",
+                            "normalised": "12. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. May",
+                            "normalised": "14. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sophia Elisabetha Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Adam Große",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. May",
+                            "normalised": "14. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Wolfgang Krepel",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "13. May",
+                            "normalised": "13. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias Gruerer",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. May",
+                            "normalised": "14. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus Keil",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. May",
+                            "normalised": "15. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthäus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Michael Wisinger",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. May",
+                            "normalised": "15. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Xaverius",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus Treitinger",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. May",
+                            "normalised": "15. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Stephanus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus Bernardus Schönnacher",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. May",
+                            "normalised": "15. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Nepomucenus Michael",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus Bernardus Schönnacher",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "13. May",
+                            "normalised": "13. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Rosina Plunderin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "47 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. May",
+                            "normalised": "13. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha Zechin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. May",
+                            "normalised": "13. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia Lachnerin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "82 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. May",
+                            "normalised": "13. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang Schmidbauer",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "43 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "14. May",
+                            "normalised": "14. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacobus Kiermayer",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "16. May",
+                            "normalised": "16. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael Riesdorf",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "77 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "18. May",
+                            "normalised": "18. May"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Caspar Miller",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "14. May",
+                "normalised": "14. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Amberger ord.",
+                "occupation_normalised": "Amberger ord."
+            },
+            "time": "9 Uhr",
+            "transport": "Kutsche",
+            "origin": "Turken",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log. in Turken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. May",
+                "normalised": "14. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Lic.",
+                "family_name": "Frau von Junker",
+                "occupation_verbatim": "von Sulzbach",
+                "occupation_normalised": "Sulzbach"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Sulzbach",
+            "lodging": "4. log. in untern Wohut",
+            "s_value": {
+                "verbatim": "4. log. in untern Wohut",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. May",
+                "normalised": "14. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ribber",
+                "occupation_verbatim": "Handelsleute",
+                "occupation_normalised": "Handelsleute"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": "2 Kr.",
+            "s_value": {
+                "verbatim": "2 Kr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. May",
+                "normalised": "15. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Lic.",
+                "family_name": "Herr von Mayer",
+                "occupation_verbatim": "Kayserl. Hofzahmeister",
+                "occupation_normalised": "Kayserl. Hofzahmeister"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Kayserl.",
+            "lodging": "6. patieren durch",
+            "s_value": {
+                "verbatim": "6. patieren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. May",
+                "normalised": "15. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Die Nurnberger",
+                "family_name": "ord. Landkutsche",
+                "occupation_verbatim": "Nurnberger ord.",
+                "occupation_normalised": "Nurnberger ord."
+            },
+            "time": "½ 10 Uhr",
+            "transport": "Landkutsche",
+            "origin": "Nurnberg",
+            "lodging": "Vormittags",
+            "s_value": {
+                "verbatim": "Vormittags",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. May",
+                "normalised": "15. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Kolweck",
+                "occupation_verbatim": "Stadtrichter",
+                "occupation_normalised": "Stadtrichter"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Furth",
+            "lodging": "2. log. in Heil. Creuz-Closter",
+            "s_value": {
+                "verbatim": "2. log. in Heil. Creuz-Closter",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. May",
+                "normalised": "15. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Graf von Morawitzky",
+                "occupation_verbatim": "Vice-Stathalter",
+                "occupation_normalised": "Vice-Stathalter"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Kayserl.",
+            "lodging": "5. log. in 3 Helmen",
+            "s_value": {
+                "verbatim": "5. log. in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. May",
+                "normalised": "16. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Tic.",
+                "family_name": "Herr von Wurzer",
+                "occupation_verbatim": "Churs-bayerische Commisairs",
+                "occupation_normalised": "Churs-bayerische Commisairs"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Tic.",
+            "lodging": "z. log. in weissen Lamm",
+            "s_value": {
+                "verbatim": "z. log. in weissen Lamm",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. May",
+                "normalised": "16. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Schrenk",
+                "occupation_verbatim": "Kayserl. Fourier",
+                "occupation_normalised": "Kayserl. Fourier"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Althan",
+            "lodging": "f. z. log. in Poshorn",
+            "s_value": {
+                "verbatim": "f. z. log. in Poshorn",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. May",
+                "normalised": "17. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Eterici",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Schweiz",
+            "lodging": "2. log. in Heil. Creuz-Closter",
+            "s_value": {
+                "verbatim": "2. log. in Heil. Creuz-Closter",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. May",
+                "normalised": "17. May"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": "Heinrich",
+                "family_name": "Hörmes",
+                "occupation_verbatim": "Wirth",
+                "occupation_normalised": "Wirth"
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": "Tenneloh",
+            "lodging": "Elephanten"
+        }
+    ],
+    "id": "1770-05-22_Num_21",
+    "source": {
+        "issue_date": "1770-05-22",
+        "issue_number": "Num. 21",
+        "canvases": [
+            163,
+            164,
+            165,
+            166
+        ]
+    }
+}

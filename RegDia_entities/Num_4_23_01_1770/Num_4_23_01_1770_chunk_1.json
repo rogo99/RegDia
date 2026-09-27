@@ -1,0 +1,616 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "15 Jan.",
+                            "normalised": "15 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Reinhard",
+                                "family_name": "Schimmer",
+                                "occupation_verbatim": "Bürger, Knöpfsmacher, Krepin- und Handarbeiter",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Maria Elisabetha",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "16. Hr.",
+                            "normalised": "16 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas Zacharias Ludewig",
+                                "family_name": null,
+                                "occupation_verbatim": "Koch bey des Herrn Grafen von Bünau",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Susanna Execharina Ritzmannin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13.",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Felicitas",
+                                "family_name": "Schleger",
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Philipp",
+                                "family_name": "Schleger",
+                                "occupation_verbatim": "Bürger und Holzmesser",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14.",
+                            "normalised": "14 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Reinhard",
+                                "family_name": "König",
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Michael",
+                                "family_name": "König",
+                                "occupation_verbatim": "Bürger und Schroder",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15.",
+                            "normalised": "15 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Margaretha Felicitas",
+                                "family_name": "Hameran",
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Hameran",
+                                "occupation_verbatim": "Bürger und Pflastermecker",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17.",
+                            "normalised": "17 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christina Margaretha",
+                                "family_name": null,
+                                "occupation_verbatim": "Ein uneheliches Kind",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom-und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "15 Jan.",
+                            "normalised": "15 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna Catharina",
+                                "family_name": "Peterhaner",
+                                "occupation_verbatim": "Mannvergeselle und Beysker allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Michael",
+                                "family_name": "Peterhaner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17.",
+                            "normalised": "17 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": "Tagelöhner und Devischer zu Stadt amm. Hauß zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": "Tagelöhner und Devischer zu Stadt amm. Hauß zu Stadt am Hof",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "17.",
+                            "normalised": "17 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Eva Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": "Vater Johann Hueeterer, Bey-sifer zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Hueeterer",
+                                "occupation_verbatim": "Bey-sifer zu Stadt am Hof",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr und 23 Tage alt",
+                            "age_days": 46
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "17.",
+                            "normalised": "17 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Petrus Best",
+                                "family_name": null,
+                                "occupation_verbatim": "Bräuknecht von Spielberg",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus Achters",
+                                "family_name": "Achter",
+                                "occupation_verbatim": "Beyfigers allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahr alt",
+                            "age_days": 2557
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "17 Jan.",
+                            "normalised": "17 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Husnagel",
+                                "occupation_verbatim": "Beysfiker und Frieseur allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josfr.",
+                                "family_name": "Anna Maria",
+                                "occupation_verbatim": "Kalteisin",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "15 Jan.",
+                "normalised": "15 January"
+            },
+            "gate": "Postwagen",
+            "direction": "from Amberg",
+            "person": {
+                "given_name": "Herr Krank",
+                "family_name": null,
+                "occupation_verbatim": "Juriste von Würzburg",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Würzburg",
+            "lodging": "in schwarzen Baren"
+        },
+        {
+            "date": {
+                "verbatim": "15 Jan.",
+                "normalised": "15 January"
+            },
+            "gate": "Kutsche",
+            "direction": "from Landshut",
+            "person": {
+                "given_name": "Maria Barbara Suszmännin",
+                "family_name": null,
+                "occupation_verbatim": "Watter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Landshut",
+            "lodging": "in Türken"
+        },
+        {
+            "date": {
+                "verbatim": "15 Jan.",
+                "normalised": "15 January"
+            },
+            "gate": "Kutsche",
+            "direction": "from Seyda",
+            "person": {
+                "given_name": "Monsr. Hegwald",
+                "family_name": null,
+                "occupation_verbatim": "Cand. Theol.",
+                "occupation_normalised": null
+            },
+            "time": "in Sachsen",
+            "transport": "Kutsche",
+            "origin": "Seyda",
+            "lodging": "in der blauen Lilie"
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16 January"
+            },
+            "gate": "Schlitten",
+            "direction": "to Ungarn",
+            "person": {
+                "given_name": "Michael Krieg",
+                "family_name": null,
+                "occupation_verbatim": "Fleischhacker",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Bamberg",
+            "lodging": "paßiret durch"
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16 January"
+            },
+            "gate": "Kutsche",
+            "direction": "from Nürnberg",
+            "person": {
+                "given_name": "Hr. Fleischmann",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Nürnberg",
+            "lodging": "in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16 January"
+            },
+            "gate": "Schlitten",
+            "direction": "to Nurnberg",
+            "person": {
+                "given_name": "hr. Dill",
+                "family_name": null,
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Nurnberg",
+            "lodging": "in weissen Hahn"
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19 January"
+            },
+            "gate": "Pferde",
+            "direction": "to Elephants",
+            "person": {
+                "given_name": "Joseph Mehrmann",
+                "family_name": null,
+                "occupation_verbatim": "Burger",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Ellingen",
+            "lodging": "in Elephants"
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19 January"
+            },
+            "gate": "Pferde",
+            "direction": "to Wetzlar",
+            "person": {
+                "given_name": "Peter Bark",
+                "family_name": null,
+                "occupation_verbatim": "Kayserl. Cammerbothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Wecklar",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19 January"
+            },
+            "gate": "Kutsche",
+            "direction": "from Amberger ord.",
+            "person": {
+                "given_name": "Bothe",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "in Türken"
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19 January"
+            },
+            "gate": "Posta",
+            "direction": "from Nurnberg",
+            "person": {
+                "given_name": "Tia. Frau von Markel",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Kollersrieth",
+            "lodging": "in weisen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19 January"
+            },
+            "gate": "Pferde",
+            "direction": "to grünen Cranz",
+            "person": {
+                "given_name": "Msr. Froment",
+                "family_name": null,
+                "occupation_verbatim": "Mechanicus",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Straßburg",
+            "lodging": "in grünen Cranz"
+        },
+        {
+            "date": {
+                "verbatim": "14.",
+                "normalised": "14 January"
+            },
+            "gate": "Schlitten",
+            "direction": "to Amberg",
+            "person": {
+                "given_name": "S.T. Herr Baron von Wildenau",
+                "family_name": null,
+                "occupation_verbatim": "Landrichter von Burglen-genfeld",
+                "occupation_normalised": null
+            },
+            "time": "f. 3",
+            "transport": "Schlitten",
+            "origin": "Amberg",
+            "lodging": "in schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "15.",
+                "normalised": "15 January"
+            },
+            "gate": "Postwagen",
+            "direction": "to Amberg",
+            "person": {
+                "given_name": "Tit. Herr Hofrath Dossan",
+                "family_name": null,
+                "occupation_verbatim": "Hofrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "München",
+            "lodging": "in schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "-6.",
+                "normalised": "-6 January"
+            },
+            "gate": "Posta",
+            "direction": "to Nürnberg",
+            "person": {
+                "given_name": "S.T. Herr Graf von Klenau",
+                "family_name": null,
+                "occupation_verbatim": "Graf",
+                "occupation_normalised": null
+            },
+            "time": "f. 2",
+            "transport": "Posta",
+            "origin": "München",
+            "lodging": "in der Barthischen Behausung"
+        },
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17 January"
+            },
+            "gate": "Pferde",
+            "direction": "to Sulzburg",
+            "person": {
+                "given_name": "Joseph Abraham",
+                "family_name": null,
+                "occupation_verbatim": "Jude",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Sulzburg",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17 January"
+            },
+            "gate": "Schlitten",
+            "direction": "to Nürnberg",
+            "person": {
+                "given_name": "Gottlieb Holzer",
+                "family_name": null,
+                "occupation_verbatim": "ord. Nürnberger Both",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Nürnberg",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "18.",
+                "normalised": "18 January"
+            },
+            "gate": "Schlitten",
+            "direction": "to Nürnberg",
+            "person": {
+                "given_name": "Tit. Herr Rechdaller",
+                "family_name": null,
+                "occupation_verbatim": "Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": "f. 2",
+            "transport": "Schlitten",
+            "origin": "Preys-fingischen Regimente",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17 January"
+            },
+            "gate": "Posta",
+            "direction": "to Nürnberg",
+            "person": {
+                "given_name": "Herr Wardelmy",
+                "family_name": null
+            }
+        }
+    ],
+    "id": "1770-01-23_Num_4",
+    "source": {
+        "issue_date": "1770-01-23",
+        "issue_number": "Num. 4",
+        "canvases": [
+            31,
+            32,
+            33,
+            34
+        ]
+    }
+}

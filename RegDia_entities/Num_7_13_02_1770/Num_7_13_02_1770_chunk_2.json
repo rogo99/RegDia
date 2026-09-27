@@ -1,0 +1,264 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": "Nürnberg",
+            "direction": "nach",
+            "person": {
+                "given_name": "Pac.",
+                "family_name": "Scheible",
+                "occupation_verbatim": "Earthäuser von Freudenthal"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Churpfalz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 11 Febr.",
+                "normalised": "11. Febr."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggedorfer Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": "Tic. Herrn von der Lühe, Cavalier aus dem Mecklenburgischen"
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Daniel",
+                "family_name": "Bühmel",
+                "occupation_verbatim": "Tir. Herr Hayek von Waldstetten"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Febr.",
+                "normalised": "2. Febr."
+            },
+            "gate": "Ostenchore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Neumayer",
+                "family_name": "Oberschreiber von Scharding",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Bothe",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7.",
+                "normalised": "7."
+            },
+            "gate": null,
+            "direction": "durch",
+            "person": {
+                "given_name": "Fran",
+                "family_name": "Heilmayerin",
+                "occupation_verbatim": "Weinwirthin von Straubing"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "2.",
+            "s_value": {
+                "verbatim": "paziren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Buger",
+                "family_name": "Pfarrer von Radenberg",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Bothe",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3 Febr.",
+                "normalised": "3. Febr."
+            },
+            "gate": "Jacobertore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Beck",
+                "occupation_verbatim": "Handelsmann von Augsburg"
+            },
+            "time": null,
+            "transport": "Fuß",
+            "origin": null,
+            "lodging": "goldenen Greif",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5 Febr.",
+                "normalised": "5. Febr."
+            },
+            "gate": null,
+            "direction": "von München",
+            "person": {
+                "given_name": "Müller",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Tobacksfabricante von Fürth"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Augsburg",
+            "lodging": "weisen Hahn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6.",
+                "normalised": "6."
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Augsburger ord.",
+                "occupation_verbatim": "Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Straubing",
+            "lodging": "goldenen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7.",
+                "normalised": "7."
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ingolstädter ord.",
+                "occupation_verbatim": "Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Straubing",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": "in",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Siegler",
+                "occupation_verbatim": "Pfarrer von Leitenhausen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": "nach Wien",
+            "person": {
+                "given_name": "Andreas",
+                "family_name": "Rohrmüller",
+                "occupation_verbatim": "Churbayerischer Landbereiter"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Straubing",
+            "lodging": "Pfau",
+            "s_value": null
+        }
+    ],
+    "id": "1770-02-13_Num_7",
+    "source": {
+        "issue_date": "1770-02-13",
+        "issue_number": "Num. 7",
+        "canvases": [
+            59,
+            60,
+            61,
+            62
+        ]
+    }
+}

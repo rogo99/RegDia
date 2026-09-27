@@ -1,0 +1,18 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [],
+    "id": "1770-11-06_Num_45",
+    "source": {
+        "issue_date": "1770-11-06",
+        "issue_number": "Num. 45",
+        "canvases": [
+            361,
+            362
+        ]
+    }
+}

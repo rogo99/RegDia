@@ -1,0 +1,587 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 8.. Per Posta",
+                "normalised": "Den 8.. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Delen",
+                "family_name": null,
+                "occupation_verbatim": "Juristen von Würzburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Per Posta",
+                "normalised": "Den 9. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Schwarz",
+                "family_name": null,
+                "occupation_verbatim": "von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "pasiren durch",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Sept. Per Posta",
+                "normalised": "Den 2 Sept. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Riedel",
+                "family_name": null,
+                "occupation_verbatim": "ein Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "f.3",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T. Herr Baron von Lehrbach",
+                "family_name": null,
+                "occupation_verbatim": "Landesinnenthor von Ellingen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per ord. Postwagen nach Amberg.",
+                "normalised": "Den 3. Per ord. Postwagen nach Amberg."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Hofmann",
+                "family_name": null,
+                "occupation_verbatim": "ein Kaufmann von Bayreuth",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Eine Esstafette nach Kürn, um 9 Uhr; Vormittags..",
+                "normalised": "Eine Esstafette nach Kürn, um 9 Uhr; Vormittags.."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Esstafette",
+            "origin": "Kürn",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Posta",
+                "normalised": "Den 4. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Erzberg",
+                "family_name": null,
+                "occupation_verbatim": "Rachsherr von Temeswar",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S.T. Herr Baron von Lehrbach",
+                "normalised": "Per Posta, S.T. Herr Baron von Lehrbach"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Moreneheim",
+                "family_name": null,
+                "occupation_verbatim": "Rayserl. Courier",
+                "occupation_normalised": null
+            },
+            "time": "8 Uhr",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Hr. Lott",
+                "normalised": "Per Posta, Hr. Lott"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Lott",
+                "family_name": null,
+                "occupation_verbatim": "ein Kaufmann von Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Amberger ord. Rutsche",
+                "normalised": "Per Amberger ord. Rutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Altmann",
+                "family_name": null,
+                "occupation_verbatim": "von Amberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Rutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Nürnberger ord. Landkutsche",
+                "normalised": "Den 5. Per Nürnberger ord. Landkutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Lanterbach",
+                "family_name": null,
+                "occupation_verbatim": "ein Kaufmann von Bayreuth",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Landkutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zu Fuß, ein Königl. Preußischer Unterofficier; mit 2 Mann Reerouten:",
+                "normalised": "Zu Fuß, ein Königl. Preußischer Unterofficier; mit 2 Mann Reerouten:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Königl. Hoheit Herzog Carl von Lothingen",
+                "family_name": null,
+                "occupation_verbatim": "re. re.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Tir. Herr von Rothmarisleben",
+                "normalised": "Per Calesch, Tir. Herr von Rothmarisleben"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tir. Herr von Rothmarisleben",
+                "family_name": null,
+                "occupation_verbatim": "von München",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "München",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8 Sept. Ferdinand Lämpelsdörfer",
+                "normalised": "Den 8 Sept. Ferdinand Lämpelsdörfer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ferdinand Lämpelsdörfer",
+                "family_name": null,
+                "occupation_verbatim": "von Steyer",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Stahl",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 9 Sept. Christian Laurer führet der Ludwig Raimers Wittib ihr arb.Schiff nach Wien",
+                "normalised": "Den 9 Sept. Christian Laurer führet der Ludwig Raimers Wittib ihr arb.Schiff nach Wien"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian Laurer",
+                "family_name": null,
+                "occupation_verbatim": "der Ludwig Raimers Wittib",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Sept. Per Posta, Hr. Schneider",
+                "normalised": "Den 1 Sept. Per Posta, Hr. Schneider"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Schneider",
+                "family_name": null,
+                "occupation_verbatim": "ein Kaufman von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "Posthorn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Calesch, Hr. Schmid",
+                "normalised": "Den 2. Per Calesch, Hr. Schmid"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Schmid",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Calesch, Hr. Müller",
+                "normalised": "Den 2. Per Calesch, Hr. Müller"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Müller",
+                "family_name": null,
+                "occupation_verbatim": "Hochfürstlich Passauische Hof-Trompeter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Laudenbacher",
+                "normalised": "Per Calesch, Hr. Laudenbacher"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Laudenbacher",
+                "family_name": null,
+                "occupation_verbatim": "ein Handelsmann von Bayreuth",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weißen Ros",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Weninger",
+                "normalised": "Per Calesch, Hr. Weninger"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Weninger",
+                "family_name": null,
+                "occupation_verbatim": "von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Herr D. Weninger",
+                "normalised": "Per Calesch, Herr D. Weninger"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr D. Weninger",
+                "family_name": null,
+                "occupation_verbatim": "von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Herr Fischer Rathswandter von Temeswar",
+                "normalised": "Per Calesch, Herr Fischer Rathswandter von Temeswar"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Fischer Rathswandter",
+                "family_name": null,
+                "occupation_verbatim": "von Temeswar",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Tit. Herr Herzberg",
+                "normalised": "Per Calesch, Tit. Herr Herzberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr Herzberg",
+                "family_name": null,
+                "occupation_verbatim": "Hochgräflich-Affermündischer Rath aus Niederlanden",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weißen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Bischoff",
+                "normalised": "Per Calesch, Hr. Bischoff"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Bischoff",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "Ochsenkopf",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Walter",
+                "normalised": "Per Calesch, Hr. Walter"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Walter",
+                "family_name": null,
+                "occupation_verbatim": "Rausleute von Sonnenberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "Ochsenkopf",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Calesch, Herr Schusmann",
+                "normalised": "Den 3. Per Calesch, Herr Schusmann"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Schusmann",
+                "family_name": null,
+                "occupation_verbatim": "Beneficiat von Stranbing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch"
+        }
+    ],
+    "id": "1770-09-11_Num_37",
+    "source": {
+        "issue_date": "1770-09-11",
+        "issue_number": "Num. 37",
+        "canvases": [
+            295,
+            296,
+            297,
+            298
+        ]
+    }
+}

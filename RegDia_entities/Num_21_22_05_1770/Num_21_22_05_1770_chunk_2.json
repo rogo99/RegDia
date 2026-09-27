@@ -1,0 +1,473 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "14. Per ord. Postwagen nach Amberg",
+                "normalised": "14. Per ord. Postwagen nach Amberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Dürisch",
+                "family_name": "Dürisch",
+                "occupation_verbatim": "Jurist von Prag",
+                "occupation_normalised": "Jurist von Prag"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Per Posta, S. T. Herr von Wartenburg",
+                "normalised": "15. Per Posta, S. T. Herr von Wartenburg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr von Wartenburg",
+                "family_name": "Wartenburg",
+                "occupation_verbatim": "Kaysertl. Obrister",
+                "occupation_normalised": "Kaysertl. Obrister"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Per Calesch, Herr D. Bär, von München",
+                "normalised": "15. Per Calesch, Herr D. Bär, von München"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr D. Bär",
+                "family_name": "Bär",
+                "occupation_verbatim": "München",
+                "occupation_normalised": "München"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Per Calesch, Hr. Schwabacher, ein Kaufmann von Hildburghausen; und Herz Eschweg, ein Jude von Fürth",
+                "normalised": "15. Per Calesch, Hr. Schwabacher, ein Kaufmann von Hildburghausen; und Herz Eschweg, ein Jude von Fürth"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Schwabacher",
+                "family_name": "Schwabacher",
+                "occupation_verbatim": "Kaufmann von Hildburghausen",
+                "occupation_normalised": "Kaufmann von Hildburghausen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Hildburghausen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Per Kutsche, der Amberger ord. Bothe",
+                "normalised": "15. Per Kutsche, der Amberger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Amberger ord. Bothe",
+                "family_name": "Amberger",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Per Kutsche, der Silberbothe von Amberg",
+                "normalised": "15. Per Kutsche, der Silberbothe von Amberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Silberbothe von Amberg",
+                "family_name": "Silberbothe",
+                "occupation_verbatim": "Amberg",
+                "occupation_normalised": "Amberg"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Per Posta, Herr Gück, Kaysertl. Courier, um 3 Uhr, Abends",
+                "normalised": "15. Per Posta, Herr Gück, Kaysertl. Courier, um 3 Uhr, Abends"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Gück",
+                "family_name": "Gück",
+                "occupation_verbatim": "Kaysertl. Courier",
+                "occupation_normalised": "Kaysertl. Courier"
+            },
+            "time": "Abends",
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 3 Uhr",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Die Nürnberger ord. Landkutsche um ½ 6 Uhr, Vormittags",
+                "normalised": "16. Die Nürnberger ord. Landkutsche um ½ 6 Uhr, Vormittags"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Die Nürnberger ord. Landkutsche",
+                "family_name": "Nürnberger",
+                "occupation_verbatim": "Landkutsche",
+                "occupation_normalised": "Landkutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Landkutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um ½ 6 Uhr",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Per Posta, S. T. Herr Baron von Brozeck, von Wien, f. 2.",
+                "normalised": "16. Per Posta, S. T. Herr Baron von Brozeck, von Wien, f. 2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Baron von Brozeck",
+                "family_name": "Baron von Brozeck",
+                "occupation_verbatim": "von Wien",
+                "occupation_normalised": "von Wien"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 May. Franz Stahlmeyer, von Hasfnerszell, mit Schmelztiegeln",
+                "normalised": "16 May. Franz Stahlmeyer, von Hasfnerszell, mit Schmelztiegeln"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Franz Stahlmeyer",
+                "family_name": "Stahlmeyer",
+                "occupation_verbatim": "von Hasfnerszell",
+                "occupation_normalised": "von Hasfnerszell"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Hasfnerszell",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "mit Schmelztiegeln",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 May. Paulus Ziegler führet in einem Gemsel 87 Ungarische Colonisten nach Wien",
+                "normalised": "17 May. Paulus Ziegler führet in einem Gemsel 87 Ungarische Colonisten nach Wien"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Paulus Ziegler",
+                "family_name": "Ziegler",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Gemsel",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "87 Ungarische Colonisten nach Wien",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Elias Raimer führet das ord. Schiff nach Wien, mit ihm: Madame Bameessbergerin, Churböhmische Legationseanzellistens Wittib; Hr. Hummel, und Cons. Handelsleute von Preßburg, f. 2. 3 Kayserl. Commandirte, mit 3 Reerouten, und 75 gemeine Personen",
+                "normalised": "20. Elias Raimer führet das ord. Schiff nach Wien, mit ihm: Madame Bameessbergerin, Churböhmische Legationseanzellistens Wittib; Hr. Hummel, und Cons. Handelsleute von Preßburg, f. 2. 3 Kayserl. Commandirte, mit 3 Reerouten, und 75 gemeine Personen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Elias Raimer",
+                "family_name": "Raimer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Ordinary ship",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2. 3 Kayserl. Commandirte, mit 3 Reerouten, und 75 gemeine Personen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Zu Fuß, Hr. Diller, ein Musicus von Amsterdam, log. in der blauen Lilte",
+                "normalised": "12. Zu Fuß, Hr. Diller, ein Musicus von Amsterdam, log. in der blauen Lilte"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Diller",
+                "family_name": "Diller",
+                "occupation_verbatim": "ein Musicus von Amsterdam",
+                "occupation_normalised": "ein Musicus von Amsterdam"
+            },
+            "time": "zu Fuß",
+            "transport": null,
+            "origin": "Amsterdam",
+            "lodging": "in der blauen Lilte",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären",
+                "normalised": "14. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Straubinger ord. Bothe",
+                "family_name": "Straubinger",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Calesch, Anton Uhl, ein Bierbräuer von Landau, f. z. log. in weifs- sen Hahn",
+                "normalised": "17. Per Calesch, Anton Uhl, ein Bierbräuer von Landau, f. z. log. in weifs- sen Hahn"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Anton Uhl",
+                "family_name": "Uhl",
+                "occupation_verbatim": "ein Bierbräuer von Landau",
+                "occupation_normalised": "ein Bierbräuer von Landau"
+            },
+            "time": "f. z.",
+            "transport": "Calesch",
+            "origin": "Landau",
+            "lodging": "in weifs- sen Hahn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zu Pferde, Joseph Dobler, ein Handelsmann von Pfarrkirchen, log. in weissen Hahn",
+                "normalised": "Zu Pferde, Joseph Dobler, ein Handelsmann von Pfarrkirchen, log. in weissen Hahn"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joseph Dobler",
+                "family_name": "Dobler",
+                "occupation_verbatim": "ein Handelsmann von Pfarrkirchen",
+                "occupation_normalised": "ein Handelsmann von Pfarrkirchen"
+            },
+            "time": "zu Pferde",
+            "transport": null,
+            "origin": "Pfarrkirchen",
+            "lodging": "in weissen Hahn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären",
+                "normalised": "18. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Straubinger ord. Bothe",
+                "family_name": "Straubinger",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Posta, S. T. Frau Baronin von Boriee, Excell. ec. von Würzburg, f. 7.",
+                "normalised": "12. Per Posta, S. T. Frau Baronin von Boriee, Excell. ec. von Würzburg, f. 7."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Frau Baronin von Boriee",
+                "family_name": "Boriee",
+                "occupation_verbatim": "Excell. ec. von Würzburg",
+                "occupation_normalised": "Excell. ec. von Würzburg"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "Würzburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "16. Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Straubinger ord. Bothe",
+                "family_name": "Straubinger",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S.T. Herr Baron von Ungelder, Kays erf. Hauptmann",
+                "normalised": "Per Posta, S.T. Herr Baron von Ungelder, Kays erf. Hauptmann"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Baron von Ungelder",
+                "family_name": "Ungelder",
+                "occupation_verbatim": "Kays erf. Hauptmann",
+                "occupation_normalised": "Kays erf. Hauptmann"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19. Per Calesch, der Stranbinger ord. Bothe",
+                "normalised": "19. Per Calesch, der Stranbinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "der Stranbinger ord. Bothe",
+                "family_name": "Stran"
+            }
+        }
+    ],
+    "id": "1770-05-22_Num_21",
+    "source": {
+        "issue_date": "1770-05-22",
+        "issue_number": "Num. 21",
+        "canvases": [
+            167,
+            168,
+            169,
+            170
+        ]
+    }
+}

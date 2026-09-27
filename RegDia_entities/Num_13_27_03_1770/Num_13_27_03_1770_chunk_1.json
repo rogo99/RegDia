@@ -1,0 +1,239 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 17. Merz.",
+                            "normalised": "17 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joseph",
+                                "family_name": "Werndel",
+                                "occupation_verbatim": "Beyslger und Dürnbergischer Emigrant",
+                                "occupation_normalised": "Emigrant"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "68 Jahr-weniger 2 Tage alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In der Dom- und Stadt-Pfarre zu St. Ulrich",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 19. Merz.",
+                            "normalised": "19 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria Johanna Ignatia",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr und 10 Monathe alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 21. Merz.",
+                            "normalised": "21 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Herr Josephus Michl",
+                                "family_name": "",
+                                "occupation_verbatim": "resignirter Hochfürstl. Capellmeister",
+                                "occupation_normalised": "Capellmeister"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "62 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 24. Merz.",
+                            "normalised": "24 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Antonius",
+                                "family_name": "",
+                                "occupation_verbatim": "3 Jahr und 10 Monathe alt",
+                                "occupation_normalised": "Emigrant"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr und 10 Monathe alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 18. Merz.",
+                "normalised": "18 March"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Eine",
+                "family_name": "Esstattet",
+                "occupation_verbatim": "von Bayreuth",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Nachmittags",
+            "transport": "Per Calesch",
+            "origin": "Bayreuth",
+            "lodging": "Tir. Herr von Darnall, Königl. Französischer Ingenieur-Capitain, f. 2. log. in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "Den 19. Merz.",
+                "normalised": "19 March"
+            },
+            "gate": "Zu Fuß",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Lorenz",
+                "family_name": "Amadão",
+                "occupation_verbatim": "Italiäner",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Nachmittags",
+            "transport": "Zu Fuß",
+            "origin": "Italien",
+            "lodging": "Log. in Ochsenkopf"
+        },
+        {
+            "date": {
+                "verbatim": "Den 20. Merz.",
+                "normalised": "20 March"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Die",
+                "family_name": "Nürnberger",
+                "occupation_verbatim": "ord. Landkutsche",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Vormittags",
+            "transport": "Per Amberger ord. Kutsche",
+            "origin": "Nürnberg",
+            "lodging": "Fran Fleischmannin, Manthnerin von Biedersberg, log. in Türken"
+        },
+        {
+            "date": {
+                "verbatim": "Den 21. Merz.",
+                "normalised": "21 March"
+            },
+            "gate": "Zu Fuß",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Hauptmann Clarwasser",
+                "occupation_verbatim": "Churpfalz",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Nachmittags",
+            "transport": "Per Schlitten",
+            "origin": "Churpfalz",
+            "lodging": "Tit. Herr Hauptmann Clarwasser, von Churpfalz, f. 2. log. in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "Den 23. Merz.",
+                "normalised": "23 March"
+            },
+            "gate": "Zu Füsz",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Petrus",
+                "family_name": "van Peterweck",
+                "occupation_verbatim": "Haarhändler",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Nachmittags",
+            "transport": "Per Calesch",
+            "origin": "Brabant",
+            "lodging": "Petrus van Peterweck, ein Haarhändler aus Brabant, log. in gold. Adler"
+        },
+        {
+            "date": {
+                "verbatim": "Den 24. Merz.",
+                "normalised": "24 March"
+            },
+            "gate": "Zu Füsz",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Stendel",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Nachmittags",
+            "transport": "Per Posta",
+            "origin": "Gera",
+            "lodging": "Hr. Stendel, ein Kaufmann von Gera, f. 2."
+        },
+        {
+            "date": {
+                "verbatim": "Den 25. Merz.",
+                "normalised": "25 March"
+            },
+            "gate": "An der hölzernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Georg Adam",
+                "family_name": "Raimer",
+                "occupation_verbatim": "Kaysert. Hauptmann",
+                "occupation_normalised": "Emigrant"
+            },
+            "time": "Nachmittags",
+            "transport": "Per Wagen",
+            "origin": "Wien",
+            "lodging": "Madame Jenra, aus Frankreich, f. 2."
+        }
+    ],
+    "id": "1770-03-27_Num_13",
+    "source": {
+        "issue_date": "1770-03-27",
+        "issue_number": "Num. 13",
+        "canvases": [
+            103,
+            104,
+            105,
+            106
+        ]
+    }
+}

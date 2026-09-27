@@ -1,0 +1,597 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se.",
+                "family_name": "Durchlaucht Fürst von Lamberg",
+                "occupation_verbatim": "re.",
+                "occupation_normalised": "re."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "re.",
+                "value": "7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ihrer Errech.",
+                "family_name": "Baron von Schneidt",
+                "occupation_verbatim": "re.",
+                "occupation_normalised": "re."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "re.",
+                "value": "7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Pender",
+                "occupation_verbatim": "ein Passagier von Wien",
+                "occupation_normalised": "ein Passagier von Wien"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.",
+                "value": "3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Carl Mewer",
+                "occupation_verbatim": "Landseeretair von Neuburg",
+                "occupation_normalised": "Landseeretair von Neuburg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.",
+                "value": "7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Marquis de Charteleit",
+                "occupation_verbatim": "Kaiserl. Staatsrathe",
+                "occupation_normalised": "Kaiserl. Staatsrathe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "von Augspurg",
+                "occupation_normalised": "von Augspurg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "beim Kaufmann Encklin",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Paulus",
+                "occupation_verbatim": "ein Kaufmann von Augsburg",
+                "occupation_normalised": "ein Kaufmann von Augsburg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "in Spiegel",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Paulus",
+                "occupation_verbatim": "Aigenbühler",
+                "occupation_normalised": "Aigenbühler"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "in weissen Hahn",
+            "s_value": {
+                "verbatim": "s.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Osthause",
+                "occupation_verbatim": "ie. von Sulz",
+                "occupation_normalised": "ie. von Sulz"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in Pfaffen",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schroder",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Adler",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Tit.",
+                "occupation_normalised": "Tit."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in weissen Lamn",
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Höschel",
+                "occupation_verbatim": "Frau Pfiegerin von Abenswer",
+                "occupation_normalised": "Frau Pfiegerin von Abenswer"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "f.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 October.",
+                "normalised": "13 October."
+            },
+            "gate": null
+        }
+    ],
+    "id": "1770-10-23_Num_43",
+    "source": {
+        "issue_date": "1770-10-23",
+        "issue_number": "Num. 43",
+        "canvases": [
+            343,
+            344,
+            345,
+            346
+        ]
+    }
+}

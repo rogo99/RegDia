@@ -1,0 +1,627 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gras-fendorfer Pfarr",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "29 Merz.",
+                            "normalised": "29 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Ignatius",
+                                "family_name": "Watter",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Paul",
+                                "family_name": "von Selpert",
+                                "occupation_verbatim": "Hochfürstl. Durchl. zu Nassau-Saarbrücken wirklicher Regierungsrath",
+                                "occupation_normalised": "High Prince of Nassau-Saarbrücken, Real Regent"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29 Merz.",
+                            "normalised": "29 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Magdalena Christina Jacobina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Paul",
+                                "family_name": "von Selpert",
+                                "occupation_verbatim": "Hochfürstl. Durchl. zu Nassau-Saarbrücken wirklicher Regierungsrath",
+                                "occupation_normalised": "High Prince of Nassau-Saarbrücken, Real Regent"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29 Merz.",
+                            "normalised": "29 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha Anna Friederica",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Paul",
+                                "family_name": "von Selpert",
+                                "occupation_verbatim": "Hochfürstl. Durchl. zu Nassau-Saarbrücken wirklicher Regierungsrath",
+                                "occupation_normalised": "High Prince of Nassau-Saarbrücken, Real Regent"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "24.",
+                            "normalised": "24"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Barbara",
+                                "family_name": "Kranewetterin",
+                                "occupation_verbatim": "Bauer and Zimmermann's Daughter",
+                                "occupation_normalised": "Farmer and Carpenter's Daughter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "32 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Mararetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Martin",
+                                "family_name": "Frank",
+                                "occupation_verbatim": "Bürger and Decke",
+                                "occupation_normalised": "Citizen and Cover"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Dom- und Stadt-Pfar zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "25 Merz.",
+                            "normalised": "25 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Gottlieb",
+                                "family_name": "Klinzler",
+                                "occupation_verbatim": "Beysser zu Stadt am Hof",
+                                "occupation_normalised": "Beysser at the City Hall"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26.",
+                            "normalised": "26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Dunkel",
+                                "occupation_verbatim": "Beysser allhier",
+                                "occupation_normalised": "Beysser here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Grabenbauer",
+                                "occupation_verbatim": "Fussilier in Hiesiger Stadtgarde",
+                                "occupation_normalised": "Foot Soldier in the Local City Guard"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30.",
+                            "normalised": "30"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Dominicius",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Stengel",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Servant here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "25.",
+                            "normalised": "25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": "Reiseckerin",
+                                "occupation_verbatim": "Beystigerin allhier",
+                                "occupation_normalised": "Bystiger here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "56 Jahre alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Zillers",
+                                "occupation_verbatim": "vacirenden Bedientens allhier",
+                                "occupation_normalised": "former Servant here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Xaverinus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29.",
+                            "normalised": "29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Martinus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus",
+                                "family_name": "Etzel",
+                                "occupation_verbatim": "gewesener Beystiger allhier",
+                                "occupation_normalised": "former Bystiger here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Merz.",
+                            "normalised": "23 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ferdinand Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Ferdinandus",
+                                "family_name": "Pos",
+                                "occupation_verbatim": "Gärtner bey St. Eneram",
+                                "occupation_normalised": "Gardener at St. Eneram"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24.",
+                            "normalised": "24"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Eckert",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Bediunter",
+                                "occupation_normalised": "High Prince of Taritz, Servant"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martin",
+                                "family_name": "Edersdorfer",
+                                "occupation_verbatim": "Beyßler allhier",
+                                "occupation_normalised": "Beysser here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31.",
+                            "normalised": "31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Marcus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Kirchmayer",
+                                "occupation_verbatim": "Beyßler allhier",
+                                "occupation_normalised": "Beysser here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31.",
+                            "normalised": "31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nicolaus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Petrus",
+                                "family_name": "Hofbaner",
+                                "occupation_verbatim": "Beyßler allhier",
+                                "occupation_normalised": "Beysser here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria Regina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Wolfgang",
+                                "family_name": "Rothamer",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Heyducke",
+                                "occupation_normalised": "High Prince of Taritz, Coachman"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr, 4 Monathe und 15 Tage alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "29.",
+                            "normalised": "29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Crumbach",
+                                "occupation_verbatim": "Herrschaffl. Bedienter",
+                                "occupation_normalised": "Lord's Servant"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre und 30 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30.",
+                            "normalised": "30"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Hr. Josephus Arteria",
+                                "family_name": null,
+                                "occupation_verbatim": "ein Kaufmann aus Italien",
+                                "occupation_normalised": "a Merchant from Italy"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "21 Jahre alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts-Pfarr, Obermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Aus der Hochlöbl. Congregation der Verkündigung Mariä",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "25 Merz.",
+                "normalised": "25 March"
+            },
+            "gate": "zu Füsz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "S. T. Herr Baron von Jsselbach",
+                "occupation_normalised": "S. T. Baron von Jsselbach"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Hilpoltstein",
+            "lodging": "Tit. Herrn Can. vou Gugl",
+            "s_value": {
+                "verbatim": "f.4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26"
+            },
+            "gate": "zu Füsz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Gaigl",
+                "occupation_verbatim": "ein Weinhaender von Rosenheim",
+                "occupation_normalised": "a Wine Seller from Rosenheim"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Rosenheim",
+            "lodging": " durch",
+            "s_value": {
+                "verbatim": "pafiret",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27.",
+                "normalised": "27"
+            },
+            "gate": "zu Füsz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "der Amberger ord. Bothe",
+                "occupation_normalised": "the Amberger Orderly Booth"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Turken",
+            "lodging": " durch",
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27.",
+                "normalised": "27"
+            },
+            "gate": "zu Füsz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Sebastian",
+                "family_name": "Riebling",
+                "occupation_verbatim": "und 3 Conl. Musicanten aus Schwaben",
+                "occupation_normalised": "and 3 Conl. Musicians from Swabia"
+            },
+            "time": "Vormittags",
+            "transport": "zu Fuss",
+            "origin": "Schwaben",
+            "lodging": " durch",
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27.",
+                "normalised": "27"
+            },
+            "gate": "zu Füsz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schwach",
+                "occupation_verbatim": "ein Kaufmann aus Holland",
+                "occupation_normalised": "a Merchant from Holland"
+            },
+            "time": "Vormittags"
+        }
+    ],
+    "id": "1770-04-03_Num_14",
+    "source": {
+        "issue_date": "1770-04-03",
+        "issue_number": "Num. 14",
+        "canvases": [
+            111,
+            112,
+            113,
+            114
+        ]
+    }
+}

@@ -1,0 +1,1208 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottfried",
+                                "family_name": "Grünewald",
+                                "occupation_verbatim": "Bürger, Neber-Seeg-und Zengschmidt",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josfr.",
+                                "family_name": "Isabella Catharina Fischerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 October",
+                            "normalised": "2023-10-23"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg Albrecht",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger und Schuhmacher",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josfr.",
+                                "family_name": "Christina Gloßnerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theodor Stephan",
+                                "family_name": "Stephan Bauernhuber",
+                                "occupation_verbatim": "Bürger, Glöckelmann und Schlegelarbeiter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Wochen alt",
+                            "age_days": 28
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger, Johann Gottlob Bock",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger, M. Joh. Gottlieb Grund",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 October",
+                            "normalised": "2023-10-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Christina",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger, Johann Leonhard Warter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Henrion Eva Dorothea",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Wilhelm Bössner",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Wochen alt",
+                            "age_days": 28
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 October",
+                            "normalised": "2023-10-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Michael",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Wolfgang Preslein",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "20 Tage alt",
+                            "age_days": 14
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 October",
+                            "normalised": "2023-10-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Margaretha",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Michael Hage",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Valentin Gottlieb",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Michael Hage",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Tage alt",
+                            "age_days": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian Fumi",
+                                "family_name": "Burger und Nagelschmidte zu Stadt am Hof",
+                                "occupation_verbatim": "verwittlicher Burger und Nagelschmidte zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jgfr.",
+                                "family_name": "Anna Maria Rinberich",
+                                "occupation_verbatim": "von Bernreich",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Xaverius Zihler",
+                                "family_name": null,
+                                "occupation_verbatim": "verwittigte Beys.",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martha Grasreuckin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael",
+                                "family_name": "Joh Georg Sammüller",
+                                "occupation_verbatim": "Beyssiger und Fuhrknecht allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 October",
+                            "normalised": "2023-10-23"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus",
+                                "family_name": "Blasius Heyder",
+                                "occupation_verbatim": "Vater, Viehhirte allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24 October",
+                            "normalised": "2023-10-24"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha",
+                                "family_name": "Joanneq Heckel",
+                                "occupation_verbatim": "Bedienerin allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha",
+                                "family_name": "Wolfgang Ortheifer",
+                                "occupation_verbatim": "Burger und Lebzelter zu Stadt am Hof",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "24 October",
+                            "normalised": "2023-10-24"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresia Schlundin",
+                                "family_name": "Beysfizierin allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "75 Jahr alt",
+                            "age_days": 27000
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 October",
+                            "normalised": "2023-10-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Regina Auerin",
+                                "family_name": "verwitwite Beyfizierin allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "84 Jahr alt",
+                            "age_days": 30240
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 October",
+                            "normalised": "2023-10-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": "Andreas Wury",
+                                "occupation_verbatim": "Beyfizer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre und 3 Monathe alt",
+                            "age_days": 1143
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Joh. Birsch",
+                                "occupation_verbatim": "Beyfizer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "10 Wochen alt",
+                            "age_days": 70
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "25 October",
+                            "normalised": "2023-10-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Xaverius Antonius",
+                                "family_name": "Antonius Prez",
+                                "occupation_verbatim": "Herrschaftlicher Besdienter allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Barbara Gerstlin",
+                                "family_name": null,
+                                "occupation_verbatim": "ledigen Stand",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "79 Jahre alt",
+                            "age_days": 28790
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gottfried Huzelin",
+                                "family_name": null,
+                                "occupation_verbatim": "Bediente bey Sr. Excell. Herrn Grafen von Saurau",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "73 Jahr alt",
+                            "age_days": 26010
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "20 October",
+                            "normalised": "2023-10-20"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Leopoldus",
+                                "family_name": "Joh. Georg Hoferer",
+                                "occupation_verbatim": "Mauerer und Innwohner allda",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "21 October",
+                "normalised": "2023-10-21"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Luz von Stallaberg",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Edelmann aus Böhmen",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 October",
+                "normalised": "2023-10-22"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Amberger ord.",
+                "family_name": "Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Türken",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 October",
+                "normalised": "2023-10-22"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Baron von Tänzl",
+                "family_name": "Pfleger von Landau",
+                "occupation_verbatim": "S. T.",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "2 Kutschen",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 October",
+                "normalised": "2023-10-23"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Bischoff",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Mauthner von Ellwans gen.",
+                "occupation_normalised": null
+            },
+            "time": "Nachmittags",
+            "transport": "Postwagen von Amberg",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 October",
+                "normalised": "2023-10-23"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Janer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Weinhändler",
+                "occupation_normalised": null
+            },
+            "time": "Nachmittags",
+            "transport": "Postwagen von Amberg",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 October",
+                "normalised": "25.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Bisthun",
+                "occupation_verbatim": "Jun.",
+                "occupation_normalised": "Junior"
+            },
+            "time": null,
+            "transport": "Gemsel",
+            "origin": "Essegland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "5. und io",
+                "value": "5. und 10"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Abends",
+                "normalised": "27.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Wolfgang",
+                "family_name": "Bäumel",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "6 Uhr",
+            "transport": "Gemsel",
+            "origin": "Coronini",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "5.",
+                "value": "5"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "28.",
+                "normalised": "28.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Heinrich",
+                "family_name": "Hörndl",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Gemsel",
+            "origin": "Bernhardt",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2. und 12",
+                "value": "2. und 12"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25.",
+                "normalised": "25.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Martin",
+                "family_name": "Laurer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Sachsen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "38",
+                "value": "38"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22.10."
+            },
+            "gate": "Ostenchore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23.10."
+            },
+            "gate": "Ostenchore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Büttner",
+                "occupation_verbatim": "Herzoglich-Arembergaischer Reitknecht",
+                "occupation_normalised": "Herzoglich-Arembergaischer Reitknecht"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24.",
+                "normalised": "24.10."
+            },
+            "gate": "Ostenchore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Sauer",
+                "occupation_verbatim": "Hochgräflich=Berchteinischer Secretair",
+                "occupation_normalised": "Hochgräflich=Berchteinischer Secretair"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25.",
+                "normalised": "25.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Walter",
+                "occupation_verbatim": "Juriffe von Stockheim in Franken",
+                "occupation_normalised": "Jurist von Stockheim in Franken"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "Kürbis",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Augustin",
+                "family_name": "Kapellner",
+                "occupation_verbatim": "Hasnuer von Hassnerzell",
+                "occupation_normalised": "Hasnuer von Hassnerzell"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weissen Hahn",
+            "s_value": {
+                "verbatim": "2.",
+                "value": "2"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20.10."
+            },
+            "gate": "Weyh St. Peterchorre",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Herr Graf von Nebutzkye aus Pohlen",
+                "occupation_normalised": "Herr Graf von Nebutzkye aus Pohlen"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "6.",
+                "value": "6"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Courier von Se. Excell. Herrn Grafen von Steinzheim",
+                "occupation_normalised": "Courier von Se. Excell. Herrn Grafen von Steinzheim"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "7.",
+                "value": "7"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Graf von Dayjasok",
+                "occupation_normalised": "S.T. Herr Graf von Dayjasok"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "9.",
+                "value": "9"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Graf von Königsfeld",
+                "occupation_normalised": "S.T. Herr Graf von Königsfeld"
+            },
+            "time": "8 Uhr",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "16.",
+                "value": "16"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24.",
+                "normalised": "24.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Wagen",
+                "occupation_verbatim": "Dingelstüger Bothe",
+                "occupation_normalised": "Dingelstüger Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25.",
+                "normalised": "25.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Mottey",
+                "occupation_verbatim": "Kaiserl. Hofcammerath",
+                "occupation_normalised": "Kaiserl. Hofcammerath"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Wagen",
+                "occupation_verbatim": "Landshuter ord. Bothe",
+                "occupation_normalised": "Landshuter ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Wagen",
+                "occupation_verbatim": "Landshuter Bothe",
+                "occupation_normalised": "Landshuter Bothe"
+            },
+            "time": "8 Uhr",
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Wagen",
+                "occupation_verbatim": "Landshuter ord. Bothe",
+                "occupation_normalised": "Landshuter ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Jugolstädtter Bothe",
+                "occupation_normalised": "Jugolstädtter Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Mottey",
+                "occupation_verbatim": "Kaiserl. Hofcammerath",
+                "occupation_normalised": "Kaiserl. Hofcammerath"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Jugolstädtter Bothe",
+                "occupation_normalised": "Jugolstädtter Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Mottey",
+                "occupation_verbatim": "Kaiserl. Hofcammerath",
+                "occupation_normalised": "Kaiserl. Hofcammerath"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26.10."
+            },
+            "gate": null,
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Mottey",
+                "occupation_verbatim": "Kaiserl. Hofcammerath",
+                "occupation_normalised": "Kaiserl. Hofcammerath"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20.10."
+            },
+            "gate": "Weinthore",
+            "direction": "hierin",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Golisch",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Ulm",
+            "lodging": "goldenem Adler",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20.10."
+            },
+            "gate": null,
+            "direction": "hierin",
+            "person": {
+                "given_name": "Monsr.",
+                "family_name": "Cenudy Revarly",
+                "occupation_verbatim": "Handelsmann aus Frankreich",
+                "occupation_normalised": "Handelsmann aus Frankreich"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21.10."
+            },
+            "gate": null,
+            "direction": "hierin",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schmetter",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann von Augsburg"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "goldenem Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21.10."
+            },
+            "gate": null,
+            "direction": "hierin",
+            "person": {
+                "given_name": "Monsr.",
+                "family_name": "Cenudy Revarly"
+            }
+        }
+    ],
+    "id": "1770-10-30_Num_44",
+    "source": {
+        "issue_date": "1770-10-30",
+        "issue_number": "Num. 44",
+        "canvases": [
+            347,
+            348,
+            349,
+            350,
+            351,
+            352,
+            353,
+            354
+        ]
+    }
+}

@@ -1,0 +1,527 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "18. Per Wagen",
+                "normalised": "18."
+            },
+            "gate": "Türken",
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshtuter",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19. Per Wagen",
+                "normalised": "19."
+            },
+            "gate": "Türken",
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Dingelsfinger",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20. Per Kutsche",
+                "normalised": "20."
+            },
+            "gate": "Türken",
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Ingolstäder ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": "Vormittags",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Wiener",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Landshtuer ord. Bothe, log. in Pfauen.",
+                "normalised": "Per Wagen, der Landshtuer ord. Bothe, log. in Pfauen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshtuer ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Weih St.Peterthore hinaus:",
+                "normalised": "Zum Weih St.Peterthore hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Wunsch",
+                "family_name": "Kayserl. Postcommissair",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Tit. Herr von Wunsch",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Der Münchuer Postwagen, um ½ 2 Uhr, Vormittags.",
+                "normalised": "Der Münchuer Postwagen, um ½ 2 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": "Vormittags",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Münchuer",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, eine Esstaffetta nach Wien, um ½ 12 Uhr, Mittags.",
+                "normalised": "Per Posta, eine Esstaffetta nach Wien, um ½ 12 Uhr, Mittags."
+            },
+            "gate": null,
+            "direction": "Mittags",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Mittags",
+            "transport": "Postal",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Landshtuer ord. Bothe.",
+                "normalised": "Per Wagen, der Landshtuer ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshtuer ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 19. Der Wiener Postwagen, um 8 Uhr, Vormittags.",
+                "normalised": "Den 19. Der Wiener Postwagen, um 8 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": "Vormittags",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Wiener",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Dingelsfinger Bothe.",
+                "normalised": "Per Wagen, der Dingelsfinger Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Dingelsfinger",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Tit. Herr von Hartenfels, er. von hier.",
+                "normalised": "Per Posta, Tit. Herr von Hartenfels, er. von hier."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Hartenfels",
+                "family_name": "er.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Tit. Herr von Hartenfels",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Ingolstäder Bothe.",
+                "normalised": "Per Wagen, der Ingolstäder Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Ingolstäder",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 22. Per Wagen, der Landshtuer Bothe.",
+                "normalised": "Den 22. Per Wagen, der Landshtuer Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Landshtuer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Jacober thore herein:",
+                "normalised": "Zum Jacober thore herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Bayer",
+                "family_name": "Cavalier von Maunheim",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Tit. Herr von Bayer",
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 18. Per Wagen, der Augspurger ord. Bothe, log. in gold. Bären.",
+                "normalised": "Den 18. Per Wagen, der Augspurger ord. Bothe, log. in gold. Bären."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Augspurger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "gold. Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21. Per Calesch, Hr. Grenold, ein Handelsmann aus Italien, f. 3. log. in Pfanen.",
+                "normalised": "Den 21. Per Calesch, Hr. Grenold, ein Handelsmann aus Italien, f. 3. log. in Pfanen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Grenold",
+                "family_name": "Handelsmann aus Italien",
+                "occupation_verbatim": "Handelsmann aus Italien",
+                "occupation_normalised": "Handelsmann aus Italien"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Italien",
+            "lodging": "Pfanen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Postcalesch, Tit. Herr von Hüffner, Churbayerischer Lieutenant, f. 2. log. in 3 Helmen.",
+                "normalised": "Per Postcalesch, Tit. Herr von Hüffner, Churbayerischer Lieutenant, f. 2. log. in 3 Helmen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Hüffner",
+                "family_name": "Churbayerischer Lieutenant",
+                "occupation_verbatim": "Tit. Herr von Hüffner",
+                "occupation_normalised": "Tit. Herr von Hüffner"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Tit. Herr von Hüffner",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Zum Jacoberthore hinaus:",
+                "normalised": "Zum Jacoberthore hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr Barons von Weveld",
+                "family_name": "Churfälzische Offi-",
+                "occupation_verbatim": "Tit. Herr Barons von Weveld",
+                "occupation_normalised": "Tit. Herr Barons von Weveld"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Tit. Herr Barons von Weveld",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17. Per Posta, Hr. Soled, ein Kaufmann von Prag, f. 2.",
+                "normalised": "Den 17. Per Posta, Hr. Soled, ein Kaufmann von Prag, f. 2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Soled",
+                "family_name": "Kaufmann von Prag",
+                "occupation_verbatim": "Kaufmann von Prag",
+                "occupation_normalised": "Kaufmann von Prag"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Prag",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20. Per Wagen, der Augspurger ord. Bothe.",
+                "normalised": "Den 20. Per Wagen, der Augspurger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Augspurger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 21. Per Posta, Tit.Herr Kummerer, Churpfälzischer Legationssecretair.",
+                "normalised": "Den 21. Per Posta, Tit.Herr Kummerer, Churpfälzischer Legationssecretair."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.Herr Kummerer",
+                "family_name": "Churpfälzischer Legationssecretair",
+                "occupation_verbatim": "Tit.Herr Kummerer",
+                "occupation_normalised": "Tit.Herr Kummerer"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Tit.Herr Kummerer",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 20. Mit einem Schiffe von Vohburg, Herr Schleich, Caplan, log. in Turken.",
+                "normalised": "Den 20. Mit einem Schiffe von Vohburg, Herr Schleich, Caplan, log. in Turken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Schleich",
+                "family_name": "Caplan",
+                "occupation_verbatim": "Caplan",
+                "occupation_normalised": "Caplan"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Vohburg",
+            "lodging": "Turken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-12-24_Num_52",
+    "source": {
+        "issue_date": "1770-12-24",
+        "issue_number": "Num. 52",
+        "canvases": [
+            415,
+            416,
+            417,
+            418
+        ]
+    }
+}

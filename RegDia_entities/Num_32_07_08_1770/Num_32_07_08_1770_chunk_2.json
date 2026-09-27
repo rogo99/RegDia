@@ -1,0 +1,589 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 2.",
+                "normalised": "2."
+            },
+            "gate": "Per Calesch",
+            "direction": null,
+            "person": {
+                "given_name": "Haider",
+                "family_name": "Gerichtsschreiber von Lupburg",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche",
+                "normalised": "Per Kutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Fleischmann",
+                "occupation_verbatim": "Pfleger von Parsberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Forster",
+                "occupation_verbatim": "Gerichtsschreiber von Laber",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": "Per Posta",
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr de Les",
+                "occupation_verbatim": "ein Cavalier aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per ord. Posiwagen",
+                "normalised": "Per ord. Posiwagen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Pannier",
+                "occupation_verbatim": "ein Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "Straßburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Rosenbaum",
+                "occupation_verbatim": "ein Handelsmann aus Sachsen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Herold",
+                "occupation_verbatim": "Churbayerischer General",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ic. f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brucke herein:",
+                "normalised": "An der hölzernen Brucke herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brucke hinaus:",
+                "normalised": "An der hölzernen Brucke hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Bischum Jun.",
+                "occupation_verbatim": "führt in einem Plättel nach Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Tit. Herr von Nuss, Kayserl. Hauptmann ; Tit. Herr von Winkler, Hochgräflich-Sinzens-dorfscher Bevoilmächtigter",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hieronymus",
+                "family_name": "Rainer",
+                "occupation_verbatim": "führt des Daniel Raimers sein ord. Schiff nach Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenthore herein:",
+                "normalised": "Zum Ostenthore herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Tit.-Herr von Peischeky",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Tit.-Herr von Peischeky, ein Cavalier aus Pohlen",
+            "lodging": "in weisen Kamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Schnock, gewesener Haunzenbergischer Buchhalter",
+            "lodging": "in Pfau",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Zu Pferde",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": "Weissenfelber, ein Kaufmann von Augspurg",
+            "lodging": "in gol- denen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wagner",
+                "occupation_verbatim": "Churmaynzischer Aefft.s.2.log.bey.Hrn.Bec,Handelsmaaß",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Grazel",
+                "occupation_verbatim": "Landschaftssecretair von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Poppy",
+                "occupation_verbatim": "ein Juriste von Salzburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zu Pferde",
+                "normalised": "Zu Pferde"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Reissmann",
+                "occupation_verbatim": "ein Handelsmann von Gera",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": null,
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Weissenfelber",
+                "occupation_verbatim": "ein Kaufmann von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Motitor",
+                "occupation_verbatim": "Kavserl. Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Tit. Herr von Motitor, Kavserl. Lieutenant",
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Frau Baronin von Tüngl",
+                "occupation_verbatim": "Pflegerin von Landau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "S.T. Frau Baronin von Tüngl, Pflegerin von Landau",
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Aug.",
+                "normalised": "1 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Toscana",
+                "occupation_verbatim": "ein Cavalier von Toscana",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "in weis- sen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Heilmann",
+                "occupation_verbatim": "ein Handelsmann von Nurnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Weber",
+                "occupation_verbatim": "ein Handelsmann von Schwäbisch = Gemünd",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "in Hecht",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Bär",
+                "occupation_verbatim": "Regierungsrath von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Straubinger ord. Bothe",
+                "occupation_verbatim": "log. in schwarzen Bären",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenthore hinaus:",
+                "normalised": "Zum Ostenthore hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Baron von Langenmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "S.T. Herr Baron von Langenmann, von Meckelburg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Baron von Krechler",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "S.T. Herr Baron von Krechler, Kayserl. Obrister",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Frau Baronia von Reichenberg",
+                "occupation_verbatim": "von Ingolstadt",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "S.T. Frau Baronia von Reichenberg, von Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Aug.",
+                "normalised": "1 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "der Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null
+        }
+    ],
+    "id": "1770-08-07_Num_32",
+    "source": {
+        "issue_date": "1770-08-07",
+        "issue_number": "Num. 32",
+        "canvases": [
+            255,
+            256,
+            257,
+            258
+        ]
+    }
+}

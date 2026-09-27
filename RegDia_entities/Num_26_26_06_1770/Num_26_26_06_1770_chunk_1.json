@@ -1,0 +1,600 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthäus",
+                                "family_name": "Ordner",
+                                "occupation_verbatim": "Bürger und Maurer",
+                                "occupation_normalised": "Citizen and Mason"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Friedrich",
+                                "family_name": "Catharina Elisabetha Stöcklin"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Essig",
+                                "occupation_verbatim": "Beysitzer und Pfasterer",
+                                "occupation_normalised": "Byssiter and Plasterer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Anna Margaretha Dertlingerin"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "17 Junii",
+                            "normalised": "17 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gottlieb",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Ein uneheliches Kind",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Michael Schmid",
+                                "occupation_verbatim": "Bater",
+                                "occupation_normalised": "Baker"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Michael Schmid",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 Junii",
+                            "normalised": "21 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Ein uneheliches Kind",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Joh. Andreas Mühlberger",
+                                "occupation_verbatim": "Bater",
+                                "occupation_normalised": "Baker"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Joh. Andreas Mühlberger",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Barbara",
+                                "family_name": "Samuel Georg Gottfried",
+                                "occupation_verbatim": "Bater",
+                                "occupation_normalised": "Baker"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Samuel Georg Gottfried",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "16 Junii",
+                            "normalised": "16 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Magdalena",
+                                "family_name": "Georg Winissfelder",
+                                "occupation_verbatim": "Beyssifers und Salztrager",
+                                "occupation_normalised": "Byssiter and Salt Trader"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "17 Jahr, 27 Wochen und 5 Tage alt",
+                            "age_days": 17
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17 Junii",
+                            "normalised": "17 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Joh. Michael Oberhauser",
+                                "occupation_verbatim": "Beyssifer und Haußknecht",
+                                "occupation_normalised": "Byssiter and House Servant"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre, 36 Wochen weniger 2 Tage alt",
+                            "age_days": 3
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17 Junii",
+                            "normalised": "17 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Philipp Härl",
+                                "family_name": "Joh. Philipp Härl",
+                                "occupation_verbatim": "Beyssifer allhier",
+                                "occupation_normalised": "Byssiter here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "84 Jahr alt",
+                            "age_days": 84
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Martin",
+                                "family_name": "Joh. Georg Weinert",
+                                "occupation_verbatim": "Profosentrabance",
+                                "occupation_normalised": "Professor and Trainee"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr, 24 Wochen und 3 Tage alt",
+                            "age_days": 1
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Junii",
+                            "normalised": "18 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Ernestina",
+                                "family_name": "Joh Michael Muschweck",
+                                "occupation_verbatim": "Postillons bey des Frey herrn von Simoulin",
+                                "occupation_normalised": "Postillons of the Honorable Lord von Simoulin"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "35 Jahre, 23 Wochen und 3 Tage alt",
+                            "age_days": 35
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19 Junii",
+                            "normalised": "19 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Magdalena Jungin",
+                                "family_name": "Althiesige Bürgerl.",
+                                "occupation_verbatim": "Glöckelmanns und Tageldhners Wittib",
+                                "occupation_normalised": "Bell Ringer and Day Laborer's Widow"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "72 Jahre alt",
+                            "age_days": 72
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 Junii",
+                            "normalised": "20 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Margaretha",
+                                "family_name": "Maria Margaretha Staudingerin",
+                                "occupation_verbatim": "Beyssifers und Mauerers Wit- tib",
+                                "occupation_normalised": "Byssiter and Mason's Widow"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahre weniger 23 Wochen alt",
+                            "age_days": 70
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 Junii",
+                            "normalised": "21 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Johann Georg",
+                                "occupation_verbatim": "Beyssüser und Pfasterer",
+                                "occupation_normalised": "Byssiter and Plasterer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr weniger 5 Wochen und 5 Tage alt",
+                            "age_days": 1
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 Junii",
+                            "normalised": "23 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang Magnus Christoph",
+                                "family_name": "Praunsmändt",
+                                "occupation_verbatim": "Burger und Thorschreiber all-hier",
+                                "occupation_normalised": "Citizen and Thorscribe here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahre weniger 3 Wochen und 3 Lage alt",
+                            "age_days": 70
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "22 Junii",
+                            "normalised": "22 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Magdalena",
+                                "family_name": "Georg Pronerak",
+                                "occupation_verbatim": "Beyssifer allhier",
+                                "occupation_normalised": "Byssiter here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "17 Junii",
+                            "normalised": "17 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Lorenz",
+                                "family_name": "Martin Edersdorfer",
+                                "occupation_verbatim": "Beyssifer allhier",
+                                "occupation_normalised": "Byssiter here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr alt",
+                            "age_days": 3
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 Junii",
+                            "normalised": "20 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Casimir Philipp Carl",
+                                "family_name": "Tinermann",
+                                "occupation_verbatim": "ledigen Standes",
+                                "occupation_normalised": "Single"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "29 Jahre, 3 Monathe und 20 Tage alt",
+                            "age_days": 29
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 Junii",
+                            "normalised": "21 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha",
+                                "family_name": "Elisabetha Scheftalerin",
+                                "occupation_verbatim": "Beysigterin allhier",
+                                "occupation_normalised": "Byssiter here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "42 Jahre alt",
+                            "age_days": 42
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsstitfs-Pfarr, Obermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "22 Junii",
+                            "normalised": "22 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Jacobus Jflinger",
+                                "occupation_verbatim": "Tagewerker zu Rickelhof",
+                                "occupation_normalised": "Day Worker at Rickelhof"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr alt",
+                            "age_days": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Zochlöbi. Congregation der Verkündigung Mariä",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "16 Junii",
+                            "normalised": "16 June"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthias Widenmann",
+                                "family_name": "Burger und Seilermeister zu Stadt am Hof",
+                                "occupation_verbatim": "Burger und Seilermeister zu Stadt am Hof",
+                                "occupation_normalised": "Citizen and Leather Master at Town Hall"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "17 Junii",
+                "normalised": "17 June"
+            },
+            "gate": "goldenen Adler",
+            "direction": "herein",
+            "person": {
+                "given_name": "Reinhold",
+                "family_name": "Hr.",
+                "occupation_verbatim": "ein Weinhandler von Frankfur",
+                "occupation_normalised": "a Wine Merchant from Frankfurt"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Frankfur",
+            "lodging": "goldenen Adler",
+            "s_value": {
+                "verbatim": "5",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Junii",
+                "normalised": "17 June"
+            },
+            "gate": "Spiegel",
+            "direction": "in",
+            "person": {
+                "given_name": "Stöb",
+                "family_name": "Hr.",
+                "occupation_verbatim": "ein Kaufmann von Würzburg",
+                "occupation_normalised": "a Merchant from Würzburg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Würzburg",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "5",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 Junii",
+                "normalised": "18 June"
+            },
+            "gate": "Türken",
+            "direction": "in",
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Hr.",
+                "occupation_verbatim": "der Amberger ord. Bothe",
+                "occupation_normalised": "the Amberger Order Bothe"
+            },
+            "time": "Bormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 Junii",
+                "normalised": "18 June"
+            },
+            "gate": "Türken",
+            "direction": "in",
+            "person": {
+                "given_name": "Constantino Travolsy",
+                "family_name": "Tir. Herr",
+                "occupation_verbatim": "ein Prälat aus Syrien",
+                "occupation_normalised": "a Priest from Syria"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Syria",
+            "lodging": "St. Jacob",
+            "s_value": {
+                "verbatim": "4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 Junii",
+                "normalised": "18 June"
+            },
+            "gate": "Türken",
+            "direction": "in",
+            "person": {
+                "given_name": "Constantino Travolsy",
+                "family_name": "Tir. Herr",
+                "occupation_verbatim": "ein Prälat aus Syrien",
+                "occupation_normalised": "a Priest from Syria"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Syria",
+            "lodging": "St. Jacob",
+            "s_value": {
+                "verbatim": "4",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 Junii",
+                "normalised": "18 June"
+            },
+            "gate": "Türken",
+            "direction": "in",
+            "person": {
+                "given_name": "Constantino Travolsy",
+                "family_name": "Tir. Herr",
+                "occupation_verbatim": "ein Prälat aus Syrien",
+                "occupation_normalised": "a Priest from Syria"
+            }
+        }
+    ],
+    "id": "1770-06-26_Num_26",
+    "source": {
+        "issue_date": "1770-06-26",
+        "issue_number": "Num. 26",
+        "canvases": [
+            203,
+            204,
+            205,
+            206
+        ]
+    }
+}

@@ -1,0 +1,617 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "25 Inwi.",
+                            "normalised": "25 Inwi."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Carl",
+                                "family_name": "Dernick",
+                                "occupation_verbatim": "Burger und Langmesserschmidt",
+                                "occupation_normalised": "Bürger und Langmesserschmidt"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Maria Maximiliana Eleonora",
+                                "family_name": "Schmidin",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "24.",
+                            "normalised": "24."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Adler",
+                                "occupation_verbatim": "Burger u. Schneider",
+                                "occupation_normalised": "Bürger und Schneider"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26.",
+                            "normalised": "26."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Barbara",
+                                "family_name": "Heiselbey",
+                                "occupation_verbatim": "Beysiker und Ziegelbrenner",
+                                "occupation_normalised": "Beysiker und Ziegelbrenner"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christoph Johann",
+                                "family_name": "Elch",
+                                "occupation_verbatim": "Burger und Hansdelsmann",
+                                "occupation_normalised": "Bürger und Hansdelsmann"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna Catharina",
+                                "family_name": "Rittberger",
+                                "occupation_verbatim": "Beysiker und Altreis allhier",
+                                "occupation_normalised": "Beysiker und Altreis allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jehann Paul",
+                                "family_name": "Finck",
+                                "occupation_verbatim": "Soldate in hiesiger Lübl. Omr. Stadtgarde",
+                                "occupation_normalised": "Soldat in hiesiger Lübl. Omr. Stadtgarde"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "29 Junii",
+                            "normalised": "29 Junii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gottlieb Christian",
+                                "family_name": "Müller",
+                                "occupation_verbatim": "Burger und Stadtwagner",
+                                "occupation_normalised": "Bürger und Stadtwagner"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Domz und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Junii",
+                            "normalised": "23 Junii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Elisabetha",
+                                "family_name": "Dumbs",
+                                "occupation_verbatim": "Beysfher allhier",
+                                "occupation_normalised": "Beysfher allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26.",
+                            "normalised": "26."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Adler",
+                                "occupation_verbatim": "Churdayerischer Grenadier zu Stadt am Hof",
+                                "occupation_normalised": "Churdayerischer Grenadier zu Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joh. Nepomucenus Friederich Leo",
+                                "family_name": "Rickl",
+                                "occupation_verbatim": "Burger und Strumpffricke.r zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Strumpffricke.r zu Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28.",
+                            "normalised": "28."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius Joh. Bapt.",
+                                "family_name": "Perrus",
+                                "occupation_verbatim": "Hochfürstlich-Tarischer Koch",
+                                "occupation_normalised": "Hochfürstlich-Tarischer Koch"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29.",
+                            "normalised": "29."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Joseph",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Burger und Gurtler zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Gurtler zu Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "23.",
+                            "normalised": "23."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Liser",
+                                "occupation_verbatim": "Burger und Schuhmacher zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Schuhmacher zu Stadt am Hof"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3½ Jahr alt",
+                            "age_days": 105
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24.",
+                            "normalised": "24."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": "König",
+                                "occupation_verbatim": "Beysfher allhier",
+                                "occupation_normalised": "Beysfher allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "12 Tage alt",
+                            "age_days": 12
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24.",
+                            "normalised": "24."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": "Scheitl",
+                                "occupation_verbatim": "Beysfher allhier",
+                                "occupation_normalised": "Beysfher allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Tage alt",
+                            "age_days": 6
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25.",
+                            "normalised": "25."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscens Antonius",
+                                "family_name": "Buz",
+                                "occupation_verbatim": "Beysfher allhier",
+                                "occupation_normalised": "Beysfher allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "44 Jahr alt",
+                            "age_days": 15680
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26.",
+                            "normalised": "26."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Treitinger",
+                                "occupation_verbatim": "Koch allhier",
+                                "occupation_normalised": "Koch allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5½ Jahr alt",
+                            "age_days": 196
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "25 Junii",
+                            "normalised": "25 Junii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthias",
+                                "family_name": "Schiefer",
+                                "occupation_verbatim": "Kunstmahler allhier",
+                                "occupation_normalised": "Kunstmahler allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 Junii",
+                            "normalised": "25 Junii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josefa Amannin",
+                                "family_name": "",
+                                "occupation_verbatim": "",
+                                "occupation_normalised": ""
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 Junii",
+                            "normalised": "25 Junii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Rauch",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Bedienter allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 Junii",
+                            "normalised": "25 Junii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Peter",
+                                "family_name": "Schutz",
+                                "occupation_verbatim": "Hochfürstl. Taxischer Kutscher",
+                                "occupation_normalised": "Hochfürstl. Taxischer Kutscher"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eleonora",
+                                "family_name": "Kalteis",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer allhier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "24 Junii",
+                "normalised": "24 Junii"
+            },
+            "gate": "zu steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Tit. Herr Agger",
+                "occupation_normalised": "Tit. Herr Agger"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Churfälzischer Geistl. Rath und Stadtpfarrer von Schwandorf",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Junii",
+                "normalised": "25 Junii"
+            },
+            "gate": "zu Wasser",
+            "direction": "in 3 Helmen",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Point",
+                "occupation_verbatim": "ein Passagier aus Engeland",
+                "occupation_normalised": "ein Passagier aus Engeland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Engeland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        }
+    ],
+    "id": "1770-07-03_Num_27",
+    "source": {
+        "issue_date": "1770-07-03",
+        "issue_number": "Num. 27",
+        "canvases": [
+            211,
+            212,
+            213,
+            214
+        ]
+    }
+}

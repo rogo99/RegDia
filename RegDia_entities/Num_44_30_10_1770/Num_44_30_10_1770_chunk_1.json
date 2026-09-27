@@ -1,0 +1,620 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottfried",
+                                "family_name": "Grünewald",
+                                "occupation_verbatim": "Bürger, Neber-Seeg-und Zengschmidt",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josfr.",
+                                "family_name": "Isabella Catharina Fischerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 October",
+                            "normalised": "2023-10-23"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg Albrecht",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger und Schuhmacher",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josfr.",
+                                "family_name": "Christina Gloßnerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theodor Stephan",
+                                "family_name": "Stephan Bauernhuber",
+                                "occupation_verbatim": "Bürger, Glöckelmann und Schlegelarbeiter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Wochen alt",
+                            "age_days": 28
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger, Johann Gottlob Bock",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger, M. Joh. Gottlieb Grund",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 October",
+                            "normalised": "2023-10-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Christina",
+                                "family_name": null,
+                                "occupation_verbatim": "Bürger, Johann Leonhard Warter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Henrion Eva Dorothea",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Wilhelm Bössner",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Wochen alt",
+                            "age_days": 28
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 October",
+                            "normalised": "2023-10-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Michael",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Wolfgang Preslein",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "20 Tage alt",
+                            "age_days": 14
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 October",
+                            "normalised": "2023-10-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Margaretha",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Michael Hage",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Wochen alt",
+                            "age_days": 77
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Valentin Gottlieb",
+                                "family_name": null,
+                                "occupation_verbatim": "Tit.Herr Johann Michael Hage",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Tage alt",
+                            "age_days": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian Fumi",
+                                "family_name": "Burger und Nagelschmidte zu Stadt am Hof",
+                                "occupation_verbatim": "verwittlicher Burger und Nagelschmidte zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jgfr.",
+                                "family_name": "Anna Maria Rinberich",
+                                "occupation_verbatim": "von Bernreich",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Xaverius Zihler",
+                                "family_name": null,
+                                "occupation_verbatim": "verwittigte Beys.",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martha Grasreuckin",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael",
+                                "family_name": "Joh Georg Sammüller",
+                                "occupation_verbatim": "Beyssiger und Fuhrknecht allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 October",
+                            "normalised": "2023-10-23"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus",
+                                "family_name": "Blasius Heyder",
+                                "occupation_verbatim": "Vater, Viehhirte allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24 October",
+                            "normalised": "2023-10-24"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha",
+                                "family_name": "Joanneq Heckel",
+                                "occupation_verbatim": "Bedienerin allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha",
+                                "family_name": "Wolfgang Ortheifer",
+                                "occupation_verbatim": "Burger und Lebzelter zu Stadt am Hof",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "24 October",
+                            "normalised": "2023-10-24"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresia Schlundin",
+                                "family_name": "Beysfizierin allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "75 Jahr alt",
+                            "age_days": 27000
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 October",
+                            "normalised": "2023-10-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Regina Auerin",
+                                "family_name": "verwitwite Beyfizierin allhier",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "84 Jahr alt",
+                            "age_days": 30240
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26 October",
+                            "normalised": "2023-10-26"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": "Andreas Wury",
+                                "occupation_verbatim": "Beyfizer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahre und 3 Monathe alt",
+                            "age_days": 1143
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Joh. Birsch",
+                                "occupation_verbatim": "Beyfizer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "10 Wochen alt",
+                            "age_days": 70
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "25 October",
+                            "normalised": "2023-10-25"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Xaverius Antonius",
+                                "family_name": "Antonius Prez",
+                                "occupation_verbatim": "Herrschaftlicher Besdienter allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "22 October",
+                            "normalised": "2023-10-22"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Barbara Gerstlin",
+                                "family_name": null,
+                                "occupation_verbatim": "ledigen Stand",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "79 Jahre alt",
+                            "age_days": 28790
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 October",
+                            "normalised": "2023-10-27"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gottfried Huzelin",
+                                "family_name": null,
+                                "occupation_verbatim": "Bediente bey Sr. Excell. Herrn Grafen von Saurau",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "73 Jahr alt",
+                            "age_days": 26010
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "20 October",
+                            "normalised": "2023-10-20"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Leopoldus",
+                                "family_name": "Joh. Georg Hoferer",
+                                "occupation_verbatim": "Mauerer und Innwohner allda",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "21 October",
+                "normalised": "2023-10-21"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Luz von Stallaberg",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Edelmann aus Böhmen",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 October",
+                "normalised": "2023-10-22"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Amberger ord.",
+                "family_name": "Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Türken",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 October",
+                "normalised": "2023-10-22"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Baron von Tänzl",
+                "family_name": "Pfleger von Landau",
+                "occupation_verbatim": "S. T.",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "2 Kutschen",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 October",
+                "normalised": "2023-10-23"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Bischoff",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Mauthner von Ellwans gen.",
+                "occupation_normalised": null
+            },
+            "time": "Nachmittags",
+            "transport": "Postwagen von Amberg",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 October",
+                "normalised": "2023-10-23"
+            },
+            "gate": "steinernen Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Janer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Weinhändler",
+                "occupation_normalised": null
+            },
+            "time": "Nachmittags",
+            "transport": "Postwagen von Amberg",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-10-30_Num_44",
+    "source": {
+        "issue_date": "1770-10-30",
+        "issue_number": "Num. 44",
+        "canvases": [
+            347,
+            348,
+            349,
+            350
+        ]
+    }
+}

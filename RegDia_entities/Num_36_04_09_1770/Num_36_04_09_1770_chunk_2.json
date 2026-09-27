@@ -1,0 +1,637 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "1. Sept.",
+                "normalised": "1 September"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schmauz",
+                "occupation_verbatim": "von Bollenried",
+                "occupation_normalised": "from Bollenried"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": ""
+            }
+        }
+    ],
+    "id": "1770-09-04_Num_36",
+    "source": {
+        "issue_date": "1770-09-04",
+        "issue_number": "Num. 36",
+        "canvases": [
+            287,
+            288,
+            289,
+            290
+        ]
+    }
+}

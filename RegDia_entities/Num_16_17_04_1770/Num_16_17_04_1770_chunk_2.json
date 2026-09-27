@@ -1,0 +1,605 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "11. April",
+                "normalised": "11.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Böhm",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": "Vormittags",
+            "transport": "Nürnberger ord. Landkutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. April",
+                "normalised": "12.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Serky",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. April",
+                "normalised": "13.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Ebermeyer",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": 5
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. L.",
+                "family_name": "Paucher",
+                "occupation_verbatim": "Churfürstlicher Sch. Rath",
+                "occupation_normalised": "Sch. Rath"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 April",
+                "normalised": "15.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Laurer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "mit ihm etl. 80 gemeine Personen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 April",
+                "normalised": "08.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Stilard",
+                "occupation_verbatim": "Kaufmann von Wien",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 April",
+                "normalised": "09.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wieser",
+                "occupation_verbatim": "Schreiber von Straubing",
+                "occupation_normalised": "Schreiber"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshuter ord. Bothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 April",
+                "normalised": "10.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Heilmayer",
+                "occupation_verbatim": "Weinhändler von Straubing",
+                "occupation_normalised": "Weinhändler"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Dingelstinger Bothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "log. in Türken.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 April",
+                "normalised": "11.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Böhm",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 April",
+                "normalised": "12.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Herdeggen",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 April",
+                "normalised": "08.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Weiler",
+                "occupation_verbatim": "Kaufmannsdieier von Augsburg",
+                "occupation_normalised": "Kaufmannsdieier"
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": null,
+            "lodging": "gold. Bären",
+            "s_value": {
+                "verbatim": "log. in gold. Bären.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 April",
+                "normalised": "10.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Weiler",
+                "occupation_verbatim": "Kaufmannsdieier von Augsburg",
+                "occupation_normalised": "Kaufmannsdieier"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Augsburger ord. Bothe",
+            "lodging": "goldenen Bären",
+            "s_value": {
+                "verbatim": "log. in goldenen Bären.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 April",
+                "normalised": "12.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Suppenmoser",
+                "occupation_verbatim": "Handelsman aus Tyrol",
+                "occupation_normalised": "Handelsman"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": {
+                "verbatim": "log. in Pfauen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 April",
+                "normalised": "12.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joh.",
+                "family_name": "Georg Bachmeyer",
+                "occupation_verbatim": "Handelsmann von Renkirch",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": null,
+            "lodging": "Burbaum",
+            "s_value": {
+                "verbatim": "log. in Burbaum.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 April",
+                "normalised": "12.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Postcalesch",
+            "origin": null,
+            "lodging": "weis. Lamm",
+            "s_value": {
+                "verbatim": "log. in weis. Lamm.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 April",
+                "normalised": "12.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Scharton",
+                "occupation_verbatim": "Kaufmann aus Frankreich",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Münchner ord. Bothen",
+            "origin": null,
+            "lodging": "gold. Greif",
+            "s_value": {
+                "verbatim": "log. in gold. Greif.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joh.",
+                "family_name": "Andreas Schaefer",
+                "occupation_verbatim": "Burgerl. Kunstzartner",
+                "occupation_normalised": "Kunstzartner"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "verschiedene Sorten Citronen- und Orangenbäume",
+            "s_value": {
+                "verbatim": "unterschiedliche Sorten Citronen- und Orangenbäume, sowohl hochstämmige, mittlere, als niedere, von alt- und jungen Stämmen, in Kübeln und Scherben stehende, um billigen preisz",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor",
+                "occupation_verbatim": "Kaufmann von Augsburg",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pañiren durch.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 April",
+                "normalised": "14.04."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Nembor"
+            }
+        }
+    ],
+    "id": "1770-04-17_Num_16",
+    "source": {
+        "issue_date": "1770-04-17",
+        "issue_number": "Num. 16",
+        "canvases": [
+            131,
+            132,
+            133,
+            134
+        ]
+    }
+}

@@ -1,0 +1,329 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Febr.",
+                            "normalised": "12 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Stephau",
+                                "family_name": "Griesmann",
+                                "occupation_verbatim": "Bürger und Stiftgastgeb",
+                                "occupation_normalised": "citizen and guest"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12 Febr.",
+                            "normalised": "12 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Brenner",
+                                "occupation_verbatim": "Beysilher, Catton- und Leinwanddrucker",
+                                "occupation_normalised": "printer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "12. Leonhard Krug",
+                            "normalised": "12 Leonhard Krug"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Leonhard",
+                                "family_name": "Krug",
+                                "occupation_verbatim": "Bürger, Gastgeb und E. Wohlehrlobl. Steueramts Diesner allhier",
+                                "occupation_normalised": "citizen, innkeeper, and tax collector"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "40 Jahr weniger 20 Wochen und 2 Tage alt",
+                            "age_days": 14000
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In der Dom- und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Febr.",
+                            "normalised": "12 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Edenhofer",
+                                "occupation_verbatim": "verwitweter Beyssitzer allhier",
+                                "occupation_normalised": "widowed resident"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "13. Lorenz Heinisch",
+                            "normalised": "13 Lorenz Heinisch"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Lorenz",
+                                "family_name": "Heinisch",
+                                "occupation_verbatim": "Tageldörner und Beyssiker allhier",
+                                "occupation_normalised": "tenant farmer and resident"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "30 Jahr alt",
+                            "age_days": 1095
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Jacobus",
+                            "normalised": "14 Jacobus"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus",
+                                "family_name": null,
+                                "occupation_verbatim": "Vater, Andreas Schmalskel",
+                                "occupation_normalised": "father, Andreas Schmalskel"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Monathe und 19 Tage alt",
+                            "age_days": 273
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. Jgfr. Maria Catharina Theresia",
+                            "normalised": "15 Jgfr. Maria Catharina Theresia"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina Theresia",
+                                "family_name": null,
+                                "occupation_verbatim": "des Johann Bayeris, Burgers und Schneidermeisters zu Stadt am Hof, eheliebl. Tochter",
+                                "occupation_normalised": "of Johann Bayer, citizen and cobbler at Stadt am Hof, married daughter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "22 ½ Jahr alt",
+                            "age_days": 8125
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Aus der Hochlöbl. Congregation der Verkündigung Mariä",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "9 Febr.",
+                            "normalised": "9 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Veigt",
+                                "family_name": "Buechner",
+                                "occupation_verbatim": "Weinzierl zu Reinhanßen",
+                                "occupation_normalised": "wine grower at Reinhanßen"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "11 Febr.",
+                "normalised": "11 February"
+            },
+            "gate": "Zur steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Msr. Tiegler",
+                "family_name": null,
+                "occupation_verbatim": "Sribente von Nürnberg",
+                "occupation_normalised": "scribe from Nuremberg"
+            },
+            "time": "Vormittags",
+            "transport": "zu Fuß",
+            "origin": "Nürnberg",
+            "lodging": "in golde- nen Ochsen"
+        },
+        {
+            "date": {
+                "verbatim": "12. Zu Fuß",
+                "normalised": "12. On foot"
+            },
+            "gate": "Zur steinernen Brücke herein",
+            "direction": "in",
+            "person": {
+                "given_name": "Msr. Jling",
+                "family_name": null,
+                "occupation_verbatim": "Kaufmannsdierer von Wimpfen",
+                "occupation_normalised": "merchant from Wimpfen"
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": "Wimpfen",
+            "lodging": "in golde- nen Falken"
+        },
+        {
+            "date": {
+                "verbatim": "13. Die Nüruberger ord. Landkutsche",
+                "normalised": "13. The Nuremberg official land carriage"
+            },
+            "gate": "Zur steinernen Brücke herein",
+            "direction": "in",
+            "person": null,
+            "time": "Vormittags",
+            "transport": "Per Kutsche",
+            "origin": "Nürnberg",
+            "lodging": "in Türken"
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Kutsche",
+                "normalised": "14. By carriage"
+            },
+            "gate": "Zur steinernen Brücke herein",
+            "direction": "in",
+            "person": null,
+            "time": null,
+            "transport": "Silberbothe von Amberg",
+            "origin": "Amberg",
+            "lodging": "pasiret durch"
+        },
+        {
+            "date": {
+                "verbatim": "15. Zu Fuß",
+                "normalised": "15. On foot"
+            },
+            "gate": "Zur feinernen Brucke hinaus",
+            "direction": "out",
+            "person": {
+                "given_name": "Heinrich Albrecht",
+                "family_name": null,
+                "occupation_verbatim": "Comödiante",
+                "occupation_normalised": "comedian"
+            },
+            "time": null,
+            "transport": "zu Füß",
+            "origin": null,
+            "lodging": "in grünen Cranz"
+        },
+        {
+            "date": {
+                "verbatim": "16. Per Posta",
+                "normalised": "16. By post"
+            },
+            "gate": "Zur feinernen Brucke hinaus",
+            "direction": "out",
+            "person": {
+                "given_name": "Herr Grün",
+                "family_name": null,
+                "occupation_verbatim": "Kaufmann von Gera",
+                "occupation_normalised": "merchant from Gera"
+            },
+            "time": null,
+            "transport": "Herr Grün",
+            "origin": "Gera",
+            "lodging": "in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Posta",
+                "normalised": "17. By post"
+            },
+            "gate": "Zur feinernen Brucke hinaus",
+            "direction": "out",
+            "person": {
+                "given_name": "Hr. Dazdorf",
+                "family_name": null,
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": "merchant from Nuremberg"
+            },
+            "time": null,
+            "transport": "Hr. Dazdorf",
+            "origin": "Nürnberg",
+            "lodging": "paßiren durch"
+        }
+    ],
+    "id": "1770-02-20_Num_8",
+    "source": {
+        "issue_date": "1770-02-20",
+        "issue_number": "Num. 8",
+        "canvases": [
+            63,
+            64,
+            65,
+            66
+        ]
+    }
+}

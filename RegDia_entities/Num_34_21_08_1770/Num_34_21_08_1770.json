@@ -1,0 +1,1211 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "13 Aug.",
+                            "normalised": "13 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gottlieb Tobias",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": "Stadt-Musicus"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Anna Barbara",
+                                "occupation_verbatim": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Aug.",
+                            "normalised": "14 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann",
+                                "family_name": "Dornauer",
+                                "occupation_verbatim": "Junghobner und Zimmergeselle"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Susanna Mühlleutnerin",
+                                "occupation_verbatim": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Geraufere",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "11. Aug.",
+                            "normalised": "11 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna Barbara",
+                                "family_name": "Höndl",
+                                "occupation_verbatim": "Bater, Johann Heinrich Höndl, Burger, Fischer und Schiffmeister"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Aug.",
+                            "normalised": "12 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Golderer",
+                                "occupation_verbatim": "Bater, M. Johann Andreas Golderer, Burger und Wagner"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Aug.",
+                            "normalised": "12 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christian Gottlieb",
+                                "family_name": "Wall",
+                                "occupation_verbatim": "Bater, Johann Anton Conrad Wall, Burger und Wacht-Schreiber"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12. Aug.",
+                            "normalised": "12 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus",
+                                "family_name": "Arzberger",
+                                "occupation_verbatim": "Innwohner in denen Hochfürstl. Hoch-Domstifts-Häusern"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Aug.",
+                            "normalised": "13 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Elisabetha Cordula Clara",
+                                "family_name": "von Magis",
+                                "occupation_verbatim": "Hochfürstlich-Lüttichischer Geh. Legationsrath, &c."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. Aug.",
+                            "normalised": "15 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Birsch",
+                                "occupation_verbatim": "Innwohner in denen Hochfürstl. Hoch-Domstifts-Häusern"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. Aug.",
+                            "normalised": "15 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Antonius Caftzanus",
+                                "family_name": "Ebenbauer",
+                                "occupation_verbatim": "Burger und Spenglermeister zu Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "12. Aug.",
+                            "normalised": "12 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Elisabetha",
+                                "family_name": "Scheit",
+                                "occupation_verbatim": "Beysitzer und Tagelöhner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "10 Wochen und 3 Tage alt",
+                            "age_days": 73
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Aug.",
+                            "normalised": "14 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Matthäus Müllerell",
+                                "family_name": "Pfeiffer",
+                                "occupation_verbatim": "Burger und Bräutmeister in Löbl. Gmr. Stadt weissen Bräuhausß"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahre und 10 Wochen und 3 Täge alt",
+                            "age_days": 2557
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Aug.",
+                            "normalised": "14 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna Elisabetha",
+                                "family_name": "Pfeiffer",
+                                "occupation_verbatim": "Burger und Säcker"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre 18 Wochen und 4 Täge alt",
+                            "age_days": 104
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15. Aug.",
+                            "normalised": "15 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg Hameran",
+                                "family_name": "Pfeiffer",
+                                "occupation_verbatim": "Burger und Pfastermetsger allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "27 Jahre, 7 Wochen und 6 Tage alt",
+                            "age_days": 993
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "16. Aug.",
+                            "normalised": "16 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Philipp",
+                                "family_name": "Lippe",
+                                "occupation_verbatim": "Burger und Organist zur Neuen Pfarre, auch Waag- und Stubeumeister"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Wochen und 3 Tage alt",
+                            "age_days": 21
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17. Aug.",
+                            "normalised": "17 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Barockh",
+                                "family_name": "Pfeiffer",
+                                "occupation_verbatim": "Burger und Goldschlager"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "43 Jahre und 19 Wochen alt",
+                            "age_days": 1565
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12. Aug.",
+                            "normalised": "12 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Schott",
+                                "occupation_verbatim": "Maurer und Beyz-sitzer allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Aug.",
+                            "normalised": "14 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus",
+                                "family_name": "Springer",
+                                "occupation_verbatim": "Hochfürstlich-Taxischer Canzellen-dienier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17. Aug.",
+                            "normalised": "17 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nicolaus",
+                                "family_name": "Fürst",
+                                "occupation_verbatim": "Hochfürstl Taxischer Reitknecht"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17. Aug.",
+                            "normalised": "17 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Florianus",
+                                "family_name": "Korn",
+                                "occupation_verbatim": "Garderobbenmeister bey Sr. Excell. Herru Grafen von Hartig, rc."
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "17. Aug.",
+                            "normalised": "17 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Petrus Arnold",
+                                "family_name": "Gerbl",
+                                "occupation_verbatim": "Beysitzer allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "66 Jahr alt",
+                            "age_days": 2376
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19. Aug.",
+                            "normalised": "19 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Buckrecherin",
+                                "occupation_verbatim": "verwittibre Ratscherin allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "96 Jahr alt",
+                            "age_days": 34656
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsstfs-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "14. Aug.",
+                            "normalised": "14 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Magnus",
+                                "family_name": "Kroneß",
+                                "occupation_verbatim": "Tagewerker und Innwohner allda"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr alt",
+                            "age_days": 219
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Verkündigung Mariä",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "17. Aug.",
+                            "normalised": "17 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael Doeß",
+                                "family_name": "Webermeister",
+                                "occupation_verbatim": "am Steinweg"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "12. Aug.",
+                "normalised": "12 August"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Frau von Kornmann",
+                "occupation_normalised": "Frau"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "von Burglengenfeld",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Aug.",
+                "normalised": "13 August"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "Tit. Herr von Reither",
+                "occupation_normalised": "Tit. Herr"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Maynz",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Aug.",
+                "normalised": "14 August"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Nürnberger",
+                "occupation_verbatim": "ord. Landkutsche",
+                "occupation_normalised": "Landkutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Nürnberger",
+            "origin": "aus Italien",
+            "lodging": "in goldenen Bären",
+            "s_value": {
+                "verbatim": "in goldenen Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15. Aug.",
+                "normalised": "15 August"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Mit",
+                "family_name": "Bagagewagen",
+                "occupation_verbatim": "z Hochgrästich-Paumgartnische Domestiquen",
+                "occupation_normalised": "z Hochgrästich-Paumgartnische Domestiquen"
+            },
+            "time": "Vormittags",
+            "transport": "Bagagewagen",
+            "origin": "z Hochgrästich-Paumgartnische Domestiquen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "z Hochgrästich-Paumgartnische Domestiquen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Aug.",
+                "normalised": "16 August"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Fuhrmann",
+                "occupation_normalised": "Fuhrmann"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Aug.",
+                "normalised": "17 August"
+            },
+            "gate": "zu der steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Pesta",
+                "occupation_verbatim": "Tit. Herr Secretair Rödern",
+                "occupation_normalised": "Tit. Herr"
+            },
+            "time": "Vormittags",
+            "transport": "Pesta",
+            "origin": "Nürnderg",
+            "lodging": "in weisen Lamm",
+            "s_value": {
+                "verbatim": "in weisen Lamm",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Aug.",
+                "normalised": "18 August"
+            },
+            "gate": "zu der steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Frau Gräfin von Töring",
+                "occupation_normalised": "S.T. Frau"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "München",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Aug.",
+                "normalised": "13 August"
+            },
+            "gate": "Zu Fuß",
+            "direction": "here"
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Amberger",
+                "occupation_verbatim": "Kutsche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "der Amberger orb.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 51.",
+                "normalised": "51."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Landkutsche",
+                "family_name": "Nürnberger ord.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "um 1 Uhr",
+                "normalised": "1 Uhr",
+                "value": "1"
+            },
+            "transport": "Landkutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Taubenheim",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": "Deggendorfer Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Simon",
+                "family_name": "Wizhofer",
+                "occupation_verbatim": "Rupfer, Wolle, Wein",
+                "occupation_normalised": "Rupfer, Wolle, Wein"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Bierbauer",
+                "occupation_verbatim": "Schmelztiegeln",
+                "occupation_normalised": "Schmelztiegeln"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Hasnerkzell",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wolfgang",
+                "family_name": "Raimer",
+                "occupation_verbatim": "Marktgütherschiff",
+                "occupation_normalised": "Marktgütherschiff"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Nicolaus",
+                "family_name": "Laurer",
+                "occupation_verbatim": "Schiff",
+                "occupation_normalised": "Schiff"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Aug.",
+                "normalised": "13 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Korumann",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ingolstadt"
+        }
+    ],
+    "id": "1770-08-21_Num_34",
+    "source": {
+        "issue_date": "1770-08-21",
+        "issue_number": "Num. 34",
+        "canvases": [
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274
+        ]
+    }
+}

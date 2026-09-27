@@ -1,0 +1,598 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "Isaac",
+                "family_name": "Meyer",
+                "occupation_verbatim": "ein Jude von Kirchberg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "Chevalier de Hirzhorn",
+                "family_name": "ic.",
+                "occupation_verbatim": "Prof. von Salzburg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "Dirksberg",
+                "family_name": "Hr.",
+                "occupation_verbatim": "ein Kaufmann aus Brabant"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Brabant",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "Zeimer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "ein Kaufmann von Augspurg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Augsburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "Gräfin von Fugger",
+                "family_name": "S.T.",
+                "occupation_verbatim": "von Kürchberg, Kayserl. Cammerfrau"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Kürchberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "Chevalier de Hirshorn",
+                "family_name": "Tit.",
+                "occupation_verbatim": "re. von Wien"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "re."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Tolckham",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Hofmahlnerin von München"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "München",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Schwarz",
+                "family_name": "Tit.",
+                "occupation_verbatim": "Herr von Schwarz"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Coten",
+                "family_name": "Tit.",
+                "occupation_verbatim": "2c. aus Böhmen"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Fugger",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Rapselr. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.15."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Sinzendorf",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Kayserl. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc. f.7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Frank",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Frank"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Tänzel",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Tänzel"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Coten",
+                "family_name": "Tit.",
+                "occupation_verbatim": "2c. aus Böhmen"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Sinzendorf",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Kayserl. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc. f.7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Frank",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Frank"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Tänzel",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Tänzel"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Coten",
+                "family_name": "Tit.",
+                "occupation_verbatim": "2c. aus Böhmen"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Sinzendorf",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Kayserl. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc. f.7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Frank",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Frank"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Tänzel",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Tänzel"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Coten",
+                "family_name": "Tit.",
+                "occupation_verbatim": "2c. aus Böhmen"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Sinzendorf",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Kayserl. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc. f.7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Frank",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Frank"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Tänzel",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Tänzel"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Coten",
+                "family_name": "Tit.",
+                "occupation_verbatim": "2c. aus Böhmen"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Sinzendorf",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Kayserl. Cammerherr"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "rc. f.7."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Frank",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Frank"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 14. Per Posta",
+                "normalised": "14 September"
+            },
+            "gate": "Tir.",
+            "direction": "Kaysert.",
+            "person": {
+                "given_name": "von Tänzel",
+                "family_name": "S.T.",
+                "occupation_verbatim": "Baron von Tänzel"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Haisenfein",
+            "lodging": null
+        }
+    ],
+    "id": "1770-09-18_Num_38",
+    "source": {
+        "issue_date": "1770-09-18",
+        "issue_number": "Num. 38",
+        "canvases": [
+            303,
+            304,
+            305,
+            306
+        ]
+    }
+}

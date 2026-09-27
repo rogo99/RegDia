@@ -1,0 +1,561 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 10. Per Posta",
+                "normalised": "10"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Greell",
+                "family_name": "Herr Graf von der Wall",
+                "occupation_verbatim": "Churbayerischer Comitagesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "uc. f.7.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S.T. Herr Graf von Hollnstein",
+                "normalised": "10"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hollnstein",
+                "family_name": "Statthaller des Herzogthums der Ober-Psalt",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "uc. f.6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8 Jun. Gottlieb Biszthum, jun. führet in einem Gemsel nach Wien z Stück Engl. Pferde, nebst etl. 20 gemeine Personen.",
+                "normalised": "8"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Gottlieb Biszthum",
+                "family_name": "jun.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10. Wolfgang Bämel führet das ord. Schiff nach Wien, mit ihm: Hr. Säfström, ein Kaufmann aus Riga, f. 2. und 25 gemeine Personen.",
+                "normalised": "10"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wolfgang Bämel",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Junii. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Baven.",
+                "normalised": "1"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger",
+                "occupation_verbatim": "ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Baven",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Calesch, S.T. Herr Baron von Bronker, Königlich-Polnischer Obriß-Lieutenant, f. 4. pasten durch.",
+                "normalised": "2"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bronker",
+                "family_name": "Baron von",
+                "occupation_verbatim": "Königlich-Polnischer Obriß-Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Calesch, Tit. Herr von Schott, Mauthner von Tauffkirchen, f. 2. log. in weissen Raimm.",
+                "normalised": "3"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Schott",
+                "family_name": "Tit. Herr von",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weissen Raimm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per 2 Caleschen, Hr. Sommer, und Hr. Böhm, Kaufleute von Nürnberg, f. 8. paiziren durch.",
+                "normalised": "4"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sommer",
+                "family_name": "Hr.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "2 Caleschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Stranbinger ord. Sothe, damit Hr. Osing, Verwalter von Haybach, log. in schwarzen Bären.",
+                "normalised": "5"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Osing",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Verwalter von Haybach",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Rutschen, Se. Exceff. Herr Graf von der Wall, Churbayerischer Comitagesandter, ze. f. 6.",
+                "normalised": "5"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Graf von der Wall",
+                "family_name": "Se. Exceff.",
+                "occupation_verbatim": "Churbayerischer Comitagesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Rutschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per 3 Caleschen, Hr. Reindel, und Hr. Meyerhöser, Kaufleute von Nürnberg, f. 6. paiziren durch.",
+                "normalised": "6"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Reindel",
+                "family_name": "Hr.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "3 Caleschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenchoore hinaus:",
+                "normalised": null
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7 Junii. Per 2 Caleschen, Hr. Wolrab, und Hr. Schätzler, Kaufleute von Nürnberg, f. 4.",
+                "normalised": "7"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wolrab",
+                "family_name": "Hr.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "2 Caleschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Meyh St. Peterchoore herein:",
+                "normalised": null
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5 Junii. Der Münchner Postwagen, um 5 Uhr, Abends.",
+                "normalised": "5"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "Abends",
+            "transport": "Postwagen",
+            "origin": "Münchner",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4. Per Kalesch, Tic. Herr v. Stich, Geisl. Rath von München, log. in Spiegel.",
+                "normalised": "4"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "v. Stich",
+                "family_name": "Tic. Herr",
+                "occupation_verbatim": "Geisl. Rath von München",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kalesch",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Hr. Schneider, Hr. Lorenz, und Hr. Bauer, Kaufleute von Ulm, paßt ren durch.",
+                "normalised": "6"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Schneider",
+                "family_name": "Hr.",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche, der Amberger Silberbothe, paßiret durch.",
+                "normalised": "6"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Dingelsfinger Bothe, log. in Türken.",
+                "normalised": "6"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Ingolstädter Bothe, log. in Türken.",
+                "normalised": "6"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Wiener Postwagen, um 4 10 Uhr, Vormittags, Hr. Riedel, von Passan, log. in schwarzen Bären.",
+                "normalised": "7"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Riedel",
+                "family_name": "Hr.",
+                "occupation_verbatim": "von Passan",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8. Per Wagen, der Landshuter Bothe, log. in Pfauen.",
+                "normalised": "8"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Weyh St.Peterthore hinaus:",
+                "normalised": null
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 Julii. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "2"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger",
+                "occupation_verbatim": "ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta, Tit. Herr von Sinistrario, rc. f. 2.",
+                "normalised": "5"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sinistrario",
+                "family_name": "Tit. Herr von",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Der Münchner Postwagen, um 7 Uhr, Vormittags.",
+                "normalised": "7"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Münchner",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Calesch, der Straubinger ord. Bothe.",
+                "normalised": "6"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Straubinger",
+                "occupation_verbatim": "ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Herr von Wernsdorf, Sprachmeister von Memmingen, f. 2.",
+                "normalised": "7"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wernsdorf",
+                "family_name": "Herr von",
+                "occupation_verbatim": "Sprachmeister von Memmingen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7. Per Wazen, der Dingelsfinger Bothe.",
+                "normalised": "7"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Wazen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8. Per Rutsche, der Ingolstäder ord. Vothe.",
+                "normalised": "8"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Rutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9. Per Wagen, der Landshuter Bothe.",
+                "normalised": "9"
+            },
+            "gate": null,
+            "direction": null,
+            "person": null,
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Jacoberth"
+            }
+        }
+    ],
+    "id": "1770-06-12_Num_24",
+    "source": {
+        "issue_date": "1770-06-12",
+        "issue_number": "Num. 24",
+        "canvases": [
+            191,
+            192,
+            193,
+            194
+        ]
+    }
+}

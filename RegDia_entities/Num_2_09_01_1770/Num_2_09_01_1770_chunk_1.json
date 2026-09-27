@@ -1,0 +1,656 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Hochfürstl. Reichsftts-Pfarr, Niedermünster",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 31 Decr.",
+                            "normalised": "December 31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eunegunda",
+                                "family_name": "Saltner",
+                                "occupation_verbatim": "Hochfürstl. Domeapis tulischer Zimmerpallierer",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 3 Jan.",
+                            "normalised": "January 3"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Thomas Sedlmayer",
+                                "family_name": null,
+                                "occupation_verbatim": "ledigen Stands",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "36 Jahr alt",
+                            "age_days": 36
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 2 Jan.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Thomas Sedelmayer",
+                                "family_name": null,
+                                "occupation_verbatim": "Musicante allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsstrifts-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 3 Jan.",
+                            "normalised": "January 3"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Thomas Sedelmayer",
+                                "family_name": null,
+                                "occupation_verbatim": "Musicante allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsstrifts-Pfarr, Obermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "allhiesigen Evangelischen Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 2 Jan.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Septimus Andreas",
+                                "family_name": "Watter",
+                                "occupation_verbatim": "Tit. Herr Heinrich Paul Oppermann, Philoloxiae & Medicinae Doctor Practicus",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Heinrich Paul",
+                                "family_name": "Oppermann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 2 Jan.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Dorothea",
+                                "family_name": "Märklein",
+                                "occupation_verbatim": "Wilhelm Christoph Bürger und Bran-teweinbrenner",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wilhelm Christoph",
+                                "family_name": "Märklein",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 4. Johann Leonhard",
+                            "normalised": "January 4"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Leonhard",
+                                "family_name": null,
+                                "occupation_verbatim": "Georg Michael Karg, Beysizer und Steinhauer-Geselle allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Michael",
+                                "family_name": "Karg",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr weniger 26 Wochen und 3 Tage alt",
+                            "age_days": [
+                                5,
+                                365
+                            ]
+                        }
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 31 Dec.",
+                            "normalised": "December 31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha Theresia",
+                                "family_name": "Ruttinger",
+                                "occupation_verbatim": "Thomas Ruttinger, Churbayerischer Res-vierbeschauer bey der Tobacks-Direktion zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Thomas",
+                                "family_name": "Ruttinger",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 2 Jan.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Laurentius",
+                                "family_name": "Lang",
+                                "occupation_verbatim": "Franciscus Lang, Beyssiger zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus",
+                                "family_name": "Lang",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 5.",
+                            "normalised": "January 5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Brann",
+                                "occupation_verbatim": "Simon Brann, Beyssiger und Tagewerker zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Brann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6.",
+                            "normalised": "January 6"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastianus Balthasar",
+                                "family_name": "Grimmer",
+                                "occupation_verbatim": "Michael Grimmer",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Michael",
+                                "family_name": "Grimmer",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 2.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": "Martinus Hofmann, Beyssiger allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martinus",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr und 10 Monath alt",
+                            "age_days": [
+                                5,
+                                365
+                            ]
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 2.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": "Martinus Hofmann, Beyssiger allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martinus",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr und 10 Monath alt",
+                            "age_days": [
+                                5,
+                                365
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 20 Dec.",
+                            "normalised": "December 20"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresia",
+                                "family_name": "Lobenhofser",
+                                "occupation_verbatim": "Andreas Lobenhofser, Besitzer allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Lobenhofser",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 3 Jan.",
+                            "normalised": "January 3"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Stephanus",
+                                "family_name": "Weiß",
+                                "occupation_verbatim": "Hr. Franciscus Antonius Weiß, Koch bey Sr. Excell. Herrn Grafen von Hartig, uc",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus Antonius",
+                                "family_name": "Weiß",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 31 Dec.",
+                            "normalised": "December 31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": null,
+                                "occupation_verbatim": "Peter Schirmböck, Tages-schneider bey dem Hochfürstlich-Tarischen Hoffschneider",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Peter",
+                                "family_name": "Schirmböck",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Viertel Jahr alt",
+                            "age_days": [
+                                5,
+                                4
+                            ]
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 3 Jan.",
+                            "normalised": "January 3"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg Reimer",
+                                "family_name": null,
+                                "occupation_verbatim": "von hier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "27½ Jahr alt",
+                            "age_days": [
+                                27.5,
+                                365
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 31 Dec.",
+                            "normalised": "December 31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha Theresia",
+                                "family_name": "Ruttinger",
+                                "occupation_verbatim": "Thomas Ruttinger, Churbayerischer Res-vierbeschauer bey der Tobacks-Direktion zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Thomas",
+                                "family_name": "Ruttinger",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 2 Jan.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Laurentius",
+                                "family_name": "Lang",
+                                "occupation_verbatim": "Franciscus Lang, Beyssiger zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus",
+                                "family_name": "Lang",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 5.",
+                            "normalised": "January 5"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Brann",
+                                "occupation_verbatim": "Simon Brann, Beyssiger und Tagewerker zu Stadt am Hof",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Brann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 6.",
+                            "normalised": "January 6"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastianus Balthasar",
+                                "family_name": "Grimmer",
+                                "occupation_verbatim": "Michael Grimmer",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Michael",
+                                "family_name": "Grimmer",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 2.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": "Martinus Hofmann, Beyssiger allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martinus",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr und 10 Monath alt",
+                            "age_days": [
+                                5,
+                                365
+                            ]
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 2.",
+                            "normalised": "January 2"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": null,
+                                "occupation_verbatim": "Martinus Hofmann, Beyssiger allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Martinus",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr und 10 Monath alt",
+                            "age_days": [
+                                5,
+                                365
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 20 Dec.",
+                            "normalised": "December 20"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Theresia",
+                                "family_name": "Lobenhofser",
+                                "occupation_verbatim": "Andreas Lobenhofser, Besitzer allhier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Lobenhofser",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 3 Jan."
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-01-09_Num_2",
+    "source": {
+        "issue_date": "1770-01-09",
+        "issue_number": "Num. 2",
+        "canvases": [
+            15,
+            16,
+            17,
+            18
+        ]
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Gruber",
+                                "occupation_verbatim": "Beyssier und Friseur",
+                                "occupation_normalised": "Beyssier, Friseur"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Burger, Rufner und Bankrichter",
+                                "occupation_normalised": "Bürger, Rufner, Bankrichter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Bauer",
+                                "occupation_verbatim": "Burger und Stiftgastgeb",
+                                "occupation_normalised": "Bürger, Stiftgastgeb"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Reuhl",
+                                "occupation_verbatim": "Burger und Metzger",
+                                "occupation_normalised": "Bürger, Metzger"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Bieringer",
+                                "occupation_verbatim": "Bauamts Diesners allhier",
+                                "occupation_normalised": "Bauamts Diesner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Kauzler",
+                                "occupation_verbatim": "Beysiser und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beysiser, Ziegelarbeiter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahr und 23 Wochen alt",
+                            "age_days": 2543
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Michael",
+                                "family_name": "Kauzler",
+                                "occupation_verbatim": "Beysiser und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beysiser, Ziegelarbeiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Kauzler",
+                                "occupation_verbatim": "Beysiser und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beysiser, Ziegelarbeiter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Wochen weniger 1 Tag alt",
+                            "age_days": 21
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Wuetz",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Burger, Rufner und Bankrichter",
+                                "occupation_normalised": "Bürger, Rufner, Bankrichter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Zacharias",
+                                "family_name": "Peikger",
+                                "occupation_verbatim": "Burger und Lederbereiter",
+                                "occupation_normalised": "Bürger, Lederbereiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Burger, Rufner und Bankrichter",
+                                "occupation_normalised": "Bürger, Rufner, Bankrichter"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Ertel",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Bedienter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Ertel",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Bedienter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Antonius Josephus",
+                                "family_name": "Reichenberger",
+                                "occupation_verbatim": "Haußverwalter auf der fahrenden Kayserl. Reichëpost allhier",
+                                "occupation_normalised": "Haußverwalter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Joseph",
+                                "family_name": "Reichenberger",
+                                "occupation_verbatim": "Haußverwalter auf der fahrenden Kayserl. Reichëpost allhier",
+                                "occupation_normalised": "Haußverwalter"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Bieringer",
+                                "occupation_verbatim": "Bauamts Diesners allhier",
+                                "occupation_normalised": "Bauamts Diesner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Kauzler",
+                                "occupation_verbatim": "Beysiser und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beysiser, Ziegelarbeiter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahr und 23 Wochen alt",
+                            "age_days": 2543
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Michael",
+                                "family_name": "Kauzler",
+                                "occupation_verbatim": "Beysiser und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beysiser, Ziegelarbeiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Kauzler",
+                                "occupation_verbatim": "Beysiser und Ziegelarbeiter allhier",
+                                "occupation_normalised": "Beysiser, Ziegelarbeiter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Wochen weniger 1 Tag alt",
+                            "age_days": 21
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Wuetz",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Burger, Rufner und Bankrichter",
+                                "occupation_normalised": "Bürger, Rufner, Bankrichter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Zacharias",
+                                "family_name": "Peikger",
+                                "occupation_verbatim": "Burger und Lederbereiter",
+                                "occupation_normalised": "Bürger, Lederbereiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Burger, Rufner und Bankrichter",
+                                "occupation_normalised": "Bürger, Rufner, Bankrichter"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "7 May",
+                            "normalised": "1770-05-07"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Bartholomäus",
+                                "family_name": "Giller",
+                                "occupation_verbatim": "Wittiber und Borreiter bey Sr. Excell. Herrn Grafen von Hartig, uc.",
+                                "occupation_normalised": "Wittiber, Borreiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Anna Maria",
+                                "family_name": "Dostin",
+                                "occupation_verbatim": "von Regenstauf",
+                                "occupation_normalised": "von Regenstauf"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8 May",
+                            "normalised": "1770-05-08"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacob",
+                                "family_name": "Schmidbauer",
+                                "occupation_verbatim": "Beysser allhier",
+                                "occupation_normalised": "Beysser"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Catharina",
+                                "family_name": "Habenschadin",
+                                "occupation_verbatim": "von Kiern",
+                                "occupation_normalised": "von Kiern"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Innwohner in Obermünster-Hauß",
+                                "occupation_normalised": "Innwohner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Caspar",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Innwohner in Obermünster-Hauß",
+                                "occupation_normalised": "Innwohner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahr alt",
+                            "age_days": 14
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ludovicus",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "vacirender Hauffknecht",
+                                "occupation_normalised": "Hauffknecht"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Laurentius",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "vacirender Hauffknecht",
+                                "occupation_normalised": "Hauffknecht"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2½ Jahr alt",
+                            "age_days": 73
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "vacirender Hauffknecht",
+                                "occupation_normalised": "Hauffknecht"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Caspar",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Innwohner in Obermünster-Hauß",
+                                "occupation_normalised": "Innwohner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr alt",
+                            "age_days": 109
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Götz",
+                                "occupation_verbatim": "Borreiter bey Sr. Excell. Herrn Grafen von Hartig, uc.",
+                                "occupation_normalised": "Borreiter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joseph",
+                                "family_name": "Götz",
+                                "occupation_verbatim": "Borreiter bey Sr. Excell. Herrn Grafen von Hartig, uc.",
+                                "occupation_normalised": "Borreiter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "¼ Jahr alt",
+                            "age_days": 30
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Innwohner in Obermünster-Hauß",
+                                "occupation_normalised": "Innwohner"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Caspar",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Innwohner in Obermünster-Hauß",
+                                "occupation_normalised": "Innwohner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahr alt",
+                            "age_days": 14
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ludovicus",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "vacirender Hauffknecht",
+                                "occupation_normalised": "Hauffknecht"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Laurentius",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "vacirender Hauffknecht",
+                                "occupation_normalised": "Hauffknecht"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2½ Jahr alt",
+                            "age_days": 73
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9 May",
+                            "normalised": "1770-05-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "vacirender Hauffknecht",
+                                "occupation_normalised": "Hauffknecht"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Caspar",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Innwohner in Obermünster-Hauß",
+                                "occupation_normalised": "Innwohner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr alt",
+                            "age_days": 109
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-05-15_Num_20",
+    "source": {
+        "issue_date": "1770-05-15",
+        "issue_number": "Num. 20",
+        "canvases": [
+            155,
+            156,
+            157,
+            158
+        ]
+    }
+}

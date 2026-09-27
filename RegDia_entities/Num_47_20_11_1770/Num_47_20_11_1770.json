@@ -1,0 +1,1012 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gertrauer",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 12 Nov.",
+                            "normalised": "12 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Caspar",
+                                "family_name": "Ottendorffer",
+                                "occupation_verbatim": "Bürger und Koppenschopper",
+                                "occupation_normalised": "Bürger and Blacksmith"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Isse Barbara Grasruckin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 10. Michael Friedrich",
+                            "normalised": "10 Michael Friedrich"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael Friedrich",
+                                "family_name": "Johann Franz Kirsch",
+                                "occupation_verbatim": "Besitzer und Schlegelarbeiter",
+                                "occupation_normalised": "Owner and Plowman"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahre, 12 Wochen und 2 Tage alt",
+                            "age_days": 208
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 12. Maria Dorothea Elisabetha",
+                            "normalised": "12 Maria Dorothea Elisabetha"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Dorothea Elisabetha",
+                                "family_name": "Christian Friedrich Weschke",
+                                "occupation_verbatim": "Burgers and Zinngießers athier",
+                                "occupation_normalised": "Burgers and Tin Smelter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "43 Jahre, 2 Wochen weniger 1 Tag alt",
+                            "age_days": 155
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 13. Ein unechtes Kind",
+                            "normalised": "13 Unborn Child"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christina Margaretha",
+                                "family_name": "Jacob Hubmann",
+                                "occupation_verbatim": "Burger und Braunterweinbrenner",
+                                "occupation_normalised": "Burger and Beer Brewer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "42 Wochen und 5 Tage alt",
+                            "age_days": 299
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 14. Johann Matthäus Friedrich",
+                            "normalised": "14 Johann Matthäus Friedrich"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Matthäus Friedrich",
+                                "family_name": "Besitzer und Kupferstecher",
+                                "occupation_verbatim": "Besitzer and Copper Engraver",
+                                "occupation_normalised": "Owner and Copper Engraver"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "35 Jahre und 29 Wochen alt",
+                            "age_days": 1307
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 16. Anna Catharina",
+                            "normalised": "16 Anna Catharina"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Catharina",
+                                "family_name": "Ulrich Haas",
+                                "occupation_verbatim": "Burgers and Garfachs Fallhier",
+                                "occupation_normalised": "Burgers and Leather Merchant"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "53 Jahre, 7 Wochen und 6 Tage alt",
+                            "age_days": 1942
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 17. Margaretha",
+                            "normalised": "17 Margaretha"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Margaretha",
+                                "family_name": "Johann Adam Meissenbach",
+                                "occupation_verbatim": "Burgers and Neberschmidts allhier",
+                                "occupation_normalised": "Burgers and Neberschmidts allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "69 Jahre weniger 7 Wochen udd 1 Tag alt",
+                            "age_days": 2445
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 17. Johann Stephan",
+                            "normalised": "17 Johann Stephan"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Stephan",
+                                "family_name": "Caspar Gottlieb Ludwig",
+                                "occupation_verbatim": "Burger und Manevermeister",
+                                "occupation_normalised": "Burger and Mason"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "eine Viertel Stunde alt",
+                            "age_days": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 12 Nov.",
+                            "normalised": "12 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Johann Simon",
+                                "occupation_verbatim": "von Lobershausen, in Teutsch Loerhingen, ein Durchreisender",
+                                "occupation_normalised": "from Lobershausen, in Teutsch Loerhingen, a Traveler"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 14. Catharina",
+                            "normalised": "14 Catharina"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Johann Georg Kalteis",
+                                "occupation_verbatim": "Besitzer allhier",
+                                "occupation_normalised": "Owner allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahre alt",
+                            "age_days": 252
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 18. Wolfgang",
+                            "normalised": "18 Wolfgang"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang",
+                                "family_name": "Jacob Wilkofer",
+                                "occupation_verbatim": "Treicher bey St. Emmeram",
+                                "occupation_normalised": "Tinker at St. Emmeram"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Wochen alt",
+                            "age_days": 28
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 14. Anna Maria",
+                            "normalised": "14 Anna Maria"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Josephus Schmid",
+                                "occupation_verbatim": "Beysiger allhier",
+                                "occupation_normalised": "Butler allhier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stad-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 12 Nov.",
+                            "normalised": "12 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Ignatius",
+                                "family_name": "Schreiber",
+                                "occupation_verbatim": "verwitweter Beysicher allhier mit Jofr. Elisabetha Mirwaldin von Eglsee",
+                                "occupation_normalised": "widowed Butler here with Mrs. Elisabetha Mirwaldin from Eglsee"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 10. Christoph Martin",
+                            "normalised": "10 Christoph Martin"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christoph Martin",
+                                "family_name": "Johann Christoph Egelhofer",
+                                "occupation_verbatim": "Burgr und Taschner zu Stadt am Hof",
+                                "occupation_normalised": "Burgess and Cobbler at Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 12 Nov.",
+                            "normalised": "12 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Weber",
+                                "occupation_verbatim": "verwitwiter Beysiger allhier mit Jfr. Christina Berghammerin, von Obendorf",
+                                "occupation_normalised": "widowed Butler here with Mrs. Christina Berghammerin from Obendorf"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 12 Nov.",
+                            "normalised": "12 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Weber",
+                                "occupation_verbatim": "verwitwiter Beysiger allhier mit Jfr. Christina Berghammerin, von Obendorf",
+                                "occupation_normalised": "widowed Butler here with Mrs. Christina Berghammerin from Obendorf"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 14. Anna Maria",
+                            "normalised": "14 Anna Maria"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Josephus Schmid",
+                                "occupation_verbatim": "Beysiger allhier",
+                                "occupation_normalised": "Butler allhier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 14. Catharina",
+                            "normalised": "14 Catharina"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Johann Georg Kalteis",
+                                "occupation_verbatim": "Besitzer allhier",
+                                "occupation_normalised": "Owner allhier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 11 Nov.",
+                "normalised": "11 November"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in z Helmen",
+            "person": {
+                "given_name": "Herr d'Onetto",
+                "family_name": "Herr Sandaval",
+                "occupation_verbatim": "Kansente aus Itas-tien",
+                "occupation_normalised": "Canter from Italy"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Itas-tien",
+            "lodging": "4. log.",
+            "s_value": {
+                "verbatim": "4. log.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 11 Nov.",
+                "normalised": "11 November"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "in z Helmen",
+            "person": {
+                "given_name": "Herr d'Onetto",
+                "family_name": "Herr Sandaval",
+                "occupation_verbatim": "Kansente aus Itas-tien",
+                "occupation_normalised": "Canter from Italy"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Itas-tien",
+            "lodging": "4. log.",
+            "s_value": {
+                "verbatim": "4. log.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12 Nov.",
+                "normalised": "12 November"
+            },
+            "gate": "Zu Fuß",
+            "direction": "in Kürbis",
+            "person": {
+                "given_name": "Christian Gottlob",
+                "family_name": "Stieber",
+                "occupation_verbatim": "Handelsmann aus Sachsen",
+                "occupation_normalised": "Merchant from Saxony"
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": null,
+            "lodging": "in Kürbis",
+            "s_value": {
+                "verbatim": "in Kürbis",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12 Nov.",
+                "normalised": "12 November"
+            },
+            "gate": "Zu Fuß",
+            "direction": "in Kürbis",
+            "person": {
+                "given_name": "Msr. Zincke",
+                "family_name": null,
+                "occupation_verbatim": "Kaufmannsdienner aus Sachsen",
+                "occupation_normalised": "Merchant Servant from Saxony"
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": null,
+            "lodging": "in schwarzen Adlee",
+            "s_value": {
+                "verbatim": "in schwarzen Adlee",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12 Nov.",
+                "normalised": "12 November"
+            },
+            "gate": "Per Kutsche",
+            "direction": "in Türken",
+            "person": {
+                "given_name": "der Amberger ord.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Ober-Unzelder von Burglengenfeld",
+                "occupation_normalised": "Upper Unzelder from Burglengenfeld"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Amberg",
+            "lodging": "in Türken",
+            "s_value": {
+                "verbatim": "in Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12 Nov.",
+                "normalised": "12 November"
+            },
+            "gate": "Per Calesch",
+            "direction": "in weissen Hahn",
+            "person": {
+                "given_name": "Herr Meirner",
+                "family_name": "Ober-Unzelder von Burglengenfeld",
+                "occupation_verbatim": "Ober-Unzelder von Burglengenfeld",
+                "occupation_normalised": "Upper Unzelder from Burglengenfeld"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Amberg",
+            "lodging": "in weissen Hahn",
+            "s_value": {
+                "verbatim": "in weissen Hahn",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Nov.",
+                "normalised": "13 November"
+            },
+            "gate": "Per ord. Postwagen von Amberg",
+            "direction": "in schwarzen Büren",
+            "person": {
+                "given_name": "Tit. Herr Lie. Körner",
+                "family_name": "von Bamberg",
+                "occupation_verbatim": "Mr. Migati, ein Kaufmann aus Italien",
+                "occupation_normalised": "Mr. Migati, a Merchant from Italy"
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Amberg",
+            "origin": "Amberg",
+            "lodging": "in schwarzen Büren",
+            "s_value": {
+                "verbatim": "in schwarzen Büren",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Nov.",
+                "normalised": "13 November"
+            },
+            "gate": "Per ord. Postwagen von Amberg",
+            "direction": "in schwarzen Büren",
+            "person": {
+                "given_name": "Tit. Herr Lie. Körner",
+                "family_name": "von Bamberg",
+                "occupation_verbatim": "Mr. Migati, ein Kaufmann aus Italien",
+                "occupation_normalised": "Mr. Migati, a Merchant from Italy"
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Amberg",
+            "origin": "Amberg",
+            "lodging": "in schwarzen Büren",
+            "s_value": {
+                "verbatim": "in schwarzen Büren",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13 Nov.",
+                "normalised": "13 November"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Kutsche, der Amberger ord. Bothe.",
+                "normalised": "13. Per Kutsche, der Amberger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": "Deggendorfer Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "mit frischen Obst",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "14. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "17. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "14. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "17. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Per Münchner Postwagen, um 3/8 Uhr Abends, Tit.-Herr von Guggenmus, Marggrästlich-Baaden-Baadenischer Fähndrich, log. in Spiegel.",
+                "normalised": "11. Per Münchner Postwagen, um 3/8 Uhr Abends, Tit.-Herr von Guggenmus, Marggrästlich-Baaden-Baadenischer Fähndrich, log. in Spiegel."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.-Herr von Guggenmus",
+                "family_name": null,
+                "occupation_verbatim": "Marggrästlich-Baaden-Baadenischer Fähndrich",
+                "occupation_normalised": "Marggrästlich-Baaden-Baadenischer Fähndrich"
+            },
+            "time": "3/8 Uhr Abends",
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Posta, S.T. Herr von Stubenrauch, Churbayerischer Geh. Minister, log. auf der Churbayerischen Maunz.",
+                "normalised": "12. Per Posta, S.T. Herr von Stubenrauch, Churbayerischer Geh. Minister, log. auf der Churbayerischen Maunz."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T. Herr von Stubenrauch",
+                "family_name": null,
+                "occupation_verbatim": "Churbayerischer Geh. Minister",
+                "occupation_normalised": "Churbayerischer Geh. Minister"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "Churbayerischen Maunz",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Wagen, der Dingelsfinger Vothe, log. in Türken.",
+                "normalised": "13. Per Wagen, der Dingelsfinger Vothe, log. in Türken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Dingelsfinger Vothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken.",
+                "normalised": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingosfädter ord. Vothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags.",
+                "normalised": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "½ 8 Uhr, Vormittags",
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "normalised": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "normalised": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian",
+                "family_name": "Lauret",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "ord. Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Kutsche, Tit. Herr von Hartenfels, Herzoglich-Österreichischer Legationsseretair, f. 5. log. in Elephanthen.",
+                "normalised": "10. Per Kutsche, Tit. Herr von Hartenfels, Herzoglich-Österreichischer Legationsseretair, f. 5. log. in Elephanthen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Hartenfels",
+                "family_name": null,
+                "occupation_verbatim": "Herzoglich-Österreichischer Legationsseretair",
+                "occupation_normalised": "Herzoglich-Österreichischer Legationsseretair"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "Elephanthen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Per Calesch, Sr. Frank, ein Postofficier von Bayrenth, log. in Elephanthen.",
+                "normalised": "11. Per Calesch, Sr. Frank, ein Postofficier von Bayrenth, log. in Elephanthen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sr. Frank",
+                "family_name": null,
+                "occupation_verbatim": "ein Postofficier von Bayrenth",
+                "occupation_normalised": "ein Postofficier von Bayrenth"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Bayrenth",
+            "lodging": "Elephanthen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Calesch, der Straubinger ord. Bothe, damit Herr Rupfersperger, ein Geistlicher von Strasskirchen, log. in schwarzen Bären.",
+                "normalised": "12. Per Calesch, der Straubinger ord. Bothe, damit Herr Rupfersperger, ein Geistlicher von Strasskirchen, log. in schwarzen Bären."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Rupfersperger",
+                "family_name": null,
+                "occupation_verbatim": "ein Geistlicher von Strasskirchen",
+                "occupation_normalised": "ein Geistlicher von Strasskirchen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Bothe",
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Calesch, Herr Schmid, Churbayerischer Wildbereiter von Simsen, f. 3. log. in 3 Helmen.",
+                "normalised": "13. Per Calesch, Herr Schmid, Churbayerischer Wildbereiter von Simsen, f. 3. log. in 3 Helmen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Schmid",
+                "family_name": null,
+                "occupation_verbatim": "Churbayerischer Wildbereiter von Simsen",
+                "occupation_normalised": "Churbayerischer Wildbereiter von Simsen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Simsen",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken.",
+                "normalised": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingosfädter ord. Vothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags.",
+                "normalised": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "½ 8 Uhr, Vormittags",
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "normalised": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "normalised": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian",
+                "family_name": "Lauret",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "ord. Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Kutsche"
+            }
+        }
+    ],
+    "id": "1770-11-20_Num_47",
+    "source": {
+        "issue_date": "1770-11-20",
+        "issue_number": "Num. 47",
+        "canvases": [
+            371,
+            372,
+            373,
+            374,
+            375,
+            376,
+            377,
+            378
+        ]
+    }
+}

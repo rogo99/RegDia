@@ -1,0 +1,547 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Ger aufste",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "8 Julii",
+                            "normalised": "8 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Lerchner",
+                                "occupation_verbatim": "Bürger und Nachtwächter im oberen Wörth",
+                                "occupation_normalised": "Bürger and Night Watchman in Upper Werth"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Lerchner",
+                                "occupation_verbatim": "Bürger und Nachtwächter im oberen Wörth",
+                                "occupation_normalised": "Bürger and Night Watchman in Upper Werth"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13.",
+                            "normalised": "13."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobina Christina",
+                                "family_name": "Tauscher",
+                                "occupation_verbatim": "Burgerl. Loh- und Knoppermahler",
+                                "occupation_normalised": "Bürger and Loin and Knopper Painter"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Philipp",
+                                "family_name": "Tauscher",
+                                "occupation_verbatim": "Burgerl. Loh- und Knoppermahler",
+                                "occupation_normalised": "Bürger and Loin and Knopper Painter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14.",
+                            "normalised": "14."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Blech",
+                                "occupation_verbatim": "Bürger, Barbier und Chirurgus",
+                                "occupation_normalised": "Bürger, Barber and Surgeon"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christian Conrad",
+                                "family_name": "Blech",
+                                "occupation_verbatim": "Bürger, Barbier und Chirurgus",
+                                "occupation_normalised": "Bürger, Barber and Surgeon"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "8.",
+                            "normalised": "8."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": "Bürgerl. Stadtsbauers, auch Nürnberger Landkutschers allhier, eheleibl. Tochter",
+                                "occupation_normalised": "Bürger and Town Builder, also Nuremberg Land Coach Driver here, married daughter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "21 Jahre weniger 8 Wochen und 1 Tag alt",
+                            "age_days": 73
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9.",
+                            "normalised": "9."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": "Vogl",
+                                "occupation_verbatim": "Beysitzer",
+                                "occupation_normalised": "Beysitzer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahre weniger 4 Wochen und 5 Tage alt",
+                            "age_days": 14
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Julii",
+                            "normalised": "12 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Joseph",
+                                "family_name": "Siegel",
+                                "occupation_verbatim": "Beysitzer und Fischers-knecht allhier",
+                                "occupation_normalised": "Beysitzer and Fisherman here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Siegel",
+                                "occupation_verbatim": "Beysitzer und Fischers-knecht allhier",
+                                "occupation_normalised": "Beysitzer and Fisherman here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "10.",
+                            "normalised": "10."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sophia Stephanin",
+                                "family_name": "Kochin",
+                                "occupation_verbatim": "verwitwite Kochin von dem Hochfürstlich-Thurn-und-Taxischen Hof",
+                                "occupation_normalised": "widowed Kochin from the High Princely Thurn-and-Taxis Court"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "50 Jahr alt",
+                            "age_days": 1825
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12.",
+                            "normalised": "12."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Ursula",
+                                "family_name": "Haill",
+                                "occupation_verbatim": "des Herrn Georg Joseph Haill, gewesenen Burgermeisters und Gastgebs zum schwarzen Adler zu Stadt am Hof, sel. nachs gelassener eheleibl. Tochter",
+                                "occupation_normalised": "of Mr. Georg Joseph Haill, former Mayor and Guesthouse to the Black Eagle at City at the Court, deceased single mother's daughter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "22 Jahre weniger z Monathe alt",
+                            "age_days": 782
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15.",
+                            "normalised": "15."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Friedrich",
+                                "family_name": "Nickel",
+                                "occupation_verbatim": "Burger und Strumpfstricker zu Stadt am Hof",
+                                "occupation_normalised": "Bürger and Stocking Weaver in the City at the Court"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "14 Tage alt",
+                            "age_days": 14
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "15.",
+                            "normalised": "15."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Agnes",
+                                "family_name": "Lindnerin",
+                                "occupation_verbatim": "Beysitzerin allhier",
+                                "occupation_normalised": "Beysitzer here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "85 Jahr alt",
+                            "age_days": 2925
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "15.",
+                            "normalised": "15."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus",
+                                "family_name": "",
+                                "occupation_verbatim": "5 Jahr und 3 Monathe alt",
+                                "occupation_normalised": "5 years and 3 months old"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahr und 3 Monathe alt",
+                            "age_days": 195
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "10 Juli",
+                            "normalised": "10 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Weißbacher",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Thomas",
+                                "family_name": "Weißbacher",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "8 Julii",
+                "normalised": "8 July"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Lejeune",
+                "occupation_verbatim": "Handelsmann von Augspurg",
+                "occupation_normalised": "Merchant from Augsburg"
+            },
+            "time": "Vormittags",
+            "transport": "Pferd",
+            "origin": "in gol denen Bären",
+            "lodging": "log. in gol denen Bären",
+            "s_value": {
+                "verbatim": "f. 15",
+                "value": 15
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Julii",
+                "normalised": "9 July"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Eine Eftafetta",
+                "family_name": "von Schambach",
+                "occupation_verbatim": "Churbayerische Hauptmanns Tochter",
+                "occupation_normalised": "Chamber Bavarian Captain's Daughter"
+            },
+            "time": "Vormittags",
+            "transport": "Eftafetta",
+            "origin": "um 3/4 Uhr",
+            "lodging": "passt ret durch",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Julii",
+                "normalised": "9 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "Zu Pferde",
+            "person": {
+                "given_name": "Mademois.",
+                "family_name": "Plezerin",
+                "occupation_verbatim": "Churbayerische Hauptmanns Tochter",
+                "occupation_normalised": "Chamber Bavarian Captain's Daughter"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "passt ret durch",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Julii",
+                "normalised": "9 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Thoma",
+                "occupation_verbatim": "Geistl. von Eger",
+                "occupation_normalised": "Spiritual from Eger"
+            },
+            "time": "Vormittags",
+            "transport": "Amberger ord. Kutsche",
+            "origin": "log. in Türken",
+            "lodging": "log. in Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Julii",
+                "normalised": "9 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Herth",
+                "occupation_verbatim": "Apothecker von Frankfurt",
+                "occupation_normalised": "Pharmacist from Frankfurt"
+            },
+            "time": "Vormittags",
+            "transport": "Amberger ord. Postwagen",
+            "origin": "log. in 3 Helmen",
+            "lodging": "log. in 3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Julii",
+                "normalised": "9 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Walter",
+                "occupation_verbatim": "Handelsmann von Sonnenberg",
+                "occupation_normalised": "Merchant from Sonnenberg"
+            },
+            "time": "Vormittags",
+            "transport": "Amberger ord. Kutsche",
+            "origin": "log. in Ochsen kopf",
+            "lodging": "log. in Ochsen kopf",
+            "s_value": {
+                "verbatim": "s. 2",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Julii",
+                "normalised": "10 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Mons.",
+                "family_name": "Blanchetion",
+                "occupation_verbatim": "Französischer Combiante",
+                "occupation_normalised": "French Combinant"
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen von Amberg",
+            "origin": "log. in 3 Helmen",
+            "lodging": "log. in 3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "10 Julii",
+                "normalised": "10 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Die Nürnberger",
+                "family_name": "ord. Landkutsche",
+                "occupation_verbatim": "Landkutsche",
+                "occupation_normalised": "Land Coach"
+            },
+            "time": "Vormittags",
+            "transport": "Landkutsche",
+            "origin": "um 10 Uhr",
+            "lodging": "log. in 3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "11 Julii",
+                "normalised": "11 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Amburger Silbersothe",
+                "occupation_normalised": "Amburg Silver Sothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "paßret durch",
+            "lodging": "paßret durch",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "12 Julii",
+                "normalised": "12 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Junger Gerngrozin",
+                "occupation_normalised": "Young German Grozine"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "von Waldmünchen",
+            "lodging": "log. in weissen Hahn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "12 Julii",
+                "normalised": "12 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Tie. Herr Rennmayer",
+                "occupation_normalised": "Tie. Herr Rennmayer"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "log. in weisen Hahn",
+            "lodging": "log. in weisen Hahn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "12 Julii",
+                "normalised": "12 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Amberger ord. Buthe",
+                "occupation_normalised": "Amberg Order Buthe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "log. in Türken",
+            "lodging": "log. in Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "13 Julii",
+                "normalised": "13 July"
+            },
+            "gate": "Zu Pferde herein",
+            "direction": "zu Pferde",
+            "person": {
+                "given_name": "Tie. Herr",
+                "family_name": "Gouverner",
+                "occupation_verbatim": "Churbayerischer Obristlieutenant",
+                "occupation_normalised": "Chamber Bavarian Lieutenant Colonel"
+            },
+            "time": "Vormittags",
+            "transport": "Pferd",
+            "origin": "f. 2",
+            "lodging": ""
+        }
+    ],
+    "id": "1770-07-17_Num_29",
+    "source": {
+        "issue_date": "1770-07-17",
+        "issue_number": "Num. 29",
+        "canvases": [
+            227,
+            228,
+            229,
+            230
+        ]
+    }
+}

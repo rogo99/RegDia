@@ -1,0 +1,818 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerufensehe",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "9 Dec.",
+                            "normalised": "1770-12-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jacob",
+                                "family_name": "Städelen",
+                                "occupation_verbatim": "Bürger und Buchbinder",
+                                "occupation_normalised": "Bürger and Bookbinder"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Jacob",
+                                "occupation_verbatim": "Vater",
+                                "occupation_normalised": "Father"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Georg Friederich",
+                            "normalised": "1770-12-10"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Friederich",
+                                "family_name": "Sebold",
+                                "occupation_verbatim": "Burger, Woll- und Strumpfwascher",
+                                "occupation_normalised": "Bürger, Wool and Stocking Washer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Heinrich",
+                                "family_name": "Sebold",
+                                "occupation_verbatim": "Burger, Woll- und Strumpfwascher",
+                                "occupation_normalised": "Bürger, Wool and Stocking Washer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Georg Friederich",
+                            "normalised": "1770-12-10"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Paul",
+                                "family_name": "Schneider",
+                                "occupation_verbatim": "Burger und Schiffnacht",
+                                "occupation_normalised": "Bürger and Ship Captain"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Friederich",
+                                "family_name": "Schneider",
+                                "occupation_verbatim": "Burger und Schiffnacht",
+                                "occupation_normalised": "Bürger and Ship Captain"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Johann Christoph",
+                            "normalised": "1770-12-12"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Häckel",
+                                "occupation_verbatim": "Burger und Gastgeb",
+                                "occupation_normalised": "Bürger and Host"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Tobias",
+                                "family_name": "Häckel",
+                                "occupation_verbatim": "Burger und Gastgeb",
+                                "occupation_normalised": "Bürger and Host"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Johann Christoph",
+                            "normalised": "1770-12-12"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Andreas",
+                                "family_name": "Friedl",
+                                "occupation_verbatim": "Burger und Bierbräuer",
+                                "occupation_normalised": "Bürger and Beer Brewer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Nicolaus Gottlieb",
+                                "family_name": "Friedl",
+                                "occupation_verbatim": "Burger und Bierbräuer",
+                                "occupation_normalised": "Bürger and Beer Brewer"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Johann Georg",
+                            "normalised": "1770-12-14"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Kleinnder",
+                                "occupation_verbatim": "Burger und Holz-Auswerfer",
+                                "occupation_normalised": "Bürger and Wood Processor"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Paul Michael",
+                                "family_name": "Kleinnder",
+                                "occupation_verbatim": "Burger und Holz-Auswerfer",
+                                "occupation_normalised": "Bürger and Wood Processor"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Johann Georg",
+                            "normalised": "1770-12-14"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Magdalena",
+                                "family_name": "Ziegler",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": "Bürger"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Gotthard",
+                                "family_name": "Ziegler",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": "Bürger"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "11. Hr. Noah Beck",
+                            "normalised": "1770-12-11"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Noah",
+                                "family_name": "Beck",
+                                "occupation_verbatim": "Burger, Chirurgus und Barbier",
+                                "occupation_normalised": "Bürger, Surgeon and Barber"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr.",
+                                "family_name": "Beck",
+                                "occupation_verbatim": "Burger, Chirurgus und Barbier",
+                                "occupation_normalised": "Bürger, Surgeon and Barber"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "74 Jahre und 4 Tage alt",
+                            "age_days": 2624
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "11. Hr. Noah Beck",
+                            "normalised": "1770-12-11"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Bannholz",
+                                "occupation_verbatim": "Beyßiger",
+                                "occupation_normalised": "Beyßiger"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Bannholz",
+                                "occupation_verbatim": "Beyßiger",
+                                "occupation_normalised": "Beyßiger"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Dec.",
+                            "normalised": "1770-12-12"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus Paulus",
+                                "family_name": "Steiner",
+                                "occupation_verbatim": "Burger, Ornath-händler und Rathsherr",
+                                "occupation_normalised": "Bürger, Ornament Trader and Town Councillor"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacobus",
+                                "family_name": "Steiner",
+                                "occupation_verbatim": "Burger, Ornath-händler und Rathsherr",
+                                "occupation_normalised": "Bürger, Ornament Trader and Town Councillor"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12 Dec.",
+                            "normalised": "1770-12-12"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthias Wolfgang",
+                                "family_name": "Heigl",
+                                "occupation_verbatim": "Bränknecht und Beysiger",
+                                "occupation_normalised": "Bränknecht and Beysiger"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacobus",
+                                "family_name": "Heigl",
+                                "occupation_verbatim": "Bränknecht und Beysiger",
+                                "occupation_normalised": "Bränknecht and Beysiger"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "13. Georg Bendl",
+                            "normalised": "1770-12-13"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg",
+                                "family_name": "Bendl",
+                                "occupation_verbatim": "Tagwerker und Beysitzer",
+                                "occupation_normalised": "Tagwerker and Beysitzer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr.",
+                                "family_name": "Bendl",
+                                "occupation_verbatim": "Tagwerker und Beysitzer",
+                                "occupation_normalised": "Tagwerker and Beysitzer"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "60 Jahr alt",
+                            "age_days": 21920
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Georg Bendl",
+                            "normalised": "1770-12-13"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Häsl",
+                                "occupation_verbatim": "Tambour",
+                                "occupation_normalised": "Tambour"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Ignatius",
+                                "family_name": "Häsl",
+                                "occupation_verbatim": "Tambour",
+                                "occupation_normalised": "Tambour"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "9 Dec.",
+                            "normalised": "1770-12-09"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Walburga",
+                                "family_name": "Buch",
+                                "occupation_verbatim": "Innwohner zu Prebrunn",
+                                "occupation_normalised": "Innwohner zu Prebrunn"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Michael",
+                                "family_name": "Buch",
+                                "occupation_verbatim": "Innwohner zu Prebrunn",
+                                "occupation_normalised": "Innwohner zu Prebrunn"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12 Dec.",
+                            "normalised": "1770-12-12"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia Susanna",
+                                "family_name": "Mayr",
+                                "occupation_verbatim": "Hausknecht",
+                                "occupation_normalised": "Hausknecht"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Mayr",
+                                "occupation_verbatim": "Hausknecht",
+                                "occupation_normalised": "Hausknecht"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "10. Regina Prädlin",
+                            "normalised": "1770-12-10"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Regina",
+                                "family_name": "Prädlin",
+                                "occupation_verbatim": "verwitwte Beysitzerin",
+                                "occupation_normalised": "verwitwte Beysitzerin"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr.",
+                                "family_name": "Prädlin",
+                                "occupation_verbatim": "verwitwte Beysitzerin",
+                                "occupation_normalised": "verwitwte Beysitzerin"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "69 Jahr alt",
+                            "age_days": 24936
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Simon",
+                            "normalised": "1770-12-14"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Simon",
+                                "family_name": "Cammermayer",
+                                "occupation_verbatim": "Beysitzer",
+                                "occupation_normalised": "Beysitzer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Cammermayer",
+                                "occupation_verbatim": "Beysitzer",
+                                "occupation_normalised": "Beysitzer"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "10 Dec.",
+                "normalised": "1770-12-10"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "zu Fuß",
+            "person": {
+                "given_name": "Jacob",
+                "family_name": "Biron",
+                "occupation_verbatim": "Handelsmann aus Frankreich",
+                "occupation_normalised": "Handelsmann aus Frankreich"
+            },
+            "time": "Vormittags",
+            "transport": "in schwarzem Bären",
+            "origin": null,
+            "lodging": "in schwarzen Bären",
+            "s_value": {
+                "verbatim": "in schwarzen Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Dec.",
+                "normalised": "1770-12-10"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "Per Posta",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Maier",
+                "occupation_verbatim": "Geistlicher aus Böhmen",
+                "occupation_normalised": "Geistlicher aus Böhmen"
+            },
+            "time": null,
+            "transport": "in Niedermünster",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "in Niedermünster",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Dec.",
+                "normalised": "1770-12-11"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "Per Posta",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Kimmelmann",
+                "occupation_verbatim": "Prinz Hildburgshauzischer Hofrath",
+                "occupation_normalised": "Prinz Hildburgshauzischer Hofrath"
+            },
+            "time": null,
+            "transport": "in 3 Helmen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Dec.",
+                "normalised": "1770-12-12"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "Per ord. Postwagen von Amberg",
+            "person": {
+                "given_name": "Franz",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Scribeute von Am berg",
+                "occupation_normalised": "Scribeute von Am berg"
+            },
+            "time": null,
+            "transport": "paßiret durch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Dec.",
+                "normalised": "1770-12-12"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "zu Fuß",
+            "person": {
+                "given_name": "Gebrüder",
+                "family_name": "Kurz",
+                "occupation_verbatim": "Handelsleute von Roth",
+                "occupation_normalised": "Handelsleute von Roth"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "in Burbaum",
+            "s_value": {
+                "verbatim": "in Burbaum",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Dec.",
+                "normalised": "1770-12-12"
+            },
+            "gate": "zu Steinernen Brucke herein",
+            "direction": "Per ord. Postwagen von Nürnberg",
+            "person": {
+                "given_name": "Hr."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Hineck",
+                "occupation_verbatim": "von Hineck",
+                "occupation_normalised": "von Hineck"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2c. log. in weissen Lam.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rauh",
+                "occupation_verbatim": "Hochfürstlich-Hohenlohischer Geh. Rath",
+                "occupation_normalised": "Hochfürstlich-Hohenlohischer Geh. Rath"
+            },
+            "time": {
+                "verbatim": "½ 12 Uhr",
+                "normalised": "½ 12 Uhr"
+            },
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rümmelmann",
+                "occupation_verbatim": "Prinz Hildburghausischer Hofrathe",
+                "occupation_normalised": "Prinz Hildburghausischer Hofrathe"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Eglofsheim",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Lerchenfeld",
+                "occupation_verbatim": "Graf von Lerchenfeld",
+                "occupation_normalised": "Graf von Lerchenfeld"
+            },
+            "time": {
+                "verbatim": "10 Uhr",
+                "normalised": "10 Uhr"
+            },
+            "transport": "Posta",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.6. log. in 3 Helmen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Ottran",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "8 Uhr",
+                "normalised": "8 Uhr"
+            },
+            "transport": "Wiener Postwagen",
+            "origin": "Wien",
+            "lodging": "Spiegel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Trutzmeng",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Rümmelmann",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshuter ord. Bothe",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Strahlendorf",
+                "occupation_verbatim": "Herzoglich-Württembergischer Courier",
+                "occupation_normalised": "Herzoglich-Württembergischer Courier"
+            },
+            "time": null,
+            "transport": "zu Pferde",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rauh",
+                "occupation_verbatim": "Augsburger ord. Bothe",
+                "occupation_normalised": "Augsburger ord. Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "gold. Bären",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Frau",
+                "family_name": "Röllin",
+                "occupation_verbatim": "Gerichtsschreiberin von Noting",
+                "occupation_normalised": "Gerichtsschreiberin von Noting"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "weis[sen Hahn]",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Dullibo",
+                "occupation_verbatim": "Handelsmann aus Italien",
+                "occupation_normalised": "Handelsmann aus Italien"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Spiegel",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Hübner",
+                "occupation_verbatim": "Handelßmann aus Sachsen",
+                "occupation_normalised": "Handelßmann aus Sachsen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        }
+    ],
+    "id": "1770-12-18_Num_51",
+    "source": {
+        "issue_date": "1770-12-18",
+        "issue_number": "Num. 51",
+        "canvases": [
+            403,
+            404,
+            405,
+            406,
+            407,
+            408,
+            409,
+            410
+        ]
+    }
+}

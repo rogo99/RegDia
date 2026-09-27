@@ -1,0 +1,602 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Geraufere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "8 Jan.",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Dorothea Elisabetha",
+                                "family_name": "Wagner",
+                                "occupation_verbatim": "Bürger und Glaser",
+                                "occupation_normalised": "Civic and Glazier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Friedrich",
+                                "family_name": "Wagner",
+                                "occupation_verbatim": "Bürger und Glaser",
+                                "occupation_normalised": "Civic and Glazier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "8. Johann Georg",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Werner",
+                                "occupation_verbatim": "Soldat unter allhiesiger Stadtgarnison",
+                                "occupation_normalised": "Soldier under the local city garrison"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "15 Wochen und 3 Tage alt",
+                            "age_days": 108
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9. Johann David",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann David",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Bürger und Aufwärter",
+                                "occupation_normalised": "Civic and Apprentice"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Catharina Gruberin",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Gruberin",
+                                "occupation_verbatim": "hiesige Beyssyrs und Tägelöhners Wittib",
+                                "occupation_normalised": "Local Beisser and Day Laborer's Widow"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "7 Jan.",
+                            "normalised": "7 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Walburza",
+                                "family_name": "Brann",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": "Baker here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Brann",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": "Baker here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "11. Dorothea",
+                            "normalised": "11 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Dorothea",
+                                "family_name": "Schwazer",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": "Baker here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Schwazer",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": "Baker here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Joh.Melchior",
+                            "normalised": "12 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joh.Melchior",
+                                "family_name": "Koch",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": "Baker here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann",
+                                "family_name": "Koch",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": "Baker here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Sebastianus",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastianus",
+                                "family_name": "Schmiedel",
+                                "occupation_verbatim": "Beysßer zu Stadt am Hof",
+                                "occupation_normalised": "Baker at Town Square"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus",
+                                "family_name": "Schmiedel",
+                                "occupation_verbatim": "Beysßer zu Stadt am Hof",
+                                "occupation_normalised": "Baker at Town Square"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "9. Anna Maria Weymayrin",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Weymayrin",
+                                "occupation_verbatim": "verwittichte Weysgererin allhier",
+                                "occupation_normalised": "widowed Weiser here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "100 Jahr und 9 Monath alt",
+                            "age_days": 3659
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9. Maria Eva",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Zirngibl",
+                                "occupation_verbatim": "Weysgerer und Fischerknecht zu Stadt am Hof",
+                                "occupation_normalised": "Weiser and Fisherman at Town Square"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "13. Laurentius",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Laurentius",
+                                "family_name": "Lang",
+                                "occupation_verbatim": "Weysgerer zu Stadt am Hof",
+                                "occupation_normalised": "Weiser at Town Square"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Antonius Gross",
+                            "normalised": "14 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": "Gross",
+                                "occupation_verbatim": "Hochfürstl. Bischoflicher Leibkutscher allhier",
+                                "occupation_normalised": "High Prince Bishop's Body Coachman here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "57 Jahr alt",
+                            "age_days": 2052
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14. Anna Margaretha",
+                            "normalised": "14 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Margaretha",
+                                "family_name": "Högerl",
+                                "occupation_verbatim": "Weysgerer und Mühlknecht zu Stadt am Hof",
+                                "occupation_normalised": "Weiser and Mill Hand at Town Square"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarre zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "9 Jan.",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Liedel",
+                                "occupation_verbatim": "Hochfürstlich-Taxischer Haußknecht",
+                                "occupation_normalised": "High Prince Taxis House Servant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": "Weysgerer allhier",
+                                "occupation_normalised": "Weiser here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Sebastian",
+                            "normalised": "6 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": "Weysgerer allhier",
+                                "occupation_normalised": "Weiser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": "Weysgerer allhier",
+                                "occupation_normalised": "Weiser here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8. Walburga",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Walburga",
+                                "family_name": "Busz",
+                                "occupation_verbatim": "Kutscher bey Sr. Excell. Herrn Grafen von der Wall",
+                                "occupation_normalised": "Coachman for Excell. Lord Count of Wall"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Busz",
+                                "occupation_verbatim": "Kutscher bey Sr. Excell. Herrn Grafen von der Wall",
+                                "occupation_normalised": "Coachman for Excell. Lord Count of Wall"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Sebastian",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian",
+                                "family_name": "Hueber",
+                                "occupation_verbatim": "Rothgerber-Geselle und Weysgerer allhier",
+                                "occupation_normalised": "Leather Worker Apprentice and Weiser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joann Georg",
+                                "family_name": "Hueber",
+                                "occupation_verbatim": "Rothgerber-Geselle und Weysgerer allhier",
+                                "occupation_normalised": "Leather Worker Apprentice and Weiser here"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Maria Josepha",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha",
+                                "family_name": "Douschmolein",
+                                "occupation_verbatim": "Hochfürstlich-Taxi",
+                                "occupation_normalised": "High Prince Taxis"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Hr.",
+                                "family_name": "Josephus",
+                                "occupation_verbatim": "Douschmolein",
+                                "occupation_normalised": "Douschmolein"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "12. Barbara Frankne",
+                            "normalised": "12 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Barbara",
+                                "family_name": "Frankne",
+                                "occupation_verbatim": "lebisen Stande",
+                                "occupation_normalised": "living Status"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "60 Jahr alt",
+                            "age_days": 2190
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "12. Catharina",
+                            "normalised": "12 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Bezl",
+                                "occupation_verbatim": "Beynsiker allhier",
+                                "occupation_normalised": "Beynsiker here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "Pferde",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fleischner",
+                "occupation_verbatim": "Handelsleute von Amergan",
+                "occupation_normalised": "Merchants from Amergan"
+            },
+            "time": "Vormittags",
+            "transport": "Pferde",
+            "origin": "Amergan",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Per Calesch",
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Dreer",
+                "occupation_verbatim": "Land-Richter-Amtscornmissair von Reuburg am Walb",
+                "occupation_normalised": "Land-Richter-Amtscornmissair from Reuburg am Walb"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Reuburg am Walb",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Per Amberger ord. Kutsche",
+            "direction": null,
+            "person": {
+                "given_name": "Catharina",
+                "family_name": "Uebrerin",
+                "occupation_verbatim": "von Sambach",
+                "occupation_normalised": "from Sambach"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Sambach",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zu Pferde",
+            "direction": null,
+            "person": {
+                "given_name": "Herr Burgermeister",
+                "family_name": "Bauder",
+                "occupation_verbatim": "Burgermeister",
+                "occupation_normalised": "Mayor"
+            },
+            "time": "Vormittags",
+            "transport": "Pferde",
+            "origin": "Altdorf",
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Per Posta",
+            "direction": null,
+            "person": {
+                "given_name": "Se.",
+                "family_name": "Excell.",
+                "occupation_verbatim": "Herr Baron von Erthal",
+                "occupation_normalised": "Baron von Erthal"
+            },
+            "time": "Vormittags",
+            "transport": "Postal",
+            "origin": "Churmaynzischer Gesandter",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "11.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zu Füsz",
+            "direction": null,
+            "person": {
+                "given_name": "Joseph Abraham",
+                "family_name": "Abraham",
+                "occupation_verbatim": "ein Jude von Sulzburg",
+                "occupation_normalised": "a Jew from Sulzburg"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Sulzburg",
+            "lodging": "Hirschel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Per Kutsche",
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron von Karg",
+                "occupation_verbatim": "Churbayerischer Hauptmann",
+                "occupation_normalised": "Bavarian Chief Officer"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "6.",
+            "s_value": {
+                "verbatim": "log. in weissen Lamm",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9"
+            }
+        }
+    ],
+    "id": "1770-01-16_Num_3",
+    "source": {
+        "issue_date": "1770-01-16",
+        "issue_number": "Num. 3",
+        "canvases": [
+            23,
+            24,
+            25,
+            26
+        ]
+    }
+}

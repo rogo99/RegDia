@@ -1,0 +1,568 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerauete",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Julii.",
+                            "normalised": "23 Julii."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "M. Jacob Wilhelm",
+                                "family_name": "Goy",
+                                "occupation_verbatim": "Bürger und Säcker",
+                                "occupation_normalised": "Bürger and Farmer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Jsofr. Anna Barbara Rosenhahnin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24. M.",
+                            "normalised": "24. M."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Rieling",
+                                "occupation_verbatim": "Bürger und Weisserber",
+                                "occupation_normalised": "Bürger and White Ber"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Anna Rosina Frieselin, Wittib",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Geraufete",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "21. Johann Gottlich",
+                            "normalised": "21. Johann Gottlich"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Bauer",
+                                "occupation_verbatim": "Kutscher",
+                                "occupation_normalised": "Coachman"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr, 3 Wochen und 1 Tag alt",
+                            "age_days": 21
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22. Georg Philipp",
+                            "normalised": "22. Georg Philipp"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Philipp",
+                                "family_name": "Lippe",
+                                "occupation_verbatim": "Bürger und Organiste zur Neuen Pfarr, auch Waag- und Stubenmeister",
+                                "occupation_normalised": "Bürger and Organist at the New Church, also Weigh- and Stable Master"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22. Esaias Andreas Christian",
+                            "normalised": "22. Esaias Andreas Christian"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Esaias Andreas Christian",
+                                "family_name": "Baumann",
+                                "occupation_verbatim": "Bürger und Peruquenmacher",
+                                "occupation_normalised": "Bürger and Peruquen Maker"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadtpfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Julit.",
+                            "normalised": "23 Julit."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus",
+                                "family_name": "Zilzisperger",
+                                "occupation_verbatim": "Bürgerl. Kräntler und Debsler zu Stadt am Hof",
+                                "occupation_normalised": "Bürgerl. Knitter and Debsler at the City at the Court"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Elisabetha Winterin, Burgers Tochter von da",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 Julit.",
+                            "normalised": "23 Julit."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacob",
+                                "family_name": "Himmelmayr",
+                                "occupation_verbatim": "Beysüzer zu Stadt am Hof",
+                                "occupation_normalised": "Beysüzer at the City at the Court"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Catharina Eggerin, von Hondorf",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26. Matthias Sperl",
+                            "normalised": "26. Matthias Sperl"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthias",
+                                "family_name": "Sperl",
+                                "occupation_verbatim": "Beysüzer allhier",
+                                "occupation_normalised": "Beysüzer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Walburga Arnoldin, von Saalhaupre",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26. Johannes Edenhofer",
+                            "normalised": "26. Johannes Edenhofer"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": "Edenhofer",
+                                "occupation_verbatim": "Beysüzer und Fischerknecht allhier",
+                                "occupation_normalised": "Beysüzer and Fisherman here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Clara Aschenauerin, von Minderaching",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "22 Julii.",
+                            "normalised": "22 Julii."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": "Fux",
+                                "occupation_verbatim": "Beysser allhier",
+                                "occupation_normalised": "Beysser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Ezidi",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23. Maria Eunigunda",
+                            "normalised": "23. Maria Eunigunda"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eunigunda",
+                                "family_name": "Lampert",
+                                "occupation_verbatim": "Hr. Peter Lampert, Hochfürstlich-Thurns und Taxischer Cammerdiener",
+                                "occupation_normalised": "Hr. Peter Lampert, High-Frankish-Turns and Taxis Chamber Servant"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Peter",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26. Theresia",
+                            "normalised": "26. Theresia"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Theresia",
+                                "family_name": "Lautenbacher",
+                                "occupation_verbatim": "Hochfürstlich-Taxischer Kutscher",
+                                "occupation_normalised": "High-Frankish-Taxis Coachman"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Michael",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "26. Maria Anna",
+                            "normalised": "26. Maria Anna"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Huber",
+                                "occupation_verbatim": "Wegschaiters allhier, Ehemalsthin",
+                                "occupation_normalised": "Wayward all here, Formerly"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "70 Jahr alt",
+                            "age_days": 2556
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27. Anna Maria",
+                            "normalised": "27. Anna Maria"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Schmidbauer",
+                                "occupation_verbatim": "Gregori Schmidbauer, Beysser allhier",
+                                "occupation_normalised": "Gregori Schmidbauer, Beysser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Gregori",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "26 Wochen und 3 Tage alt",
+                            "age_days": 187
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "22 Julii.",
+                "normalised": "22 Julii."
+            },
+            "gate": "zu Fuß",
+            "direction": "in der golde-ne Crone",
+            "person": {
+                "given_name": "Anton Gottschling",
+                "family_name": "Laufser",
+                "occupation_verbatim": "vacirender Laufser",
+                "occupation_normalised": "vacirender Laufser"
+            },
+            "time": "Vormittags",
+            "transport": "zu Fuß",
+            "origin": null,
+            "lodging": "in der golde-ne Crone",
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22 Julii.",
+                "normalised": "22 Julii."
+            },
+            "gate": "Per Calesch",
+            "direction": "S. T. Herr Baron von Herold",
+            "person": {
+                "given_name": "Herr Baron von Herold",
+                "family_name": "Churbayerischer General",
+                "occupation_verbatim": "re. f. z. log.",
+                "occupation_normalised": "re. f. z. log."
+            },
+            "time": "Vormittags",
+            "transport": "Per Calesch",
+            "origin": "S. T.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "log.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 Julii.",
+                "normalised": "23 Julii."
+            },
+            "gate": "Per Calesch",
+            "direction": "Tit. Herr Lieutenant von Trautenberg",
+            "person": {
+                "given_name": "Tit. Herr Lieutenant von Trautenberg",
+                "family_name": "vom Schwäbischen Crayß",
+                "occupation_verbatim": "s. 2. paßiren durch",
+                "occupation_normalised": "s. 2. paßiren through"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Tit.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2. paßiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 Julii.",
+                "normalised": "23 Julii."
+            },
+            "gate": "Per Amberger ord. Kutsche",
+            "direction": "Tit. Frau von Chatell",
+            "person": {
+                "given_name": "Tit. Frau von Chatell",
+                "family_name": "Churbayerische Lieutenantin",
+                "occupation_verbatim": "s.2. paßiren durch",
+                "occupation_normalised": "s.2. paßiren through"
+            },
+            "time": null,
+            "transport": "Per Amberger ord. Kutsche",
+            "origin": "Tit.",
+            "lodging": "in Türken",
+            "s_value": {
+                "verbatim": "s.2. paßiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23 Julii.",
+                "normalised": "23 Julii."
+            },
+            "gate": "Zu Fuß",
+            "direction": "Hr. Häcker",
+            "person": {
+                "given_name": "Hr. Häcker",
+                "family_name": "Spitzenhändler aus Sachsen",
+                "occupation_verbatim": "log. in gold. Bären",
+                "occupation_normalised": "log. in gold. Bären"
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": null,
+            "lodging": "in gold. Bären",
+            "s_value": {
+                "verbatim": "log. in gold. Bären",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 Julii.",
+                "normalised": "24 Julii."
+            },
+            "gate": "Per Calesch",
+            "direction": "Tit. Herr von Dreer",
+            "person": {
+                "given_name": "Tit. Herr von Dreer",
+                "family_name": "Oberpfälzischer Landrichter von Neusburg am Wald",
+                "occupation_verbatim": "s. 2. log. in 3 Helmen",
+                "occupation_normalised": "s. 2. log. in 3 Helmen"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Tit.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2. log. in 3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 Julii.",
+                "normalised": "24 Julii."
+            },
+            "gate": "Die Nürnberger ord. Landkutsche",
+            "direction": "Vormittags",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Die Nürnberger ord. Landkutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um ½ 11 Uhr",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Julii.",
+                "normalised": "25 Julii."
+            },
+            "gate": "Per Kutsche",
+            "direction": "2 S.T. Herrn Barons von Oberndorf",
+            "person": {
+                "given_name": "2 S.T. Herrn Barons von Oberndorf",
+                "family_name": null,
+                "occupation_verbatim": "2e vor Regenders",
+                "occupation_normalised": "2e vor Regenders"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "2 S.T.",
+            "lodging": "in 3 Helmen",
+            "s_value": {
+                "verbatim": "§6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Julii.",
+                "normalised": "25 Julii."
+            },
+            "gate": "Per ord. Postwagen von Amberg",
+            "direction": "Herr Hermann",
+            "person": {
+                "given_name": "Herr Hermann",
+                "family_name": "ein Geislicher von Luxemburg",
+                "occupation_verbatim": "Hr. Vogt, ein Kaufmann von Neumburg",
+                "occupation_normalised": "Hr. Vogt, a Priest from Luxembourg"
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Amberg",
+            "origin": "Herr",
+            "lodging": "in schwarzen Bären",
+            "s_value": {
+                "verbatim": "Hr. Vogt, ein Kaufmann von Neumburg",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25 Julii.",
+                "normalised": "25 Julii."
+            },
+            "gate": "Per Calesch",
+            "direction": ""
+        }
+    ],
+    "id": "1770-07-31_Num_31",
+    "source": {
+        "issue_date": "1770-07-31",
+        "issue_number": "Num. 31",
+        "canvases": [
+            243,
+            244,
+            245,
+            246
+        ]
+    }
+}

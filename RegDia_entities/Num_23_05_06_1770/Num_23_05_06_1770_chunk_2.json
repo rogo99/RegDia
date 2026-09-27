@@ -1,0 +1,554 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Frau",
+                "family_name": "Haaslin",
+                "occupation_verbatim": "Burgermeister",
+                "occupation_normalised": "Bürgermeisterin"
+            },
+            "time": "½6 Uhr",
+            "transport": "Kutsche",
+            "origin": "Straubing",
+            "lodging": "f. 6",
+            "s_value": {
+                "verbatim": "f. 6",
+                "value": 6
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Monsr.",
+                "family_name": "Facioli",
+                "occupation_verbatim": "Herr von Facioli",
+                "occupation_normalised": "Herr von Facioli"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Triest",
+            "lodging": "f. 2",
+            "s_value": {
+                "verbatim": "f. 2",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Junii.",
+                "normalised": "1 Junii."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se.Ercell.",
+                "family_name": "Baron von Fechenbach",
+                "occupation_verbatim": "Hochfürstlich-Würzburgischer Comitialgesandter",
+                "occupation_normalised": "Hochfürstlich-Würzburgischer Comitialgesandter"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Nürnberg",
+            "lodging": "ic.",
+            "s_value": {
+                "verbatim": "ic.",
+                "value": 5
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per ord. Postwagen nach Nürnberg",
+                "normalised": "Per ord. Postwagen nach Nürnberg"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Wolsfarth",
+                "occupation_verbatim": "Wolsfarth",
+                "occupation_normalised": "Wolsfarth"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen, der Amberger ord. Vothe",
+                "normalised": "Per Wagen, der Amberger ord. Vothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Vothe",
+                "occupation_verbatim": "Vothe",
+                "occupation_normalised": "Vothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, S.T. Herr Graf von Holluffeine",
+                "normalised": "Per Posta, S.T. Herr Graf von Holluffeine"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Graf von Holluffeine",
+                "occupation_verbatim": "Statthalter des Herzogthums der Ober-Pfalz",
+                "occupation_normalised": "Statthalter des Herzogthums der Ober-Pfalz"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Nürnberg",
+            "lodging": "ic.",
+            "s_value": {
+                "verbatim": "ic.",
+                "value": 6
+            }
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brucke hinaus:",
+                "normalised": "An der hölzernen Brucke hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": "Rainer",
+                "occupation_normalised": "Rainer"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": "f. 3",
+            "s_value": {
+                "verbatim": "f. 3",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Jun. auf einen Floß",
+                "normalised": "Den 1 Jun. auf einen Floß"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Träger",
+                "occupation_verbatim": "Träger",
+                "occupation_normalised": "Träger"
+            },
+            "time": null,
+            "transport": "Floß",
+            "origin": "Rougentischen Regimente",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Georg",
+                "family_name": "Gruber",
+                "occupation_verbatim": "Gruber",
+                "occupation_normalised": "Gruber"
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Beckert",
+                "normalised": "Per Calesch, Hr. Beckert"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Beckert",
+                "occupation_verbatim": "Handelsmann von Bayreuth",
+                "occupation_normalised": "Handelsmann von Bayreuth"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Bayreuth",
+            "lodging": "log. in Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Tit. Frau von Lucas",
+                "normalised": "Per Calesch, Tit. Frau von Lucas"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Frau von Lucas",
+                "occupation_verbatim": "Churbayerische Hauptmannin",
+                "occupation_normalised": "Churbayerische Hauptmannin"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Nürnberg",
+            "lodging": "paßiren durch",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Vothe",
+                "normalised": "Per Calesch, der Straubinger ord. Vothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Vothe",
+                "occupation_verbatim": "Vothe",
+                "occupation_normalised": "Vothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "log: in schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta, Tit. Herr Steinheit",
+                "normalised": "Per Posta, Tit. Herr Steinheit"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Steinheit",
+                "occupation_verbatim": "Kayserl. Hauptmann vom Blonquetischen Regimente",
+                "occupation_normalised": "Kayserl. Hauptmann vom Blonquetischen Regimente"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Nürnberg",
+            "lodging": "paßiret durch",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, Hr. Hatner",
+                "normalised": "Per Calesch, Hr. Hatner"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Hatner",
+                "occupation_verbatim": "Verwalter von Wildenberg",
+                "occupation_normalised": "Verwalter von Wildenberg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Nürnberg",
+            "lodging": "log. in wilden Mann",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Vothe",
+                "normalised": "Per Calesch, der Straubinger ord. Vothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Vothe",
+                "occupation_verbatim": "Vothe",
+                "occupation_normalised": "Vothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "normalised": "Per Calesch, der Straubinger ord. Bothe"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Bothe",
+                "occupation_normalised": "Bothe"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch, der Straubinger ord"
+            }
+        }
+    ],
+    "id": "1770-06-05_Num_23",
+    "source": {
+        "issue_date": "1770-06-05",
+        "issue_number": "Num. 23",
+        "canvases": [
+            183,
+            184,
+            185,
+            186
+        ]
+    }
+}

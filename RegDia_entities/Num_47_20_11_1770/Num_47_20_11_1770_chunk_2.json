@@ -1,0 +1,466 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "13. Per Kutsche, der Amberger ord. Bothe.",
+                "normalised": "13. Per Kutsche, der Amberger ord. Bothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": "Deggendorfer Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "mit frischen Obst",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "14. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "17. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "14. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17. Per Calesch, der Straubinger ord. Vothe.",
+                "normalised": "17. Per Calesch, der Straubinger ord. Vothe."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Vothe",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Per Münchner Postwagen, um 3/8 Uhr Abends, Tit.-Herr von Guggenmus, Marggrästlich-Baaden-Baadenischer Fähndrich, log. in Spiegel.",
+                "normalised": "11. Per Münchner Postwagen, um 3/8 Uhr Abends, Tit.-Herr von Guggenmus, Marggrästlich-Baaden-Baadenischer Fähndrich, log. in Spiegel."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.-Herr von Guggenmus",
+                "family_name": null,
+                "occupation_verbatim": "Marggrästlich-Baaden-Baadenischer Fähndrich",
+                "occupation_normalised": "Marggrästlich-Baaden-Baadenischer Fähndrich"
+            },
+            "time": "3/8 Uhr Abends",
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Posta, S.T. Herr von Stubenrauch, Churbayerischer Geh. Minister, log. auf der Churbayerischen Maunz.",
+                "normalised": "12. Per Posta, S.T. Herr von Stubenrauch, Churbayerischer Geh. Minister, log. auf der Churbayerischen Maunz."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T. Herr von Stubenrauch",
+                "family_name": null,
+                "occupation_verbatim": "Churbayerischer Geh. Minister",
+                "occupation_normalised": "Churbayerischer Geh. Minister"
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": "Churbayerischen Maunz",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Wagen, der Dingelsfinger Vothe, log. in Türken.",
+                "normalised": "13. Per Wagen, der Dingelsfinger Vothe, log. in Türken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Dingelsfinger Vothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken.",
+                "normalised": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingosfädter ord. Vothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags.",
+                "normalised": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "½ 8 Uhr, Vormittags",
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "normalised": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "normalised": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian",
+                "family_name": "Lauret",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "ord. Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Kutsche, Tit. Herr von Hartenfels, Herzoglich-Österreichischer Legationsseretair, f. 5. log. in Elephanthen.",
+                "normalised": "10. Per Kutsche, Tit. Herr von Hartenfels, Herzoglich-Österreichischer Legationsseretair, f. 5. log. in Elephanthen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Hartenfels",
+                "family_name": null,
+                "occupation_verbatim": "Herzoglich-Österreichischer Legationsseretair",
+                "occupation_normalised": "Herzoglich-Österreichischer Legationsseretair"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "Elephanthen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Per Calesch, Sr. Frank, ein Postofficier von Bayrenth, log. in Elephanthen.",
+                "normalised": "11. Per Calesch, Sr. Frank, ein Postofficier von Bayrenth, log. in Elephanthen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Sr. Frank",
+                "family_name": null,
+                "occupation_verbatim": "ein Postofficier von Bayrenth",
+                "occupation_normalised": "ein Postofficier von Bayrenth"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Bayrenth",
+            "lodging": "Elephanthen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Calesch, der Straubinger ord. Bothe, damit Herr Rupfersperger, ein Geistlicher von Strasskirchen, log. in schwarzen Bären.",
+                "normalised": "12. Per Calesch, der Straubinger ord. Bothe, damit Herr Rupfersperger, ein Geistlicher von Strasskirchen, log. in schwarzen Bären."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Rupfersperger",
+                "family_name": null,
+                "occupation_verbatim": "ein Geistlicher von Strasskirchen",
+                "occupation_normalised": "ein Geistlicher von Strasskirchen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubinger ord. Bothe",
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Per Calesch, Herr Schmid, Churbayerischer Wildbereiter von Simsen, f. 3. log. in 3 Helmen.",
+                "normalised": "13. Per Calesch, Herr Schmid, Churbayerischer Wildbereiter von Simsen, f. 3. log. in 3 Helmen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Schmid",
+                "family_name": null,
+                "occupation_verbatim": "Churbayerischer Wildbereiter von Simsen",
+                "occupation_normalised": "Churbayerischer Wildbereiter von Simsen"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Simsen",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken.",
+                "normalised": "14. Per Kutsche, der Ingosfädter ord. Vothe, log. in Türken."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Ingosfädter ord. Vothe",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags.",
+                "normalised": "16. Der Wiener Postwagen, um ½ 8 Uhr, Vormittags."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "½ 8 Uhr, Vormittags",
+            "transport": "Wiener Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "normalised": "13 Nov. Ludwig Rainer führt in einem Plättel nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Rainer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Plättel",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien Herrn d'Ouett, und Herrn de Sandoval, Regoeianten aus Frankreich, s. c.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "normalised": "18. Christian Lauret und Adam Rainer führen das ord. Schiff nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian",
+                "family_name": "Lauret",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "ord. Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "nach Wien, mit ihnen: Herr Hardy, ein Passagier von Lüttich, und 28 gemeine Personen.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Per Kutsche"
+            }
+        }
+    ],
+    "id": "1770-11-20_Num_47",
+    "source": {
+        "issue_date": "1770-11-20",
+        "issue_number": "Num. 47",
+        "canvases": [
+            375,
+            376,
+            377,
+            378
+        ]
+    }
+}

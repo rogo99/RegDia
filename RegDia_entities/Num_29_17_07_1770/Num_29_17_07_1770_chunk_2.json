@@ -1,0 +1,307 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "16. Juli",
+                "normalised": "16. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Abraham",
+                "family_name": "Raitner",
+                "occupation_verbatim": "Handlungsverwandter von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "7. Juli",
+                "normalised": "7. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Magnus",
+                "family_name": "Ziegler",
+                "occupation_verbatim": "Comödiant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Gemsel",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "6. Juli",
+                "normalised": "6. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Mahler",
+                "occupation_verbatim": "Kaufmann von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9. Juli",
+                "normalised": "9. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bozenhard",
+                "occupation_verbatim": "Handelsmann von Schwäbisch-Gemünd",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Juli",
+                "normalised": "11. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bayer",
+                "occupation_verbatim": "Churbayerischer Manthoberschreiber von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Juli",
+                "normalised": "13. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wolrab",
+                "occupation_verbatim": "Kausleute von Nurnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8. Juli",
+                "normalised": "8. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Hermann",
+                "occupation_verbatim": "Hochgräflich-Schönbornischer Secretaire",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9. Juli",
+                "normalised": "9. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Bricken",
+                "occupation_verbatim": "Chursächsifcher Cammerherr",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10. Juli",
+                "normalised": "10. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Sendler",
+                "occupation_verbatim": "Gütherbestätter von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11. Juli",
+                "normalised": "11. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fuchs",
+                "occupation_verbatim": "Hopfenhändler aus Böhmen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12. Juli",
+                "normalised": "12. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fuchs",
+                "occupation_verbatim": "Hopfenhändler aus Böhmen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13. Juli",
+                "normalised": "13. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fuchs",
+                "occupation_verbatim": "Hopfenhändler aus Böhmen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9. Juli",
+                "normalised": "9. Juli"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Johann Andreas Weis",
+                "occupation_verbatim": "Hochfürstlich-Schwarzenbergischer Legationscanzeller",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-07-17_Num_29",
+    "source": {
+        "issue_date": "1770-07-17",
+        "issue_number": "Num. 29",
+        "canvases": [
+            231,
+            232,
+            233,
+            234
+        ]
+    }
+}

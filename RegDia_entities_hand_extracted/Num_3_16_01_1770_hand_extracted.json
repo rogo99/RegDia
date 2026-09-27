@@ -1,0 +1,2109 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "8 Jan.",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Dorothea Elisabetha",
+                                "family_name": "Wagner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Friedrich",
+                                "family_name": "Wagner",
+                                "occupation_verbatim": "Bürger und Glaser",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 11.",
+                            "normalised": "11 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nahel Charlotta",
+                                "family_name": "Puppelein",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg Balthasar",
+                                "family_name": "Puppelein",
+                                "occupation_verbatim": " Kutscher bey des Chursächsischen Herrn Gesandten, Freyherrn von Ponikau Excell.",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 8.",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Werner",
+                                "occupation_verbatim": "Soldat unter allhiesiger Stadtgarnison",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "15 Wochen und 3 Tage alt",
+                            "age_days": 108
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 9.",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann David",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Burger und Aufwärter",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "7 Jahr und 11 Wochen alt",
+                            "age_days": 2632
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 13.",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Gruberin",
+                                "occupation_verbatim": "hiesige Beyssyrs und Tägelöhners Wittib",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "69 Jahr weniger 4 Tage alt",
+                            "age_days": 25198
+                    }
+                  }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "7 Jan.",
+                            "normalised": "7 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Walburza",
+                                "family_name": "Brann",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Brann",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die",
+                            "normalised": "7 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptish Clemens Franciscens de Paula",
+                                "family_name": "Martin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Claudius",
+                                "family_name": "Martin",
+                                "occupation_verbatim": "Medic. Döct. und Letb-Chirurgus bey Sr. Hochfürstl. Durchl. von Thurn und Taxis",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 11.",
+                            "normalised": "11 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Dorothea",
+                                "family_name": "Schwazer",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Schwazer",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 12.",
+                            "normalised": "12 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joh.Melchior",
+                                "family_name": "Koch",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh.",
+                                "family_name": "Koch",
+                                "occupation_verbatim": "Beysßer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 13.",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastianus",
+                                "family_name": "Schmiedel",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Sebastianus",
+                                "family_name": "Schmiedel",
+                                "occupation_verbatim": "Beysßer zu Stadt am Hof",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 9.",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Weymayrin",
+                                "occupation_verbatim": "verwittichte Weysgererin allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "100 Jahr und 9 Monath alt",
+                            "age_days": 36799
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die",
+                            "normalised": "9 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Zirngibl",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "15 Tage alt",
+                            "age_days": 15
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 13.",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Laurentius",
+                                "family_name": "Lang",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "9 Tage alt",
+                            "age_days": 9
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 14.",
+                            "normalised": "14 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": "Gross",
+                                "occupation_verbatim": "Hochfürstl. Bischoflicher Leibkutscher allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "57 Jahr alt",
+                            "age_days": 20805
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die",
+                            "normalised": "14 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Margaretha",
+                                "family_name": "Högerl",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Monathe und 14 Tage alt",
+                            "age_days": 344
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarre zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 6.",
+                            "normalised": "6 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Holzer",
+                                "occupation_verbatim": "Weysgerer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 8.",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Walburga",
+                                "family_name": "Busz",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Busz",
+                                "occupation_verbatim": "Kutscher bey Sr. Excell. Herrn Grafen von der Wall",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 10.",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian",
+                                "family_name": "Hueber",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joann Georg",
+                                "family_name": "Hueber",
+                                "occupation_verbatim": "Rothgerber-Geselle und Weysgerer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha",
+                                "family_name": "Douschmolein",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Douschmolein",
+                                "occupation_verbatim": "Hochfürstlich-Taxischer Musicus",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Eod. die",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Barbara",
+                                "family_name": "Frankne",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "60 Jahr alt",
+                            "age_days": 21900
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina",
+                                "family_name": "Bezl",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Jahr alt",
+                            "age_days": 2190
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 12.",
+                            "normalised": "12 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christoph Joseph",
+                                "family_name": "Gerstenberger",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "25 Wochen alt",
+                            "age_days": 175
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Burger-Pfarr St. Casian",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "21 Jan.",
+                            "normalised": "21 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Antoni",
+                                "family_name": "Freyherr von Strahl",
+                                "occupation_verbatim": "Rudimentista",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "14 Jahr alt",
+                            "age_days": 5110
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 13.",
+                            "normalised": "13 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Hainzmannin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "23 Jahr ihres Alters",
+                            "age_days": 8395
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "12 Jan.",
+                            "normalised": "12 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franzeseus Josephus",
+                                "family_name": "Romayer",
+                                "occupation_verbatim": "Churfürstlicher Hofcammer-Secretair",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "75 Jahr alt",
+                            "age_days": 27375
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts-Pfarr, Obermünster",
+                "baptised": [
+                  {
+                        "date": {
+                            "verbatim": "8 Jan.",
+                            "normalised": "8 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Ankofer",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Ankofer",
+                                "occupation_verbatim": "Tagewerker alda",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochlöbl. Congregation der Verkündigung Mariä",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                  {
+                        "date": {
+                            "verbatim": "6 Jan.",
+                            "normalised": "6 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ignatius",
+                                "family_name": "Brunnbauer",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 10.",
+                            "normalised": "10 January"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciseus Josephus",
+                                "family_name": "Romayer",
+                                "occupation_verbatim": "Churkönnischer Hofammers Secretair",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "passiren durch",
+            "person": {
+                "given_name": null,
+                "family_name": "Fleischner",
+                "occupation_verbatim": "Handelsleute von Amergan",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Amergan",
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "passiren durch",
+            "person": {
+                "given_name": null,
+                "family_name": "Iller",
+                "occupation_verbatim": "Handelsleute von Amergan",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Amergan",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Dreer",
+                "occupation_verbatim": "Land-Richter-Amtscornmissair",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Reuburg am Walb",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Catharina",
+                "family_name": "Uebrerin",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Sambach",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "8 Jan.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Bauder",
+                "occupation_verbatim": "Burgermeister",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Altdorf",
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": null,
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Landkutsche",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "paßiren durch",
+            "person": {
+                "given_name": null,
+                "family_name": "Se. Excell. Herr Baron von Erthal",
+                "occupation_verbatim": "Churmaynzischer Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 11.",
+                "value": 11
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Abraham",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Zu Füsz",
+            "origin": "Sulzburg",
+            "lodging": "Hirschel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Herr Baron von Karg",
+                "occupation_verbatim": "Churbayerischer Hauptmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. 6.",
+                "value": 6
+            }
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Renthammerath Schenkel",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": "schwarzen Adler",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Schmid",
+                "occupation_verbatim": "Geislicher",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": "Spiegel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Gauck",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": "Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "9 Jan.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "paßiret durch",
+            "person": {
+                "given_name": "Joseph",
+                "family_name": "Wertheimer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "paßiert durch",
+            "person": {
+                "given_name": null,
+                "family_name": "von Dürscheid",
+                "occupation_verbatim": "Churpsälzischer Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "le Ples",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Niederland",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "David",
+                "family_name": "Wertheimer",
+                "occupation_verbatim": "Kayserrl. Hoffactor",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Niederland",
+            "lodging": "hiesigen Wertheimer",
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Schmörl",
+                "occupation_verbatim": "Hochgräflich-Hartigischer Director",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": "St. Jacob",
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "von Orban",
+                "occupation_verbatim": "Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "schwarzen Adler",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Hesse",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Nürnberg",
+            "lodging": "blauen Engel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "paßiert durch",
+            "person": {
+                "given_name": null,
+                "family_name": "Wissbergerin",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Rittingen",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "paßiert durch",
+            "person": {
+                "given_name": null,
+                "family_name": "von Höck",
+                "occupation_verbatim": "Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Burghauken",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Samuel",
+                "family_name": "Hirsch",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Sulzbach",
+            "lodging": "Hirsel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "paßiert durch",
+            "person": {
+                "given_name": null,
+                "family_name": "Herr Baron von Wolfsehl",
+                "occupation_verbatim": "Major von Würzburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Würzburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Herr Baron von Wildenau",
+                "occupation_verbatim": "Landrichter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Burglengensfeld",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 41.",
+                "normalised": "14 January"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "von Hasingen",
+                "occupation_verbatim": "Kayserl. Hauptmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "schwarzen Abler",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Hofrath Jäger",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": 5
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Dollona",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Heilbrunn",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Amberger ord. Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Amberger Silbervothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Esstafetta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Hemauer",
+                "occupation_verbatim": "Pfarrer",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Dasing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Bauder",
+                "occupation_verbatim": "Burgermeister",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferde",
+            "origin": "Mirdorf",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "von Orban",
+                "occupation_verbatim": "Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Popp",
+                "occupation_verbatim": "Pfleger",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Gankhoven",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Abends",
+            "transport": "Esstafetta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Eckel",
+                "occupation_verbatim": "Domekapitulärer Rästner",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Chamb",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 14.",
+                "normalised": "14 January"
+            },
+            "gate": "Zur steinernen Brucke hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Schmorl",
+                "occupation_verbatim": "Hochgräflich-Hartigischer Director",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Böhmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "6 Jan.",
+                "normalised": "6 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Oswaldin",
+                "occupation_verbatim": "Rechnungs-Commiss.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Kelberger",
+                "occupation_verbatim": "Geisfl",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": "Psauz",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Simendingel",
+                "occupation_verbatim": "Geisfl",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Dingelfing",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Straundinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Herr Baron von Strell",
+                "occupation_verbatim": "Regierungscanzler von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Straubing",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "s. 4.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Haberkorn",
+                "occupation_verbatim": "Geisl.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Passau",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Geckel",
+                "occupation_verbatim": "Kasen- Beamier",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Passau",
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "pakiren durch",
+            "person": {
+                "given_name": null,
+                "family_name": "Hemauer",
+                "occupation_verbatim": "Pfarrer",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Duffing",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zum Ostenthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Straubing",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Ostenthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Oswaldin",
+                "occupation_verbatim": "Rechnungs-Commissar",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Ostenthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Ostenthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "von Feuchten",
+                "occupation_verbatim": "Geisl.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Deggendorf",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Ostenthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "David",
+                "family_name": "Wertheimer",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posa",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13 January"
+            },
+            "gate": "Zum Ostenthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Straubinger ord. Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Straubing",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "7 Jan.",
+                "normalised": "7 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Abends",
+            "transport": "Postwagen",
+            "origin": "München",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "7 Jan.",
+                "normalised": "7 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Hofrath Jäger",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Kopdorf",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Landshuter Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshut",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Dingelsfinger Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Dingelsfing",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "paßiret durch",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Silberbothe von Amberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Ingolstädter Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Ingolstadt",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Abends",
+            "transport": "Postwagen",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zum Weyh St. Peterthore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Landshuter Vothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshut",
+            "lodging": "Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "von Mayer",
+                "occupation_verbatim": "Regierungsrath",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Landshut",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "München",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Landshuter Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshut",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Sc. Excell. Herr Baron von Erthal",
+                "occupation_verbatim": "Churmaynzischer Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.6.",
+                "value": 6
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "Gensky",
+                "occupation_verbatim": "Churbayerischer Hauptmann",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 10.",
+                "normalised": "10 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Dingelstinger Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Dingelsting",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": "von Abelmann",
+                "occupation_verbatim": "Kayserl. Cammerherr",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Ingolstädtcr Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schlitten",
+            "origin": "Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 13.",
+                "normalised": "13 January"
+            },
+            "gate": "Zum Weyh St. Peterthore hinaus",
+            "direction": "hinaus",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Landshuter Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshut",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "6 Jan.",
+                "normalised": "6 January"
+            },
+            "gate": "Zum Jacobertore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Frank",
+                "occupation_verbatim": "Hopfenhändler",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Böhmen",
+            "lodging": "Psauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Jacobertore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": "Augsburger ord. Voche",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Augsburg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9 January"
+            },
+            "gate": "Zum Jacobertore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Mocany",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Italien",
+            "lodging": "goldenen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12 January"
+            },
+            "gate": "Zum Jacobertore herein",
+            "direction": "herein",
+            "person": {
+                "given_name": null,
+                "family_name": "Heilmann",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schikten",
+            "origin": "Jissen",
+            "lodging": "Gleyphanten",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        }
+    ],
+    "id": "1770-01-16_Num_3",
+    "source": {
+        "issue_date": "1770-01-16",
+        "issue_number": "Num. 3",
+        "canvases": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    }
+}

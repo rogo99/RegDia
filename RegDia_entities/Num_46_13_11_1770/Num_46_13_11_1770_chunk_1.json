@@ -1,0 +1,607 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerauer",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "5 Nov.",
+                            "normalised": "5 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Carl Stanislaus",
+                                "family_name": "Reinwald",
+                                "occupation_verbatim": "Bürger und Rauchfangkehrer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Isfe.",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Nov.",
+                            "normalised": "6 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Heim",
+                                "occupation_verbatim": "Bürger und Thorwarth",
+                                "occupation_normalised": "Bürger and Thorwarth"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Isfr.",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Nov.",
+                            "normalised": "6 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Wilhelm",
+                                "family_name": "Münzinger",
+                                "occupation_verbatim": "Bürger und Setler",
+                                "occupation_normalised": "Bürger and Setler"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Anna Elisabetha",
+                                "occupation_verbatim": "Uhlmannin, Barbiersstochter zu Dinkelspühl",
+                                "occupation_normalised": "Uhlmannin, Barbier's daughter at Dinkelspühl"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Geraufsece",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "5 November",
+                            "normalised": "5 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Fran Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Hofmann",
+                                "occupation_verbatim": "Bürger und Stademusicus allhier",
+                                "occupation_normalised": "Bürger and Stadsmusician here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "46 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7. Nov.",
+                            "normalised": "7 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Christina Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Matthias",
+                                "family_name": "Kleinoder",
+                                "occupation_verbatim": "Bürger und Stadtschlüsser",
+                                "occupation_normalised": "Bürger and City Keyholder"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre, 15 Wochen und 1 Tag alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "5 Nov.",
+                            "normalised": "5 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha Johanna Helena Maria",
+                                "family_name": "des M.",
+                                "occupation_verbatim": "Joh Friedrich Gotlich Wagner, Burgers, Schneiders und Hochwächters",
+                                "occupation_normalised": "Joh Friedrich Gotlich Wagner, Burger, Schneider, and High Watchman"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh Friedrich Gotlich",
+                                "family_name": "Wagner",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "45 Jahre, 40 Wochen und 2 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8. Nov.",
+                            "normalised": "8 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Barbara",
+                                "family_name": "Schmidin",
+                                "occupation_verbatim": "htsige Beysikerß Witwe",
+                                "occupation_normalised": "hereditary Bysiker's widow"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "20 Jahre, 25 Wochen und 2 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9. Nov.",
+                            "normalised": "9 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ein tod zur Welt gebornes",
+                                "family_name": "Zwillingß-Töchterlein",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Sebastian",
+                                "family_name": "Kahr",
+                                "occupation_verbatim": "Beysitzer und Bediener",
+                                "occupation_normalised": "Beysitzer and Servant"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "4. Nov.",
+                            "normalised": "4 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacob Hackl",
+                                "family_name": "Weyscher und Kartenmacher allhier",
+                                "occupation_verbatim": "Weyscher and Cartmaker here",
+                                "occupation_normalised": "Weyscher and Cartmaker here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "18 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "4. Nov.",
+                            "normalised": "4 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "ein unechtes Kind",
+                                "family_name": "Franciscus Johannes",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7. Nov.",
+                            "normalised": "7 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Dominicus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Baptist",
+                                "family_name": "Stengel",
+                                "occupation_verbatim": "Bediener allhier",
+                                "occupation_normalised": "Servant here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "ein halb Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "4 Nov.",
+                            "normalised": "4 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Herr Johann Peter",
+                                "family_name": "Bogl",
+                                "occupation_verbatim": "freyresignirter Gerichtsschreiber, auch Mauth- und Ungeld-Einnehmer von Luppurg",
+                                "occupation_normalised": "freely resigned Court Clerk, also Tax and Toll Collector from Luppurg"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "im 90 Jahr",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "5 Nov.",
+                            "normalised": "5 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Ritsch",
+                                "occupation_verbatim": "Beysser allhier",
+                                "occupation_normalised": "Beysser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Maria Anna",
+                                "family_name": "Berghammerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "5. Nov.",
+                            "normalised": "5 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Watter",
+                                "occupation_verbatim": "Leonhard Bauer, Innwohner in der Comedey",
+                                "occupation_normalised": "Leonhard Bauer, resident in the Comedy"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonhard",
+                                "family_name": "Bauer",
+                                "occupation_verbatim": "Innwohner in der Comedey",
+                                "occupation_normalised": "Resident in the Comedy"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Nov.",
+                            "normalised": "6 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Josepha Ludwica",
+                                "family_name": "Watter",
+                                "occupation_verbatim": "Hr. Carl Pary, Kammerdiener bey das Herrn Erbprinzen von Thurn und Taxis Durchl",
+                                "occupation_normalised": "Hr. Carl Pary, Chamber Servant for the Lord Erbprince of Thurn and Taxis"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Carl",
+                                "family_name": "Pary",
+                                "occupation_verbatim": "Kammerdiener bey das Herrn Erbprinzen von Thurn und Taxis Durchl",
+                                "occupation_normalised": "Chamber Servant for the Lord Erbprince of Thurn and Taxis"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Nov.",
+                            "normalised": "10 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Elisabetha",
+                                "family_name": "Watter",
+                                "occupation_verbatim": "Johann Adam Riedl, Beysser allhier",
+                                "occupation_normalised": "Johann Adam Riedl, Beysser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Adam",
+                                "family_name": "Riedl",
+                                "occupation_verbatim": "Beysser allhier",
+                                "occupation_normalised": "Beysser here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "5. Nov.",
+                            "normalised": "5 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara",
+                                "family_name": "des Johann Georg Windel",
+                                "occupation_verbatim": "Hochfürstl. Taxischen Kuchels Nartiers, Ehemirthin, so Fahrts",
+                                "occupation_normalised": "High Prince of Taxis' Kitchen Servants, Ex-wife, so Traveling"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Windel",
+                                "occupation_verbatim": "Hochfürstl. Taxischen Kuchels Nartiers",
+                                "occupation_normalised": "High Prince of Taxis' Kitchen Servants"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "6. Nov.",
+                            "normalised": "6 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Michael",
+                                "family_name": "Kerner",
+                                "occupation_verbatim": "Beyssiger allhier",
+                                "occupation_normalised": "Beysser here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "51 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "7. Nov.",
+                            "normalised": "7 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Laurentius",
+                                "family_name": null,
+                                "occupation_verbatim": "Leonardus Bauer, Innwohner in der Commedey",
+                                "occupation_normalised": "Leonardus Bauer, resident in the Comedy"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Leonardus",
+                                "family_name": "Bauer",
+                                "occupation_verbatim": "Innwohner in der Commedey",
+                                "occupation_normalised": "Resident in the Comedy"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr und 11 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "8. Nov.",
+                            "normalised": "8 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Francisca Josephsa",
+                                "family_name": null,
+                                "occupation_verbatim": "Wolfgang Knaus, vacirender Bediener allhier",
+                                "occupation_normalised": "Wolfgang Knaus, former Servant here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang",
+                                "family_name": "Knaus",
+                                "occupation_verbatim": "vacirender Bediener allhier",
+                                "occupation_normalised": "former Servant here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "9. Nov.",
+                            "normalised": "9 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Bernardus",
+                                "family_name": null,
+                                "occupation_verbatim": "Johann Georg Husuagel, vacirender Bediener allhier",
+                                "occupation_normalised": "Johann Georg Husuagel, former Servant here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Husuagel",
+                                "occupation_verbatim": "vacirender Bediener allhier",
+                                "occupation_normalised": "former Servant here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "10. Nov.",
+                            "normalised": "10 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": null,
+                                "occupation_verbatim": "Wolfgang Knaus, vacirender Bediener allhier",
+                                "occupation_normalised": "Wolfgang Knaus, former Servant here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wolfgang",
+                                "family_name": "Knaus",
+                                "occupation_verbatim": "vacirender Bediener allhier",
+                                "occupation_normalised": "former Servant here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "11. Nov.",
+                            "normalised": "11 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ein junger Geselle",
+                                "family_name": "Rahmens Ludwig"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-11-13_Num_46",
+    "source": {
+        "issue_date": "1770-11-13",
+        "issue_number": "Num. 46",
+        "canvases": [
+            363,
+            364,
+            365,
+            366
+        ]
+    }
+}

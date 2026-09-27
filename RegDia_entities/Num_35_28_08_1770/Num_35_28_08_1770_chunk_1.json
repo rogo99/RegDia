@@ -1,0 +1,328 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Gerrauere",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "20 Aug.",
+                            "normalised": "20 Aug."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Peter",
+                                "family_name": "Matheson",
+                                "occupation_verbatim": "Burger und Gastgeb"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21. Gottfried",
+                            "normalised": "21. Gottfried"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gerst",
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Gerauere",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "19 Aug.",
+                            "normalised": "19 Aug."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nicolaus Gottfried",
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas Georg",
+                                "family_name": "Koch",
+                                "occupation_verbatim": "Burger und Gastgeb"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23. Georg Friederich",
+                            "normalised": "23. Georg Friederich"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Friederich",
+                                "family_name": "null",
+                                "occupation_verbatim": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Eberhardt",
+                                "occupation_verbatim": "Burger, Weinschenk und Gastgeb"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsstitfs-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "20 Aug.",
+                "normalised": "20 Aug."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Amberger",
+                "family_name": "null",
+                "occupation_verbatim": "ord. Kutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Lindach",
+            "lodging": "Obermünster",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Calesch",
+                "family_name": "null",
+                "occupation_verbatim": "S.T. Herr Baron von Quendel"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 Aug.",
+                "normalised": "20 Aug."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Calesch",
+                "family_name": "null",
+                "occupation_verbatim": "S.T. Herr Baron von Quendel"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Nürnberger",
+                "family_name": "null",
+                "occupation_verbatim": "ord. Landkutsche"
+            },
+            "time": "Vormittags",
+            "transport": "Landkutsche",
+            "origin": "Schweinsfurt",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "null",
+                "occupation_verbatim": "Amberger Silberbothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "null",
+                "occupation_verbatim": "Amberger ord. Bothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24.",
+                "normalised": "24."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per ord. Postwagen von Nürnberg",
+                "family_name": "null",
+                "occupation_verbatim": "Tit. Herr Oberlietenant von Hagen"
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Nürnberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiren durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "null",
+                "occupation_verbatim": "Amberger ord. Bothe"
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Amberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26."
+            },
+            "gate": "zu Obermünster",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "null",
+                "occupation_verbatim": "Hr. Serb"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "passiren durch",
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-08-28_Num_35",
+    "source": {
+        "issue_date": "1770-08-28",
+        "issue_number": "Num. 35",
+        "canvases": [
+            275,
+            276,
+            277,
+            278
+        ]
+    }
+}

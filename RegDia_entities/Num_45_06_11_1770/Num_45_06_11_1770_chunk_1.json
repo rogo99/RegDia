@@ -1,0 +1,496 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": null,
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": null,
+                            "normalised": null
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "29 October",
+                            "normalised": "1770-10-29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "13 Wochen alt",
+                            "age_days": 91
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "63 Jahre weniger 17 Wochen alt",
+                            "age_days": 2153
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Jahre, 13 Wochen und 2 Tage alt",
+                            "age_days": 305
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "30 October",
+                            "normalised": "1770-10-30"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg Andreas",
+                                "family_name": "Rosenhahn",
+                                "occupation_verbatim": "Bürger, Säcler und Inventirer",
+                                "occupation_normalised": "Bürger, Säcler und Inventor"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Iosfr.",
+                                "family_name": "Maria Barbara",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 October",
+                            "normalised": "1770-10-28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wilhelm Friedrich",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wernhard",
+                                "family_name": "Barenfeld",
+                                "occupation_verbatim": "Bürger, Rauf- und Handelsmann",
+                                "occupation_normalised": "Bürger, Rauf- und Handelsmann"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas Simon",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Eigner",
+                                "occupation_verbatim": "Beysiker und Taglöhner",
+                                "occupation_normalised": "Beysiker und Taglöhner"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Michael",
+                                "family_name": "Lehenmayer",
+                                "occupation_verbatim": "Bürger und Wagenhüter",
+                                "occupation_normalised": "Bürger und Wagenhüter"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Salome",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Christian Esaias",
+                                "family_name": "Hendschel",
+                                "occupation_verbatim": "Bürger und Wacht schreiber",
+                                "occupation_normalised": "Bürger und Wacht schreiber"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Philipp Ludwig",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Ein unechtes Kind",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": null,
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "28 October",
+                            "normalised": "1770-10-28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria Juliana",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Kuger",
+                                "occupation_verbatim": "vacirender Füger allhier",
+                                "occupation_normalised": "vacirender Füger allhier"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29 October",
+                            "normalised": "1770-10-29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Deichtmann",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Bedienter allhier"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria-Francisca",
+                                "family_name": null,
+                                "occupation_verbatim": "ein Findelkind",
+                                "occupation_normalised": "ein Findelkind"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 November",
+                            "normalised": "1770-11-01"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joseph Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus Josephus",
+                                "family_name": "Zachert",
+                                "occupation_verbatim": "Burger und Drechsler zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Drechsler zu Stadt am Hof"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Simon Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Beysiser und Fuhrknecht allhier",
+                                "occupation_normalised": "Beysiser und Fuhrknecht allhier"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 November",
+                            "normalised": "1770-11-01"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna Josepha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Georg",
+                                "family_name": "Braun",
+                                "occupation_verbatim": "Churfälzischer Geleitsbereiter",
+                                "occupation_normalised": "Churfälzischer Geleitsbereiter"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 November",
+                            "normalised": "1770-11-03"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Andreas",
+                                "family_name": "Moser",
+                                "occupation_verbatim": "Burger und Güreler zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Güreler zu Stadt am Hof"
+                            }
+                        ]
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "29 October",
+                            "normalised": "1770-10-29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Jacob",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Hochfürstl. Hof- und Domtrompeter",
+                                "occupation_normalised": "Hochfürstl. Hof- und Domtrompeter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre und 3 Monathe alt",
+                            "age_days": 78
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30 October",
+                            "normalised": "1770-10-30"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Philipp",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Philipp",
+                                "family_name": "Riedel",
+                                "occupation_verbatim": "Gerichtsdothe zu Stadt am Hof",
+                                "occupation_normalised": "Gerichtsdothe zu Stadt am Hof"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Wochen alt",
+                            "age_days": 21
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 November",
+                            "normalised": "1770-11-01"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ein tod gebohnes Kind",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Dengler",
+                                "occupation_verbatim": "Beyssiger zu Stadt am Hof",
+                                "occupation_normalised": "Beyssiger zu Stadt am Hof"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "null",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Rosina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Ebenbauer",
+                                "occupation_verbatim": "Burgers und Spenglermeisters hinterlassene Wittib",
+                                "occupation_normalised": "Burgers und Spenglermeisters hinterlassene Wittib"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "76 Jahre alt",
+                            "age_days": 27440
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [],
+    "id": "1770-11-06_Num_45",
+    "source": {
+        "issue_date": "1770-11-06",
+        "issue_number": "Num. 45",
+        "canvases": [
+            355,
+            356
+        ]
+    }
+}

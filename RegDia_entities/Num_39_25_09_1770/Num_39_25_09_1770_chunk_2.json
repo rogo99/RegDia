@@ -1,0 +1,605 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Schmelz",
+                "family_name": "Chor-Vicarius von Freysing",
+                "occupation_verbatim": "Herr Schmelz, Chor-Vicarius von Freysing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mr. Dögel",
+                "family_name": "Hochgräflich-Bisitzhumischer Cammerdiener",
+                "occupation_verbatim": "Mr. Dögel, Hochgräflich-Bisitzhumischer Cammerdiener",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joseph Abraham",
+                "family_name": "ein Jude von Salzburg",
+                "occupation_verbatim": "Joseph Abraham, ein Jude von Salzburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 3 Uhr Abends",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ihr Königl. Hoheit Prinzessin Charlotte von Lothringen",
+                "family_name": null,
+                "occupation_verbatim": "Ihr Königl. Hoheit Prinzessin Charlotte von Lothringen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 38",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Die Wünberger",
+                "family_name": "ord. Landkutsche",
+                "occupation_verbatim": "Die Wünberger ord. Landkutsche",
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "um 6 Uhr Vormittags",
+                "normalised": "6 Uhr Vormittags",
+                "value": "6"
+            },
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Hr. Rödenbacher, und Hr. Voit",
+                "occupation_verbatim": "Hr. Rödenbacher, und Hr. Voit",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Kaufleute von Linz",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Zu Fuss",
+                "family_name": "ein Königl. Preußischer Unteroffizier",
+                "occupation_verbatim": "ein Königl. Preußischer Unteroffizier",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "mit 2 Mann Recrouten",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "21.",
+                "normalised": "21."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per ord. Postwagen",
+                "family_name": "Herr Gozes",
+                "occupation_verbatim": "Herr Gozes",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "re. von Wien",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Tit. Herr von Sengwein",
+                "occupation_verbatim": "Tit. Herr von Sengwein",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Kaysertl. Legationssecretaire",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "S.T. Herr von Oberudorf",
+                "occupation_verbatim": "S.T. Herr von Oberudorf",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Landschaftspräsident von Neuburg",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Thomas Hördl",
+                "family_name": "führt der Cour. Zieglers Wittib",
+                "occupation_verbatim": "Thomas Hördl führet der Cour. Zieglers Wittib",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ihre ord. Schiff nach Wien",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit. Herr von Vorhong",
+                "family_name": "aus Strelitz",
+                "occupation_verbatim": "Tit. Herr von Vorhong, aus Strelitz",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Madame Gabory, von Wien",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mademois. Schönwetterin",
+                "family_name": "re. Joh. Stober",
+                "occupation_verbatim": "Mademois. Schönwetterin, re. Joh. Stober",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Goldschmied von Fürth",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "12-jähriges Zwerg-Tochterleinz",
+                "family_name": null,
+                "occupation_verbatim": "12-jähriges Zwerg-Tochterleinz",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ein Kaysertl. Commandirter mit einem Recruten",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "23.",
+                "normalised": "23."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "30 gemeine Personen",
+                "family_name": null,
+                "occupation_verbatim": "30 gemeine Personen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15.",
+                "normalised": "15."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "S.T. Herr Graf von Sinzendorf",
+                "occupation_verbatim": "S.T. Herr Graf von Sinzendorf",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": {
+                "verbatim": "Kaiserl. Cammerpräsident",
+                "value": null
+            },
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. 7",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Calesch",
+                "family_name": "der Straubinger ord. Bothe",
+                "occupation_verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "22.",
+                "normalised": "22."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Calesch",
+                "family_name": "der Straubinger ord. Bothe",
+                "occupation_verbatim": "Per Calesch, der Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Sept.",
+                "normalised": "15 Sept."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Joseph Brandel",
+                "occupation_verbatim": "Per Posta, Joseph Brandel",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": {
+                "verbatim": "grünen Ermz",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Kutsche",
+                "family_name": "Hr. Weißmann",
+                "occupation_verbatim": "Per Kutsche, Hr. Weißmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": {
+                "verbatim": "Chirurgus von Erlang",
+                "value": null
+            },
+            "lodging": {
+                "verbatim": "Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Münchner Postwagen",
+                "family_name": "Herr Annmüller",
+                "occupation_verbatim": "Per Münchner Postwagen, Herr Annmüller",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": {
+                "verbatim": "Hochgräf. Laufkürschischer Legations-Secretair von München",
+                "value": null
+            },
+            "lodging": {
+                "verbatim": "Türken",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16.",
+                "normalised": "16."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Tit. Herr a Valline",
+                "occupation_verbatim": "Tit. Herr a Valline",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": {
+                "verbatim": "3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Hr. Wertheimer",
+                "occupation_verbatim": "Per Posta, Hr. Wertheimer",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": {
+                "verbatim": "3 Helmen",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18.",
+                "normalised": "18."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Ihr Königl. Hoheit Prinzessin Charlotta von Lothingen",
+                "occupation_verbatim": "Ihr Königl. Hoheit Prinzessin Charlotta von Lothingen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f.34",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19.",
+                "normalised": "19."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "S.T. Herr Baron von Gumpenberg",
+                "occupation_verbatim": "S.T. Herr Baron von Gumpenberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": {
+                "verbatim": "von Breitenbrunn",
+                "value": null
+            },
+            "lodging": {
+                "verbatim": "bey S.T. Herrn von Gumpenerg Domherr",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20.",
+                "normalised": "20."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per Posta",
+                "family_name": "Tit. Herr von Lippert",
+                "occupation_verbatim": "Tit. Herr von Lippert",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": {
+                "verbatim": "Churbayerischer Salzbeamter von Straubing",
+                "value": null
+            },
+            "lodging": {
+                "verbatim": "2",
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-09-25_Num_39",
+    "source": {
+        "issue_date": "1770-09-25",
+        "issue_number": "Num. 39",
+        "canvases": [
+            311,
+            312,
+            313,
+            314
+        ]
+    }
+}

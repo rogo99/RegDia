@@ -1,0 +1,598 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "17 Merz",
+                "normalised": "17 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Martin",
+                "family_name": "Eunius",
+                "occupation_verbatim": "Kaysert. Feldwaibel"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weissen Rosz"
+        },
+        {
+            "date": {
+                "verbatim": "17 Merz",
+                "normalised": "17 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fischer",
+                "occupation_verbatim": "Kaufmann von Augspurg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "goldenen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "18 Merz",
+                "normalised": "18 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Grün",
+                "occupation_verbatim": "Kaufmann von Gera"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "19 Merz",
+                "normalised": "19 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "herein",
+            "person": {
+                "given_name": "der Straubinger",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "20 Merz",
+                "normalised": "20 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Menz",
+                "occupation_verbatim": "Gerichtsschreiber von Landau"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "20 Merz",
+                "normalised": "20 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Stendel",
+                "occupation_verbatim": "Kaufmann von Gera"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": "weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "23 Merz",
+                "normalised": "23 March"
+            },
+            "gate": "Ostenhore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr",
+                "occupation_verbatim": "Graf von Sinlo"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weiszen Roß"
+        },
+        {
+            "date": {
+                "verbatim": "19 Merz",
+                "normalised": "19 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Thurnfeld",
+                "occupation_verbatim": "beyde von der Kayserl. Staabsanzellen zu Wien"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "19 Merz",
+                "normalised": "19 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Humburg",
+                "occupation_verbatim": "beyde von der Kayserl. Staabsanzellen zu Wien"
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "21 Merz",
+                "normalised": "21 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "der Straubinger",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "23 Merz",
+                "normalised": "23 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tir.",
+                "family_name": "Herr",
+                "occupation_verbatim": "Hormann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "24 Merz",
+                "normalised": "24 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "der Straubinger",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": "log. in schwarzen Bären"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Merz",
+                "normalised": "18 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Münchner",
+                "family_name": "Postwagen",
+                "occupation_verbatim": null
+            },
+            "time": {
+                "verbatim": "6 Uhr",
+                "value": "6:00"
+            },
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "19 Merz",
+                "normalised": "19 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "der Landshuter",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": "log. in Türken"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "20 Merz",
+                "normalised": "20 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "der Dingelsfinger",
+                "family_name": "Bothe",
+                "occupation_verbatim": "log. in Türken"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "21 Merz",
+                "normalised": "21 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. F.",
+                "family_name": "Herr von Borisch",
+                "occupation_verbatim": "Kaysersl. Geh. Rath"
+            },
+            "time": {
+                "verbatim": "4",
+                "value": "4:00"
+            },
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "21 Merz",
+                "normalised": "21 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Ingolstädtcr",
+                "family_name": "Bothe",
+                "occupation_verbatim": "log. in Türken"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "23 Merz",
+                "normalised": "23 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Borisch",
+                "occupation_verbatim": "Kaysersl. Geh. Rath"
+            },
+            "time": {
+                "verbatim": "1:1 Uhr",
+                "value": "1:00"
+            },
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "23 Merz",
+                "normalised": "23 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Mr.",
+                "family_name": "Riezelstein",
+                "occupation_verbatim": "Canditor"
+            },
+            "time": null,
+            "transport": "Vienna postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "23 Merz",
+                "normalised": "23 March"
+            },
+            "gate": "Weyh St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "der Landshuter",
+                "family_name": "Bothe",
+                "occupation_verbatim": "log. in Pfanen"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Merz",
+                "normalised": "18 March"
+            },
+            "gate": "St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Panzer",
+                "occupation_verbatim": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Merz",
+                "normalised": "18 March"
+            },
+            "gate": "St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Müller",
+                "occupation_verbatim": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Merz",
+                "normalised": "18 March"
+            },
+            "gate": "St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wollrab",
+                "occupation_verbatim": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Merz",
+                "normalised": "18 March"
+            },
+            "gate": "St. Peterthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Scherher",
+                "occupation_verbatim": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "19 Merz",
+                "normalised": "19 March"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Joh.",
+                "family_name": "Bauer",
+                "occupation_verbatim": "Handelsmann von Fürth"
+            },
+            "time": null,
+            "transport": "On foot",
+            "origin": null,
+            "lodging": "goldenen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "19 Merz",
+                "normalised": "19 March"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Mr.",
+                "family_name": "Colin",
+                "occupation_verbatim": "Handelsmann aus Frankreich"
+            },
+            "time": null,
+            "transport": "On foot",
+            "origin": null,
+            "lodging": "goldenen Ochsen"
+        },
+        {
+            "date": {
+                "verbatim": "20 Merz",
+                "normalised": "20 March"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Sessau",
+                "occupation_verbatim": "Rauschmann von Wien"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": "Weinthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Buchenberg",
+                "occupation_verbatim": "rc."
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": "2"
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": "Weinthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Tir.",
+                "family_name": "Herr von Dury",
+                "occupation_verbatim": "Churbayerischer Lieutenant von Chur-Prinzischen Leibregimente"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": "Weinthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Buchenberg",
+                "occupation_verbatim": "rc."
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": "Weinthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Buchenberg",
+                "occupation_verbatim": "rc."
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": "Weinthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Buchenberg",
+                "occupation_verbatim": "rc."
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": "Weinthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Buchenberg",
+                "occupation_verbatim": "rc."
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "22 Merz",
+                "normalised": "22 March"
+            },
+            "gate": ""
+        }
+    ],
+    "id": "1770-03-27_Num_13",
+    "source": {
+        "issue_date": "1770-03-27",
+        "issue_number": "Num. 13",
+        "canvases": [
+            107,
+            108,
+            109,
+            110
+        ]
+    }
+}

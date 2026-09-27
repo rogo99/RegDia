@@ -1,0 +1,631 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Löbl. Omr. Stadtgarde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "16 Dec",
+                            "normalised": "16 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ludwig",
+                                "family_name": "Leonhard",
+                                "occupation_verbatim": "Vater, Johann Michael Vorster, Fassler",
+                                "occupation_normalised": "Father, Johann Michael Vorster, Fassler"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Michael",
+                                "family_name": "Vorster",
+                                "occupation_verbatim": "Fassler",
+                                "occupation_normalised": "Fassler"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "17 Dec",
+                            "normalised": "17 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18 Dec",
+                            "normalised": "18 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Christiana",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "17 Dec",
+                            "normalised": "17 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Tit.",
+                                "family_name": "Juliana Amalia",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "59 Jahre, 19 Wochen und 3 Tage alt",
+                            "age_days": 2203
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19 Dec",
+                            "normalised": "19 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre, 19 Wochen und 4 Tage alt",
+                            "age_days": 104
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19 Dec",
+                            "normalised": "19 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang Walter",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "38 Jahr alt",
+                            "age_days": 1365
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "19 Dec",
+                            "normalised": "19 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Beata Barbara Johanna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Stadt Syndicus und Consistorial-Secretarius",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "19 Dec",
+                            "normalised": "19 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Beata Barbara Johanna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "20 Dec",
+                            "normalised": "20 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 Dec",
+                            "normalised": "22 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Theresa",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "18 Dec",
+                            "normalised": "18 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Barbara",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19 Dec",
+                            "normalised": "19 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus Paulus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Tage alt",
+                            "age_days": 6
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 Dec",
+                            "normalised": "20 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthias",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "14 Wochen alt",
+                            "age_days": 98
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "18 Dec",
+                            "normalised": "18 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Martin Hausman",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt Pfarr zu St Rupreche",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "18 Dec",
+                            "normalised": "18 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Bartholomäus Giller",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "35 Jahre alt",
+                            "age_days": 1270
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19 Dec",
+                            "normalised": "19 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Margaretha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "ein Viertel Jahr alt",
+                            "age_days": 182
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "16 Dec",
+                "normalised": "16 December"
+            },
+            "gate": "Zur reinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Michael Meyer",
+                "family_name": null,
+                "occupation_verbatim": "Spitzenhändler",
+                "occupation_normalised": "Spitzenhändler"
+            },
+            "time": "2. log.",
+            "transport": "in Ochsenkopf",
+            "origin": "Württembergischen",
+            "lodging": "in Ochsenkopf",
+            "s_value": {
+                "verbatim": "2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Dec",
+                "normalised": "17 December"
+            },
+            "gate": "Per Posta",
+            "direction": "paßiren durch",
+            "person": {
+                "given_name": "Herr Barons von Weveld",
+                "family_name": null,
+                "occupation_verbatim": "Chur-Pfälzische Officiers",
+                "occupation_normalised": "Chur-Pfälzische Officiers"
+            },
+            "time": null,
+            "transport": "2 S.T.",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Dec",
+                "normalised": "17 December"
+            },
+            "gate": "Per Calesch",
+            "direction": "paßiren durch",
+            "person": {
+                "given_name": "S.T. Herr Baron von Neutenstein",
+                "family_name": null,
+                "occupation_verbatim": "von Bodenstein",
+                "occupation_normalised": "von Bodenstein"
+            },
+            "time": "s. 3.",
+            "transport": "S.T.",
+            "origin": "Türken",
+            "lodging": "in Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "17 Dec",
+                "normalised": "17 December"
+            },
+            "gate": "Zu Fuß",
+            "direction": "herein",
+            "person": {
+                "given_name": "Joseph Bouchet",
+                "family_name": null,
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": "s. 2.",
+            "transport": null,
+            "origin": "Savoyen",
+            "lodging": "in schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "17 Dec",
+                "normalised": "17 December"
+            },
+            "gate": "Zu Fuß",
+            "direction": "herein",
+            "person": {
+                "given_name": "Joseph Uhlein",
+                "family_name": null,
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": "s. 2.",
+            "transport": null,
+            "origin": "von Miltenburg",
+            "lodging": "in grünen Granz",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "17 Dec",
+                "normalised": "17 December"
+            },
+            "gate": "Zu Pferd",
+            "direction": "herein",
+            "person": {
+                "given_name": "Th. Herr von Hoffmann",
+                "family_name": null,
+                "occupation_verbatim": "ehemaliger Polnischer Offizier",
+                "occupation_normalised": "ehemaliger Polnischer Offizier"
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": null,
+            "lodging": "in Posthorn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Per Calesch",
+            "direction": "paßiret durch",
+            "person": {
+                "given_name": "Tit. Herr von Seiz",
+                "family_name": null,
+                "occupation_verbatim": "Hochfürstlich-Hessischer Hauptmann",
+                "occupation_normalised": "Hochfürstlich-Hessischer Hauptmann"
+            },
+            "time": "f. 2.",
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "in Posthorn",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Per Calesch",
+            "direction": "paßiret durch",
+            "person": {
+                "given_name": "Christoph Pennewicz",
+                "family_name": null,
+                "occupation_verbatim": "Gürtlermeister",
+                "occupation_normalised": "Gürtlermeister"
+            },
+            "time": "s. 2.",
+            "transport": "Calesch",
+            "origin": "Fürth",
+            "lodging": "in Ochsenkopf",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Zu Fuz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Georg Heß",
+                "family_name": null,
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": "s. 4.",
+            "transport": null,
+            "origin": "Suhl",
+            "lodging": "in Elephaneen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Per Posta",
+            "direction": "pañiret durch",
+            "person": {
+                "given_name": "Herr Pat. Melchion",
+                "family_name": null,
+                "occupation_verbatim": "S. J.",
+                "occupation_normalised": "S. J."
+            },
+            "time": "im Colleg.",
+            "transport": "Posta",
+            "origin": "Frankreich",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Zu Fuz",
+            "direction": "herein",
+            "person": {
+                "given_name": "Antoni Jobst",
+                "family_name": null,
+                "occupation_verbatim": "Bürgerl. Warponsirer",
+                "occupation_normalised": "Bürgerl. Warponsirer"
+            },
+            "time": "log. in rothen Stern",
+            "transport": null,
+            "origin": "Straubing",
+            "lodging": "in rothen Stern",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Per ord. Posiwagen von Rürnberg",
+            "direction": "pañiret durch",
+            "person": {
+                "given_name": "Herr Hofmaun",
+                "family_name": null,
+                "occupation_verbatim": "Juriffe von Maynz",
+                "occupation_normalised": "Juriffe von Maynz"
+            },
+            "time": "f. 2.",
+            "transport": "Posiwagen",
+            "origin": "Maynz",
+            "lodging": "in weissen Lam",
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Dec",
+                "normalised": "17 December"
+            },
+            "gate": "Per Calesch",
+            "direction": "paßiret durch",
+            "person": {
+                "given_name": "Hr. van der Ah",
+                "family_name": null,
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": "f. 2.",
+            "transport": "Calesch",
+            "origin": "Holland",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Per Posta",
+            "direction": "pañiret durch",
+            "person": {
+                "given_name": "Hr. Serh",
+                "family_name": null,
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": "f. 4.",
+            "transport": "Posta",
+            "origin": "Nürnberg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "18 Dec",
+                "normalised": "18 December"
+            },
+            "gate": "Per Calesch",
+            "direction": "paßiret durch",
+            "person": {
+                "given_name": "S.T. Herr Baron von Reuteinstein",
+                "family_name": null,
+                "occupation_verbatim": "aus dem Nordgau",
+                "occupation_normalised": "aus dem Nordgau"
+            },
+            "time": "f. 2.",
+            "transport": "Calesch",
+            "origin": "Nordgau"
+        }
+    ],
+    "id": "1770-12-24_Num_52",
+    "source": {
+        "issue_date": "1770-12-24",
+        "issue_number": "Num. 52",
+        "canvases": [
+            411,
+            412,
+            413,
+            414
+        ]
+    }
+}

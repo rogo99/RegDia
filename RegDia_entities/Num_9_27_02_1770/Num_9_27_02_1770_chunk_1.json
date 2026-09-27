@@ -1,0 +1,603 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Evangelische Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Febr.",
+                            "normalised": "12 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Brenner",
+                                "occupation_verbatim": "Beyssitzer, Catton- und Leinwanddrucker",
+                                "occupation_normalised": "Printer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "19. Febr.",
+                            "normalised": "19 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottfried",
+                                "family_name": "Sebold",
+                                "occupation_verbatim": "Bürger und Wollwäscher",
+                                "occupation_normalised": "Civic and Wool Washer"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "17. Febr.",
+                            "normalised": "17 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Gottlieb",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Christoph",
+                                "family_name": "Auenheimer",
+                                "occupation_verbatim": "Besitzer",
+                                "occupation_normalised": "Owner"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "23 Wochen alt",
+                            "age_days": 161
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "18. Tir.",
+                            "normalised": "18 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Harres",
+                                "occupation_verbatim": "Inner Ratsman",
+                                "occupation_normalised": "Inner Councilman"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "15 Jahre, 16 Wochen und 2 Tage alt",
+                            "age_days": 554
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Domz und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "20 Febr.",
+                            "normalised": "20 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus",
+                                "family_name": "Kuechel",
+                                "occupation_verbatim": "Bräumeisser in dem Hochlöbl. Closter Bielhofen",
+                                "occupation_normalised": "Brewer in the High Honorable Cloister Bielhofen"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 Febr.",
+                            "normalised": "20 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franz Joseph",
+                                "family_name": "Schules",
+                                "occupation_verbatim": "Bürger und Hufschmied zu Stadt am Hof",
+                                "occupation_normalised": "Civic and Farrier at Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 Febr.",
+                            "normalised": "22 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Antonius",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georgius",
+                                "family_name": "Gold",
+                                "occupation_verbatim": "Bürger und Fleischhacker zu Stadt am Hof",
+                                "occupation_normalised": "Civic and Butcher at Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "19. Febr.",
+                            "normalised": "19 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johanne",
+                                "family_name": "Binkel",
+                                "occupation_verbatim": "Beysifer and Braueknecht allhier",
+                                "occupation_normalised": "Brewer and Brauer here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahr alt",
+                            "age_days": 73
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20. Febr.",
+                            "normalised": "20 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Franciscus Xaverius",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Grueber",
+                                "occupation_verbatim": "gewesener Cantor bey dem hiesigen Hochfürstl. Hoch- und Domstift",
+                                "occupation_normalised": "Former Cantor at the Local High and Cathedral School"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Monathe weniger 3 Tage alt",
+                            "age_days": 12
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21. Febr.",
+                            "normalised": "21 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Eva",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Probst",
+                                "occupation_verbatim": "Beysifer allhier",
+                                "occupation_normalised": "Brewer here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "eine Viertel Strunde alt",
+                            "age_days": 15
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23. Febr.",
+                            "normalised": "23 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johaunes",
+                                "family_name": "Dorsch",
+                                "occupation_verbatim": "Beysifer allhier",
+                                "occupation_normalised": "Brewer here"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "16 ½ Jahr alt",
+                            "age_days": 595
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "19 Febr.",
+                            "normalised": "19 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Antonius",
+                                "family_name": "Marsch",
+                                "occupation_verbatim": "Beysifer allhier",
+                                "occupation_normalised": "Brewer here"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Reichsifts-Pfarr, Obermünster",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "20 Febr.",
+                            "normalised": "20 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas",
+                                "family_name": "Peschel",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Civic and Brauer here"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "32 Jahr alt",
+                            "age_days": 1148
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "20 Febr.",
+                            "normalised": "20 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Nicolaus",
+                                "family_name": "Mayer",
+                                "occupation_verbatim": "Beysitzer zu Stadt am Hof",
+                                "occupation_normalised": "Civic and Brauer at Stadt am Hof"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "35 Jahr alt",
+                            "age_days": 1260
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 Febr.",
+                            "normalised": "22 February"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": "Diedlingerin",
+                                "occupation_verbatim": "ledigen Stands",
+                                "occupation_normalised": "Single"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "72 Jahr alt",
+                            "age_days": 2592
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "18 Febr.",
+                "normalised": "18 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Johann Philipp Christoph",
+                "family_name": "Weiß",
+                "occupation_verbatim": "Thorwart auf der steinern Brücke allhier",
+                "occupation_normalised": "Watchman at the Stone Bridge here"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 log. in goldenen Adler",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19 Febr.",
+                "normalised": "19 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Margaretha",
+                "family_name": "Schönberger",
+                "occupation_verbatim": "Burgers allhier, Ehewirthin",
+                "occupation_normalised": "Civic and Wife here"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "67 Jahr weniger 20 Wochen alt",
+                "value": 20
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 Febr.",
+                "normalised": "24 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Joh. Caspar",
+                "family_name": "Schiel",
+                "occupation_verbatim": "Bürger und Weizbecke allhier",
+                "occupation_normalised": "Civic and Barley Grower here"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "40 Jahre, 4 Wochen und 4 Tage alt",
+                "value": 28
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 Febr.",
+                "normalised": "24 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Johana",
+                "family_name": "Gottlieb",
+                "occupation_verbatim": "5 Jahre, 18 Wochen und 4 Tage alt, Vater, Joseph Erneuwetter",
+                "occupation_normalised": "5 years, 18 weeks and 4 days old, Father, Joseph Erneuwetter"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "5 Jahre, 18 Wochen und 4 Tage alt",
+                "value": 18
+            }
+        },
+        {
+            "date": {
+                "verbatim": "24 Febr.",
+                "normalised": "24 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Stephan",
+                "family_name": "Obermeyer",
+                "occupation_verbatim": "Nahmens, Stephan Obermeyer, Burger und Schroder",
+                "occupation_normalised": "Name, Stephan Obermeyer, Civic and Merchant"
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "35 Jahre, 16 Wochen und 2 Tage alt",
+                "value": 16
+            }
+        },
+        {
+            "date": {
+                "verbatim": "18 Febr.",
+                "normalised": "18 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Tic. Herr von Sauer",
+                "occupation_normalised": "Tic. Herr von Sauer"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Sauer",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2 log. in goldenen Adler",
+                "value": 2
+            }
+        },
+        {
+            "date": {
+                "verbatim": "19 Febr.",
+                "normalised": "19 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "S.T. Herr Graf von Wolkenstein",
+                "occupation_normalised": "S.T. Herr Graf von Wolkenstein"
+            },
+            "time": "Vormittags",
+            "transport": "Calesch",
+            "origin": "Wolkenstein",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 log. in weissen Lamm",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "20 Febr.",
+                "normalised": "20 February"
+            },
+            "gate": "feinerner Brucke",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "ord. Postwagen von Amberg",
+                "occupation_verbatim": "Tic. Herr von Steinling",
+                "occupation_normalised": "Tic. Herr von Steinling"
+            },
+            "time": "Vormittags",
+            "transport": "Postwagen",
+            "origin": "Amberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "12. log. in 3 Helmen",
+                "value": 12
+            }
+        },
+        {
+            "date": ""
+        }
+    ],
+    "id": "1770-02-27_Num_9",
+    "source": {
+        "issue_date": "1770-02-27",
+        "issue_number": "Num. 9",
+        "canvases": [
+            71,
+            72,
+            73,
+            74
+        ]
+    }
+}

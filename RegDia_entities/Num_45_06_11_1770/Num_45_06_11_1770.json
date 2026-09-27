@@ -1,0 +1,1541 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": null,
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": null,
+                            "normalised": null
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "29 October",
+                            "normalised": "1770-10-29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "13 Wochen alt",
+                            "age_days": 91
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "63 Jahre weniger 17 Wochen alt",
+                            "age_days": 2153
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "8 Jahre, 13 Wochen und 2 Tage alt",
+                            "age_days": 305
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "30 October",
+                            "normalised": "1770-10-30"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg Andreas",
+                                "family_name": "Rosenhahn",
+                                "occupation_verbatim": "Bürger, Säcler und Inventirer",
+                                "occupation_normalised": "Bürger, Säcler und Inventor"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Iosfr.",
+                                "family_name": "Maria Barbara",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 October",
+                            "normalised": "1770-10-28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wilhelm Friedrich",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Wernhard",
+                                "family_name": "Barenfeld",
+                                "occupation_verbatim": "Bürger, Rauf- und Handelsmann",
+                                "occupation_normalised": "Bürger, Rauf- und Handelsmann"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Andreas Simon",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Eigner",
+                                "occupation_verbatim": "Beysiker und Taglöhner",
+                                "occupation_normalised": "Beysiker und Taglöhner"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Michael",
+                                "family_name": "Lehenmayer",
+                                "occupation_verbatim": "Bürger und Wagenhüter",
+                                "occupation_normalised": "Bürger und Wagenhüter"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Salome",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Christian Esaias",
+                                "family_name": "Hendschel",
+                                "occupation_verbatim": "Bürger und Wacht schreiber",
+                                "occupation_normalised": "Bürger und Wacht schreiber"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Philipp Ludwig",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "Ein unechtes Kind",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "Den 31 October.",
+                            "normalised": "31 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Wolfgang",
+                                "family_name": "Bater",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacob",
+                                "family_name": "Willkofer",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 3 Nov.",
+                            "normalised": "3 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Nicolaus Iguatius",
+                                "family_name": "Bater",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Heid",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "Den 30 October.",
+                            "normalised": "30 October"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Walburga",
+                                "family_name": "Gerstenberger",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "37 Jahr alt.",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 1 Nov.",
+                            "normalised": "1 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 2. Matthias",
+                            "normalised": "2 Matthias"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Matthias",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 3. Maria Anna",
+                            "normalised": "3 Maria Anna"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "In der Hochfürstl. Reichsifts-Pfarr, Tiedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 1 Nov.",
+                            "normalised": "1 November"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr und 3 Monathe alt.",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": null,
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "28 October",
+                            "normalised": "1770-10-28"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria Juliana",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Kuger",
+                                "occupation_verbatim": "vacirender Füger allhier",
+                                "occupation_normalised": "vacirender Füger allhier"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29 October",
+                            "normalised": "1770-10-29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Deichtmann",
+                                "occupation_verbatim": "Bedienter allhier",
+                                "occupation_normalised": "Bedienter allhier"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria-Francisca",
+                                "family_name": null,
+                                "occupation_verbatim": "ein Findelkind",
+                                "occupation_normalised": "ein Findelkind"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 November",
+                            "normalised": "1770-11-01"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joseph Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus Josephus",
+                                "family_name": "Zachert",
+                                "occupation_verbatim": "Burger und Drechsler zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Drechsler zu Stadt am Hof"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31 October",
+                            "normalised": "1770-10-31"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Simon Wolfgang",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Beysiser und Fuhrknecht allhier",
+                                "occupation_normalised": "Beysiser und Fuhrknecht allhier"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 November",
+                            "normalised": "1770-11-01"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Anna Josepha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Georg",
+                                "family_name": "Braun",
+                                "occupation_verbatim": "Churfälzischer Geleitsbereiter",
+                                "occupation_normalised": "Churfälzischer Geleitsbereiter"
+                            }
+                        ]
+                    },
+                    {
+                        "date": {
+                            "verbatim": "3 November",
+                            "normalised": "1770-11-03"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Andreas",
+                                "family_name": "Moser",
+                                "occupation_verbatim": "Burger und Güreler zu Stadt am Hof",
+                                "occupation_normalised": "Bürger und Güreler zu Stadt am Hof"
+                            }
+                        ]
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "29 October",
+                            "normalised": "1770-10-29"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Barbara Elisabetha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Jacob",
+                                "family_name": "Schmid",
+                                "occupation_verbatim": "Hochfürstl. Hof- und Domtrompeter",
+                                "occupation_normalised": "Hochfürstl. Hof- und Domtrompeter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre und 3 Monathe alt",
+                            "age_days": 78
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30 October",
+                            "normalised": "1770-10-30"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Philipp",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Philipp",
+                                "family_name": "Riedel",
+                                "occupation_verbatim": "Gerichtsdothe zu Stadt am Hof",
+                                "occupation_normalised": "Gerichtsdothe zu Stadt am Hof"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Wochen alt",
+                            "age_days": 21
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "1 November",
+                            "normalised": "1770-11-01"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ein tod gebohnes Kind",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Dengler",
+                                "occupation_verbatim": "Beyssiger zu Stadt am Hof",
+                                "occupation_normalised": "Beyssiger zu Stadt am Hof"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "null",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 November",
+                            "normalised": "1770-11-02"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Rosina",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Simon",
+                                "family_name": "Ebenbauer",
+                                "occupation_verbatim": "Burgers und Spenglermeisters hinterlassene Wittib",
+                                "occupation_normalised": "Burgers und Spenglermeisters hinterlassene Wittib"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "76 Jahre alt",
+                            "age_days": 27440
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 28 October.",
+                "normalised": "28 October"
+            },
+            "gate": "Zur feinenen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Schroff",
+                "occupation_verbatim": "Kaufmannsdienner",
+                "occupation_normalised": "Kaufmannsdienner"
+            },
+            "time": "zu Pferde",
+            "transport": "Pferd",
+            "origin": "Augspurg",
+            "lodging": "Spiegel"
+        },
+        {
+            "date": {
+                "verbatim": "Den 29-.",
+                "normalised": "29-"
+            },
+            "gate": "Per Posta",
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Jacowis",
+                "occupation_verbatim": "Kanserl. Courier",
+                "occupation_normalised": "Kanserl. Courier"
+            },
+            "time": "Abends",
+            "transport": "Posta",
+            "origin": null,
+            "lodging": "beym Herrn Kasuer zu Rieders Münster"
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30"
+            },
+            "gate": "Per ord. Postwagen von Amberg",
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Zahn",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": "Nürnberg",
+            "lodging": "in schwarzen Vären"
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31"
+            },
+            "gate": "Per Posta",
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Behling",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": "Kaufmann"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Zittau",
+            "lodging": "in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "Zu Fuß",
+                "normalised": "Zu Fuß"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Zehlinger",
+                "occupation_verbatim": "Chymicus",
+                "occupation_normalised": "Chymicus"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Ober-Elsäsz",
+            "lodging": "in gold. Greiffen"
+        },
+        {
+            "date": {
+                "verbatim": "Zu Fuß",
+                "normalised": "Zu Fuß"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Philipp Abraham",
+                "family_name": null,
+                "occupation_verbatim": "Jude und Steinschneider",
+                "occupation_normalised": "Jude und Steinschneider"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Braunschweig",
+            "lodging": "in gold. Falken"
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen",
+                "normalised": "Per Wagen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mrsr.",
+                "family_name": "Lejeune",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": "zu Pferde",
+            "transport": "Wagen",
+            "origin": "Augspurg",
+            "lodging": "in gold. Bären"
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Eckel",
+                "occupation_verbatim": "Gerichtsreiber",
+                "occupation_normalised": "Gerichtsreiber"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Berezhhausen",
+            "lodging": "in 3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. F.",
+                "family_name": "Herr Graf von Morstein",
+                "occupation_verbatim": "Cavalier",
+                "occupation_normalised": "Cavalier"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Rünnberg",
+            "lodging": "in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron von Sickenhauzen",
+                "occupation_verbatim": "Forstmeister",
+                "occupation_normalised": "Forstmeister"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Hauszendorff",
+            "lodging": "im Walderbacher Hof"
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Fabris",
+                "occupation_verbatim": "Forstmeister",
+                "occupation_normalised": "Forstmeister"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Painten",
+            "lodging": "in weissen Lamm"
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Schell",
+                "occupation_verbatim": "Geh. Rath",
+                "occupation_normalised": "Geh. Rath"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Heidersheim",
+            "lodging": "in weissen Lamn"
+        },
+        {
+            "date": {
+                "verbatim": "Zu Fuß",
+                "normalised": "Zu Fuß"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Zehlinger",
+                "occupation_verbatim": "Chymicus",
+                "occupation_normalised": "Chymicus"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Ober-Elsäsz",
+            "lodging": "in gold. Greiffen"
+        },
+        {
+            "date": {
+                "verbatim": "Zu Fuß",
+                "normalised": "Zu Fuß"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Philipp Abraham",
+                "family_name": null,
+                "occupation_verbatim": "Jude und Steinschneider",
+                "occupation_normalised": "Jude und Steinschneider"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Braunschweig",
+            "lodging": "in gold. Falken"
+        },
+        {
+            "date": {
+                "verbatim": "Per Wagen",
+                "normalised": "Per Wagen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mrsr.",
+                "family_name": "Lejeune",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": "zu Pferde",
+            "transport": "Wagen",
+            "origin": "Augspurg",
+            "lodging": "in gold. Bären"
+        },
+        {
+            "date": {
+                "verbatim": "Per Talsch",
+                "normalised": "Per Talsch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Jacob Wassermann",
+                "family_name": null,
+                "occupation_verbatim": "Juden",
+                "occupation_normalised": "Juden"
+            },
+            "time": null,
+            "transport": "Talsch",
+            "origin": "Fürth",
+            "lodging": "beym Löw Alexander"
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche",
+                "normalised": "Per Kutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron von Oberndorff",
+                "occupation_verbatim": "Comitiatgesandter",
+                "occupation_normalised": "Comitiatgesandter"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Regendorf",
+            "lodging": "pasiren durch"
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Baron von Stingelheim",
+                "occupation_verbatim": "Herr",
+                "occupation_normalised": "Herr"
+            },
+            "time": "Vormittag",
+            "transport": "Per Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "S.T.",
+                "value": "S.T."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Luck",
+                "occupation_verbatim": "Courier",
+                "occupation_normalised": "Courier"
+            },
+            "time": "Vormittag",
+            "transport": "Per Posta",
+            "origin": "Raußr.",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": "paßiret durch"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Octob.",
+                "normalised": "28.10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fuchs",
+                "occupation_verbatim": "Hopfenhändler",
+                "occupation_normalised": "Hopfenhändler"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Böhm",
+            "lodging": "goldenen Adler",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wilhelm",
+                "family_name": "Bauer",
+                "occupation_verbatim": "Vergolder",
+                "occupation_normalised": "Vergolder"
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": "Bayreuth",
+            "lodging": "gold. Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Octob.",
+                "normalised": "28.10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Gerson",
+                "family_name": "Levi",
+                "occupation_verbatim": "Juden",
+                "occupation_normalised": "Juden"
+            },
+            "time": null,
+            "transport": "Zu Pferde",
+            "origin": "Fürth",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Lehmann",
+                "family_name": "Moses",
+                "occupation_verbatim": "Juden",
+                "occupation_normalised": "Juden"
+            },
+            "time": null,
+            "transport": "Zu Pferde",
+            "origin": "Fürth",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Münzhoff",
+                "occupation_verbatim": "Passagier",
+                "occupation_normalised": "Passagier"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "München",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": "f. z."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Levi",
+                "family_name": "Feiß",
+                "occupation_verbatim": "Jude",
+                "occupation_normalised": "Jude"
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": "Cronheim",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Brasseur",
+                "occupation_verbatim": "K. K. Hofrath",
+                "occupation_normalised": "K. K. Hofrath"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "München",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3",
+                "value": "f. 3"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 November.",
+                "normalised": "1.11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Brasseur",
+                "occupation_verbatim": "K. K. Hofrath",
+                "occupation_normalised": "K. K. Hofrath"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "München",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3",
+                "value": "f. 3"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2.",
+                "normalised": "2."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Biro",
+                "occupation_verbatim": "Secretair",
+                "occupation_normalised": "Secretair"
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen",
+            "origin": "Maynz",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2",
+                "value": "f. 2"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Frau von Biscbach",
+                "occupation_verbatim": "Rector",
+                "occupation_normalised": "Rector"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Schmidmühlen",
+            "lodging": "goldenen Adler",
+            "s_value": {
+                "verbatim": "f. 3",
+                "value": "f. 3"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Weber",
+                "occupation_verbatim": "Obristlieutenant",
+                "occupation_normalised": "Obristlieutenant"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "München",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2",
+                "value": "f. 2"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Sickenhausen",
+                "occupation_verbatim": "Baron",
+                "occupation_normalised": "Baron"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Hanzendorf",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2",
+                "value": "f. 2"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Frau von Biscbach",
+                "occupation_verbatim": "Rector",
+                "occupation_normalised": "Rector"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Schmidmühlen",
+            "lodging": "goldenen Adler",
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": "f. 4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Stingelheim",
+                "occupation_verbatim": "Baron",
+                "occupation_normalised": "Baron"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Kürn",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4",
+                "value": "f. 4"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 4.",
+                "normalised": "4."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Bresfar",
+                "occupation_verbatim": "Hofrath",
+                "occupation_normalised": "Hofrath"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Brüssel",
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": "f. z."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 November.",
+                "normalised": "2.11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Müller",
+                "occupation_verbatim": "Hofrath",
+                "occupation_normalised": "Hofrath"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Brüssel",
+            "lodging": "weissen Lamm",
+            "s_value": {
+                "verbatim": "f. z.",
+                "value": "f. z."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 November.",
+                "normalised": "2.11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Altmann",
+                "occupation_verbatim": "Advocat",
+                "occupation_normalised": "Advocat"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Straubing",
+            "lodging": "3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 November.",
+                "normalised": "2.11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Graf von Marchstein",
+                "occupation_verbatim": "Graf",
+                "occupation_normalised": "Graf"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Pohlen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 6",
+                "value": "f. 6"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28 Octob.",
+                "normalised": "28.10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "hr.",
+                "family_name": "Springer",
+                "occupation_verbatim": "Courier",
+                "occupation_normalised": "Courier"
+            },
+            "time": "Nachmittags",
+            "transport": "Per Münchner Postwagen",
+            "origin": "Sr. Durchl. Fürsten von Thurn und Taxis",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um ½4 Uhr",
+                "value": "um ½4 Uhr"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Ihr Durcfl.",
+                "family_name": "Fürst von Fürstenberg",
+                "occupation_verbatim": "Fürst",
+                "occupation_normalised": "Fürst"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 6",
+                "value": "f. 6"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 31.",
+                "normalised": "31."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Raußknech",
+                "occupation_verbatim": "Oberlieutenant",
+                "occupation_normalised": "Oberlieutenant"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Husaren-Regiment",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "paßiret durch",
+                "value": "paßiret durch"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 November.",
+                "normalised": "1.11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Herzog",
+                "occupation_verbatim": "Hofrat",
+                "occupation_normalised": "Hofrat"
+            },
+            "time": "Vormittags",
+            "transport": "Per Wiener Postwagen",
+            "origin": "Schwarzeneuberg",
+            "lodging": "schwarzen Bären",
+            "s_value": {
+                "verbatim": "log. in schwarzen Bären",
+                "value": "log. in schwarzen Bären"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 28.",
+                "normalised": "28."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Springer",
+                "occupation_verbatim": "Courier",
+                "occupation_normalised": "Courier"
+            },
+            "time": "frühe",
+            "transport": "Per Posta",
+            "origin": "Thurn und Taxis",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 4 Uhr",
+                "value": "um 4 Uhr"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Monsr.",
+                "family_name": "d'Jorgamitz",
+                "occupation_verbatim": "Courier",
+                "occupation_normalised": "Courier"
+            },
+            "time": "Abends",
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 4 8 Uhr",
+                "value": "um 4 8 Uhr"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Springer",
+                "occupation_verbatim": "Courier",
+                "occupation_normalised": "Courier"
+            },
+            "time": "Abends",
+            "transport": "Per Posta",
+            "origin": "Thurn und Taxis",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "um 4 5 Uhr",
+                "value": "um 4 5 Uhr"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 27 October.",
+                "normalised": "27.10."
+            },
+            "gate": null,
+            "direction": null
+        }
+    ],
+    "id": "1770-11-06_Num_45",
+    "source": {
+        "issue_date": "1770-11-06",
+        "issue_number": "Num. 45",
+        "canvases": [
+            355,
+            356,
+            357,
+            358,
+            359,
+            360,
+            361,
+            362
+        ]
+    }
+}

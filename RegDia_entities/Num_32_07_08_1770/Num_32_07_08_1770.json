@@ -1,0 +1,1199 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Ger aufsehe",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "28 Julii",
+                            "normalised": "28 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Sidonia",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "M. Matthäus Brendner, Burger und Schuhmacher"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29. Anna Felicitas",
+                            "normalised": "29 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Felicitas",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Hr. Heinrich Joh. Kraer, Burger und Handelsmann"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31. Tobias",
+                            "normalised": "31 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Tobias",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "M. Johann Samuel Täsch, Burger, Lein- und Barchetweber"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "2 Aug.",
+                            "normalised": "2 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Isabella Jacobea",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Herr Emerich Felix Auernhammer, des hies sig Löbl. Gymnasi Poëtici Classis II. Collaborator"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die, Georg Heinrich",
+                            "normalised": "2 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Heinrich",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Joh. Heinrich Kreiz, Densiker und Ziegelarbeiter"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die, Johanna Dorothea Elisabetha",
+                            "normalised": "2 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Dorothea Elisabetha",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Herr Jacob Christian Krippner, Burger und Handelsmann"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod. die, Joh. Baptist Daniel",
+                            "normalised": "2 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Joh. Baptist Daniel",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Daniel Falot, Friseur am Hochfürstl. Thurns- und Taxischen Hof"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "29 Julii",
+                            "normalised": "29 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Leonhard",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Burger und Tagelöhner allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "43 Jahre und 20 Wochen alt",
+                            "age_days": 1540
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "30. Susanna Rosina",
+                            "normalised": "30 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna Rosina",
+                                "family_name": "Paul Helbing",
+                                "occupation_verbatim": "Burgers und Wachschulhalters zu zu Ostern allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "59 Jahre weniger 13 Wochen und 1 Tag alt",
+                            "age_days": 2100
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "31. Johann Jacob Trautner",
+                            "normalised": "31 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Jacob",
+                                "family_name": "Trautner",
+                                "occupation_verbatim": "Schulzverwandter allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "62 Jahre, 21 Wochen und 3 Tage alt",
+                            "age_days": 2203
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Ein unechtes Kind, Anna Margaretha",
+                            "normalised": "31 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Margaretha",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Vater, Thomas Ecker, Beysitzer allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "2 Jahre und 13 Wochen weniger 2 Tage alt",
+                            "age_days": 74
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Maria Magdalena",
+                            "normalised": "31 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Vater, Thomas Ecker, Beysitzer allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "5 Jahre, 5 Wochen und 3 Tage alt",
+                            "age_days": 218
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Anna Maria",
+                            "normalised": "31 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Stadler",
+                                "occupation_verbatim": "Burgers und Metzgers allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "38 Jahre und 23 Wochen alt",
+                            "age_days": 1403
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Elisabetha Barbara",
+                            "normalised": "2 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Elisabetha Barbara",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Vater, Mr. Georg Matthias Kleineder, Burger und Stadtschlosser",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "33 Wochen und 2 Täge alt",
+                            "age_days": 232
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "2 Aug.",
+                            "normalised": "2 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Salome",
+                                "family_name": "Schuesterin",
+                                "occupation_verbatim": "verwitwte Kutscherin allhier",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "52 Jahr alt",
+                            "age_days": 1825
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "5.",
+                            "normalised": "5 August"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": "Schuesterin",
+                                "occupation_verbatim": "Vater, Johann Baptist Schiffelholz, gewesener Hochfürstlich-Taxischer Büchsenpanner",
+                                "occupation_normalised": "None"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "11 Jahre, 3 Monathe und 2 Tage alt",
+                            "age_days": 404
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "Hochfürstl. Reichsftifts-Pfarr, Niedermünster",
+                "baptised": [],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "3' Aug.",
+                "normalised": "3 August"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Anna Maria",
+                "family_name": "Clostermeyer",
+                "occupation_verbatim": "Johaun Georg Clostermeyer, Burger und Brandewinbrener"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "3' Aug.",
+                "normalised": "3 August"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johan Wilhelm",
+                "family_name": "Bernhard Bamersberger",
+                "occupation_verbatim": "Jof. David Bernhard Bamersberger, Bedienter bei des Hollstein-Gluckstädrischen Herrn Comitialgesandten von Biereck Excell"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "3' Aug.",
+                "normalised": "3 August"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Maria Sidonia",
+                "family_name": "Keller",
+                "occupation_verbatim": "M. Joh. Christoph Keller, Burger und Schneider"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Leonhard",
+                "family_name": "Meyer",
+                "occupation_verbatim": "Burger und Tagelöhner allhier"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "30 Julii",
+                "normalised": "30 July"
+            },
+            "gate": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2.",
+                "normalised": "2."
+            },
+            "gate": "Per Calesch",
+            "direction": null,
+            "person": {
+                "given_name": "Haider",
+                "family_name": "Gerichtsschreiber von Lupburg",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Kutsche",
+                "normalised": "Per Kutsche"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Fleischmann",
+                "occupation_verbatim": "Pfleger von Parsberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hr. Forster",
+                "occupation_verbatim": "Gerichtsschreiber von Laber",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": "Per Posta",
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr de Les",
+                "occupation_verbatim": "ein Cavalier aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per ord. Posiwagen",
+                "normalised": "Per ord. Posiwagen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Pannier",
+                "occupation_verbatim": "ein Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "Straßburg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Rosenbaum",
+                "occupation_verbatim": "ein Handelsmann aus Sachsen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr Baron von Herold",
+                "occupation_verbatim": "Churbayerischer General",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ic. f. 3.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brucke herein:",
+                "normalised": "An der hölzernen Brucke herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "An der hölzernen Brucke hinaus:",
+                "normalised": "An der hölzernen Brucke hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Bischum Jun.",
+                "occupation_verbatim": "führt in einem Plättel nach Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Tit. Herr von Nuss, Kayserl. Hauptmann ; Tit. Herr von Winkler, Hochgräflich-Sinzens-dorfscher Bevoilmächtigter",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hieronymus",
+                "family_name": "Rainer",
+                "occupation_verbatim": "führt des Daniel Raimers sein ord. Schiff nach Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenthore herein:",
+                "normalised": "Zum Ostenthore herein:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "Tit.-Herr von Peischeky",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": "Tit.-Herr von Peischeky, ein Cavalier aus Pohlen",
+            "lodging": "in weisen Kamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 29.",
+                "normalised": "29."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Schnock, gewesener Haunzenbergischer Buchhalter",
+            "lodging": "in Pfau",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Zu Pferde",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": "Weissenfelber, ein Kaufmann von Augspurg",
+            "lodging": "in gol- denen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wagner",
+                "occupation_verbatim": "Churmaynzischer Aefft.s.2.log.bey.Hrn.Bec,Handelsmaaß",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Grazel",
+                "occupation_verbatim": "Landschaftssecretair von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr Poppy",
+                "occupation_verbatim": "ein Juriste von Salzburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zu Pferde",
+                "normalised": "Zu Pferde"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Reissmann",
+                "occupation_verbatim": "ein Handelsmann von Gera",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Pferd",
+            "origin": null,
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Weissenfelber",
+                "occupation_verbatim": "ein Kaufmann von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Motitor",
+                "occupation_verbatim": "Kavserl. Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Tit. Herr von Motitor, Kavserl. Lieutenant",
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Frau Baronin von Tüngl",
+                "occupation_verbatim": "Pflegerin von Landau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "S.T. Frau Baronin von Tüngl, Pflegerin von Landau",
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Aug.",
+                "normalised": "1 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Toscana",
+                "occupation_verbatim": "ein Cavalier von Toscana",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "in weis- sen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Heilmann",
+                "occupation_verbatim": "ein Handelsmann von Nurnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Weber",
+                "occupation_verbatim": "ein Handelsmann von Schwäbisch = Gemünd",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "in Hecht",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Bär",
+                "occupation_verbatim": "Regierungsrath von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Straubinger ord. Bothe",
+                "occupation_verbatim": "log. in schwarzen Bären",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Zum Ostenthore hinaus:",
+                "normalised": "Zum Ostenthore hinaus:"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Baron von Langenmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "S.T. Herr Baron von Langenmann, von Meckelburg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 30.",
+                "normalised": "30."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Posta",
+                "occupation_verbatim": "S.T. Herr Baron von Krechler",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal coach",
+            "origin": "S.T. Herr Baron von Krechler, Kayserl. Obrister",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Frau Baronia von Reichenberg",
+                "occupation_verbatim": "von Ingolstadt",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "S.T. Frau Baronia von Reichenberg, von Ingolstadt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 1 Aug.",
+                "normalised": "1 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Per",
+                "family_name": "Calesch",
+                "occupation_verbatim": "der Straubinger ord. Bothe",
+                "occupation_normalised": null
+            },
+            "time": null
+        }
+    ],
+    "id": "1770-08-07_Num_32",
+    "source": {
+        "issue_date": "1770-08-07",
+        "issue_number": "Num. 32",
+        "canvases": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258
+        ]
+    }
+}

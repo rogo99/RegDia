@@ -1,0 +1,571 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 19 Juli.",
+                            "normalised": "19 July"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Leonhard",
+                                "family_name": "Haubmer",
+                                "occupation_verbatim": "Burger und Siebmacher",
+                                "occupation_normalised": "Burger and Siebmacher"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr, 19 Wochen und 5 Tage alt",
+                            "age_days": 104
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In der Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 16. Ioh Baptis.",
+                            "normalised": "16. Ioh Baptis."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Simon Gebald",
+                                "family_name": "Beysifer",
+                                "occupation_verbatim": "Beysifer allhier",
+                                "occupation_normalised": "Beysifer allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "i Monath alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Rupreche",
+                "baptised": [],
+                "buried": [],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "Den 19 Julii",
+                            "normalised": "19 Julii"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Eva",
+                                "family_name": "Platner",
+                                "occupation_verbatim": "Beysitzer althier",
+                                "occupation_normalised": "Beysitzer althier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Jahr alt",
+                            "age_days": 1095
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 20.",
+                            "normalised": "20."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Sebastian",
+                                "family_name": "Steidel",
+                                "occupation_verbatim": "Beysitzer althier",
+                                "occupation_normalised": "Beysitzer althier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "4 Jahr alt",
+                            "age_days": 1460
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Den 21.",
+                            "normalised": "21."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": "Frech",
+                                "occupation_verbatim": "Hochfürstlich-Taxischer Froteur",
+                                "occupation_normalised": "Hochfürstlich-Taxischer Froteur"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr alt",
+                            "age_days": 365
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 15 Julii",
+                "normalised": "15 Julii"
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Johann Adam Georg",
+                "family_name": "Leipold",
+                "occupation_verbatim": "Burger und Apotheke",
+                "occupation_normalised": "Burger and Apothecary"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Churpsalz",
+            "lodging": "Tit. Herr Hauptmann Clarwasser",
+            "s_value": {
+                "verbatim": "f.z. log. in Posthorn",
+                "value": "f.z. log. in Posthorn"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 16.",
+                "normalised": "16."
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Johann Adam Georg",
+                "family_name": "Leipold",
+                "occupation_verbatim": "Burger und Apotheke",
+                "occupation_normalised": "Burger and Apothecary"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Hungenstein",
+            "lodging": "S.T. Herr Baron von Franken",
+            "s_value": {
+                "verbatim": "f. z. paziren durch",
+                "value": "f. z. paziren durch"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 15 Julii",
+                "normalised": "15 Julii"
+            },
+            "gate": "Zu Fuß",
+            "direction": "through",
+            "person": {
+                "given_name": "Msr. Neuf",
+                "family_name": "Neuf",
+                "occupation_verbatim": "Handelsmann aus Champagne",
+                "occupation_normalised": "Handelsmann from Champagne"
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": "Champagne",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. 3. log. in grünen Cranz",
+                "value": "f. 3. log. in grünen Cranz"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Kutsche",
+            "direction": "through",
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Amberger ord.",
+                "occupation_verbatim": "Ord. Bothe",
+                "occupation_normalised": "Ord. Bothe"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Türken",
+            "lodging": "Log. in Türken",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Göschel",
+                "family_name": "Secretair",
+                "occupation_verbatim": "Tit. Herr Secretair Göschel",
+                "occupation_normalised": "Tit. Herr Secretair Göschel"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Amberg",
+            "lodging": "Log. zu St. Emmeram",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": "f. 3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per ord. Postwagen von Amberg",
+            "direction": "through",
+            "person": {
+                "given_name": "Seith",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Oberpostamt's Offic.",
+                "occupation_normalised": "Oberpostamt's Officer"
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Amberg",
+            "origin": "Sachsen",
+            "lodging": "Log. in schwarzen Bären",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Raller",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Burgerl. Gastgeb von Passau",
+                "occupation_normalised": "Bürgerl. Gastgeb from Passau"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Passau",
+            "lodging": "Log. in goldenen Adler",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": "f. 3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per ord. Postwagen von Nürnberg",
+            "direction": "through",
+            "person": {
+                "given_name": "Strack",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Stud. Jur.",
+                "occupation_normalised": "Stud. Jur."
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Nürnberg",
+            "origin": "Nürnberg",
+            "lodging": "Log. in weisen Lamm",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Gigant",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Geistlicher von Würzburg",
+                "occupation_normalised": "Geistlicher from Würzburg"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Würzburg",
+            "lodging": "Log. in weisen Lamm",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Kutsche",
+            "direction": "through",
+            "person": {
+                "given_name": "Bothe",
+                "family_name": "Amberger ord.",
+                "occupation_verbatim": "Ord. Bothe",
+                "occupation_normalised": "Ord. Bothe"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Türken",
+            "lodging": "Log. in Türken",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Frank",
+                "family_name": "Tit. Frau von",
+                "occupation_verbatim": "rc. von Waldmünchen",
+                "occupation_normalised": "rc. from Waldmünchen"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Waldmünchen",
+            "lodging": "Log. in 3 Helmen",
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "f. 4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per ord. Postwagen von Nürnberg",
+            "direction": "through",
+            "person": {
+                "given_name": "Strack",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Stud. Jur.",
+                "occupation_normalised": "Stud. Jur."
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen von Nürnberg",
+            "origin": "Nürnberg",
+            "lodging": "Log. in weisen Lamm",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Posta",
+            "direction": "through",
+            "person": {
+                "given_name": "Löw",
+                "family_name": "Seligmann",
+                "occupation_verbatim": "Seligmann Löw",
+                "occupation_normalised": "Seligmann Löw"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Schnaittach",
+            "lodging": "Log. beym Israel Wassermaüz",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Zu Fuß",
+            "direction": "through",
+            "person": {
+                "given_name": "Herold",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Spitzenhändler aus Sachsen",
+                "occupation_normalised": "Spitzenhändler from Saxony"
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": "Sachsen",
+            "lodging": "Log. in Posthorn",
+            "s_value": {
+                "verbatim": "f. 4.",
+                "value": "f. 4."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Schregel",
+                "family_name": "Michael",
+                "occupation_verbatim": "Bürger von Neuburg am Walb",
+                "occupation_normalised": "Bürger from Neuburg am Walb"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Neuburg am Walb",
+            "lodging": "Log. in weisen Hahu",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": "f. 3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Zu Fuß",
+            "direction": "through",
+            "person": {
+                "given_name": "Kipling",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann von Asch",
+                "occupation_normalised": "Handelsmann from Asch"
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": "Asch",
+            "lodging": "Log. in Elephanten",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Kutsche",
+            "direction": "through",
+            "person": {
+                "given_name": "Spiring",
+                "family_name": "S.T. Herr Baron von",
+                "occupation_verbatim": "Baron von Spiring",
+                "occupation_normalised": "Baron von Spiring"
+            },
+            "time": null,
+            "transport": "Per Kutsche",
+            "origin": "Fronberg",
+            "lodging": "Log. in 3 Helmen",
+            "s_value": {
+                "verbatim": "f. 5.",
+                "value": "f. 5."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Posta",
+            "direction": "through",
+            "person": {
+                "given_name": "Nob",
+                "family_name": "Tit. Herr von",
+                "occupation_verbatim": "Kayserrl. Artillerie-Lieutenant",
+                "occupation_normalised": "Kayserrl. Artillerie-Lieutenant"
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Nob",
+            "lodging": "Log. in weissen Lamm",
+            "s_value": {
+                "verbatim": "",
+                "value": ""
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Calesch",
+            "direction": "through",
+            "person": {
+                "given_name": "Rosenbaum",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann aus Sachsen",
+                "occupation_normalised": "Handelsmann from Saxony"
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Sachsen",
+            "lodging": "Log. in weisen Hahu",
+            "s_value": {
+                "verbatim": "f. 3.",
+                "value": "f. 3."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": "Per Posta",
+            "direction": "through",
+            "person": {
+                "given_name": "Leifner",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsleute aus Sachsen",
+                "occupation_normalised": "Handelsleute from Saxony"
+            }
+        }
+    ],
+    "id": "1770-07-24_Num_30",
+    "source": {
+        "issue_date": "1770-07-24",
+        "issue_number": "Num. 30",
+        "canvases": [
+            235,
+            236,
+            237,
+            238
+        ]
+    }
+}

@@ -1,0 +1,523 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "25 Dec.",
+                            "normalised": "25 December"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Gottlieb",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Georg Caspar Christ, Beyssher und Weber-knappe allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Caspar",
+                                "family_name": "Christ",
+                                "occupation_verbatim": "Beyssher und Weber-knappe allhier."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "26.",
+                            "normalised": "26."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ein uneheliches Kind",
+                                "family_name": "Maria Eva",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29.",
+                            "normalised": "29."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Catharina Ursula",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Joh. Sigmund Gartner, Burger und Krauterer.",
+                                "occupation_normalised": "Joh. Sigmund Gartner, Burger and Krauterer."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Sigmund",
+                                "family_name": "Gartner",
+                                "occupation_verbatim": "Burger und Krauterer.",
+                                "occupation_normalised": "Burger and Krauterer."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29.",
+                            "normalised": "29."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Rasina Margaretha",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Georg Heinrich Luiz, Burger und Bierbrauer.",
+                                "occupation_normalised": "Georg Heinrich Luiz, Burger and Bierbrauer."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg Heinrich",
+                                "family_name": "Luiz",
+                                "occupation_verbatim": "Burger und Bierbrauer.",
+                                "occupation_normalised": "Burger and Bierbrauer."
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "23.",
+                            "normalised": "23."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Susanna",
+                                "family_name": "des Matthias Reffs",
+                                "occupation_verbatim": "Burgers und Messermachers allhier.",
+                                "occupation_normalised": "Burgers and Messermachers allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthias",
+                                "family_name": "Reffs",
+                                "occupation_verbatim": "Burgers und Messermachers allhier.",
+                                "occupation_normalised": "Burgers and Messermachers allhier."
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "28 Jahr alt",
+                            "age_days": 28
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Barbara",
+                                "family_name": "des Andreas Grafrucks",
+                                "occupation_verbatim": "Burgers und Ziegelauszählers allhier.",
+                                "occupation_normalised": "Burgers and Ziegelauszählers allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Grafrucks",
+                                "occupation_verbatim": "Burgers und Ziegelauszählers allhier.",
+                                "occupation_normalised": "Burgers and Ziegelauszählers allhier."
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "66 Jahr, 2 Wochen und 3 Tage alt",
+                            "age_days": 66
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Margaretha",
+                                "family_name": "des Johann Leonhard Meyers",
+                                "occupation_verbatim": "Burgers allhier.",
+                                "occupation_normalised": "Burgers allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Leonhard",
+                                "family_name": "Meyers",
+                                "occupation_verbatim": "Burgers allhier.",
+                                "occupation_normalised": "Burgers allhier."
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "35 Jahr, 9 Wochen und 4 Tage alt",
+                            "age_days": 35
+                        }
+                    }
+                ],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In der Dom- und Stadt-Pfarr zu St.Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Der.",
+                            "normalised": "23 Der."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Eva",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Georg Zirngibl, Beysisher und Fischerknechte zu Stadt am Hof.",
+                                "occupation_normalised": "Georg Zirngibl, Beysisher and Fischerknechte zu Stadt am Hof."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Georg",
+                                "family_name": "Zirngibl",
+                                "occupation_verbatim": "Beysisher und Fischerknechte zu Stadt am Hof.",
+                                "occupation_normalised": "Beysisher and Fischerknechte zu Stadt am Hof."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod.die.",
+                            "normalised": "Eod.die."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Antonius Löfler, Innwohner in denen Hochfürstl. Domecapitulischen Häusern.",
+                                "occupation_normalised": "Antonius Löfler, Innwohner in denen Hochfürstl. Domecapitulischen Häusern."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Antonius",
+                                "family_name": "Löfler",
+                                "occupation_verbatim": "Innwohner in denen Hochfürstl. Domecapitulischen Häusern.",
+                                "occupation_normalised": "Innwohner in denen Hochfürstl. Domecapitulischen Häusern."
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Der.",
+                            "normalised": "23 Der."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Antonius",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Josephus Bachmayer, Hochfürstlich-Taxischer Kutscher.",
+                                "occupation_normalised": "Josephus Bachmayer, Hochfürstlich-Taxischer Kutscher."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Bachmayer",
+                                "occupation_verbatim": "Hochfürstlich-Taxischer Kutscher.",
+                                "occupation_normalised": "Hochfürstlich-Taxischer Kutscher."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Vitus",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Matthaeus Widmann, Beysitzer allhier.",
+                                "occupation_normalised": "Matthaeus Widmann, Beysitzer allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Matthaeus",
+                                "family_name": "Widmann",
+                                "occupation_verbatim": "Beysitzer allhier.",
+                                "occupation_normalised": "Beysitzer allhier."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "Eod die.",
+                            "normalised": "Eod die."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria Rosina",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Andreas Geisberger, Beysiker allhier.",
+                                "occupation_normalised": "Andreas Geisberger, Beysiker allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Geisberger",
+                                "occupation_verbatim": "Beysiker allhier.",
+                                "occupation_normalised": "Beysiker allhier."
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "In der Hochfürstl. Reichsstsifs-Pfarr,Niedermünster",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "23 Dec.",
+                            "normalised": "23 Dec."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Maria",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Andreas Zirngibl, Fuhrknecht allhier.",
+                                "occupation_normalised": "Andreas Zirngibl, Fuhrknecht allhier."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Andreas",
+                                "family_name": "Zirngibl",
+                                "occupation_verbatim": "Fuhrknecht allhier.",
+                                "occupation_normalised": "Fuhrknecht allhier."
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Sebastianus",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Johannes Adamus PrädL Schenk in dem Hochfürstl. Reichsstift Niedermünster.",
+                                "occupation_normalised": "Johannes Adamus PrädL Schenk in dem Hochfürstl. Reichsstift Niedermünster."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Adamus",
+                                "occupation_verbatim": "PrädL Schenk in dem Hochfürstl. Reichsstift Niedermünster.",
+                                "occupation_normalised": "PrädL Schenk in dem Hochfürstl. Reichsstift Niedermünster."
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "24.",
+                            "normalised": "24."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Jacobus",
+                                "family_name": "ein Kindelkind",
+                                "occupation_verbatim": "6 Monath alte.",
+                                "occupation_normalised": "6 Monath alte."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Jacobus",
+                                "family_name": "ein Kindelkind",
+                                "occupation_verbatim": "6 Monath alte.",
+                                "occupation_normalised": "6 Monath alte."
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "6 Monath alte",
+                            "age_days": 6
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Ignatius",
+                                "family_name": "Vater",
+                                "occupation_verbatim": "Hr. Joh. Baptisit Krumpaß, Sr. Hochfürstl. Gnaden in Niedermünster Cammerdiener und Canzelleyschreiber allda.",
+                                "occupation_normalised": "Hr. Joh. Baptisit Krumpaß, Sr. Hochfürstl. Gnaden in Niedermünster Cammerdiener and Canzelleyschreiber allda."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Baptisit",
+                                "family_name": "Krumpaß",
+                                "occupation_verbatim": "Sr. Hochfürstl. Gnaden in Niedermünster Cammerdiener und Canzelleyschreiber allda.",
+                                "occupation_normalised": "Sr. Hochfürstl. Gnaden in Niedermünster Cammerdiener and Canzelleyschreiber allda."
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "9 Jahr alt",
+                            "age_days": 9
+                        }
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Aus der Hochlobl. Congregation der Verkündigung Mariä",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "27.",
+                            "normalised": "27."
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Josephus Kuchelreiter",
+                                "family_name": "Büchsenmacher und Burger zu Stadt am Hof.",
+                                "occupation_verbatim": "Büchsenmacher und Burger zu Stadt am Hof.",
+                                "occupation_normalised": "Büchsenmacher and Burger zu Stadt am Hof."
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Kuchelreiter",
+                                "occupation_verbatim": "Büchsenmacher und Burger zu Stadt am Hof.",
+                                "occupation_normalised": "Büchsenmacher and Burger zu Stadt am Hof."
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "24 Dec.",
+                "normalised": "24 Dec."
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "S.T. Herr Baron von Wildenau, Landrichter von Burg-leugenfeld",
+                "occupation_normalised": "S.T. Herr Baron von Wildenau, Landrichter von Burg-leugenfeld"
+            },
+            "time": "4.",
+            "transport": "Kutsche",
+            "origin": "4. paßiren durch",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4.",
+                "value": 4
+            }
+        },
+        {
+            "date": {
+                "verbatim": "25.",
+                "normalised": "25."
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Postal",
+                "occupation_verbatim": "S.T. Herr Graf von Königl. Kayserl.Hofrath",
+                "occupation_normalised": "S.T. Herr Graf von Königl. Kayserl.Hofrath"
+            },
+            "time": "2.",
+            "transport": "Postal",
+            "origin": "3 Helmen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "3 Helmen",
+                "value": 3
+            }
+        },
+        {
+            "date": {
+                "verbatim": "26.",
+                "normalised": "26."
+            },
+            "gate": "Zur steinernen Brucke herein",
+            "direction": "herein",
+            "person": {
+                "given_name": "Per",
+                "family_name": "Kutsche",
+                "occupation_verbatim": "S. T. Frau Baronin von Dierck, aus der oberen Pfalz",
+                "occupation_normalised": "S. T. Frau Baronin von Dierck, aus der oberen Pfalz"
+            },
+            "time": "4.",
+            "transport": "Kutsche",
+            "origin": "4. pasiren durch",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "4.",
+                "value": ""
+            }
+        }
+    ],
+    "id": "1770-01-02_Num_1",
+    "source": {
+        "issue_date": "1770-01-02",
+        "issue_number": "Num. 1",
+        "canvases": [
+            10,
+            11,
+            12,
+            13
+        ]
+    }
+}

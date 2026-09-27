@@ -1,0 +1,544 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "1 April",
+                "normalised": "1 April"
+            },
+            "gate": "Calesch",
+            "direction": "Moyses, und David Wertheimer, Kaysfcl. Hoffactorsb.",
+            "person": {
+                "given_name": null,
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "S. T. Herr Graf von Paumgarten, Churbayerischer Hauptmann, s. 2.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27 Merz",
+                "normalised": "27 March"
+            },
+            "gate": null,
+            "direction": "herein",
+            "person": {
+                "given_name": "Gottlieb",
+                "family_name": "Scheibenbogen",
+                "occupation_verbatim": "von Linz, mit Geschmeide und Honig.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Linz",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Johann Georg Meringer",
+                "normalised": "28 March"
+            },
+            "gate": null,
+            "direction": "herein",
+            "person": {
+                "given_name": "Johann Georg",
+                "family_name": "Meringer",
+                "occupation_verbatim": "Deggendorfer Bothe.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "30. Johann Lobensommer",
+                "normalised": "30 March"
+            },
+            "gate": null,
+            "direction": "herein",
+            "person": {
+                "given_name": "Johann",
+                "family_name": "Lobensommer",
+                "occupation_verbatim": "von Salzburg, mit Honig und Baumlhl.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Salzburg",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28 Merz",
+                "normalised": "28 March"
+            },
+            "gate": "Gemsel",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Ludwig",
+                "family_name": "Raimer",
+                "occupation_verbatim": "führt in einem Gemsel nach Wien Tic. Herrn Syndicus Lauz, von Frankfurt, s. 2. und 15 gemeine Personen.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Tic. Herrn Syndicus Lauz, von Frankfurt",
+            "origin": "Frankfurt",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "1 April",
+                "normalised": "1 April"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Zacharias",
+                "family_name": "Ziegler",
+                "occupation_verbatim": "führt das ord. Schiff nach Wien, mit ihm, Tic. Msfr. d'Arnal Königl. Französischer Ingenieur-Capitainz Msfr. Auernhammer, ein Scribente von hier; 2 Kaysfcl. Commandirte mit 6 Necrouten, und 40 gesmeine Personen.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "ord. Schiff",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "24 Merz",
+                "normalised": "24 March"
+            },
+            "gate": "Foot",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Weidner",
+                "occupation_verbatim": "ein Juriste von Geisheim, und Hr. Egger, ein Schreiber von Amberg, log. in Mohren.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Geisheim",
+            "lodging": "Mohren",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25",
+                "normalised": "25"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Müller",
+                "occupation_verbatim": "ein Kaufmann von Freyburg, log. in goldenen Bären.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Freyburg",
+            "lodging": "goldenen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26",
+                "normalised": "26"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Luhr",
+                "occupation_verbatim": "ein Seud. von Freyburg, log. in weissen Roß.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Freyburg",
+            "lodging": "weissen Roß",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27",
+                "normalised": "27"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "der Strambinger",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": "log. in schwarzen Bären.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29",
+                "normalised": "29"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Killinger",
+                "occupation_verbatim": "Pfiegsgerichtschreiber von Dingelfingen, f. 2. log. in schwarzen Bären.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Dingelfingen",
+            "lodging": "schwarzen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "30",
+                "normalised": "30"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Moses",
+                "family_name": "Wertheimer",
+                "occupation_verbatim": "Churbayerischer Hoffactor-Jude von Wien, f. 2. log. in weisen Ramm.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Wien",
+            "lodging": "weisen Ramm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25 Merz",
+                "normalised": "25 March"
+            },
+            "gate": "Calesch",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron von Jedtwiz",
+                "occupation_verbatim": "Churbayerischer Offi-sier, f. 2.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28",
+                "normalised": "28"
+            },
+            "gate": "Calesch",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "der Straubinger",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25 Merz",
+                "normalised": "25 March"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr Baron von Schutz",
+                "occupation_verbatim": "Churbayerischer Obrißlientenant, f. 3.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "31",
+                "normalised": "31"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "der Straubinger",
+                "family_name": "ord. Bothe",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23 Merz",
+                "normalised": "23 March"
+            },
+            "gate": "Posta",
+            "direction": "herein",
+            "person": {
+                "given_name": "staffetta",
+                "family_name": "Pfade",
+                "occupation_verbatim": "um ½9 Uhr, Aberds.",
+                "occupation_normalised": null
+            },
+            "time": "um ½9 Uhr",
+            "transport": "Posta",
+            "origin": "Pfade",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "24",
+                "normalised": "24"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Gaigl",
+                "occupation_verbatim": "ein Weinhändler von Rosenheim, log. in gol denen Engel.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Rosenheim",
+            "lodging": "gol denen Engel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27",
+                "normalised": "27"
+            },
+            "gate": "Münchner Postwagen",
+            "direction": "herein",
+            "person": {
+                "given_name": "Tie.",
+                "family_name": "Herr Licem.",
+                "occupation_verbatim": "Eisen huet, log. in schwarzen Adler, und Dr. Weiss Chursächsischer Hof-Musicus, log. in Spiegel.",
+                "occupation_normalised": null
+            },
+            "time": "um 8 Uhr",
+            "transport": "Münchner Postwagen",
+            "origin": null,
+            "lodging": "schwarzen Adler, Spiegel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26",
+                "normalised": "26"
+            },
+            "gate": "Wagen",
+            "direction": "herein",
+            "person": {
+                "given_name": "Laudshturer",
+                "family_name": "orf.",
+                "occupation_verbatim": "Vothe, log. in Türken.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Laudshturer",
+            "lodging": "Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29",
+                "normalised": "29"
+            },
+            "gate": "Wiener Postwagen",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Moschauer",
+                "occupation_verbatim": "ein Hopfenhändler aus Böhmien f. 2., log. in",
+                "occupation_normalised": null
+            },
+            "time": "um ½ 1 Uhr",
+            "transport": "Wiener Postwagen",
+            "origin": "Böhmien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25 Merz",
+                "normalised": "25 March"
+            },
+            "gate": "Calesch",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Bernklau",
+                "occupation_verbatim": "Obrißliutenant vom Baaden-Baar-denschen Regimemente, f. io.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29",
+                "normalised": "29"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Rohnemann",
+                "occupation_verbatim": "ein Kaufmann von Augspurg, f. 2.-log. in weissen Lamm.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Augsburg",
+            "lodging": "weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26",
+                "normalised": "26"
+            },
+            "gate": "Calesch",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Eisenhuet",
+                "occupation_verbatim": "Pfarrer von Frauenzell, log. in Spigel.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Frauenzell",
+            "lodging": "Spigel",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27",
+                "normalised": "27"
+            },
+            "gate": "Wagen",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Royreter",
+                "occupation_verbatim": "Gevichtsschreiber von Abensperg, f. 2. log. in weis-sen Lamm.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Abensperg",
+            "lodging": "weis-sen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25 Merz",
+                "normalised": "25 March"
+            },
+            "gate": "Schiff",
+            "direction": "herein",
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Sidelius",
+                "occupation_verbatim": "Hochgräflich-Dettingenischer Cammerdiener; Jandowsky, ein Koch; Joseph Krauß, ein Jäger, log. in goldenen Greif.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Schiff",
+            "origin": "Donauwörth",
+            "lodging": "goldenen Greif",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26",
+                "normalised": "26"
+            },
+            "gate": "Wagen",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Moschauer",
+                "occupation_verbatim": "ein Hopfenhändler aus Böhmien f. 2., log. in",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Böhmien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29",
+                "normalised": "29"
+            },
+            "gate": "Wagen"
+        }
+    ],
+    "id": "1770-04-03_Num_14",
+    "source": {
+        "issue_date": "1770-04-03",
+        "issue_number": "Num. 14",
+        "canvases": [
+            115,
+            116,
+            117,
+            118
+        ]
+    }
+}

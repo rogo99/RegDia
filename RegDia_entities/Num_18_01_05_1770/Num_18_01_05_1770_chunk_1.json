@@ -1,0 +1,595 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "In der Evangelischen Gemeinde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": "Staudniz",
+                                "occupation_verbatim": "Bürger und Meßger",
+                                "occupation_normalised": "Bürger and Messger"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Fürstmüller",
+                                "occupation_verbatim": "Beysitzer und Zimmermann",
+                                "occupation_normalised": "Beysitzer and Zimmermann"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 April",
+                            "normalised": "21 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Magdalena",
+                                "family_name": "Griesmeyerin",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Georg",
+                                "family_name": "Fürstmüller",
+                                "occupation_verbatim": "Beysitzer und Zimmermann",
+                                "occupation_normalised": "Beysitzer and Zimmermann"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "22 April",
+                            "normalised": "22 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anton Albrecht",
+                                "family_name": "Gehwolf",
+                                "occupation_verbatim": "Bürger, Knöpf-Krepins- und Handarbeiter allhier",
+                                "occupation_normalised": "Bürger, Knöpf-Krepins- and Handarbeiter allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Albrecht",
+                                "family_name": "Gehwolf",
+                                "occupation_verbatim": "Bürger, Knöpf-Krepins- und Handarbeiter allhier",
+                                "occupation_normalised": "Bürger, Knöpf-Krepins- and Handarbeiter allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 April",
+                            "normalised": "23 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Maria Catharina",
+                                "family_name": "Buchner",
+                                "occupation_verbatim": "Bürger und Eisenhammerschmidt allhier",
+                                "occupation_normalised": "Bürger and Eisenhammerschmidt allhier"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Johann",
+                                "family_name": "Buchner",
+                                "occupation_verbatim": "Bürger und Eisenhammerschmidt allhier",
+                                "occupation_normalised": "Bürger and Eisenhammerschmidt allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Barbara",
+                                "family_name": "Höslcr",
+                                "occupation_verbatim": "Bürger, Lein- und Barchetweber",
+                                "occupation_normalised": "Bürger, Lein- and Barchetweber"
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Johann Georg",
+                                "family_name": "Höslcr",
+                                "occupation_verbatim": "Bürger, Lein- und Barchetweber",
+                                "occupation_normalised": "Bürger, Lein- and Barchetweber"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "22 April",
+                            "normalised": "22 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Anna Elisabetha",
+                                "family_name": "Schnell",
+                                "occupation_verbatim": "Hoffscherer zu obern Sulzburg",
+                                "occupation_normalised": "Hoffscherer zu obern Sulzburg"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "74 und ein Viertel Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 April",
+                            "normalised": "23 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Barbara",
+                                "family_name": "Schübel",
+                                "occupation_verbatim": "Burger und Metler",
+                                "occupation_normalised": "Burger and Metler"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "3 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "25 April",
+                            "normalised": "25 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Ein Junggeselle",
+                                "family_name": "Gadermeyers",
+                                "occupation_verbatim": "Burgers und Bierbräuers allhier",
+                                "occupation_normalised": "Burgers and Bierbräuers allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "58 Jahr und 25 Wochen alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 April",
+                            "normalised": "27 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Louise Magdalena",
+                                "family_name": "Pommernin",
+                                "occupation_verbatim": "Bürgerl. Schuhmachers Tochter",
+                                "occupation_normalised": "Bürgerl. Schuhmachers Tochter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "36 Jahre, 31 Wochen und 3 Tag alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 April",
+                            "normalised": "28 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Carl Gottlieb",
+                                "family_name": "Herwig",
+                                "occupation_verbatim": "Kayserl. Königl. Wachtmeister",
+                                "occupation_normalised": "Kayserl. Königl. Wachtmeister"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "57 Jahr weniger 13 Wochen und 3 Tage alt",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Elias",
+                                "family_name": "Schwaiger",
+                                "occupation_verbatim": "ein fremder Kramer von alten Münster",
+                                "occupation_normalised": "ein fremder Kramer von alten Münster"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "65 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 April",
+                            "normalised": "27 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Georg Heinrich",
+                                "family_name": "Ubler",
+                                "occupation_verbatim": "Herrschaftl. Besdienter allhier",
+                                "occupation_normalised": "Herrschaftl. Besdienter allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "und 4 Jahr alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 April",
+                            "normalised": "28 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Wilhelm",
+                                "family_name": "Gösfried",
+                                "occupation_verbatim": "Gärtner und Beysitzer allhier",
+                                "occupation_normalised": "Gärtner and Beysitzer allhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "44 Jahr alt",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "In der Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "25 April",
+                            "normalised": "25 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Sebastianus",
+                                "family_name": "Achter",
+                                "occupation_verbatim": "verwitwiter Beyssiger allhier",
+                                "occupation_normalised": "verwitwiter Beyssiger allhier"
+                            },
+                            {
+                                "given_name": "Jose",
+                                "family_name": "Anna Margaretha",
+                                "occupation_verbatim": "Huefnagkin",
+                                "occupation_normalised": "Huefnagkin"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "21 April",
+                            "normalised": "21 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Eva",
+                                "family_name": "Marx",
+                                "occupation_verbatim": "Innwohner in denen Collegiat-Stiftshäusern zu St. Johannis",
+                                "occupation_normalised": "Innwohner in denen Collegiat-Stiftshäusern zu St. Johannis"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "23 April",
+                            "normalised": "23 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Georg Joseph",
+                                "family_name": "Knoig",
+                                "occupation_verbatim": "Handelsmann zu Stadt am Hof",
+                                "occupation_normalised": "Handelsmann zu Stadt am Hof"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Georg Joseph",
+                                "family_name": "Lobermayr",
+                                "occupation_verbatim": "Bräuknecht und Beysitzer allhier",
+                                "occupation_normalised": "Bräuknecht and Beysitzer allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 April",
+                            "normalised": "27 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Nicolaus",
+                                "family_name": "Margner",
+                                "occupation_verbatim": "Beysitzer allhier",
+                                "occupation_normalised": "Beysitzer allhier"
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "29 April",
+                            "normalised": "29 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Friederich",
+                                "family_name": "Dinzinger",
+                                "occupation_verbatim": "Beysitzer und Tagewerker allhier",
+                                "occupation_normalised": "Beysitzer and Tagewerker allhier"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Andreas",
+                                "family_name": "Fuchs",
+                                "occupation_verbatim": "Beysser alhier",
+                                "occupation_normalised": "Beysser alhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "44 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 April",
+                            "normalised": "27 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Rosina",
+                                "family_name": "Obermeyer",
+                                "occupation_verbatim": "Hauffknecht bey Hrn. Allesl. Gladbach",
+                                "occupation_normalised": "Hauffknecht bey Hrn. Allesl. Gladbach"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr und 14 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 April",
+                            "normalised": "28 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "Partusch",
+                                "occupation_verbatim": "Hochfürstlich Tzarischer Bedienter",
+                                "occupation_normalised": "Hochfürstlich Tzarischer Bedienter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "im 9ten Jahre",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "26 April",
+                            "normalised": "26 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Theresa",
+                                "family_name": "Pessendorfer",
+                                "occupation_verbatim": "Gärtner und Bedienter im Hochfürstl. Reichsstitf Niedermünster",
+                                "occupation_normalised": "Gärtner and Bedienter im Hochfürstl. Reichsstitf Niedermünster"
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "In der Obern Stadt-Pfarr zu St. Ruprecht",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "15 April",
+                            "normalised": "15 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Anna",
+                                "family_name": "Kucler",
+                                "occupation_verbatim": "Hochfürstlich + Taxischer Besdienter",
+                                "occupation_normalised": "Hochfürstlich + Taxischer Besdienter"
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Andreas",
+                                "family_name": "Fuchs",
+                                "occupation_verbatim": "Beysser alhier",
+                                "occupation_normalised": "Beysser alhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "44 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 April",
+                            "normalised": "27 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Rosina",
+                                "family_name": "Obermeyer",
+                                "occupation_verbatim": "Hauffknecht bey Hrn. Allesl. Gladbach",
+                                "occupation_normalised": "Hauffknecht bey Hrn. Allesl. Gladbach"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr und 14 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 April",
+                            "normalised": "28 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "Partusch",
+                                "occupation_verbatim": "Hochfürstlich Tzarischer Bedienter",
+                                "occupation_normalised": "Hochfürstlich Tzarischer Bedienter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "im 9ten Jahre",
+                            "age_days": null
+                        }
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "24 April",
+                            "normalised": "24 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Andreas",
+                                "family_name": "Fuchs",
+                                "occupation_verbatim": "Beysser alhier",
+                                "occupation_normalised": "Beysser alhier"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "44 Jahre alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "27 April",
+                            "normalised": "27 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Rosina",
+                                "family_name": "Obermeyer",
+                                "occupation_verbatim": "Hauffknecht bey Hrn. Allesl. Gladbach",
+                                "occupation_normalised": "Hauffknecht bey Hrn. Allesl. Gladbach"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "1 Jahr und 14 Tage alt",
+                            "age_days": null
+                        }
+                    },
+                    {
+                        "date": {
+                            "verbatim": "28 April",
+                            "normalised": "28 April"
+                        },
+                        "persons": [
+                            {
+                                "given_name": "Maria Josepha",
+                                "family_name": "Partusch",
+                                "occupation_verbatim": "Hochfürstlich Tzarischer Bedienter",
+                                "occupation_normalised": "Hochfürstlich Tzarischer Bedienter"
+                            }
+                        ],
+                        "age": {
+                            "verbatim": "im 9ten Jahre",
+                            "age_days": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "1770-05-01_Num_18",
+    "source": {
+        "issue_date": "1770-05-01",
+        "issue_number": "Num. 18",
+        "canvases": [
+            139,
+            140,
+            141,
+            142
+        ]
+    }
+}

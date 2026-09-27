@@ -1,0 +1,174 @@
+issue_id,event_type,field,ground_truth,prediction,error_type,role
+Num_2_09_01_1770,baptised,date.normalised,"""5 January""","""January 5""",incorrect,
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Simon Brann, Beyssiger und Tagewerker zu Stadt am Hof""",spurious,subject
+Num_2_09_01_1770,baptised,person.occupation_verbatim,"""Beyssiger und Tagewerker zu Stadt am Hof""",null,missing,father
+Num_2_09_01_1770,baptised,date.normalised,"""6 January""","""January 6""",incorrect,
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Michael Grimmer""",spurious,subject
+Num_2_09_01_1770,buried,date.normalised,"""2 January""","""January 2""",incorrect,
+Num_2_09_01_1770,buried,age.age_days,2125,"[5, 365]",incorrect,
+Num_2_09_01_1770,buried,person,,"{""role"": ""father"", ""given_name"": ""Martinus"", ""family_name"": ""Hofmann"", ""occupation_verbatim"": null, ""occupation_normalised"": null}",spurious_person,father
+Num_2_09_01_1770,buried,person.family_name,"""Hofmann""",null,missing,subject
+Num_2_09_01_1770,buried,person.occupation_verbatim,null,"""Martinus Hofmann, Beyssiger allhier""",spurious,subject
+Num_2_09_01_1770,baptised,date.verbatim,"""31 Dec.""","""Den 31 Dec.""",incorrect,
+Num_2_09_01_1770,baptised,date.normalised,"""31 December""","""December 31""",incorrect,
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Thomas Ruttinger, Churbayerischer Res-vierbeschauer bey der Tobacks-Direktion zu Stadt am Hof""",spurious,subject
+Num_2_09_01_1770,baptised,person.occupation_verbatim,"""Churbayerischer Resvierbeschauer bey der Tobacks-Direktion zu Stadt am Hof""",null,missing,father
+Num_2_09_01_1770,baptised,date.verbatim,"""2 Jan.""","""Den 2 Jan.""",incorrect,
+Num_2_09_01_1770,baptised,date.normalised,"""2 January""","""January 2""",incorrect,
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Franciscus Lang, Beyssiger zu Stadt am Hof""",spurious,subject
+Num_2_09_01_1770,baptised,person.occupation_verbatim,"""Beyssiger zu Stadt am Hof""",null,missing,father
+Num_2_09_01_1770,baptised,date.verbatim,"""20 Dec.""","""Den 20 Dec.""",incorrect,
+Num_2_09_01_1770,baptised,date.normalised,"""20 December""","""December 20""",incorrect,
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Andreas Lobenhofser, Besitzer allhier""",spurious,subject
+Num_2_09_01_1770,baptised,person.occupation_verbatim,"""Besitzer allhier""",null,missing,father
+Num_2_09_01_1770,baptised,date.verbatim,"""3 Jan.""","""Den 3 Jan.""",incorrect,
+Num_2_09_01_1770,baptised,date.normalised,"""3 January""","""January 3""",incorrect,
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Hr. Franciscus Antonius Weiß, Koch bey Sr. Excell. Herrn Grafen von Hartig, uc""",spurious,subject
+Num_2_09_01_1770,baptised,person.occupation_verbatim,"""Koch bey Sr. Excell. Herrn Grafen von Hartig""",null,missing,father
+Num_2_09_01_1770,baptised,date.verbatim,"""31 Decr.""","""Den 31 Decr.""",incorrect,
+Num_2_09_01_1770,baptised,date.normalised,"""31 December""","""December 31""",incorrect,
+Num_2_09_01_1770,baptised,person,"{""role"": ""father"", ""given_name"": ""Josephus"", ""family_name"": ""Saltner"", ""occupation_verbatim"": ""Hochfürstl. Domeapis tulischer Zimmerpallierer"", ""occupation_normalised"": null}",,missing_person,father
+Num_2_09_01_1770,baptised,person.occupation_verbatim,null,"""Hochfürstl. Domeapis tulischer Zimmerpallierer""",spurious,subject
+Num_2_09_01_1770,arrivals_departures,gate,"""Zum Jacober thore hinaus""",null,missing,
+Num_2_09_01_1770,arrivals_departures,direction,"""hinaus""","""Mewh St.Peterhore hinaus""",incorrect,
+Num_2_09_01_1770,arrivals_departures,transport,"""Calesch""","""Posta""",incorrect,
+Num_2_09_01_1770,arrivals_departures,origin,"""Holland""","""3""",incorrect,
+Num_2_09_01_1770,arrivals_departures,s_value.verbatim,"""f. 3.""",null,missing,
+Num_2_09_01_1770,arrivals_departures,s_value.value,3,null,missing,
+Num_2_09_01_1770,arrivals_departures,person.given_name,null,"""Hr.""",spurious,
+Num_2_09_01_1770,arrivals_departures,person.occupation_verbatim,"""Handelsmann""","""Handelsmann aus Holland""",incorrect,
+Num_31_31_07_1770,baptised,date.normalised,"""22 July.""","""22 Julii.""",incorrect,
+Num_31_31_07_1770,baptised,person.occupation_verbatim,null,"""Beysser allhier""",spurious,subject
+Num_31_31_07_1770,baptised,person.occupation_normalised,null,"""Beysser here""",spurious,subject
+Num_31_31_07_1770,baptised,person.family_name,"""Fux""",null,missing,father
+Num_31_31_07_1770,baptised,person.occupation_verbatim,"""Beysser allhier""",null,missing,father
+Num_31_31_07_1770,baptised,date.verbatim,"""Den 23.""","""23. Maria Eunigunda""",incorrect,
+Num_31_31_07_1770,baptised,date.normalised,"""23 July""","""23. Maria Eunigunda""",incorrect,
+Num_31_31_07_1770,baptised,person.occupation_verbatim,null,"""Hr. Peter Lampert, Hochfürstlich-Thurns und Taxischer Cammerdiener""",spurious,subject
+Num_31_31_07_1770,baptised,person.occupation_normalised,null,"""Hr. Peter Lampert, High-Frankish-Turns and Taxis Chamber Servant""",spurious,subject
+Num_31_31_07_1770,baptised,person.family_name,"""Lampert""",null,missing,father
+Num_31_31_07_1770,baptised,person.occupation_verbatim,"""Hochfürstlich-Thurns und Taxischer Cammerdiener""",null,missing,father
+Num_31_31_07_1770,baptised,date.verbatim,"""Den 26.""","""26. Theresia""",incorrect,
+Num_31_31_07_1770,baptised,date.normalised,"""26 July""","""26. Theresia""",incorrect,
+Num_31_31_07_1770,baptised,person.occupation_verbatim,null,"""Hochfürstlich-Taxischer Kutscher""",spurious,subject
+Num_31_31_07_1770,baptised,person.occupation_normalised,null,"""High-Frankish-Taxis Coachman""",spurious,subject
+Num_31_31_07_1770,baptised,person.family_name,"""Lautenbacher""",null,missing,father
+Num_31_31_07_1770,baptised,person.occupation_verbatim,"""Hochfürstlich-Taxischer Kutscher""",null,missing,father
+Num_31_31_07_1770,buried,date.verbatim,"""Den 26.""","""26. Maria Anna""",incorrect,
+Num_31_31_07_1770,buried,date.normalised,"""26 July""","""26. Maria Anna""",incorrect,
+Num_31_31_07_1770,buried,age.age_days,25550,2556,incorrect,
+Num_31_31_07_1770,buried,person,,"{""role"": ""father"", ""given_name"": ""Johann Georg"", ""family_name"": null, ""occupation_verbatim"": null, ""occupation_normalised"": null}",spurious_person,father
+Num_31_31_07_1770,buried,person.occupation_verbatim,null,"""Wegschaiters allhier, Ehemalsthin""",spurious,subject
+Num_31_31_07_1770,buried,person.occupation_normalised,null,"""Wayward all here, Formerly""",spurious,subject
+Num_31_31_07_1770,buried,date.verbatim,"""Den 27.""","""27. Anna Maria""",incorrect,
+Num_31_31_07_1770,buried,date.normalised,"""27 July""","""27. Anna Maria""",incorrect,
+Num_31_31_07_1770,buried,age.age_days,185,187,incorrect,
+Num_31_31_07_1770,buried,person,,"{""role"": ""father"", ""given_name"": ""Gregori"", ""family_name"": null, ""occupation_verbatim"": null, ""occupation_normalised"": null}",spurious_person,father
+Num_31_31_07_1770,buried,person.occupation_verbatim,null,"""Gregori Schmidbauer, Beysser allhier""",spurious,subject
+Num_31_31_07_1770,buried,person.occupation_normalised,null,"""Gregori Schmidbauer, Beysser here""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Beysßer allhier""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker here""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker here""",spurious,father
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Bürger und Glaser""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Civic and Glazier""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Civic and Glazier""",spurious,father
+Num_3_16_01_1770,baptised,date.verbatim,"""Den 11.""","""11. Dorothea""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Beysßer allhier""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker here""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker here""",spurious,father
+Num_3_16_01_1770,baptised,date.verbatim,"""Den 12.""","""12. Joh.Melchior""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Beysßer allhier""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker here""",spurious,subject
+Num_3_16_01_1770,baptised,person.given_name,"""Joh.""","""Johann""",incorrect,father
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker here""",spurious,father
+Num_3_16_01_1770,baptised,date.verbatim,"""Den 13.""","""13. Sebastianus""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Beysßer zu Stadt am Hof""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker at Town Square""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Baker at Town Square""",spurious,father
+Num_3_16_01_1770,buried,date.verbatim,"""Den 9.""","""9. Anna Maria Weymayrin""",incorrect,
+Num_3_16_01_1770,buried,age.age_days,36799,3659,incorrect,
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""widowed Weiser here""",spurious,subject
+Num_3_16_01_1770,buried,date.verbatim,"""Eod. die""","""9. Maria Eva""",incorrect,
+Num_3_16_01_1770,buried,age.verbatim,"""15 Tage alt""",null,missing,
+Num_3_16_01_1770,buried,age.age_days,15,null,missing,
+Num_3_16_01_1770,buried,person.occupation_verbatim,null,"""Weysgerer und Fischerknecht zu Stadt am Hof""",spurious,subject
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""Weiser and Fisherman at Town Square""",spurious,subject
+Num_3_16_01_1770,buried,date.verbatim,"""Den 13.""","""13. Laurentius""",incorrect,
+Num_3_16_01_1770,buried,age.verbatim,"""9 Tage alt""",null,missing,
+Num_3_16_01_1770,buried,age.age_days,9,null,missing,
+Num_3_16_01_1770,buried,person.occupation_verbatim,null,"""Weysgerer zu Stadt am Hof""",spurious,subject
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""Weiser at Town Square""",spurious,subject
+Num_3_16_01_1770,buried,date.verbatim,"""Den 14.""","""14. Antonius Gross""",incorrect,
+Num_3_16_01_1770,buried,age.age_days,20805,2052,incorrect,
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""High Prince Bishop's Body Coachman here""",spurious,subject
+Num_3_16_01_1770,buried,date.verbatim,"""Eod. die""","""14. Anna Margaretha""",incorrect,
+Num_3_16_01_1770,buried,age.verbatim,"""11 Monathe und 14 Tage alt""",null,missing,
+Num_3_16_01_1770,buried,age.age_days,344,null,missing,
+Num_3_16_01_1770,buried,person.occupation_verbatim,null,"""Weysgerer und Mühlknecht zu Stadt am Hof""",spurious,subject
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""Weiser and Mill Hand at Town Square""",spurious,subject
+Num_3_16_01_1770,baptised,date.verbatim,"""Den 6.""","""9 Jan.""",incorrect,
+Num_3_16_01_1770,baptised,date.normalised,"""6 January""","""9 January""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Weiser here""",spurious,father
+Num_3_16_01_1770,baptised,person.given_name,"""Sebastian""","""Andreas""",incorrect,subject
+Num_3_16_01_1770,baptised,person.family_name,"""Holzer""","""Liedel""",incorrect,subject
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Hochfürstlich-Taxischer Haußknecht""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""High Prince Taxis House Servant""",spurious,subject
+Num_3_16_01_1770,baptised,date.verbatim,"""Den 8.""","""8. Walburga""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Kutscher bey Sr. Excell. Herrn Grafen von der Wall""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Coachman for Excell. Lord Count of Wall""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Coachman for Excell. Lord Count of Wall""",spurious,father
+Num_3_16_01_1770,baptised,date.verbatim,"""Den 10.""","""10. Sebastian""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Rothgerber-Geselle und Weysgerer allhier""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Leather Worker Apprentice and Weiser here""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Leather Worker Apprentice and Weiser here""",spurious,father
+Num_3_16_01_1770,baptised,date.verbatim,"""Eod. die""","""10. Maria Josepha""",incorrect,
+Num_3_16_01_1770,baptised,person.occupation_verbatim,null,"""Hochfürstlich-Taxi""",spurious,subject
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""High Prince Taxis""",spurious,subject
+Num_3_16_01_1770,baptised,person.given_name,"""Josephus""","""Hr.""",incorrect,father
+Num_3_16_01_1770,baptised,person.family_name,"""Douschmolein""","""Josephus""",incorrect,father
+Num_3_16_01_1770,baptised,person.occupation_verbatim,"""Hochfürstlich-Taxischer Musicus""","""Douschmolein""",incorrect,father
+Num_3_16_01_1770,baptised,person.occupation_normalised,null,"""Douschmolein""",spurious,father
+Num_3_16_01_1770,buried,date.verbatim,"""Eod. die""","""12. Barbara Frankne""",incorrect,
+Num_3_16_01_1770,buried,date.normalised,"""10 January""","""12 January""",incorrect,
+Num_3_16_01_1770,buried,age.age_days,21900,2190,incorrect,
+Num_3_16_01_1770,buried,person.occupation_verbatim,null,"""lebisen Stande""",spurious,subject
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""living Status""",spurious,subject
+Num_3_16_01_1770,buried,date.verbatim,"""Eod. die""","""12. Catharina""",incorrect,
+Num_3_16_01_1770,buried,date.normalised,"""10 January""","""12 January""",incorrect,
+Num_3_16_01_1770,buried,age.verbatim,"""6 Jahr alt""",null,missing,
+Num_3_16_01_1770,buried,age.age_days,2190,null,missing,
+Num_3_16_01_1770,buried,person.occupation_verbatim,null,"""Beynsiker allhier""",spurious,subject
+Num_3_16_01_1770,buried,person.occupation_normalised,null,"""Beynsiker here""",spurious,subject
+Num_3_16_01_1770,arrivals_departures,gate,"""Zur steinernen Brucke herein""","""Per Amberger ord. Kutsche""",incorrect,
+Num_3_16_01_1770,arrivals_departures,direction,"""herein""",null,missing,
+Num_3_16_01_1770,arrivals_departures,lodging,"""Türken""",null,missing,
+Num_3_16_01_1770,arrivals_departures,s_value.verbatim,null,"""Türken""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.occupation_verbatim,null,"""von Sambach""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.occupation_normalised,null,"""from Sambach""",spurious,
+Num_3_16_01_1770,arrivals_departures,gate,"""Zur steinernen Brucke herein""","""Per Calesch""",incorrect,
+Num_3_16_01_1770,arrivals_departures,direction,"""herein""",null,missing,
+Num_3_16_01_1770,arrivals_departures,lodging,"""3 Helmen""",null,missing,
+Num_3_16_01_1770,arrivals_departures,s_value.verbatim,"""f. 2.""","""2.""",incorrect,
+Num_3_16_01_1770,arrivals_departures,s_value.value,2,null,missing,
+Num_3_16_01_1770,arrivals_departures,person.given_name,null,"""Tit.""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.occupation_verbatim,"""Land-Richter-Amtscornmissair""","""Land-Richter-Amtscornmissair von Reuburg am Walb""",incorrect,
+Num_3_16_01_1770,arrivals_departures,person.occupation_normalised,null,"""Land-Richter-Amtscornmissair from Reuburg am Walb""",spurious,
+Num_3_16_01_1770,arrivals_departures,gate,"""Zur steinernen Brucke herein""","""Per Kutsche""",incorrect,
+Num_3_16_01_1770,arrivals_departures,direction,"""herein""",null,missing,
+Num_3_16_01_1770,arrivals_departures,origin,null,"""Amberg""",spurious,
+Num_3_16_01_1770,arrivals_departures,lodging,"""weissen Lamm""","""6.""",incorrect,
+Num_3_16_01_1770,arrivals_departures,s_value.verbatim,"""f. 6.""","""log. in weissen Lamm""",incorrect,
+Num_3_16_01_1770,arrivals_departures,s_value.value,6,null,missing,
+Num_3_16_01_1770,arrivals_departures,person.given_name,null,"""S. T.""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.occupation_normalised,null,"""Bavarian Chief Officer""",spurious,
+Num_3_16_01_1770,arrivals_departures,direction,"""passiren durch""","""Pferde""",incorrect,
+Num_3_16_01_1770,arrivals_departures,time,null,"""Vormittags""",spurious,
+Num_3_16_01_1770,arrivals_departures,s_value.verbatim,null,"""2.""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.given_name,null,"""Hr.""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.occupation_normalised,null,"""Merchants from Amergan""",spurious,
+Num_3_16_01_1770,arrivals_departures,gate,"""Zur steinernen Brucke herein""","""Zu Füsz""",incorrect,
+Num_3_16_01_1770,arrivals_departures,direction,"""herein""",null,missing,
+Num_3_16_01_1770,arrivals_departures,transport,"""Zu Füsz""",null,missing,
+Num_3_16_01_1770,arrivals_departures,person.given_name,"""Joseph""","""Joseph Abraham""",incorrect,
+Num_3_16_01_1770,arrivals_departures,person.occupation_verbatim,null,"""ein Jude von Sulzburg""",spurious,
+Num_3_16_01_1770,arrivals_departures,person.occupation_normalised,null,"""a Jew from Sulzburg""",spurious,

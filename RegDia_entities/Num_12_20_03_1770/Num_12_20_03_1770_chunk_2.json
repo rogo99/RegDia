@@ -1,0 +1,511 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "11 Merz",
+                "normalised": "11 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Baron von Kleistenthal",
+                "occupation_verbatim": "Churbayerischer Obristwaschmeister",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "S.T.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Merz",
+                "normalised": "11 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Frau",
+                "family_name": "von Bauer",
+                "occupation_verbatim": "Hofrath Reichardsen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Cham",
+            "lodging": "Bischofshof",
+            "s_value": {
+                "verbatim": "Tic.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Esern",
+                "occupation_verbatim": "Kaufmann von Wien",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 Merz",
+                "normalised": "14 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "D. Plez",
+                "occupation_verbatim": "von Straubing",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Merz",
+                "normalised": "15 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Kesner",
+                "occupation_verbatim": "Handelsmann von Nurnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Nurnberg",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Joh.",
+                "family_name": "Engelmayer",
+                "occupation_verbatim": "Hafnermeister von Crems",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Crem",
+            "lodging": "Spiegel",
+            "s_value": {
+                "verbatim": "Joh.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Jo:",
+                "family_name": "Joseph Lichtel",
+                "occupation_verbatim": "Weißgerber von Füllburg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Füllburg",
+            "lodging": "weissen Roß",
+            "s_value": {
+                "verbatim": "Jo:",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Merz",
+                "normalised": "10 March"
+            },
+            "gate": null,
+            "direction": "Ostenchore hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Baron von Wersche",
+                "occupation_verbatim": "Regierungsrath von Strau",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "S. T.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": "Ostenchore hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "von Ruberner",
+                "occupation_verbatim": "Churbayerischer Obristlieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 Merz",
+                "normalised": "14 March"
+            },
+            "gate": null,
+            "direction": "Ostenchore hinaus",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Berghammer",
+                "occupation_verbatim": "Pfarrer von Wolferkessen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Herr",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Merz",
+                "normalised": "15 March"
+            },
+            "gate": null,
+            "direction": "Ostenchore hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "von Bauer",
+                "occupation_verbatim": "Hofrath Reichardsen",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Cham",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "17 Merz",
+                "normalised": "17 March"
+            },
+            "gate": null,
+            "direction": "Ostenchore hinaus",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Straubinger ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Herr",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "11 Merz",
+                "normalised": "11 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Münchner",
+                "family_name": "Postwagen",
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "5 8 Uhr",
+                "value": "17:00"
+            },
+            "transport": "Postal",
+            "origin": "Munich",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Münchner",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Breinlicht",
+                "occupation_verbatim": "Kaufmann von Bayreuth",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Bayreuth",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Merz",
+                "normalised": "13 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Landshuter ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Landshut",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "14 Merz",
+                "normalised": "14 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Lanse",
+                "occupation_verbatim": "Jurist von Ingolstadt",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Ingolstadt",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Merz",
+                "normalised": "15 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Trachter",
+                "occupation_verbatim": "Bedienter von Ihr Königl. Hoheit Prinz Carl",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Vienna",
+            "lodging": "weissen Roß",
+            "s_value": {
+                "verbatim": "Msr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Dazdorf",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "11 Uhr",
+                "value": "11:00"
+            },
+            "transport": "Postal",
+            "origin": "Nuremberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Moser",
+                "occupation_verbatim": "Kaufmann von Nürnberg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Nuremberg",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            },
+            "gate": null,
+            "direction": "Weyh St. Peterchore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Lanse",
+                "occupation_verbatim": "Jurist von Ingolstadt",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Postal",
+            "origin": "Ingolstadt",
+            "lodging": "Türken",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "10 Merz",
+                "normalised": "10 March"
+            },
+            "gate": null,
+            "direction": "Jacoberthore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Augspurger ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": "Augsburg",
+            "lodging": "goldenen Bären",
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "15 Merz",
+                "normalised": "15 March"
+            },
+            "gate": null,
+            "direction": "Jacoberthore herein",
+            "person": {
+                "given_name": "Caspar",
+                "family_name": "Capo",
+                "occupation_verbatim": "Barometerhändler",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Zu Fuß",
+            "origin": null,
+            "lodging": "rothen Stern",
+            "s_value": {
+                "verbatim": "Caspar",
+                "value": null
+            }
+        }
+    ],
+    "id": "1770-03-20_Num_12",
+    "source": {
+        "issue_date": "1770-03-20",
+        "issue_number": "Num. 12",
+        "canvases": [
+            99,
+            100,
+            101,
+            102
+        ]
+    }
+}

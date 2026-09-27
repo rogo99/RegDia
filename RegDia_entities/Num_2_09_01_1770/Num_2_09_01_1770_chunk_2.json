@@ -1,0 +1,588 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "30 Dec.",
+                "normalised": "30 December"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Barou von Breck",
+                "occupation_verbatim": "Cavalier von Hessen-Darmstadt"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "31.",
+                "normalised": "31 December"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Kollmann",
+                "occupation_verbatim": "Secretair bey Tit."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Tit. Herr von Thalhoffen",
+            "lodging": "schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "1 Jan.",
+                "normalised": "1 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Weiz",
+                "occupation_verbatim": "Churfälzischer Major"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "2. paßiren durch",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "2.",
+                "normalised": "2 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Straubinger ord."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "2.",
+                "normalised": "2 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bierbauer",
+                "occupation_verbatim": "Schiffmeister von Hafnerszell"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "weis-sen Hahm"
+        },
+        {
+            "date": {
+                "verbatim": "4.",
+                "normalised": "4 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Mauerer",
+                "occupation_verbatim": "Juriste von Passau"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "5.",
+                "normalised": "5 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Straubinger ord."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "schwarzen Bären"
+        },
+        {
+            "date": {
+                "verbatim": "2 Jan.",
+                "normalised": "2 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore hinaus",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Baron von Gleisenthal",
+                "occupation_verbatim": "Churbayerischer Obriß Wachtmeister"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "3.",
+                "normalised": "3 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Straubinger ord."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": "Ostenhore hinaus",
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Hufschmid",
+                "occupation_verbatim": "Churbayerischer Secretair von München"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "Per Calesch",
+                "normalised": "Per Calesch"
+            },
+            "gate": null,
+            "direction": "Ostenhore hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Herr von Holleben",
+                "occupation_verbatim": "Hochfürstlich - Schwarzburg - Rudel städtischer Geh. Rath"
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "6.",
+                "normalised": "6 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Straubinger ord."
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "30 Dec.",
+                "normalised": "30 December"
+            },
+            "gate": null,
+            "direction": "Weih St. Peterhore herein",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Seibersdorf",
+                "occupation_verbatim": "Commendant von Amberg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "2. pasiren durch",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "1 Jan.",
+                "normalised": "1 January"
+            },
+            "gate": null,
+            "direction": "Weih St. Peterhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Münchner Postwagen",
+                "occupation_verbatim": null
+            },
+            "time": {
+                "verbatim": "½ 9 Uhr",
+                "normalised": "half past 9 o'clock"
+            },
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": "Türken"
+        },
+        {
+            "date": {
+                "verbatim": "2.",
+                "normalised": "2 January"
+            },
+            "gate": null,
+            "direction": "Weih St. Peterhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Dingelsfinger Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken"
+        },
+        {
+            "date": {
+                "verbatim": "3.",
+                "normalised": "3 January"
+            },
+            "gate": null,
+            "direction": "Weih St. Peterhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Ingolstädtter Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "Türken"
+        },
+        {
+            "date": {
+                "verbatim": "4.",
+                "normalised": "4 January"
+            },
+            "gate": null,
+            "direction": "Weih St. Peterhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Münchner Postwagen",
+                "occupation_verbatim": null
+            },
+            "time": {
+                "verbatim": "7 Uhr",
+                "normalised": "7 o'clock"
+            },
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "5.",
+                "normalised": "5 January"
+            },
+            "gate": null,
+            "direction": "Weih St. Peterhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Landshuter Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen"
+        },
+        {
+            "date": {
+                "verbatim": "21 Dec. 1769.",
+                "normalised": "21 December 1769"
+            },
+            "gate": null,
+            "direction": "E. Hochansehnl. Reichs-Convent",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Philipp Wilhelm Freyherr Linker von Luxenwick",
+                "occupation_verbatim": "Excell. Churfürstl. Maynzischer würl. Conferenz-Minister und Reichs-Directorial-Gesandter"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "23 Dec.",
+                "normalised": "23 December"
+            },
+            "gate": null,
+            "direction": "E. Hochansehnl. Reichs-Convent",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Ignaz Anton Friederich Freyherr von Dextle auf Friedenberg",
+                "occupation_verbatim": "Excell. Kraft Voll macht"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "1 Jan.",
+                "normalised": "1 January"
+            },
+            "gate": null,
+            "direction": "Mewh St.Peterhore hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schiermann",
+                "occupation_verbatim": "Handelsmann aus Holland"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "3",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "3.",
+                "normalised": "3 January"
+            },
+            "gate": null,
+            "direction": "Mewh St.Peterhore hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Sodua",
+                "occupation_verbatim": "Handelsmann aus Paris"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "2",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "4.",
+                "normalised": "4 January"
+            },
+            "gate": null,
+            "direction": "Mewh St.Peterhore hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Busch",
+                "occupation_verbatim": "Kaufmann von Augspurg"
+            },
+            "time": null,
+            "transport": "Münchner Postwagen",
+            "origin": "4½ Uhr",
+            "lodging": "Bormittags"
+        },
+        {
+            "date": {
+                "verbatim": "4.",
+                "normalised": "4 January"
+            },
+            "gate": null,
+            "direction": "Mewh St.Peterhore hinaus",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Wiener Postwagen",
+                "occupation_verbatim": null
+            },
+            "time": {
+                "verbatim": "4½ Uhr",
+                "normalised": "half past 4"
+            },
+            "transport": "Postwagen",
+            "origin": "4½ Uhr",
+            "lodging": "Nachmittags"
+        },
+        {
+            "date": {
+                "verbatim": "6.",
+                "normalised": "6 January"
+            },
+            "gate": null,
+            "direction": "Mewh St.Peterhore hinaus",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Landshuter Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "4.",
+                "normalised": "4 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Seibersdorf",
+                "occupation_verbatim": "Commendant von Amberg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "2. pasiren durch",
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "1 Jan.",
+                "normalised": "1 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Münchner Postwagen",
+                "occupation_verbatim": null
+            },
+            "time": {
+                "verbatim": "½ 9 Uhr",
+                "normalised": "half past 9 o'clock"
+            },
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": "Türken"
+        },
+        {
+            "date": {
+                "verbatim": "2.",
+                "normalised": "2 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Dingelsfinger Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Türken"
+        },
+        {
+            "date": {
+                "verbatim": "3.",
+                "normalised": "3 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Ingolstädtter Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Kutsche",
+            "origin": null,
+            "lodging": "Türken"
+        },
+        {
+            "date": {
+                "verbatim": "4.",
+                "normalised": "4 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Münchner Postwagen",
+                "occupation_verbatim": null
+            },
+            "time": {
+                "verbatim": "7 Uhr",
+                "normalised": "7 o'clock"
+            },
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null
+        },
+        {
+            "date": {
+                "verbatim": "5.",
+                "normalised": "5 January"
+            },
+            "gate": null,
+            "direction": "Ostenhore herein",
+            "person": {
+                "given_name": "Der",
+                "family_name": "Landshuter Bothe",
+                "occupation_verbatim": "Landshuter Bothe"
+            },
+            "time": null,
+            "transport": "Wagen",
+            "origin": null,
+            "lodging": "Pfauen"
+        },
+        {
+            "date": {
+                "verbatim": "21 Dec. 1769.",
+                "normalised": "21 December 1769"
+            },
+            "gate": null,
+            "direction": "E. Hochansehnl. Reichs-Convent",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Philipp Wilhelm Freyherr Linker von Luxenwick",
+                "occupation_verbatim": "Excell. Churfürstl. Maynzischer würl. Conferenz-Minister und Reichs-Directorial-Gesandter"
+            },
+            "time": "Kraft Voll macht",
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": "3 Helmen"
+        },
+        {
+            "date": {
+                "verbatim": "23 Dec.",
+                "normalised": "23 December"
+            },
+            "gate": null,
+            "direction": "E. Hochansehnl. Reichs-Convent"
+        }
+    ],
+    "id": "1770-01-09_Num_2",
+    "source": {
+        "issue_date": "1770-01-09",
+        "issue_number": "Num. 2",
+        "canvases": [
+            19,
+            20,
+            21,
+            22
+        ]
+    }
+}

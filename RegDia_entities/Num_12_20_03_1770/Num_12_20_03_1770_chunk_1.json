@@ -1,0 +1,644 @@
+{
+    "evangelisch": {
+        "parishes": [
+            {
+                "name": "Hochfürstl. Hessen-Casselischen Comitialgesandten",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Merz",
+                            "normalised": "12 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Caspar",
+                                "family_name": "Küstner",
+                                "occupation_verbatim": "Bedienter bey des Hochfürstl. Hessen-Casselischen Comitialgesandten",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": null,
+                                "family_name": "Anna Catharina",
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "12 Merz",
+                            "normalised": "12 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Tobias",
+                                "family_name": "Rosock",
+                                "occupation_verbatim": "Burger und E. C. Haunzgerichts Assell",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": [
+                    {
+                        "date": {
+                            "verbatim": "11 Merz",
+                            "normalised": "11 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Regina Magdalena",
+                                "family_name": "Watter",
+                                "occupation_verbatim": "Watter",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Christoph",
+                                "family_name": "Breitig",
+                                "occupation_verbatim": "Burger",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ]
+            },
+            {
+                "name": "Löbl. Omr. Stadtgarde",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "12 Merz",
+                            "normalised": "12 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Anna Susanna",
+                                "family_name": null,
+                                "occupation_verbatim": "Vater, Johann Wilhelm Meyer, Grenadier",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johann Wilhelm",
+                                "family_name": "Meyer",
+                                "occupation_verbatim": "Grenadier in hiesiger Löbl. Omr. Stadtgarde",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Bayreuthischen",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "13 Merz",
+                            "normalised": "13 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Michael",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Joh. Caspar",
+                                "family_name": "Müller",
+                                "occupation_verbatim": "Devisiker und Steinbrecher",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Bayreuthischen",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "15 Merz",
+                            "normalised": "15 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Stephan",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "M. Johann",
+                                "family_name": "Diener",
+                                "occupation_verbatim": "Burger, Huf- und Waffenschmidt",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            },
+            {
+                "name": "Hochfürstl. Bayreuthischen",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "16 Merz",
+                            "normalised": "16 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Georg",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Gregorius",
+                                "family_name": "Prandel",
+                                "occupation_verbatim": "Tagewerker",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "catholisch": {
+        "parishes": [
+            {
+                "name": "Dom- und Stadt-Pfarr zu St. Ulrich",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "11 Merz",
+                            "normalised": "11 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Nepomucennus",
+                                "family_name": "Antonius",
+                                "occupation_verbatim": "Bater",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Albertus Anton",
+                                "family_name": "Briefträger",
+                                "occupation_verbatim": "Briefträger allhier",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "14 Merz",
+                            "normalised": "14 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Nepomucenus",
+                                "family_name": "Josephus",
+                                "occupation_verbatim": "Bater",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Josephus",
+                                "family_name": "Steger",
+                                "occupation_verbatim": "Zimmergeselle und Beysitzer",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    },
+                    {
+                        "date": {
+                            "verbatim": "16 Merz",
+                            "normalised": "16 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Georg Matthias",
+                                "family_name": "Bater",
+                                "occupation_verbatim": "Franciscus Forstner",
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus",
+                                "family_name": "Forstner",
+                                "occupation_verbatim": "Musicaute und Beysitzer",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "16 Merz",
+                            "normalised": "16 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johann Baptist",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Lorenz",
+                                "family_name": "Seitel",
+                                "occupation_verbatim": "Beysitzer zu Stadt am Hof",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Obern Stadt-Pfarr zu St. Ruprech",
+                "baptised": [],
+                "buried": [
+                    {
+                        "date": {
+                            "verbatim": "14 Merz",
+                            "normalised": "14 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johannes Josephus",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Franciscus Ludovicius",
+                                "family_name": "Greif",
+                                "occupation_verbatim": "Pfeisser in hiesiger Stadtgarde",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "deaths": []
+            },
+            {
+                "name": "Burger-Pfarr St. Casian",
+                "baptised": [
+                    {
+                        "date": {
+                            "verbatim": "8 Merz",
+                            "normalised": "8 March"
+                        },
+                        "persons": [
+                            {
+                                "role": "subject",
+                                "given_name": "Johanna Margaretha",
+                                "family_name": null,
+                                "occupation_verbatim": null,
+                                "occupation_normalised": null
+                            },
+                            {
+                                "role": "father",
+                                "given_name": "Johannes",
+                                "family_name": "Preiß",
+                                "occupation_verbatim": "Innwohner",
+                                "occupation_normalised": null
+                            }
+                        ],
+                        "age": null
+                    }
+                ],
+                "buried": [],
+                "deaths": []
+            }
+        ]
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "11 Merz",
+                "normalised": "11 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Leißner",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Spigenhändler",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Posta",
+            "origin": "Sachsen",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "pakis ret durch",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Fleischmann",
+                "family_name": "Herr",
+                "occupation_verbatim": "Pfleger",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Kutsche",
+            "origin": "Parsperg",
+            "lodging": "4 log. in 3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Stöckel",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Kaufmann",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "Weyden",
+            "lodging": "2 log. in Poshorn",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kraus",
+                "family_name": "Peter",
+                "occupation_verbatim": "Weyhranchhändler",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "zu Fuß",
+            "origin": "Hessendarmstadt",
+            "lodging": "2 log. in der blauen Lilie",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Bulling",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Beneficiat",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Amberger ord. Kutsche",
+            "origin": "Steinfelsz",
+            "lodging": "log. in Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Baumgärzel",
+                "family_name": "Christoph",
+                "occupation_verbatim": "Handelsman",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": "Sachsen",
+            "lodging": "2 log. in gol denen Greif",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "12 Merz",
+                "normalised": "12 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Schelf",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Mahler",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": "München",
+            "lodging": "log. in schwarzen Bären",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Merz",
+                "normalised": "13 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Nürnberger",
+                "family_name": "ord.",
+                "occupation_verbatim": "Landkutsche",
+                "occupation_normalised": null
+            },
+            "time": "4½ Uhr, Vormittags",
+            "transport": "zu Pferde",
+            "origin": "Roth",
+            "lodging": "log. in Burbaum",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Merz",
+                "normalised": "13 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Pittelmayer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "goldener Trauben-Wirth",
+                "occupation_normalised": null
+            },
+            "time": "Vormittags",
+            "transport": "Postcalesch",
+            "origin": "Bayreuth",
+            "lodging": "3 Helmen",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Merz",
+                "normalised": "13 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Kurz",
+                "family_name": "Jacob",
+                "occupation_verbatim": "Handelsleute",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "zu Pferde",
+            "origin": "Roth",
+            "lodging": "log. in Burbaum",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "13 Merz",
+                "normalised": "13 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Müllerin",
+                "family_name": "Frau",
+                "occupation_verbatim": "gewesene Gerichtsschreiberin",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Amberger ord. Kutsche",
+            "origin": "Renburg am Wald",
+            "lodging": "log. in schwarzen Bären, s. 2. der Bothe log. in Türken",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Marcus",
+                "family_name": "David",
+                "occupation_verbatim": "Jude",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "zu Pferde",
+            "origin": "Fürth",
+            "lodging": "log. beym Gumperz",
+            "s_value": {
+                "verbatim": null,
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "16 Merz",
+                "normalised": "16 March"
+            }
+        }
+    ],
+    "id": "1770-03-20_Num_12",
+    "source": {
+        "issue_date": "1770-03-20",
+        "issue_number": "Num. 12",
+        "canvases": [
+            95,
+            96,
+            97,
+            98
+        ]
+    }
+}

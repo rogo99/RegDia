@@ -1,0 +1,562 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "26. Per Calesch",
+                "normalised": "26. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Meyershifer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Schweinau",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "2e.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "27. Zu Fuß",
+                "normalised": "27. Zu Fuß"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "3 Königl Preussische Unterofficiers",
+                "family_name": null,
+                "occupation_verbatim": null,
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": null,
+            "origin": null,
+            "lodging": "7 Mann Recouten",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27. Per ord. Postwagen",
+                "normalised": "27. Per ord. Postwagen"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Mrz. Wüstenfeld",
+                "family_name": "Kayserl Feldscheerer",
+                "occupation_verbatim": "Kayserl Feldscheerer",
+                "occupation_normalised": "Kayserl Feldscheerer"
+            },
+            "time": null,
+            "transport": "Postwagen",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. per Posta",
+                "normalised": "28. per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Vnzingier",
+                "family_name": "Kayserl Courier",
+                "occupation_verbatim": "Kayserl Courier",
+                "occupation_normalised": "Kayserl Courier"
+            },
+            "time": {
+                "verbatim": "um ½ 7 Uhr",
+                "normalised": "um ½ 7 Uhr"
+            },
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29. per Posta",
+                "normalised": "29. per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Durchl. Fürst von Fürtenberg",
+                "family_name": "2e. S. 9",
+                "occupation_verbatim": "Se. Durchl. Fürst von Fürtenberg",
+                "occupation_normalised": "Se. Durchl. Fürst von Fürtenberg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26 Julii",
+                "normalised": "26 Julii"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Liz. Herr von Dreer",
+                "family_name": "Landrichter von Neuburg am Wald",
+                "occupation_verbatim": "Landrichter von Neuburg am Wald",
+                "occupation_normalised": "Landrichter von Neuburg am Wald"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. per Posta",
+                "normalised": "28. per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Vnzingier",
+                "family_name": "Kayserl Courier",
+                "occupation_verbatim": "Kayserl Courier",
+                "occupation_normalised": "Kayserl Courier"
+            },
+            "time": {
+                "verbatim": "um ½ 7 Uhr",
+                "normalised": "um ½ 7 Uhr"
+            },
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29. per Posta",
+                "normalised": "29. per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Se. Durchl. Fürst von Fürtenberg",
+                "family_name": "2e. S. 9",
+                "occupation_verbatim": "Se. Durchl. Fürst von Fürtenberg",
+                "occupation_normalised": "Se. Durchl. Fürst von Fürtenberg"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23 Julii",
+                "normalised": "23 Julii"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Baron von Hindeler",
+                "family_name": "Kayserl Hauptmann",
+                "occupation_verbatim": "Kayserl Hauptmann",
+                "occupation_normalised": "Kayserl Hauptmann"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Ulm",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29. Johann Lobensommer",
+                "normalised": "29. Johann Lobensommer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Johann Lobensommer",
+                "family_name": "von Salzburg",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Salzburg",
+            "lodging": "Schleisfeinen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26 Julii",
+                "normalised": "26 Julii"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian Laurer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Wolfgang Raimer",
+                "normalised": "28. Wolfgang Raimer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Wolfgang Raimer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Passau",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "29. Paul Matthias Raimer",
+                "normalised": "29. Paul Matthias Raimer"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Paul Matthias Raimer",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Handelsmann",
+                "occupation_normalised": "Handelsmann"
+            },
+            "time": null,
+            "transport": null,
+            "origin": "Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23. Per Calesch",
+                "normalised": "23. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tir. Herr von Fallbach",
+                "family_name": "Beneficiar von Falkenstein",
+                "occupation_verbatim": "Beneficiar von Falkenstein",
+                "occupation_normalised": "Beneficiar von Falkenstein"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "24. Per Calesch",
+                "normalised": "24. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tir. Herr von Dossy",
+                "family_name": "Königlich-Pohlrischer Capitain",
+                "occupation_verbatim": "Königlich-Pohlrischer Capitain",
+                "occupation_normalised": "Königlich-Pohlrischer Capitain"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26. Per Calesch",
+                "normalised": "26. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Euersdorfer",
+                "family_name": "Deutschreiber von Straubing",
+                "occupation_verbatim": "Deutschreiber von Straubing",
+                "occupation_normalised": "Deutschreiber von Straubing"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "27. Per Calesch",
+                "normalised": "27. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Thanqueneti",
+                "family_name": "Kaufmann von Mayland",
+                "occupation_verbatim": "Kaufmann von Mayland",
+                "occupation_normalised": "Kaufmann von Mayland"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23. Per Posta",
+                "normalised": "23. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Pat. Placitus",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Posta",
+                "normalised": "25. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Philipp",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26. Per Posta",
+                "normalised": "26. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T. Herr Graf von Fugger",
+                "family_name": "Domherr von Freysing",
+                "occupation_verbatim": "Domherr von Freysing",
+                "occupation_normalised": "Domherr von Freysing"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Calesch",
+                "normalised": "12. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Feydler",
+                "family_name": "Kaufmann von Nurnberg",
+                "occupation_verbatim": "Kaufmann von Nurnberg",
+                "occupation_normalised": "Kaufmann von Nurnberg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Calesch",
+                "normalised": "28. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tir. Herr von Fallbach",
+                "family_name": "Beneficiar von Falkenstein",
+                "occupation_verbatim": "Beneficiar von Falkenstein",
+                "occupation_normalised": "Beneficiar von Falkenstein"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23. Per Posta",
+                "normalised": "23. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Pat. Placitus",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "25. Per Posta",
+                "normalised": "25. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Philipp",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "26. Per Posta",
+                "normalised": "26. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T. Herr Graf von Fugger",
+                "family_name": "Domherr von Freysing",
+                "occupation_verbatim": "Domherr von Freysing",
+                "occupation_normalised": "Domherr von Freysing"
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "12. Per Calesch",
+                "normalised": "12. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr. Feydler",
+                "family_name": "Kaufmann von Nurnberg",
+                "occupation_verbatim": "Kaufmann von Nurnberg",
+                "occupation_normalised": "Kaufmann von Nurnberg"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "28. Per Calesch",
+                "normalised": "28. Per Calesch"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tir. Herr von Fallbach",
+                "family_name": "Beneficiar von Falkenstein",
+                "occupation_verbatim": "Beneficiar von Falkenstein",
+                "occupation_normalised": "Beneficiar von Falkenstein"
+            },
+            "time": null,
+            "transport": "Calesch",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "23. Per Posta",
+                "normalised": "23. Per Posta"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr Pat. Placitus",
+                "family_name": "Hr.",
+                "occupation_verbatim": "Hr.",
+                "occupation_normalised": "Hr."
+            },
+            "time": null,
+            "transport": "Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        }
+    ],
+    "id": "1770-07-31_Num_31",
+    "source": {
+        "issue_date": "1770-07-31",
+        "issue_number": "Num. 31",
+        "canvases": [
+            247,
+            248,
+            249,
+            250
+        ]
+    }
+}

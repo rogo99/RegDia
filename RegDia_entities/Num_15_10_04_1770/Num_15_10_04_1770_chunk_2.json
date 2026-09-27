@@ -1,0 +1,227 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 1 April.",
+                "normalised": "1 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Stuber",
+                "occupation_verbatim": "Capellân von Hazendorf",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "zu Fuß",
+            "origin": null,
+            "lodging": "in 3 Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Wagen",
+                "normalised": "2 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Bothe",
+                "occupation_verbatim": "Augspurger ord.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Wagen",
+            "origin": "Augspurg",
+            "lodging": "in goldenen Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6. Per Posta",
+                "normalised": "6 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Schwabe",
+                "occupation_verbatim": "Kaufmann von Augspurg",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Augspurg",
+            "lodging": "in gold. Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2. Per Posta",
+                "normalised": "2 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "von Breuz",
+                "occupation_verbatim": "Hochfürstlich-Tarischer Hoseavalier",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "f. s.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3. Per Rutschen",
+                "normalised": "3 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "hinaus",
+            "person": {
+                "given_name": "Se. Excell.",
+                "family_name": "Graf von der Wall",
+                "occupation_verbatim": "Churbayerischer Comis-tialgesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Rutschen",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ze. f. 8.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 5. Per Posta",
+                "normalised": "5 April"
+            },
+            "gate": "Jacoberthore",
+            "direction": "herein",
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "von Nied",
+                "occupation_verbatim": "Kaysertl. General",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "ze. f. 6.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Per Posta",
+                "normalised": "5 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Herr",
+                "family_name": "Cajoni",
+                "occupation_verbatim": "Kaysertl. Schildeourier",
+                "occupation_normalised": null
+            },
+            "time": {
+                "verbatim": "um 7½ Uhr",
+                "normalised": "7:30 Uhr",
+                "value": "7.5"
+            },
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 3 r Merz",
+                "normalised": "3 March"
+            },
+            "gate": "Weinchore",
+            "direction": "herein",
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Wagner",
+                "occupation_verbatim": "Marggräflsche-Brandenburg-Onolzbachischer Stallmeister",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Donawöhrt",
+            "origin": "Donawöhrt",
+            "lodging": "in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 2 April",
+                "normalised": "2 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "de Visme",
+                "occupation_verbatim": "Königl. Englischer Gesandter",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Hilm",
+            "origin": "Hilm",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "s. z.",
+                "value": null
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 3.",
+                "normalised": "3 April"
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S. T.",
+                "family_name": "Baron von Heib",
+                "occupation_verbatim": "rc. und 3 Tic.",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Donawöhrt",
+            "origin": "Donawöhrt",
+            "lodging": "in Spiegel",
+            "s_value": null
+        }
+    ],
+    "id": "1770-04-10_Num_15",
+    "source": {
+        "issue_date": "1770-04-10",
+        "issue_number": "Num. 15",
+        "canvases": [
+            123,
+            124,
+            125,
+            126
+        ]
+    }
+}

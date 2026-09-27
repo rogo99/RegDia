@@ -1,0 +1,435 @@
+{
+    "evangelisch": {
+        "parishes": []
+    },
+    "catholisch": {
+        "parishes": []
+    },
+    "arrivals_departures": [
+        {
+            "date": {
+                "verbatim": "Den 7.",
+                "normalised": "7."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Nell",
+                "occupation_verbatim": "Hochfürstlich-Ebayenbergsche Serres-tair",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Die",
+                "family_name": "Nurnberger",
+                "occupation_verbatim": "ord. Landkutsche",
+                "occupation_normalised": null
+            },
+            "time": "um 3 Uhr",
+            "transport": "Vormittags",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Rosenberg",
+                "occupation_verbatim": "Konigl. Französischer Major",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": "2."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den ro.",
+                "normalised": "10."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Francka",
+                "occupation_verbatim": "Churfürstl Rath von München",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per ord. Postwagen nach Nürnberg",
+            "origin": "Herr Bauer, ein Juriffe von Wien",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Marquard",
+                "occupation_verbatim": "Hochfürstlich Fürstenbergischer Stallmeister",
+                "occupation_normalised": null
+            },
+            "time": "Zu Pferde",
+            "transport": null,
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joh.",
+                "family_name": "Leckler",
+                "occupation_verbatim": "ein Körbehandler aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": "Zu Fuß",
+            "transport": "Per Wagen, der Landshter ord. Bothe",
+            "origin": null,
+            "lodging": "log. in Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9 Aug.",
+                "normalised": "9 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Paul",
+                "family_name": "Ziegler",
+                "occupation_verbatim": "Herr van Gohl, und Herrn van Falkenstein",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Kaufleute aus Holland",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Herrn van Gohl, und Herrn van Falkenstein",
+                "value": "5."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Christian",
+                "family_name": "Laurer",
+                "occupation_verbatim": "Tit. Herr von Steinheil",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Tit. Herr von Steinheil",
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4 Aug.",
+                "normalised": "4 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Fünk",
+                "occupation_verbatim": "Hochgräfisch-Senßheimischer Verwalter",
+                "occupation_normalised": null
+            },
+            "time": "Per Posta",
+            "transport": null,
+            "origin": "Herr Fünk, Hochgräfisch-Senßheimischer Verwalter",
+            "lodging": "log. in schwarzen Adler",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 5.",
+                "normalised": "5."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Moden",
+                "occupation_verbatim": "Hochgräflich-Coblenzischer Cammerdiener",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": "Hr. Moden, Hochgräflich-Coblenzischer Cammerdiener",
+            "lodging": "log. in weissen Lamm",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 6.",
+                "normalised": "6."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Joh.",
+                "family_name": "Leckler",
+                "occupation_verbatim": "ein Körbehandler aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": "Zu Fuß",
+            "transport": "Per Wagen, der Landshter ord. Bothe",
+            "origin": null,
+            "lodging": "log. in Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7 Aug.",
+                "normalised": "7 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Graßer",
+                "occupation_verbatim": "ein Handelsmann von Landshut",
+                "occupation_normalised": null
+            },
+            "time": "Per Münchner Postwagen",
+            "origin": "Hr. Graßer, ein Handelsmann von Landshut",
+            "lodging": "log. in Pfauen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7.",
+                "normalised": "7."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Limbrunn",
+                "occupation_verbatim": "Churbayerischer Hofcamerrath",
+                "occupation_normalised": null
+            },
+            "time": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": "z."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 8.",
+                "normalised": "8."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Klenan",
+                "occupation_verbatim": "Churbayerischer Lieutenant",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Posta",
+            "origin": null,
+            "lodging": null,
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 9.",
+                "normalised": "9."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Lerchenfeld",
+                "occupation_verbatim": "Rentmeister von Straubing",
+                "occupation_normalised": null
+            },
+            "time": "Per Kutsche",
+            "origin": "Tit. Herr von Lerchenfeld, Rentmeister von Straubing",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Tit.",
+                "value": "z."
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Jarka",
+                "occupation_verbatim": "Kaysertl. Oberlietnant vom Staßreinbergsichen Regimente",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Per Calesch",
+            "origin": "Tit. Herr von Jarka, Kaysertl. Oberlietnant vom Staßreinbergsichen Regimente",
+            "lodging": "log. in Türken",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 4 Aug.",
+                "normalised": "4 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Msr.",
+                "family_name": "Otteran",
+                "occupation_verbatim": "ein Kaufmann aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": "Per Calesch",
+            "transport": null,
+            "origin": null,
+            "lodging": "log. in z Helmen",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 7 Aug.",
+                "normalised": "7 Aug."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "S.T.",
+                "family_name": "Herr von Aoelmann",
+                "occupation_verbatim": "Kayseryl. Cammerherr",
+                "occupation_normalised": null
+            },
+            "time": "Per Posta",
+            "origin": "S.T. Herr von Aoelmann, Kayseryl. Cammerherr",
+            "lodging": "log. in weissen Lamm",
+            "s_value": {
+                "verbatim": "S.T.",
+                "value": "4-"
+            }
+        },
+        {
+            "date": {
+                "verbatim": "Den 17.",
+                "normalised": "17."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Marschell",
+                "occupation_verbatim": "Lieutenant aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": "Per Wagen, der Ausspurger ord. Bothe",
+            "origin": "Tit. Herr von Marschell, Lieutenant aus Frankreich",
+            "lodging": "log. in gold. Bären",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 11.",
+                "normalised": "11."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Tit.",
+                "family_name": "Herr von Marschell",
+                "occupation_verbatim": "Lieutenant aus Frankreich",
+                "occupation_normalised": null
+            },
+            "time": null,
+            "transport": "Mit einem Schiffe von Ulm",
+            "origin": "Tit. Herr von Marschell, Lieutenant aus Frankreich",
+            "lodging": "log. in goldenen Adler",
+            "s_value": null
+        },
+        {
+            "date": {
+                "verbatim": "Den 12.",
+                "normalised": "12."
+            },
+            "gate": null,
+            "direction": null,
+            "person": {
+                "given_name": "Hr.",
+                "family_name": "Christian",
+                "occupation_verbatim": "Handelsleute",
+                "occupation_normalised": null
+            },
+            "time": "Per Calesch",
+            "origin": "Hr. Christian, und Comp. Handelsleute",
+            "lodging": null,
+            "s_value": {
+                "verbatim": "Hr.",
+                "value": "4."
+            }
+        }
+    ],
+    "id": "1770-08-14_Num_33",
+    "source": {
+        "issue_date": "1770-08-14",
+        "issue_number": "Num. 33",
+        "canvases": [
+            263,
+            264,
+            265,
+            266
+        ]
+    }
+}
