@@ -1,0 +1,3136 @@
+{
+  "Num_2_09_01_1770": {
+    "issue_id": "Num_2_09_01_1770",
+    "canvases": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "estimated_events": {
+      "baptised": 9,
+      "buried": 14,
+      "deaths": 0,
+      "arrivals_departures": 64
+    },
+    "json_events": {
+      "baptised": 10,
+      "buried": 14,
+      "deaths": 2,
+      "arrivals_departures": 67
+    },
+    "difference_estimated_minus_json": {
+      "baptised": -1,
+      "buried": 0,
+      "deaths": -2,
+      "arrivals_departures": -3
+    },
+    "parish_observations": [
+      {
+        "canvas": 15,
+        "line": 13,
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "In der Evangelischen Gemeinde"
+      },
+      {
+        "canvas": 16,
+        "line": 3,
+        "religion": "catholisch",
+        "parish": "In denen Catholischen Pfarren.",
+        "text": "In denen Catholischen Pfarren."
+      },
+      {
+        "canvas": 16,
+        "line": 4,
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "In der Dom- und Stadt-Pfarr zu St. Ulrich,"
+      },
+      {
+        "canvas": 16,
+        "line": 18,
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "In der Obern Stadt-Pfarr zu St. Ruprecht,"
+      },
+      {
+        "canvas": 17,
+        "line": 2,
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftts-Pfarr, Niedermünster,",
+        "text": "In der Hochfürstl. Reichsftts-Pfarr, Niedermünster,"
+      },
+      {
+        "canvas": 17,
+        "line": 5,
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä, Gestorbene: Den 2 Jan. Thomas Sedelmayer, Musicante allhier.",
+        "text": "Aus der Hochlöbl. Congregation der Verkündigung Mariä, Gestorbene: Den 2 Jan. Thomas Sedelmayer, Musicante allhier."
+      },
+      {
+        "canvas": 17,
+        "line": 13,
+        "religion": "evangelisch",
+        "parish": "In der Dom- und Stad-Pfarr zu St. Ulrich,",
+        "text": "In der Dom- und Stad-Pfarr zu St. Ulrich,"
+      },
+      {
+        "canvas": 17,
+        "line": 17,
+        "religion": "evangelisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "In der Obern Stadt-Pfarr zu St. Ruprecht,"
+      },
+      {
+        "canvas": 17,
+        "line": 21,
+        "religion": "evangelisch",
+        "parish": "In der Hochfürstl. Reichsstrifts-Pfarr, Niedermünster,",
+        "text": "In der Hochfürstl. Reichsstrifts-Pfarr, Niedermünster,"
+      },
+      {
+        "canvas": 17,
+        "line": 25,
+        "religion": "evangelisch",
+        "parish": "In der Hochfürstl. Reichsstrifts-Pfarr, Obermünster,",
+        "text": "In der Hochfürstl. Reichsstrifts-Pfarr, Obermünster,"
+      },
+      {
+        "canvas": 17,
+        "line": 29,
+        "religion": "evangelisch",
+        "parish": "In der uralten Burger-Pfarr St. Cassian,",
+        "text": "In der uralten Burger-Pfarr St. Cassian,"
+      },
+      {
+        "canvas": 17,
+        "line": 35,
+        "religion": "evangelisch",
+        "parish": "Aus der Hochlobl. Congregation der Verkündigung Maria,",
+        "text": "Aus der Hochlobl. Congregation der Verkündigung Maria,"
+      },
+      {
+        "canvas": 17,
+        "line": 37,
+        "religion": "evangelisch",
+        "parish": "Aus der Hochlobl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Aus der Hochlobl. Erz-Bruderschaft Maria von Trost,"
+      }
+    ],
+    "church_observations": [
+      {
+        "canvas": 15,
+        "line": 14,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Getaufete:"
+      },
+      {
+        "canvas": 15,
+        "line": 15,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 2 Jan. Septimus Andreas, Watter, Tit. Herr Heinrich Paul Oppermann, Philoloxiae & Medicinae Doctor Practicus."
+      },
+      {
+        "canvas": 15,
+        "line": 16,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Eod. die, Maria Dorothea, Bater, Wilhelm Christoph Märklein, Burger und Bran-"
+      },
+      {
+        "canvas": 15,
+        "line": 18,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 15,
+        "line": 19,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Eod. die, Anna Maria, 4 Jahr und 15 Wochen alt, Bater, Joh. Wolfgang Bauer,"
+      },
+      {
+        "canvas": 15,
+        "line": 21,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Eod. die, Ein Junggeselle, Rahmens, Johann Georg Mergner, ein Kaufmannsdienner"
+      },
+      {
+        "canvas": 15,
+        "line": 24,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 4. Johann Leonhard, 5 Jahr weniger 26 Wochen und 3 Tage alt, Bater, Georg"
+      },
+      {
+        "canvas": 16,
+        "line": 1,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 4 Jan. Sr. Johaun Schieder, Burger und Kramhändler allhier, 62 Jahr und 22 Wochen alt:"
+      },
+      {
+        "canvas": 16,
+        "line": 2,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 6. Hr. Joh. Gottfried Euslin, Burger und Speereyhändler allhier, 56 Jahr weniger 8 Wochen und 4 Tage alt:"
+      },
+      {
+        "canvas": 16,
+        "line": 5,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Gerauferte:"
+      },
+      {
+        "canvas": 16,
+        "line": 6,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 31 Dec. Elisabetha Theresia, Vater, Thomas Ruttinger, Churbayerischer Res-"
+      },
+      {
+        "canvas": 16,
+        "line": 8,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 2 Jan. Laurentius, Vater, Franciscus Lang, Beyssiger zu Stadt am Hof."
+      },
+      {
+        "canvas": 16,
+        "line": 9,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 5. Anna Maria, Vater, Simon Brann, Beyssiger und Tagewerker zu Stadt am Hof."
+      },
+      {
+        "canvas": 16,
+        "line": 10,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 6. Sebastianus Balthasar, Vater, Michael Grimmer."
+      },
+      {
+        "canvas": 16,
+        "line": 11,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Eod.die. Johann Baptist Caspar, ein unechliches Kind."
+      },
+      {
+        "canvas": 16,
+        "line": 12,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 16,
+        "line": 13,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 2. Andreas, 5 Jahr und 10 Monath alt, Vater, Martinus Hofmann, Beyssiger allhier."
+      },
+      {
+        "canvas": 16,
+        "line": 14,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Eod.die, Jgfr. Theresia Leidlin, Beyssizerin allhier, 68 Jahr alt."
+      },
+      {
+        "canvas": 16,
+        "line": 15,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 6. Jacobus Hueterer, Wittiber und Beyssiger zu Stadt am Hof, 71 Jahr alt."
+      },
+      {
+        "canvas": 16,
+        "line": 16,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Eod.die, Franciscus Xaverius Sylvester, 3 Tage alt, Vater, Franciscus Leonardus Eninger, Bildhauer und Beyssiger allhier."
+      },
+      {
+        "canvas": 16,
+        "line": 17,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St. Ulrich,",
+        "text": "Den 7. Ignatius Brunnbauer, Beyssiger allhier, 60 Jahr alt."
+      },
+      {
+        "canvas": 16,
+        "line": 19,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Gerauferte:"
+      },
+      {
+        "canvas": 16,
+        "line": 20,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Den 20 Dec. Maria Theresia, Vater, Andreas Lobenhofser, Besitzer allhier."
+      },
+      {
+        "canvas": 16,
+        "line": 21,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Den 3 Jan. Josephus Stephanus, Vater, Hr. Franciscus Antonius Weiß, Koch bey Sr. Excell. Herrn Grafen von Hartig, uc."
+      },
+      {
+        "canvas": 16,
+        "line": 22,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 16,
+        "line": 23,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Den 31 Dec. Maria Barbara, 5 Viertel Jahr alt, Vater, Peter Schirmböck, Tages-"
+      },
+      {
+        "canvas": 16,
+        "line": 25,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Den 3 Jan. Johann Georg Reimer, von hier, 27½ Jahr alt."
+      },
+      {
+        "canvas": 17,
+        "line": 1,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Den 3 Jan. Tie. Frau Maria Catharina Masdalena Weiskin, geb. Urfahrerin, Wittis und gewesene Pflegscommisarin in Weir, 70 Jahr alt."
+      },
+      {
+        "canvas": 17,
+        "line": 3,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftts-Pfarr, Niedermünster,",
+        "text": "Geraufet: Den 31 Decr. Maria Eunegunda, Bater, Josephus Saltner, Hochfürstl. Domeapis tulischer Zimmerpallierer."
+      },
+      {
+        "canvas": 17,
+        "line": 4,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftts-Pfarr, Niedermünster,",
+        "text": "Begraben: Den 3 Jan. Thomas Sedlmayer, ledigen Stands, 36 Jahr alt."
+      },
+      {
+        "canvas": 17,
+        "line": 6,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä, Gestorbene: Den 2 Jan. Thomas Sedelmayer, Musicante allhier.",
+        "text": "Den 4. Jacobus Hueterer, Beysitzer zu Stadt am Hof."
+      },
+      {
+        "canvas": 17,
+        "line": 10,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä, Gestorbene: Den 2 Jan. Thomas Sedelmayer, Musicante allhier.",
+        "text": "Getaufete: 247."
+      },
+      {
+        "canvas": 17,
+        "line": 11,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä, Gestorbene: Den 2 Jan. Thomas Sedelmayer, Musicante allhier.",
+        "text": "Begrabene: 239."
+      },
+      {
+        "canvas": 17,
+        "line": 15,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Dom- und Stad-Pfarr zu St. Ulrich,",
+        "text": "Getaufete: 265."
+      },
+      {
+        "canvas": 17,
+        "line": 16,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Dom- und Stad-Pfarr zu St. Ulrich,",
+        "text": "Begrabene: 269."
+      },
+      {
+        "canvas": 17,
+        "line": 19,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Getaufete: 148."
+      },
+      {
+        "canvas": 17,
+        "line": 20,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Ruprecht,",
+        "text": "Begrabene: 105."
+      },
+      {
+        "canvas": 17,
+        "line": 23,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Hochfürstl. Reichsstrifts-Pfarr, Niedermünster,",
+        "text": "Getaufete: 11."
+      },
+      {
+        "canvas": 17,
+        "line": 24,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Hochfürstl. Reichsstrifts-Pfarr, Niedermünster,",
+        "text": "Begrabene: 14."
+      },
+      {
+        "canvas": 17,
+        "line": 27,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Hochfürstl. Reichsstrifts-Pfarr, Obermünster,",
+        "text": "Getaufete: 6."
+      },
+      {
+        "canvas": 17,
+        "line": 28,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Hochfürstl. Reichsstrifts-Pfarr, Obermünster,",
+        "text": "Begrabene: 7."
+      },
+      {
+        "canvas": 17,
+        "line": 31,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der uralten Burger-Pfarr St. Cassian,",
+        "text": "Getaufete: 2."
+      },
+      {
+        "canvas": 17,
+        "line": 34,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der uralten Burger-Pfarr St. Cassian,",
+        "text": "Getaufete: 2."
+      },
+      {
+        "canvas": 17,
+        "line": 36,
+        "event_type": "deaths",
+        "religion": "evangelisch",
+        "parish": "Aus der Hochlobl. Congregation der Verkündigung Maria,",
+        "text": "Gestorbene: 54."
+      },
+      {
+        "canvas": 17,
+        "line": 38,
+        "event_type": "deaths",
+        "religion": "evangelisch",
+        "parish": "Aus der Hochlobl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Gestorbene: 96."
+      }
+    ],
+    "arrival_observations": [
+      {
+        "canvas": 17,
+        "line": 39,
+        "type": "section_heading",
+        "text": "Angekommen und abgegangene Herrschaften und Passagiers."
+      },
+      {
+        "canvas": 17,
+        "line": 40,
+        "type": "gate",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Zur steinernen Brucke herein:"
+      },
+      {
+        "canvas": 17,
+        "line": 41,
+        "type": "event",
+        "date_context": "Den 1 Jan. Eine Esstattia von Nurnberg, um 11 Uhr, Vormittags;",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 1 Jan. Eine Esstattia von Nurnberg, um 11 Uhr, Vormittags;"
+      },
+      {
+        "canvas": 17,
+        "line": 42,
+        "type": "event",
+        "date_context": "Den 1 Jan. Eine Esstattia von Nurnberg, um 11 Uhr, Vormittags;",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Wagen, der Amberger ord. Bothe, log. in Turken."
+      },
+      {
+        "canvas": 18,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 2. Per ord. Postwagen von Amberg, Hr. Pellegrini, ein Kaufmann von Passau,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 2. Per ord. Postwagen von Amberg, Hr. Pellegrini, ein Kaufmann von Passau,"
+      },
+      {
+        "canvas": 18,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 2. Per ord. Postwagen von Amberg, Hr. Pellegrini, ein Kaufmann von Passau,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Die Nürnberger ord. Landkutsche um 12 Uhr Mittags."
+      },
+      {
+        "canvas": 18,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 2. Per ord. Postwagen von Amberg, Hr. Pellegrini, ein Kaufmann von Passau,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Msr. Chaudois, ein Kaufmann aus Frankreich, f. 2. log. in Spiegel."
+      },
+      {
+        "canvas": 18,
+        "line": 5,
+        "type": "event",
+        "date_context": "Den 2. Per ord. Postwagen von Amberg, Hr. Pellegrini, ein Kaufmann von Passau,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Tic. Herr von Reinsfeld, ein Cavalier aus Sachsen, f. 6. log. in weissen Lamin."
+      },
+      {
+        "canvas": 18,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 3. Per Kutsche, der Silberbothe von Amberg, passtret durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 3. Per Kutsche, der Silberbothe von Amberg, passtret durch."
+      },
+      {
+        "canvas": 18,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 3. Per Kutsche, der Silberbothe von Amberg, passtret durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, der Hr. Cammerdiener bey S. T. Herrn Grafen von Baltimor, re. f. 3. log."
+      },
+      {
+        "canvas": 18,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 3. Per Kutsche, der Silberbothe von Amberg, passtret durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Schlitten, S. T. Frau Baronin von Pestaluz, aus dem Nordgan, f. 3. log. in goldenen Adler."
+      },
+      {
+        "canvas": 18,
+        "line": 11,
+        "type": "event",
+        "date_context": "Den 4. Per Calesch, Hr. Vogel, ein Handelsmann aus Sachsen, f.2. log. in Voshorn.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 4. Per Calesch, Hr. Vogel, ein Handelsmann aus Sachsen, f.2. log. in Voshorn."
+      },
+      {
+        "canvas": 18,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 4. Per Calesch, Hr. Vogel, ein Handelsmann aus Sachsen, f.2. log. in Voshorn.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, S.T. Herr Baron von Andrioum, Churfälzischer Major ze. f.4. log. in 3 Helmen."
+      },
+      {
+        "canvas": 18,
+        "line": 13,
+        "type": "event",
+        "date_context": "Den 5. Per Posta, S.T. Herr Baron von Abelmann, Kayserl. Cammerherr, f.2. log. bey Sr. Excell. Herrn Barou von Linke, ze.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 5. Per Posta, S.T. Herr Baron von Abelmann, Kayserl. Cammerherr, f.2. log. bey Sr. Excell. Herrn Barou von Linke, ze."
+      },
+      {
+        "canvas": 18,
+        "line": 14,
+        "type": "event",
+        "date_context": "Den 5. Per Posta, S.T. Herr Baron von Abelmann, Kayserl. Cammerherr, f.2. log. bey Sr. Excell. Herrn Barou von Linke, ze.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per ord. Postwagen von Nurnberg, Hr. Heppe, ein Mathematius von Nurnberg,"
+      },
+      {
+        "canvas": 18,
+        "line": 16,
+        "type": "event",
+        "date_context": "Den 5. Per Posta, S.T. Herr Baron von Abelmann, Kayserl. Cammerherr, f.2. log. bey Sr. Excell. Herrn Barou von Linke, ze.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Zu Fuss, Conrad Schraü, von Nurnberg, f.2. log. in blauen Hecht."
+      },
+      {
+        "canvas": 18,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 6. Per Posta, S.T. Herr Graf von Kleman, Kayserl. Königl. Cammerherr, log. in 3 Helmen, f.3.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 6. Per Posta, S.T. Herr Graf von Kleman, Kayserl. Königl. Cammerherr, log. in 3 Helmen, f.3."
+      },
+      {
+        "canvas": 18,
+        "line": 18,
+        "type": "event",
+        "date_context": "Den 6. Per Posta, S.T. Herr Graf von Kleman, Kayserl. Königl. Cammerherr, log. in 3 Helmen, f.3.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Zu Fuss, Georg Ludwig Sorge, ein Olicistenhändler aus Sachsen, log. in rothen Löwen."
+      },
+      {
+        "canvas": 18,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 7. Zu Fuss, Franz Pelomin, ein Handelsmann von Nurnberg, f.2. log. in grünen Cranz.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 7. Zu Fuss, Franz Pelomin, ein Handelsmann von Nurnberg, f.2. log. in grünen Cranz."
+      },
+      {
+        "canvas": 18,
+        "line": 20,
+        "type": "gate",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Zur steinernen Brucke hinaus:"
+      },
+      {
+        "canvas": 18,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 1 Jan. per boc. popolung. ung.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 1 Jan. per boc. popolung. ung."
+      },
+      {
+        "canvas": 18,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 1 Jan. per boc. popolung. ung.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Calesch, Löw Wertheimerischer Buchhalter von München."
+      },
+      {
+        "canvas": 18,
+        "line": 24,
+        "type": "event",
+        "date_context": "Den 2. Per Calesch, Tir. Herr von Sajmios, Churmaynzischer Hofkath, f. 4.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 2. Per Calesch, Tir. Herr von Sajmios, Churmaynzischer Hofkath, f. 4."
+      },
+      {
+        "canvas": 18,
+        "line": 25,
+        "type": "event",
+        "date_context": "Den 2. Per Calesch, Tir. Herr von Sajmios, Churmaynzischer Hofkath, f. 4.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Wagen, der Amberger ord. Vorde."
+      },
+      {
+        "canvas": 18,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 3. Die Nurnberger ord. Landkutsche, um ½ 8 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 3. Die Nurnberger ord. Landkutsche, um ½ 8 Uhr, Vormittags."
+      },
+      {
+        "canvas": 18,
+        "line": 27,
+        "type": "event",
+        "date_context": "Den 5. Per ord. Postwagen nach Nurnberg, Mst. Sylachi, und Mst. Wara, Steud.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 5. Per ord. Postwagen nach Nurnberg, Mst. Sylachi, und Mst. Wara, Steud."
+      },
+      {
+        "canvas": 18,
+        "line": 29,
+        "type": "event",
+        "date_context": "Den 6. Per Kutsche, S. T. Herr Baron von Herold, Churbayerischer Obrister, f. 3.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 6. Per Kutsche, S. T. Herr Baron von Herold, Churbayerischer Obrister, f. 3."
+      },
+      {
+        "canvas": 18,
+        "line": 30,
+        "type": "gate",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "An der hölzernen Brucke herein:"
+      },
+      {
+        "canvas": 18,
+        "line": 31,
+        "type": "event",
+        "date_context": "Den 3 Jan. Simwn Winkhofer, von Wien, mit Kupfer, Wolle, u.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 3 Jan. Simwn Winkhofer, von Wien, mit Kupfer, Wolle, u."
+      },
+      {
+        "canvas": 19,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 30 Dec. Per Calesch, S.T. Herr Barou von Breck, ein Cavalier von Hessen-",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 30 Dec. Per Calesch, S.T. Herr Barou von Breck, ein Cavalier von Hessen-"
+      },
+      {
+        "canvas": 19,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 31. Per Calesch, Herr Kollmann, Secretair bey Tit. Herrn von Thalhoffen,",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 31. Per Calesch, Herr Kollmann, Secretair bey Tit. Herrn von Thalhoffen,"
+      },
+      {
+        "canvas": 19,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 1 Jan. Tit. Herr von Weiz, Churfälzischer Major, s. 2. paßiren durch.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 1 Jan. Tit. Herr von Weiz, Churfälzischer Major, s. 2. paßiren durch."
+      },
+      {
+        "canvas": 19,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 1 Jan. Tit. Herr von Weiz, Churfälzischer Major, s. 2. paßiren durch.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 19,
+        "line": 8,
+        "type": "event",
+        "date_context": "Den 2. Per Calesch, Hr. Bierbauer, ein Schiffmeister von Hafnerszell, log. in weis-",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 2. Per Calesch, Hr. Bierbauer, ein Schiffmeister von Hafnerszell, log. in weis-"
+      },
+      {
+        "canvas": 19,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 4. Per Calesch, Tit. Herr von Mauerer, ein Juriste von Passau, log. in",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 4. Per Calesch, Tit. Herr von Mauerer, ein Juriste von Passau, log. in"
+      },
+      {
+        "canvas": 19,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 5. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 5. Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 19,
+        "line": 14,
+        "type": "event",
+        "date_context": "Den 2 Jan. Per Calesch, S.T. Herr Baron von Gleisenthal, Churbayerischer Obriß Wachtmeister.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 2 Jan. Per Calesch, S.T. Herr Baron von Gleisenthal, Churbayerischer Obriß Wachtmeister."
+      },
+      {
+        "canvas": 19,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 3. PerCalesch, der Straubinger ord. Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 3. PerCalesch, der Straubinger ord. Bothe."
+      },
+      {
+        "canvas": 19,
+        "line": 16,
+        "type": "event",
+        "date_context": "Den 3. PerCalesch, der Straubinger ord. Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Tit. Herr Hufschmid, Churbayerischer Secretair von München."
+      },
+      {
+        "canvas": 19,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 3. PerCalesch, der Straubinger ord. Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Der Kutschen, S. T. Herr Baron von Holleben, Hochfürstlich - Schwarzburg - Rudel städtischer Geh. Rath, s. 8."
+      },
+      {
+        "canvas": 19,
+        "line": 18,
+        "type": "event",
+        "date_context": "Den 6. Per Calesch, der Straubinger ord. Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 6. Per Calesch, der Straubinger ord. Bothe."
+      },
+      {
+        "canvas": 19,
+        "line": 20,
+        "type": "event",
+        "date_context": "Den 30 Dec. Per Calesch, S.T. Herr von Seibersdorf, Commendant von Amberg,",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 30 Dec. Per Calesch, S.T. Herr von Seibersdorf, Commendant von Amberg,"
+      },
+      {
+        "canvas": 19,
+        "line": 22,
+        "type": "event",
+        "date_context": "Den 1 Jan. Der Münchner Postwagen, um ½ 9 Uhr, Wormittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 1 Jan. Der Münchner Postwagen, um ½ 9 Uhr, Wormittags."
+      },
+      {
+        "canvas": 19,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 1 Jan. Der Münchner Postwagen, um ½ 9 Uhr, Wormittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Wagen, der Landshuter Bothe, log. in Türken."
+      },
+      {
+        "canvas": 19,
+        "line": 24,
+        "type": "event",
+        "date_context": "Den 2. Per Wagen, der Dingelsfinger Bothe, log. in Türken.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 2. Per Wagen, der Dingelsfinger Bothe, log. in Türken."
+      },
+      {
+        "canvas": 19,
+        "line": 25,
+        "type": "event",
+        "date_context": "Den 3. Per Kutsche, der Ingolstädtter Bothe, log. in Türken.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 3. Per Kutsche, der Ingolstädtter Bothe, log. in Türken."
+      },
+      {
+        "canvas": 19,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 4. Der Münchner Postwagen, um 7 Uhr, Abends.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 4. Der Münchner Postwagen, um 7 Uhr, Abends."
+      },
+      {
+        "canvas": 19,
+        "line": 27,
+        "type": "event",
+        "date_context": "Den 5. Per Wagen, der Landshuter Bothe, log. in Pfauen,",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 5. Per Wagen, der Landshuter Bothe, log. in Pfauen,"
+      },
+      {
+        "canvas": 19,
+        "line": 28,
+        "type": "event",
+        "date_context": "Den 5. Per Wagen, der Landshuter Bothe, log. in Pfauen,",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Tit. Herr von Herold, ChurbayerischerMajor, f. z. log.in 3 Helmen."
+      },
+      {
+        "canvas": 19,
+        "line": 30,
+        "type": "event",
+        "date_context": "Den 1 Jan. Per Posta, eine Ekaftetta nach Psäde, um 4½ Uhr, Mittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 1 Jan. Per Posta, eine Ekaftetta nach Psäde, um 4½ Uhr, Mittags."
+      },
+      {
+        "canvas": 19,
+        "line": 31,
+        "type": "event",
+        "date_context": "Den 2. Per Münchner Postwagen, um 10 Uhr, Bormittags, Hr. Busch, ein Kaufmann von Augspurg.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 2. Per Münchner Postwagen, um 10 Uhr, Bormittags, Hr. Busch, ein Kaufmann von Augspurg."
+      },
+      {
+        "canvas": 19,
+        "line": 32,
+        "type": "event",
+        "date_context": "Den 2. Per Münchner Postwagen, um 10 Uhr, Bormittags, Hr. Busch, ein Kaufmann von Augspurg.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Der Wiener Postwagen, um 4½ Uhr, Nachmittags."
+      },
+      {
+        "canvas": 19,
+        "line": 33,
+        "type": "event",
+        "date_context": "Den 2. Per Münchner Postwagen, um 10 Uhr, Bormittags, Hr. Busch, ein Kaufmann von Augspurg.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Wagen, der Landshuter Bothe."
+      },
+      {
+        "canvas": 19,
+        "line": 34,
+        "type": "event",
+        "date_context": "Den 3. Per Kutsche, der Amberger Silberbothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 3. Per Kutsche, der Amberger Silberbothe."
+      },
+      {
+        "canvas": 19,
+        "line": 35,
+        "type": "event",
+        "date_context": "Den 3. Per Kutsche, der Amberger Silberbothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Wagen, der Dingelsfinger Bothe."
+      },
+      {
+        "canvas": 20,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 4. Per Posta, eine Esstafetta nach Pskoe, um 7 Uhr, Vormittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 4. Per Posta, eine Esstafetta nach Pskoe, um 7 Uhr, Vormittags."
+      },
+      {
+        "canvas": 20,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 4. Per Posta, eine Esstafetta nach Pskoe, um 7 Uhr, Vormittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutschen, S. T. Herr Graf von Waldinn, ec. f. 13."
+      },
+      {
+        "canvas": 20,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 4. Per Posta, eine Esstafetta nach Pskoe, um 7 Uhr, Vormittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Tit. Herr von Reinfeld, ec. f. 4."
+      },
+      {
+        "canvas": 20,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 4. Per Posta, eine Esstafetta nach Pskoe, um 7 Uhr, Vormittags.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, S. T. Herr Baron von Andron, ec. f. 5."
+      },
+      {
+        "canvas": 20,
+        "line": 5,
+        "type": "event",
+        "date_context": "Den 6. Per Wagen, der Landshuter Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 6. Per Wagen, der Landshuter Bothe."
+      },
+      {
+        "canvas": 20,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 31 Der. Per Calesch, Hr. Schler, ein Baumeister aus er Schweiz, log. in der goldenen Hacke.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 31 Der. Per Calesch, Hr. Schler, ein Baumeister aus er Schweiz, log. in der goldenen Hacke."
+      },
+      {
+        "canvas": 20,
+        "line": 8,
+        "type": "event",
+        "date_context": "Den 31 Der. Per Calesch, Hr. Schler, ein Baumeister aus er Schweiz, log. in der goldenen Hacke.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Zu Fuss, Andreas Leizner, ein Handelsmann aus dem Salzburgischen, log. in weisse sen Hahn."
+      },
+      {
+        "canvas": 20,
+        "line": 9,
+        "type": "event",
+        "date_context": "Den 31 Der. Per Calesch, Hr. Schler, ein Baumeister aus er Schweiz, log. in der goldenen Hacke.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Zu Pferde, Hr. Lochner, ein Hopfenhändler aus Bayern, log. in weissen Hahn."
+      },
+      {
+        "canvas": 20,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 2 Jan. Per Wagen, der Augspurger ord. Bothe, damit Mousr. Stock, ein Wachtmeister aus Lothringen, log. in gol-denem Bären.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 2 Jan. Per Wagen, der Augspurger ord. Bothe, damit Mousr. Stock, ein Wachtmeister aus Lothringen, log. in gol-denem Bären."
+      },
+      {
+        "canvas": 20,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 1 Jan. Per Calesch, Hr. Schiermann, ein Handelsmann aus Holland, f. 3.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 1 Jan. Per Calesch, Hr. Schiermann, ein Handelsmann aus Holland, f. 3."
+      },
+      {
+        "canvas": 20,
+        "line": 13,
+        "type": "event",
+        "date_context": "Den 3. Per Posta, Hr. Sodua, ein Handelsmann aus Paris, f. 2.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 3. Per Posta, Hr. Sodua, ein Handelsmann aus Paris, f. 2."
+      },
+      {
+        "canvas": 20,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 21 Dec. 1769. haben sich bey dem Hochlöbl. Churfürstlich-Maynzischen Reichs-",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 21 Dec. 1769. haben sich bey dem Hochlöbl. Churfürstlich-Maynzischen Reichs-"
+      },
+      {
+        "canvas": 20,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 23 Dec. haben sich gleichfalls bey dem Hochlöbl. Churfürstl. Maynzischen Reichs-",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 23 Dec. haben sich gleichfalls bey dem Hochlöbl. Churfürstl. Maynzischen Reichs-"
+      }
+    ]
+  },
+  "Num_31_31_07_1770": {
+    "issue_id": "Num_31_31_07_1770",
+    "canvases": [
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250
+    ],
+    "estimated_events": {
+      "baptised": 9,
+      "buried": 14,
+      "deaths": 6,
+      "arrivals_departures": 74
+    },
+    "json_events": {
+      "baptised": 12,
+      "buried": 7,
+      "deaths": 6,
+      "arrivals_departures": 94
+    },
+    "difference_estimated_minus_json": {
+      "baptised": -3,
+      "buried": 7,
+      "deaths": 0,
+      "arrivals_departures": -20
+    },
+    "parish_observations": [
+      {
+        "canvas": 243,
+        "line": 14,
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "In der Evangelischen Gemeinde Gerauete:"
+      },
+      {
+        "canvas": 244,
+        "line": 8,
+        "religion": "catholisch",
+        "parish": "In denen Catholischen Pfarren.",
+        "text": "In denen Catholischen Pfarren."
+      },
+      {
+        "canvas": 244,
+        "line": 9,
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "In der Dom- und Stadtpfarr zu St. Ulrich,"
+      },
+      {
+        "canvas": 245,
+        "line": 1,
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "In der Obern Stadt-Pfarr zu St. Rupprecht,"
+      },
+      {
+        "canvas": 245,
+        "line": 9,
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,"
+      }
+    ],
+    "church_observations": [
+      {
+        "canvas": 243,
+        "line": 17,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Geraufete:"
+      },
+      {
+        "canvas": 243,
+        "line": 18,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Den 21. Johann Gottlich, Water, Johaun Georg Bauer, Kutscher bey des Hochfürstl. Hollseine-Glückstädtischen Herrn Gesandten von Bierack Erreil."
+      },
+      {
+        "canvas": 243,
+        "line": 19,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Den 22. Georg Philipp, Water, Hr. Johann Andreas Lippe, Burger und Organiste zur Neuen Pfarr, auch Waag- und Stubenmeister."
+      },
+      {
+        "canvas": 243,
+        "line": 20,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Eod. die, Esaias Andreas Christian, Water, Johann Matthäus Baumann, Burger und Peruquenmacher."
+      },
+      {
+        "canvas": 244,
+        "line": 1,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Den 25 Julii. Conrad Ludwig, Vater, Christian Ludwig Raimer, Burger, Fischer und Schiffmeister."
+      },
+      {
+        "canvas": 244,
+        "line": 2,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Den 26. Johann Michael, Vater, M. Johann Friedrich Gottlich Wagner, Burger, Schneider und Hochwächter."
+      },
+      {
+        "canvas": 244,
+        "line": 3,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Eod. die, Maria Elisabetho, Vater, M. Christian Speer, Burger und Schneider."
+      },
+      {
+        "canvas": 244,
+        "line": 4,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 244,
+        "line": 5,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Den 22. Johann Georg, 6 Jahr, 3 Wochen und 1 Tag alt, Vater, Georg Nicolaus Korrhammer, Burger und Gastgeb."
+      },
+      {
+        "canvas": 244,
+        "line": 6,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Den 24. Carl Samuel, 3 Jahre und 9 Wochen weniger 2 Tage alt, Vater, Samuel Georg Gottfried, Burger."
+      },
+      {
+        "canvas": 244,
+        "line": 7,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde Gerauete",
+        "text": "Eod. die, Ein Jüngling, Rahmen, Jonas Johannes, des Johann Christoph Brann, Burgers, Fischers und Schiffmeisters ainier, eheliebt. Sohn, 15 Jahre, 3 Wochen und 4 Tage alt."
+      },
+      {
+        "canvas": 244,
+        "line": 11,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 23 Julit. Josephus Zilzisperger, Bürgerl. Kräntler und Debsler zu Stadt am Hof, mit Jfr. Elisabetha Winterin, Burgers Tochter von da."
+      },
+      {
+        "canvas": 244,
+        "line": 12,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Eod. die, Jacob Himmelmayr, Beysüzer zu Stadt am Hof, mit Jfr. Catharina Eg-"
+      },
+      {
+        "canvas": 244,
+        "line": 14,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 26. Matthias Sperl, Beysüzer allhier, mit Jfr. Walburga Arnoldin, von Saalhaupre."
+      },
+      {
+        "canvas": 244,
+        "line": 15,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Eod. die, Johannes Edenhofer, Beysüzer und Fischerknecht allhier, mit Jfr. Clara Aschenauerin, von Minderaching."
+      },
+      {
+        "canvas": 244,
+        "line": 17,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 23. Johann Jacob, Vater, Georg Steger, Beysifer und Mauergefelte allhier."
+      },
+      {
+        "canvas": 244,
+        "line": 18,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 25. Maria Anna, Vater, Lorenz Hueber, Burger und Bierbräuer zu Stadt am Hof."
+      },
+      {
+        "canvas": 244,
+        "line": 19,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 26. Maria Anna Theresia, Vater, Christoph Braun, Burger und Kornmeyer zu Stadt am Hof."
+      },
+      {
+        "canvas": 244,
+        "line": 20,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 244,
+        "line": 21,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 23. Maria Anna, 7 Jahr alt, Vater, Michael Cromes, Beysifer allhier."
+      },
+      {
+        "canvas": 244,
+        "line": 22,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadtpfarr zu St. Ulrich,",
+        "text": "Den 28. Iosfr. Elisabetha, 13 Jahre alt, Vater, Peter Ries, Innwohner in denen Collegiatstifts-Häusern zu St. Johannis."
+      },
+      {
+        "canvas": 245,
+        "line": 2,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Getaufete:"
+      },
+      {
+        "canvas": 245,
+        "line": 3,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Den 22 Julii. Maria Magdalena, Vater, Johann Ezidi Fux, Beysser allhier."
+      },
+      {
+        "canvas": 245,
+        "line": 4,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Den 23. Maria Eunigunda, Vater, Hr. Peter Lampert, Hochfürstlich-Thurns und Taxischer Cammerdiener."
+      },
+      {
+        "canvas": 245,
+        "line": 5,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Den 26. Theresia, Vater, Michael Lautenbacher, Hochfürstlich-Taxischer Kutscher."
+      },
+      {
+        "canvas": 245,
+        "line": 6,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 245,
+        "line": 7,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Den 26. Maria Anna, des Johann Georg Huber, Wegschaiters allhier, Ehemalsthin, 70 Jahr alt."
+      },
+      {
+        "canvas": 245,
+        "line": 8,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarr zu St. Rupprecht,",
+        "text": "Den 27. Anna Maria, 26 Wochen und 3 Tage alt, Vater, Gregori Schmidbauer, Beysser allhier."
+      },
+      {
+        "canvas": 245,
+        "line": 10,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Im Monath Julii. Gestorbene:"
+      },
+      {
+        "canvas": 245,
+        "line": 11,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Thomas Kalteisen."
+      },
+      {
+        "canvas": 245,
+        "line": 12,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Barbara Plöttingerin."
+      },
+      {
+        "canvas": 245,
+        "line": 13,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Barbara Flederingin."
+      },
+      {
+        "canvas": 245,
+        "line": 14,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Anna Maria Weiglin."
+      },
+      {
+        "canvas": 245,
+        "line": 15,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Barbara Rauflin."
+      },
+      {
+        "canvas": 245,
+        "line": 16,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Erz-Bruderschaft Maria von Trost,",
+        "text": "Barbara Seidlin."
+      }
+    ],
+    "arrival_observations": [
+      {
+        "canvas": 245,
+        "line": 17,
+        "type": "section_heading",
+        "text": "Angekommen und abgegangene Herrschaften und Passagiers."
+      },
+      {
+        "canvas": 245,
+        "line": 18,
+        "type": "gate",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Zur feinern Brucke herein:"
+      },
+      {
+        "canvas": 245,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 22 Julii. Zu Fuß Anton Gottschling, ein vacirender Laufser, log. in der golde-",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Den 22 Julii. Zu Fuß Anton Gottschling, ein vacirender Laufser, log. in der golde-"
+      },
+      {
+        "canvas": 245,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 22 Julii. Zu Fuß Anton Gottschling, ein vacirender Laufser, log. in der golde-",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, S. T. Herr Baron von Herold, Churbayerischer General, re. f. z. log."
+      },
+      {
+        "canvas": 245,
+        "line": 24,
+        "type": "event",
+        "date_context": "Den 23. Per Posta, Tit. Herr Lieutenant von Trautenberg, vom Schwäbischen Crayß,",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Den 23. Per Posta, Tit. Herr Lieutenant von Trautenberg, vom Schwäbischen Crayß,"
+      },
+      {
+        "canvas": 245,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 23. Per Posta, Tit. Herr Lieutenant von Trautenberg, vom Schwäbischen Crayß,",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Amberger ord. Kutsche, Tit. Frau von Chatell, Churbayerische Lieutenantin, s.2."
+      },
+      {
+        "canvas": 245,
+        "line": 29,
+        "type": "event",
+        "date_context": "Den 23. Per Posta, Tit. Herr Lieutenant von Trautenberg, vom Schwäbischen Crayß,",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Zu Fuß, Hr. Häcker, ein Spitzenhändler aus Sachsen, s. 2. log. in gold. Bären."
+      },
+      {
+        "canvas": 245,
+        "line": 30,
+        "type": "event",
+        "date_context": "Den 23. Per Posta, Tit. Herr Lieutenant von Trautenberg, vom Schwäbischen Crayß,",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, S.T. Herr Baron von Singelheim, rc. von Rhin, s. 3."
+      },
+      {
+        "canvas": 245,
+        "line": 31,
+        "type": "event",
+        "date_context": "Den 24. Per Calesch, Tit. Herr von Dreer, Oberpfälzischer Landrichter von Neus-",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Den 24. Per Calesch, Tit. Herr von Dreer, Oberpfälzischer Landrichter von Neus-"
+      },
+      {
+        "canvas": 245,
+        "line": 33,
+        "type": "event",
+        "date_context": "Den 24. Per Calesch, Tit. Herr von Dreer, Oberpfälzischer Landrichter von Neus-",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Die Nürnberger ord. Landkutsche, um ½ 11 Uhr, Vormittags."
+      },
+      {
+        "canvas": 246,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 24. Per Calesch, Tit. Herr von Dreer, Oberpfälzischer Landrichter von Neus-",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, 2 S.T. Herrn Barons von Oberndorf, 2e vor Regenders, §6. leg. in 3 Helmen."
+      },
+      {
+        "canvas": 246,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 24. Per Calesch, Tit. Herr von Dreer, Oberpfälzischer Landrichter von Neus-",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per ord. Postwagen von Amberg, Herr Hermann, ein Geislicher von Luxemburg, Hr. Vogt, ein Kaufmann von Neumburg, und Mr. Fuchse, ein Kaufmannsdiesner von Nurnbera. log. in schwarzen Bären."
+      },
+      {
+        "canvas": 246,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis."
+      },
+      {
+        "canvas": 246,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta-, S. I. Herr Baron von Backhard, ein Cavalier von Würzburg, f. 5. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 5,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Ti. Herr Regierungsseretair Stich, von Amberg, f. 2. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Zu Fuß, Caspar Härtel, ein Handelsmann von Delsnitz, log. in gold. Bären."
+      },
+      {
+        "canvas": 246,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, Tit. Herr Hauptmann Bussot de Brongeis, vom Churbayerisch-Preysingischen Regimente, f. 6. log in 3 Helmen."
+      },
+      {
+        "canvas": 246,
+        "line": 8,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Herr v. Ebermeyer, ein Kaufmann von Nürnberg, f. 2. log in 3 Helmen."
+      },
+      {
+        "canvas": 246,
+        "line": 9,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, S. T. Herr Baron von Gröten, Chursächsicher Cammerherr, f. 2. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Hr. Rosenbaum, ein Handelsmann aus Sachsen, f. 2. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 11,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, S. T. Herr Baron von Andr on, ze aus dem Nordgau, f. 4. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, Frau Linglin, eine Burgerin von Amberg, f.2. log in Rübis.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Wagen, Hr. Kreichans, ein Handelsmann von Treuchtlingen, f. 2. log in gol denen Büren."
+      },
+      {
+        "canvas": 246,
+        "line": 13,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 14,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Tit. Herr Kuhn, Königl. Dänischer Legationssecretair, pasiret durch."
+      },
+      {
+        "canvas": 246,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per ord. Postwagen von Nürnberg, Madame Heidelhof, von Wien; Hr. Neuringer, ein Kaufmann aus Sachsen; Frau Jügerin, eine Handelsmannin von Maynz; und Msr. Jezido Peltram, ein Chirurgus, log in Pfauen, f. 8."
+      },
+      {
+        "canvas": 246,
+        "line": 16,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, S. T. Herr Graf von Zopdoitsch, aus Zohlen, f. 6. pasiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Hr. Raiedel, ein Kaufmann von Nienberg, f. 3. log in Posthorn."
+      },
+      {
+        "canvas": 246,
+        "line": 18,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, Hr. Fendler, und Hr. Müller, Handelsleute von Nürnberg, f. 3. pasiren durch.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, S. T. Herr Graf von Selb, Major vom Tyroler Scharffschützen-Regiment, f. 4. log in 3 Helmen."
+      },
+      {
+        "canvas": 246,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 28. Per Posta, Hr. Schick, ein Raußmann von Nürnberg, s. 2. log. in Helmen.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Den 28. Per Posta, Hr. Schick, ein Raußmann von Nürnberg, s. 2. log. in Helmen."
+      },
+      {
+        "canvas": 246,
+        "line": 20,
+        "type": "event",
+        "date_context": "Den 28. Per Posta, Hr. Schick, ein Raußmann von Nürnberg, s. 2. log. in Helmen.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Zu Pferde, Tit. Herr von Milholz, ein Edelmann von Sitzlizbach, s. 2. passiren durch."
+      },
+      {
+        "canvas": 246,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 28. Per Posta, Hr. Schick, ein Raußmann von Nürnberg, s. 2. log. in Helmen.",
+        "gate": "Zur feinern Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, S.T. Herr Prälat vom Closter Walderbach, s. 3. log. in Dero Hof."
+      },
+      {
+        "canvas": 246,
+        "line": 22,
+        "type": "gate",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Zur steinernen Brucke hinaus:"
+      },
+      {
+        "canvas": 246,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 22. Per Kutsche, Frau Casteuanerin, eine Handelsmännin von Straubing, s. 3.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 22. Per Kutsche, Frau Casteuanerin, eine Handelsmännin von Straubing, s. 3."
+      },
+      {
+        "canvas": 246,
+        "line": 24,
+        "type": "event",
+        "date_context": "Den 23. Per ord. Postwagen nach Amberg, Tit. Herr von Cordulus, ein Edelmann aus Sachsen.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 23. Per ord. Postwagen nach Amberg, Tit. Herr von Cordulus, ein Edelmann aus Sachsen."
+      },
+      {
+        "canvas": 246,
+        "line": 25,
+        "type": "event",
+        "date_context": "Den 23. Per ord. Postwagen nach Amberg, Tit. Herr von Cordulus, ein Edelmann aus Sachsen.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Mit einem Wagewagen 3 Hochgräflich-Paumgartische Domestiquen von München."
+      },
+      {
+        "canvas": 246,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 24. Per Kutsche, S.T. Herr Baron von Spüring, ie. von Fronbergs, s. 8.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 24. Per Kutsche, S.T. Herr Baron von Spüring, ie. von Fronbergs, s. 8."
+      },
+      {
+        "canvas": 246,
+        "line": 27,
+        "type": "event",
+        "date_context": "Den 24. Per Kutsche, S.T. Herr Baron von Spüring, ie. von Fronbergs, s. 8.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Kutsche, der Amberger ord. Bothe."
+      },
+      {
+        "canvas": 246,
+        "line": 28,
+        "type": "event",
+        "date_context": "Den 25. Die Nürnberger ord. Landkutsche, um 6 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 25. Die Nürnberger ord. Landkutsche, um 6 Uhr, Vormittags."
+      },
+      {
+        "canvas": 246,
+        "line": 29,
+        "type": "event",
+        "date_context": "Den 25. Die Nürnberger ord. Landkutsche, um 6 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Zu Pferde, Samuel David Hirshl, ein Jude von Sulzbach."
+      },
+      {
+        "canvas": 247,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 25. Die Nürnberger ord. Landkutsche, um 6 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Posta, Se. Eccell. Herr Graf von Panngarten, Churbayerischer Conferenzs Minister, 2e. S. io."
+      },
+      {
+        "canvas": 247,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 26. Per Calesch, Hr. Meyershifer, ein Handelsmann von Schweinau.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 26. Per Calesch, Hr. Meyershifer, ein Handelsmann von Schweinau."
+      },
+      {
+        "canvas": 247,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 27. Zu Fuß, 3 Königl Preussische Unterofficiers, mit 7 Mann Recouten,",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 27. Zu Fuß, 3 Königl Preussische Unterofficiers, mit 7 Mann Recouten,"
+      },
+      {
+        "canvas": 247,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 27. Zu Fuß, 3 Königl Preussische Unterofficiers, mit 7 Mann Recouten,",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per ord. Postwagen nach Nurnberg, Mrz. Wüstenfeld, ein Kayserl Feldscheerer."
+      },
+      {
+        "canvas": 247,
+        "line": 5,
+        "type": "event",
+        "date_context": "Den 27. Zu Fuß, 3 Königl Preussische Unterofficiers, mit 7 Mann Recouten,",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Calesch, Liz. Herr von Dreer, Landrichter von Neuburg am Wald."
+      },
+      {
+        "canvas": 247,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 28. per Posta, Herr Vnzingier, Kayserl Courier, um ½ 7 Uhr, Nachmittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 28. per Posta, Herr Vnzingier, Kayserl Courier, um ½ 7 Uhr, Nachmittags."
+      },
+      {
+        "canvas": 247,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 29. per Posta, Se. Durchl. Fürst von Fürtenberg, 2e. S. 9.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 29. per Posta, Se. Durchl. Fürst von Fürtenberg, 2e. S. 9."
+      },
+      {
+        "canvas": 247,
+        "line": 8,
+        "type": "event",
+        "date_context": "Den 29. per Posta, Se. Durchl. Fürst von Fürtenberg, 2e. S. 9.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Calesch, Lic. Herr Pawowsky, gewesener Kayserl Unterlieutenant."
+      },
+      {
+        "canvas": 247,
+        "line": 9,
+        "type": "gate",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "An der hölzernen Brucke herein:"
+      },
+      {
+        "canvas": 247,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 23 Julii. Mit einem Schiffe von Ulm, S.T. Herr Baron von Hindeler, Kayserl.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 23 Julii. Mit einem Schiffe von Ulm, S.T. Herr Baron von Hindeler, Kayserl."
+      },
+      {
+        "canvas": 247,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 29. Johann Lobensommer, von Salzburg, mit Schleisfeinen.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 29. Johann Lobensommer, von Salzburg, mit Schleisfeinen."
+      },
+      {
+        "canvas": 247,
+        "line": 13,
+        "type": "event",
+        "date_context": "Den 26 Julii Christian Laurer führet sein ord. Schiff nach Wien, mit ihm 26 ges meine Personen.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 26 Julii Christian Laurer führet sein ord. Schiff nach Wien, mit ihm 26 ges meine Personen."
+      },
+      {
+        "canvas": 247,
+        "line": 14,
+        "type": "event",
+        "date_context": "Den 28. Wolfgang Raimer führet das Marktgütherschiff, mit einigen hiesigen und fremden Handelsleuten und etl. 20 gemeinen Personen, nach Passau.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 28. Wolfgang Raimer führet das Marktgütherschiff, mit einigen hiesigen und fremden Handelsleuten und etl. 20 gemeinen Personen, nach Passau."
+      },
+      {
+        "canvas": 247,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 29. Paul Matthias Raimer führet mit seinem ord. Schiff nach Wien: Tir.Herr Dieringer, ein Secretair von Wien; Hr. Müller, ein Kaufmann von Frankfurt am Mayn; Hr. Reininge, ein Negotianten von Hildburgschausen; Hr. Voigt, ein Kaufmann von Raumburg, und 30 gemeine Personen.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 29. Paul Matthias Raimer führet mit seinem ord. Schiff nach Wien: Tir.Herr Dieringer, ein Secretair von Wien; Hr. Müller, ein Kaufmann von Frankfurt am Mayn; Hr. Reininge, ein Negotianten von Hildburgschausen; Hr. Voigt, ein Kaufmann von Raumburg, und 30 gemeine Personen."
+      },
+      {
+        "canvas": 247,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 23. Per Calesch, Tir. Herr von Fallbach, Beneficiar von Falkenstein, und Tie. Herr Paulus, Churbayrischer Kaufmann, s. 2. log. in 3 Helmen.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 23. Per Calesch, Tir. Herr von Fallbach, Beneficiar von Falkenstein, und Tie. Herr Paulus, Churbayrischer Kaufmann, s. 2. log. in 3 Helmen."
+      },
+      {
+        "canvas": 247,
+        "line": 18,
+        "type": "event",
+        "date_context": "Den 23. Per Calesch, Tir. Herr von Fallbach, Beneficiar von Falkenstein, und Tie. Herr Paulus, Churbayrischer Kaufmann, s. 2. log. in 3 Helmen.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Tiren."
+      },
+      {
+        "canvas": 247,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 24. Tir. Herr von Dossy, Königlich-Pohlrischer Capitain, Hr. Posar, und Hr. Fasskash, eud. aus Ungarn, papiren durch.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 24. Tir. Herr von Dossy, Königlich-Pohlrischer Capitain, Hr. Posar, und Hr. Fasskash, eud. aus Ungarn, papiren durch."
+      },
+      {
+        "canvas": 247,
+        "line": 20,
+        "type": "event",
+        "date_context": "Den 26. Per Calesch, Hr. Euersdorfer, Deutschreiber von Straubing, s. 2. passi",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 26. Per Calesch, Hr. Euersdorfer, Deutschreiber von Straubing, s. 2. passi"
+      },
+      {
+        "canvas": 247,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 26. Per Calesch, Hr. Euersdorfer, Deutschreiber von Straubing, s. 2. passi",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Herr Seiz, Stadtschreiber von Nenburg am Wald, s. 2. pasiren durch."
+      },
+      {
+        "canvas": 247,
+        "line": 22,
+        "type": "event",
+        "date_context": "Den 27. Per Calesch, Hr. Thanqueneti, ein Kaufmann von Mayland, s. 2. log. in Kürbis.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 27. Per Calesch, Hr. Thanqueneti, ein Kaufmann von Mayland, s. 2. log. in Kürbis."
+      },
+      {
+        "canvas": 247,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 27. Per Calesch, Hr. Thanqueneti, ein Kaufmann von Mayland, s. 2. log. in Kürbis.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, der Straubinger ord. Bothe, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 247,
+        "line": 25,
+        "type": "event",
+        "date_context": "Den 23. Per Posta, Herr Pat. Placitus, und Hr. Philipp, vom Closter Weldenburg.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 23. Per Posta, Herr Pat. Placitus, und Hr. Philipp, vom Closter Weldenburg."
+      },
+      {
+        "canvas": 247,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 25. Per Calesch, der Straubinger ord. Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 25. Per Calesch, der Straubinger ord. Bothe."
+      },
+      {
+        "canvas": 247,
+        "line": 27,
+        "type": "event",
+        "date_context": "Den 26 Per Posta, S. T. Herr Graf von Fugger, Domherr von Freysing, s. z.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 26 Per Posta, S. T. Herr Graf von Fugger, Domherr von Freysing, s. z."
+      },
+      {
+        "canvas": 247,
+        "line": 28,
+        "type": "event",
+        "date_context": "Den 12. Per Calesch, Hr. Feydler, ein Kaufmann von Nurnberg, s. 2.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 12. Per Calesch, Hr. Feydler, ein Kaufmann von Nurnberg, s. 2."
+      },
+      {
+        "canvas": 247,
+        "line": 29,
+        "type": "event",
+        "date_context": "Den 28. Per Calesch, der Straubinger ord. Bothe.",
+        "gate": "An der hölzernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 28. Per Calesch, der Straubinger ord. Bothe."
+      },
+      {
+        "canvas": 247,
+        "line": 30,
+        "type": "gate",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Zum Weyh St. Peterchoore herein:"
+      },
+      {
+        "canvas": 247,
+        "line": 31,
+        "type": "event",
+        "date_context": "Den 22. Zu Pferde, Hr. Sagsbri, ein Pulvermacher von Burghausen, log. in Spiegel.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 22. Zu Pferde, Hr. Sagsbri, ein Pulvermacher von Burghausen, log. in Spiegel."
+      },
+      {
+        "canvas": 248,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 22. Zu Pferde, Hr. Sagsbri, ein Pulvermacher von Burghausen, log. in Spiegel.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Der Münchner Postwagen, um 6 Uhr, Nachmittags."
+      },
+      {
+        "canvas": 248,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 23. Per Wagen, der Landshuter ord. Vothe, log. in Türken.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 23. Per Wagen, der Landshuter ord. Vothe, log. in Türken."
+      },
+      {
+        "canvas": 248,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 24. Per Posta, S.T. Herr Graf v. Fugger, Domherr von Passau, log. in 3 Helmen.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 24. Per Posta, S.T. Herr Graf v. Fugger, Domherr von Passau, log. in 3 Helmen."
+      },
+      {
+        "canvas": 248,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 25. Per Posta, S.T. Herr Baron von Zeiling, Kaysersl. Oberlieutenant, ic. f. 2. log. in 3 Helmen.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 25. Per Posta, S.T. Herr Baron von Zeiling, Kaysersl. Oberlieutenant, ic. f. 2. log. in 3 Helmen."
+      },
+      {
+        "canvas": 248,
+        "line": 5,
+        "type": "event",
+        "date_context": "Den 26. Per Kutsche, der Ingolstädtter Vothe, damit Tit. Herr Oberlieutenant Wisfiger, ic. f. 2. log. in Obermünster, der Vothe log. in Türken.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 26. Per Kutsche, der Ingolstädtter Vothe, damit Tit. Herr Oberlieutenant Wisfiger, ic. f. 2. log. in Obermünster, der Vothe log. in Türken."
+      },
+      {
+        "canvas": 248,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 26. Per Kutsche, der Ingolstädtter Vothe, damit Tit. Herr Oberlieutenant Wisfiger, ic. f. 2. log. in Obermünster, der Vothe log. in Türken.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Per Posta, S.T. Herr Graf von Zach, ic. von Wechlar, log. in 3 Helmen."
+      },
+      {
+        "canvas": 248,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, S.T. Herr Baron von Langermann, ic. f. 2. log. in 3 Helmen.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 27. Per Posta, S.T. Herr Baron von Langermann, ic. f. 2. log. in 3 Helmen."
+      },
+      {
+        "canvas": 248,
+        "line": 8,
+        "type": "event",
+        "date_context": "Den 27. Per Posta, S.T. Herr Baron von Langermann, ic. f. 2. log. in 3 Helmen.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Per Wagen, der Landshuter Vothe, log. in Pfauen."
+      },
+      {
+        "canvas": 248,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 25. Per Posta, Se. Excell. Herr Graf von Ammerland, ic. f. io. pasiren durch.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 25. Per Posta, Se. Excell. Herr Graf von Ammerland, ic. f. io. pasiren durch."
+      },
+      {
+        "canvas": 248,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 23. Per Posta, S.T. Herr Baron von Brints, Hochfürstlich Taxisischer Obers stallmeister, ic. f. 2.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 23. Per Posta, S.T. Herr Baron von Brints, Hochfürstlich Taxisischer Obers stallmeister, ic. f. 2."
+      },
+      {
+        "canvas": 248,
+        "line": 13,
+        "type": "event",
+        "date_context": "Den 25. Per Posta, S.T. Herr Baron von Isling, Kaysperl. Oberlieutenant, ic. f. 2.",
+        "gate": "Zum Weyh St. Peterchoore herein:",
+        "direction": "in",
+        "text": "Den 25. Per Posta, S.T. Herr Baron von Isling, Kaysperl. Oberlieutenant, ic. f. 2."
+      },
+      {
+        "canvas": 248,
+        "line": 14,
+        "type": "gate",
+        "gate": "Zum Weintor herein:",
+        "direction": "in",
+        "text": "Zum Weintor herein:"
+      },
+      {
+        "canvas": 248,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 28 Julii. Mit einem Schiffe von Ulm, S.T. Herr Bonifacius Attem. Prinz de Monte Libano, ic. log. in goldenen Adler. Herr Peter, ein Jurist, Hr. Ulls mann, ein Spitzenhändler aus Ochmen, log. in gold. Bären.",
+        "gate": "Zum Weintor herein:",
+        "direction": "in",
+        "text": "Den 28 Julii. Mit einem Schiffe von Ulm, S.T. Herr Bonifacius Attem. Prinz de Monte Libano, ic. log. in goldenen Adler. Herr Peter, ein Jurist, Hr. Ulls mann, ein Spitzenhändler aus Ochmen, log. in gold. Bären."
+      }
+    ]
+  },
+  "Num_3_16_01_1770": {
+    "issue_id": "Num_3_16_01_1770",
+    "canvases": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "estimated_events": {
+      "baptised": 12,
+      "buried": 15,
+      "deaths": 2,
+      "arrivals_departures": 61
+    },
+    "json_events": {
+      "baptised": 12,
+      "buried": 14,
+      "deaths": 2,
+      "arrivals_departures": 73
+    },
+    "difference_estimated_minus_json": {
+      "baptised": 0,
+      "buried": 1,
+      "deaths": 0,
+      "arrivals_departures": -12
+    },
+    "parish_observations": [
+      {
+        "canvas": 23,
+        "line": 13,
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "In der Evangelischen Gemeinde"
+      },
+      {
+        "canvas": 24,
+        "line": 1,
+        "religion": "catholisch",
+        "parish": "In denen Catholischen Pfarren.",
+        "text": "In denen Catholischen Pfarren."
+      },
+      {
+        "canvas": 24,
+        "line": 2,
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "In der Dom- und Stadt-Pfarr zu St.Ulrich,"
+      },
+      {
+        "canvas": 24,
+        "line": 15,
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "In der Obern Stadt-Pfarre zu St. Ruprecht,"
+      },
+      {
+        "canvas": 25,
+        "line": 1,
+        "religion": "catholisch",
+        "parish": "In der uralten Burger-Pfarr St. Casian,",
+        "text": "In der uralten Burger-Pfarr St. Casian,"
+      },
+      {
+        "canvas": 25,
+        "line": 5,
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftifts-Pfarr, Niedermünster,",
+        "text": "In der Hochfürstl. Reichsftifts-Pfarr, Niedermünster,"
+      },
+      {
+        "canvas": 25,
+        "line": 8,
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftifts-Pfarr, Obermünster,",
+        "text": "In der Hochfürstl. Reichsftifts-Pfarr, Obermünster,"
+      },
+      {
+        "canvas": 25,
+        "line": 11,
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä,",
+        "text": "Aus der Hochlöbl. Congregation der Verkündigung Mariä,"
+      }
+    ],
+    "church_observations": [
+      {
+        "canvas": 23,
+        "line": 14,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Geraufere:"
+      },
+      {
+        "canvas": 23,
+        "line": 15,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 8 Jan. Maria Dorothea Elisabetha, Vater, Hr. Georg Friederich Wagner,"
+      },
+      {
+        "canvas": 23,
+        "line": 17,
+        "event_type": "baptised",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 11. Nahel Charlotta, Vater, Johann Georg Balthasar Puppelein, Kutscher bey des Chursächsischen Herrn Gesandten, Freyherrn von Ponikau Excell."
+      },
+      {
+        "canvas": 23,
+        "line": 18,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 23,
+        "line": 19,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 8. Johann Georg, 15 Wochen und 3 Tage alt, Vater, Joh. Georg Werner, Soldate unter allhiesiger Stadtgarnison."
+      },
+      {
+        "canvas": 23,
+        "line": 20,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 9. Johann David, 7 Jahr und 11 Wochen alt, Vater, Johann Meyer, Bur[ger] und Aufwärter."
+      },
+      {
+        "canvas": 23,
+        "line": 21,
+        "event_type": "buried",
+        "religion": "evangelisch",
+        "parish": "In der Evangelischen Gemeinde",
+        "text": "Den 13. Catharina Gruberin, hiesige Beyssyrs und Tägelöhners Wittib, 69 Jahr weniger 4 Tage alt."
+      },
+      {
+        "canvas": 24,
+        "line": 3,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Getaufete:"
+      },
+      {
+        "canvas": 24,
+        "line": 4,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 7 Jan. Walburza, Vater, Matthias Brann, Beysßer allhier."
+      },
+      {
+        "canvas": 24,
+        "line": 5,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Eod. die, Johann Baptish Clemens Franciscens de Paula, Vater, Tit. Herr Claudius Martin, Medic. Döct. und Letb-Chirurgus bey Sr. Hochfürstl. Durchl. von Thurn und Taxis, re. re."
+      },
+      {
+        "canvas": 24,
+        "line": 6,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 11. Dorothea, Vater, Josephus Schwazer, Beysßer allhier."
+      },
+      {
+        "canvas": 24,
+        "line": 7,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 12. Joh.Melchior, Vater, Joh.Koch, Beysßer allhier."
+      },
+      {
+        "canvas": 24,
+        "line": 8,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 13. Sebastianus, Vater, Sebastianus Schmiedel, Beysßer zu Stadt am Hof."
+      },
+      {
+        "canvas": 24,
+        "line": 9,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 24,
+        "line": 10,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 9. Anna Maria Weymayrin, verwittichte Weysgererin allhier, 100 Jahr und 9 Monath alt."
+      },
+      {
+        "canvas": 24,
+        "line": 11,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Eod. die, Maria Eva, 15 Tage alt, Vater, Georg Zirngibl, Weysgerer und Fischerknecht zu Stadt am Hof."
+      },
+      {
+        "canvas": 24,
+        "line": 12,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 13. Laurentius, 9 Tage alt, Vater, Franciscus Xaverius Lang, Weysgerer zu Stadt am Hof."
+      },
+      {
+        "canvas": 24,
+        "line": 13,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Den 14. Antonius Gross, Hochfürstl. Bischoflicher Leibkutscher allhier, 57 Jahr alt."
+      },
+      {
+        "canvas": 24,
+        "line": 14,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Dom- und Stadt-Pfarr zu St.Ulrich,",
+        "text": "Eod. die, Anna Margaretha, 11 Monathe und 14 Tage alt, Vater, Leonhard Högerl, Weysgerer und Mühlknecht zu Stadt am Hof."
+      },
+      {
+        "canvas": 24,
+        "line": 17,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Den 9 Jan. Andreas Liedel, Hochfürstlich-Taxischer Haußknecht, mit Anna Maria Krellin, Wittib von Eglingen."
+      },
+      {
+        "canvas": 24,
+        "line": 18,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Geraufere:"
+      },
+      {
+        "canvas": 24,
+        "line": 19,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Den 6. Sebastian, Vater, Andreas Holzer, Weysgerer allhier."
+      },
+      {
+        "canvas": 24,
+        "line": 20,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Den 8. Walburga, Vater, Johannes Busz, Kutscher bey Sr. Excell. Herrn Grafen von der Wall, uc."
+      },
+      {
+        "canvas": 24,
+        "line": 21,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Den 10. Sebastian, Vater, Joann Georg Hueber, Rothgerber-Geselle und Weysgerer allhier."
+      },
+      {
+        "canvas": 24,
+        "line": 22,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Eod. die, Maria Josepha, Vater, Hr. Josephus Douschmolein, Hochfürstlich-Taxi"
+      },
+      {
+        "canvas": 24,
+        "line": 24,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 24,
+        "line": 25,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Eod. die, Barbara Frankne, lebisen Stande, 60 Jahr alt;"
+      },
+      {
+        "canvas": 24,
+        "line": 26,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Eod. die, Catharina, 6 Jahr alt, Bater, Joh. Georg Bezl, Beynsiker allhier."
+      },
+      {
+        "canvas": 24,
+        "line": 27,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Obern Stadt-Pfarre zu St. Ruprecht,",
+        "text": "Den 12. Christoph Joseph, 25 Wochen alt, Bater, Hr. Franciscus Xaverius Gerstenberger, Koch bey Sr. Excell. Herrn Baron von Schneid, ie,"
+      },
+      {
+        "canvas": 25,
+        "line": 2,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der uralten Burger-Pfarr St. Casian,",
+        "text": "Begrabene:"
+      },
+      {
+        "canvas": 25,
+        "line": 3,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der uralten Burger-Pfarr St. Casian,",
+        "text": "Den 21 Jan. Tit. Herr Johann Antoni Freyherr von Strahl, von Hahhofen, Rudimentista, 14 Jahr alt."
+      },
+      {
+        "canvas": 25,
+        "line": 4,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der uralten Burger-Pfarr St. Casian,",
+        "text": "Den 13. Jungfer Maria Catharina Hainzmannin, im 23 Jahr ihres Alters."
+      },
+      {
+        "canvas": 25,
+        "line": 6,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftifts-Pfarr, Niedermünster,",
+        "text": "Begraben:"
+      },
+      {
+        "canvas": 25,
+        "line": 7,
+        "event_type": "buried",
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftifts-Pfarr, Niedermünster,",
+        "text": "Den 12 Jan. Tit. Herr Franzeseus Josephus Romayer, Churfürstlicher Hofcammer-Secretair, 75 Jahr alt."
+      },
+      {
+        "canvas": 25,
+        "line": 9,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftifts-Pfarr, Obermünster,",
+        "text": "Geraufet:"
+      },
+      {
+        "canvas": 25,
+        "line": 10,
+        "event_type": "baptised",
+        "religion": "catholisch",
+        "parish": "In der Hochfürstl. Reichsftifts-Pfarr, Obermünster,",
+        "text": "Den 8 Jan. Maria Anna, Vater, Matthias Ankofer, Tagewerker alda."
+      },
+      {
+        "canvas": 25,
+        "line": 12,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä,",
+        "text": "Gestorbene:"
+      },
+      {
+        "canvas": 25,
+        "line": 13,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä,",
+        "text": "Den 6 Jan. Ignatius Brunnbauer, Beysitzer allhier."
+      },
+      {
+        "canvas": 25,
+        "line": 14,
+        "event_type": "deaths",
+        "religion": "catholisch",
+        "parish": "Aus der Hochlöbl. Congregation der Verkündigung Mariä,",
+        "text": "Den 10. Tit. Herr Franciseus Josephus Romayer, Churkönnischer Hofammers Secretair."
+      }
+    ],
+    "arrival_observations": [
+      {
+        "canvas": 25,
+        "line": 15,
+        "type": "section_heading",
+        "text": "Angekommene und abgegangene Herrschaften und Passagiers."
+      },
+      {
+        "canvas": 25,
+        "line": 16,
+        "type": "gate",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Zur steinernen Brucke herein:"
+      },
+      {
+        "canvas": 25,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 8 Jan.' In Pferde, Hr. Fleischner, und Hr. Iller, Handelsleute von Amergan,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 8 Jan.' In Pferde, Hr. Fleischner, und Hr. Iller, Handelsleute von Amergan,"
+      },
+      {
+        "canvas": 25,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 8 Jan.' In Pferde, Hr. Fleischner, und Hr. Iller, Handelsleute von Amergan,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Tit. Herr Dreer, Land-Richter-Amtscornmissair von Reuburg am Walb,"
+      },
+      {
+        "canvas": 25,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 8 Jan.' In Pferde, Hr. Fleischner, und Hr. Iller, Handelsleute von Amergan,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Amberger ord. Kutsche, Catharina Uebrerin, von Sambach, log. in Türken."
+      },
+      {
+        "canvas": 25,
+        "line": 22,
+        "type": "event",
+        "date_context": "Den 8 Jan.' In Pferde, Hr. Fleischner, und Hr. Iller, Handelsleute von Amergan,",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Zu Pferde, Herr Burgermeister Bauder, von Altdorf, log. in 3 Helmen."
+      },
+      {
+        "canvas": 25,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 9. Die Nürnberger ord. Landkutsche, um ½ 12 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 9. Die Nürnberger ord. Landkutsche, um ½ 12 Uhr, Vormittags."
+      },
+      {
+        "canvas": 25,
+        "line": 24,
+        "type": "event",
+        "date_context": "Den 9. Die Nürnberger ord. Landkutsche, um ½ 12 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Se. Excell. Herr Baron von Erthal, Churmaynzischer Gesandter, re. f. 11. paßiren durch."
+      },
+      {
+        "canvas": 25,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 9. Die Nürnberger ord. Landkutsche, um ½ 12 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Kutsche, S. T. Herr Baron von Karg, Churbayerischer Hauptmann, f. 6. log. in weissen Lamm."
+      },
+      {
+        "canvas": 25,
+        "line": 27,
+        "type": "event",
+        "date_context": "Den 9. Die Nürnberger ord. Landkutsche, um ½ 12 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per ord. Postwagen von Amberg, Tit. Herr Renthammerath Schenkel, von Amberg, log. in schwarzen Adler. Herr Schmid, ein Geislicher von Michelfeld, log. in Spiegel, und Hr. Gauck, ein Kaufmann von Prag, log. in Pfauen; dann Joseph Wertheimer, ein Jude von Wien, paßiret durch."
+      },
+      {
+        "canvas": 26,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, Tit. Herr von Dürscheid, Churpsälzischer Lieutenant, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 10. Per Schlitten, Tit. Herr von Dürscheid, Churpsälzischer Lieutenant, paßiert durch."
+      },
+      {
+        "canvas": 26,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, Tit. Herr von Dürscheid, Churpsälzischer Lieutenant, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Msr. le Ples, ein Kaufmann aus Niederland, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 26,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, Tit. Herr von Dürscheid, Churpsälzischer Lieutenant, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, David Wertheimer, Kayserrl. Hoffactor, f.2. log. beym hiesigen Wertheimer."
+      },
+      {
+        "canvas": 26,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, Tit. Herr von Dürscheid, Churpsälzischer Lieutenant, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Posta, Herr Schmörl, Hochgräflich-Hartigischer Director aus Böhmen, f.3. log. zu St. Jacob."
+      },
+      {
+        "canvas": 26,
+        "line": 5,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, Tit. Herr von Dürscheid, Churpsälzischer Lieutenant, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Tit. Herr von Orban, Regierungsrath von Amberg, log. in schwarzen Adler."
+      },
+      {
+        "canvas": 26,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 12. Per ord. Postwagen von Nürnberg, Hr. Hesse, ein Kaufmann aus Francken, log. in blauen Engel; und Mad. Wissbergerin, von Rittingen, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 12. Per ord. Postwagen von Nürnberg, Hr. Hesse, ein Kaufmann aus Francken, log. in blauen Engel; und Mad. Wissbergerin, von Rittingen, paßiert durch."
+      },
+      {
+        "canvas": 26,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 12. Per ord. Postwagen von Nürnberg, Hr. Hesse, ein Kaufmann aus Francken, log. in blauen Engel; und Mad. Wissbergerin, von Rittingen, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, Tit. Herr von Höck, Regierungsrath von Burghauken, paßiert durch."
+      },
+      {
+        "canvas": 26,
+        "line": 9,
+        "type": "event",
+        "date_context": "Den 12. Per ord. Postwagen von Nürnberg, Hr. Hesse, ein Kaufmann aus Francken, log. in blauen Engel; und Mad. Wissbergerin, von Rittingen, paßiert durch.",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Per Calesch, S. T. Herr Baron von Wolfsehl, Major von Würzburg, f.2. paßi"
+      },
+      {
+        "canvas": 26,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 13. Per Schlitten, S.T. Herr Baron von Wildenau, Landrichter von Burglen-",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 13. Per Schlitten, S.T. Herr Baron von Wildenau, Landrichter von Burglen-"
+      },
+      {
+        "canvas": 26,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 41. Per Posta, Tit. Herr von Hasingen, Kayserl. Hauptmann, f. 2. log. in",
+        "gate": "Zur steinernen Brucke herein:",
+        "direction": "in",
+        "text": "Den 41. Per Posta, Tit. Herr von Hasingen, Kayserl. Hauptmann, f. 2. log. in"
+      },
+      {
+        "canvas": 26,
+        "line": 14,
+        "type": "gate",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Zur steinernen Brucke hinaus:"
+      },
+      {
+        "canvas": 26,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 8 Jan. Per Posta, Tit. Herr Hofrath Jäger, von Wien, f. 5.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 8 Jan. Per Posta, Tit. Herr Hofrath Jäger, von Wien, f. 5."
+      },
+      {
+        "canvas": 26,
+        "line": 16,
+        "type": "event",
+        "date_context": "Den 8 Jan. Per Posta, Tit. Herr Hofrath Jäger, von Wien, f. 5.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Der ord. Postwagen nach Amberg, um 9 Uhr, Vormittags."
+      },
+      {
+        "canvas": 26,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 9. Zu Pferde, Mr. Dollona, ein Handelsmann von Heilbrunn.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 9. Zu Pferde, Mr. Dollona, ein Handelsmann von Heilbrunn."
+      },
+      {
+        "canvas": 26,
+        "line": 18,
+        "type": "event",
+        "date_context": "Den 9. Zu Pferde, Mr. Dollona, ein Handelsmann von Heilbrunn.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Kutsche, der Amberger ord. Vothe."
+      },
+      {
+        "canvas": 26,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 9. Zu Pferde, Mr. Dollona, ein Handelsmann von Heilbrunn.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Kutsche, der Amberger Silbervothe."
+      },
+      {
+        "canvas": 26,
+        "line": 20,
+        "type": "event",
+        "date_context": "Den 11. Eine Esstafetta nach Banholz, um 10 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 11. Eine Esstafetta nach Banholz, um 10 Uhr, Vormittags."
+      },
+      {
+        "canvas": 26,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 11. Eine Esstafetta nach Banholz, um 10 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Calesch, Herr Hemauer, Pfarrer von Dasing, f. 2."
+      },
+      {
+        "canvas": 26,
+        "line": 22,
+        "type": "event",
+        "date_context": "Den 12. Zu Pferde, Herr Burgermeister Bauder, von Mirdorf.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 12. Zu Pferde, Herr Burgermeister Bauder, von Mirdorf."
+      },
+      {
+        "canvas": 26,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 12. Zu Pferde, Herr Burgermeister Bauder, von Mirdorf.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per ord. Postwagen nach Nürnberg, Tir. Herr von Orban, Regierungsrath von Amberg, und Tir. Herr Popp, Pfleger von Gankhoven."
+      },
+      {
+        "canvas": 26,
+        "line": 25,
+        "type": "event",
+        "date_context": "Den 14. Per Calesch, Herr Eckel, Domekapitulärer Rästner von Chamb.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 14. Per Calesch, Herr Eckel, Domekapitulärer Rästner von Chamb."
+      },
+      {
+        "canvas": 26,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 14. Per Calesch, Herr Eckel, Domekapitulärer Rästner von Chamb.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Posta, Herr Schmorl, Hochgräflich-Hartigischer Director aus Böhmen, f. 2."
+      },
+      {
+        "canvas": 26,
+        "line": 28,
+        "type": "event",
+        "date_context": "Den 6 Jan. Per Calesch, Frau Oswaldin, Rechnungs-Commiss. f. 2. log. in schwarzen Bären.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 6 Jan. Per Calesch, Frau Oswaldin, Rechnungs-Commiss. f. 2. log. in schwarzen Bären."
+      },
+      {
+        "canvas": 26,
+        "line": 29,
+        "type": "event",
+        "date_context": "Den 8. Per Calesch, Herr Kelberger, ein Geisfl von Straubing, log. in Psauz und Herr Simendingel, ein Geisfl. von Dingelfing, log. in schwarzen Bären.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 8. Per Calesch, Herr Kelberger, ein Geisfl von Straubing, log. in Psauz und Herr Simendingel, ein Geisfl. von Dingelfing, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 26,
+        "line": 30,
+        "type": "event",
+        "date_context": "Den 8. Per Calesch, Herr Kelberger, ein Geisfl von Straubing, log. in Psauz und Herr Simendingel, ein Geisfl. von Dingelfing, log. in schwarzen Bären.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Schlitten, der Straundinger ord. Bothe, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 27,
+        "line": 1,
+        "type": "event",
+        "date_context": "Den 9. Per Kutsche-, S.T. Herr Baron von Strell, Regierungscanzler von Straubing, s. 4. log. in 3 Helmen.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 9. Per Kutsche-, S.T. Herr Baron von Strell, Regierungscanzler von Straubing, s. 4. log. in 3 Helmen."
+      },
+      {
+        "canvas": 27,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, Herr Haberkorn, ein Geisl., und Hr. Geckel, ein Kasen- Beamier, beyde von Passau, log. in 3 Helmen.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 10. Per Schlitten, Herr Haberkorn, ein Geisl., und Hr. Geckel, ein Kasen- Beamier, beyde von Passau, log. in 3 Helmen."
+      },
+      {
+        "canvas": 27,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 11. Per Calesch, Herr Hemauer, Pfarrer von Duffing, s. 2. pakiren durch.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 11. Per Calesch, Herr Hemauer, Pfarrer von Duffing, s. 2. pakiren durch."
+      },
+      {
+        "canvas": 27,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 12. Per Schlitten, der Straubinger ord. Bothe, log. in schwarzen Bären.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 12. Per Schlitten, der Straubinger ord. Bothe, log. in schwarzen Bären."
+      },
+      {
+        "canvas": 27,
+        "line": 6,
+        "type": "event",
+        "date_context": "Den 9. Per Calesch, Frau Oswaldin, Rechnungs-Commissar.von Straubing, s. 2.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 9. Per Calesch, Frau Oswaldin, Rechnungs-Commissar.von Straubing, s. 2."
+      },
+      {
+        "canvas": 27,
+        "line": 7,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, der Straubinger ord. Bothe.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 10. Per Schlitten, der Straubinger ord. Bothe."
+      },
+      {
+        "canvas": 27,
+        "line": 8,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, der Straubinger ord. Bothe.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Calesch, Tir. Herr von Feuchten, ein Geisl. von Deggendorf, s. 2."
+      },
+      {
+        "canvas": 27,
+        "line": 9,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, der Straubinger ord. Bothe.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Posa, David Wertheimer, ein Jude von Wien, s. 2."
+      },
+      {
+        "canvas": 27,
+        "line": 10,
+        "type": "event",
+        "date_context": "Den 13. Per Schlitten, der Straubinger ord. Vothe.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 13. Per Schlitten, der Straubinger ord. Vothe."
+      },
+      {
+        "canvas": 27,
+        "line": 12,
+        "type": "event",
+        "date_context": "Den 7 Jan. Der Münchner Postwagen, um 7 Uhr, Abends.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 7 Jan. Der Münchner Postwagen, um 7 Uhr, Abends."
+      },
+      {
+        "canvas": 27,
+        "line": 13,
+        "type": "event",
+        "date_context": "Den 7 Jan. Der Münchner Postwagen, um 7 Uhr, Abends.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Posta, Tit. Herr Hofrath Jäger, von Kopdorf, f. z. log. in 3 Helmen."
+      },
+      {
+        "canvas": 27,
+        "line": 14,
+        "type": "event",
+        "date_context": "Den 8. Per Wagen, der Landshuter Vothe, log. in Türken.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 8. Per Wagen, der Landshuter Vothe, log. in Türken."
+      },
+      {
+        "canvas": 27,
+        "line": 15,
+        "type": "event",
+        "date_context": "Den 9. Per Wagen, der Dingelsfinger Vothe, log. in Türken.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 9. Per Wagen, der Dingelsfinger Vothe, log. in Türken."
+      },
+      {
+        "canvas": 27,
+        "line": 16,
+        "type": "event",
+        "date_context": "Den 9. Per Wagen, der Dingelsfinger Vothe, log. in Türken.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Kutsche, der Silberbothe von Amberg, paßiret durch."
+      },
+      {
+        "canvas": 27,
+        "line": 17,
+        "type": "event",
+        "date_context": "Den 10. Per Schlitten, der Ingolstädter Vothe, log.in Türken.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 10. Per Schlitten, der Ingolstädter Vothe, log.in Türken."
+      },
+      {
+        "canvas": 27,
+        "line": 18,
+        "type": "event",
+        "date_context": "Den 11. Der Wiener Postwagen, um 7 Uhr, Abends.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 11. Der Wiener Postwagen, um 7 Uhr, Abends."
+      },
+      {
+        "canvas": 27,
+        "line": 19,
+        "type": "event",
+        "date_context": "Den 12. Per Wagen, der Landshuter Vothe, log. in Pfauen.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 12. Per Wagen, der Landshuter Vothe, log. in Pfauen."
+      },
+      {
+        "canvas": 27,
+        "line": 21,
+        "type": "event",
+        "date_context": "Den 9. Per Kutsche, Tir. Herr Regierungsrath von Mayer, von Lands hut, f.3.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 9. Per Kutsche, Tir. Herr Regierungsrath von Mayer, von Lands hut, f.3."
+      },
+      {
+        "canvas": 27,
+        "line": 22,
+        "type": "event",
+        "date_context": "Den 10. Der Münchner Postwagen, um 10 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 10. Der Münchner Postwagen, um 10 Uhr, Vormittags."
+      },
+      {
+        "canvas": 27,
+        "line": 23,
+        "type": "event",
+        "date_context": "Den 10. Der Münchner Postwagen, um 10 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Wagen, der Landshuter Bothe."
+      },
+      {
+        "canvas": 27,
+        "line": 24,
+        "type": "event",
+        "date_context": "Den 10. Der Münchner Postwagen, um 10 Uhr, Vormittags.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Posta, Sc. Excell. Herr Baron von Erthal, Churmaynzischer Gesandter, ic. f.6."
+      },
+      {
+        "canvas": 27,
+        "line": 25,
+        "type": "event",
+        "date_context": "Den 10. Per Wiener Postwagen, um 28 Uhr, Vormittags, Tir. Herr Gensky, Churbayerischer Hauptmann.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 10. Per Wiener Postwagen, um 28 Uhr, Vormittags, Tir. Herr Gensky, Churbayerischer Hauptmann."
+      },
+      {
+        "canvas": 27,
+        "line": 26,
+        "type": "event",
+        "date_context": "Den 10. Per Wiener Postwagen, um 28 Uhr, Vormittags, Tir. Herr Gensky, Churbayerischer Hauptmann.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Wagen, der Dingelstinger Bothe."
+      },
+      {
+        "canvas": 27,
+        "line": 27,
+        "type": "event",
+        "date_context": "Den 11. Per Calesch, S.T. Herr von Abelmann, Kayserl. Cammerherr, f.3.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 11. Per Calesch, S.T. Herr von Abelmann, Kayserl. Cammerherr, f.3."
+      },
+      {
+        "canvas": 27,
+        "line": 28,
+        "type": "event",
+        "date_context": "Den 11. Per Calesch, S.T. Herr von Abelmann, Kayserl. Cammerherr, f.3.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Per Schlitten, der Ingolstädtcr Bothe."
+      },
+      {
+        "canvas": 27,
+        "line": 29,
+        "type": "event",
+        "date_context": "Den 13. Per Wagen, der Landshuter Bothe.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 13. Per Wagen, der Landshuter Bothe."
+      },
+      {
+        "canvas": 28,
+        "line": 2,
+        "type": "event",
+        "date_context": "Den 6 Jan. Per Wagen, Hr. Frank, ein Hopfenhändler aus Böhmen, log, in Psauen.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 6 Jan. Per Wagen, Hr. Frank, ein Hopfenhändler aus Böhmen, log, in Psauen."
+      },
+      {
+        "canvas": 28,
+        "line": 3,
+        "type": "event",
+        "date_context": "Den 9. Per Wagen, der Augsburger ord. Voche, damit Mousr. Mocany, ein Kaufmann aus Italien, log, in goldenen Bären.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 9. Per Wagen, der Augsburger ord. Voche, damit Mousr. Mocany, ein Kaufmann aus Italien, log, in goldenen Bären."
+      },
+      {
+        "canvas": 28,
+        "line": 4,
+        "type": "event",
+        "date_context": "Den 12. Per Schikten, Hr. Heilmann, ein Handelsmann von Jissen, f. 2. log, in Gleyphanten.",
+        "gate": "Zur steinernen Brucke hinaus:",
+        "direction": "out",
+        "text": "Den 12. Per Schikten, Hr. Heilmann, ein Handelsmann von Jissen, f. 2. log, in Gleyphanten."
+      }
+    ]
+  }
+}

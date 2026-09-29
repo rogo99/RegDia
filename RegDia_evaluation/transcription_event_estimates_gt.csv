@@ -1,0 +1,4 @@
+issue_id,estimated_baptised,json_baptised,difference_baptised,estimated_buried,json_buried,difference_buried,estimated_deaths,json_deaths,difference_deaths,estimated_arrivals_departures,json_arrivals_departures,difference_arrivals_departures,estimated_total,json_total,difference_total
+Num_2_09_01_1770,9,10,-1,14,14,0,0,2,-2,64,67,-3,87,93,-6
+Num_31_31_07_1770,9,12,-3,14,7,7,6,6,0,74,94,-20,103,119,-16
+Num_3_16_01_1770,12,12,0,15,14,1,2,2,0,61,73,-12,90,101,-11
