@@ -1,0 +1,5 @@
+event_type,ground_truth_events,predicted_events,matched_events,missed_events,spurious_events,coverage,precision,mean_event_similarity
+baptised,34,35,21,13,14,0.6176470588235294,0.6,0.7772909725444056
+buried,35,19,14,21,5,0.4,0.7368421052631579,0.5909605088894389
+deaths,10,5,1,9,4,0.1,0.2,0.65
+arrivals_departures,234,100,84,150,16,0.358974358974359,0.84,0.655618074768896

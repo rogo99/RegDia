@@ -1,0 +1,1085 @@
+issue_id,event_type,gt_index,pred_index,person_index,field,ground_truth,predicted,similarity,status
+Num_2_09_01_1770,baptised,2,10,,date,31 Dec.,Den 31 Dec.,1.0,match
+Num_2_09_01_1770,baptised,2,10,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,2,10,0,person.given_name,Elisabetha Theresia,Elisabetha Theresia,1.0,match
+Num_2_09_01_1770,baptised,2,10,0,person.family_name,Ruttinger,Ruttinger,1.0,match
+Num_2_09_01_1770,baptised,2,10,0,person.occupation_verbatim,,"Thomas Ruttinger, Churbayerischer Res-vierbeschauer bey der Tobacks-Direktion zu Stadt am Hof",0.0,spurious
+Num_2_09_01_1770,baptised,2,10,1,person.given_name,Thomas,Thomas,1.0,match
+Num_2_09_01_1770,baptised,2,10,1,person.family_name,Ruttinger,Ruttinger,1.0,match
+Num_2_09_01_1770,baptised,2,10,1,person.occupation_verbatim,Churbayerischer Resvierbeschauer bey der Tobacks-Direktion zu Stadt am Hof,,0.0,missing
+Num_2_09_01_1770,baptised,3,11,,date,2 Jan.,Den 2 Jan.,1.0,match
+Num_2_09_01_1770,baptised,3,11,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,3,11,0,person.given_name,Laurentius,Franciscus,0.5,minor_difference
+Num_2_09_01_1770,baptised,3,11,0,person.family_name,Lang,Lang,1.0,match
+Num_2_09_01_1770,baptised,3,11,0,person.occupation_verbatim,,,1.0,both_null
+Num_2_09_01_1770,baptised,3,11,1,person.given_name,Franciscus,Laurentius,0.5,minor_difference
+Num_2_09_01_1770,baptised,3,11,1,person.family_name,Lang,Lang,1.0,match
+Num_2_09_01_1770,baptised,3,11,1,person.occupation_verbatim,Beyssiger zu Stadt am Hof,"Franciscus Lang, Beyssiger zu Stadt am Hof",0.7575757575757576,minor_difference
+Num_2_09_01_1770,baptised,4,12,,date,Den 5.,Den 5.,1.0,match
+Num_2_09_01_1770,baptised,4,12,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,4,12,0,person.given_name,Anna Maria,Anna Maria,1.0,match
+Num_2_09_01_1770,baptised,4,12,0,person.family_name,Brann,Brann,1.0,match
+Num_2_09_01_1770,baptised,4,12,0,person.occupation_verbatim,,"Simon Brann, Beyssiger und Tagewerker zu Stadt am Hof",0.0,spurious
+Num_2_09_01_1770,baptised,4,12,1,person.given_name,Simon,Simon,1.0,match
+Num_2_09_01_1770,baptised,4,12,1,person.family_name,Brann,Brann,1.0,match
+Num_2_09_01_1770,baptised,4,12,1,person.occupation_verbatim,Beyssiger und Tagewerker zu Stadt am Hof,,0.0,missing
+Num_2_09_01_1770,baptised,5,13,,date,Den 6.,Den 6.,1.0,match
+Num_2_09_01_1770,baptised,5,13,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,5,13,0,person.given_name,Sebastianus Balthasar,Sebastianus Balthasar,1.0,match
+Num_2_09_01_1770,baptised,5,13,0,person.family_name,Grimmer,Grimmer,1.0,match
+Num_2_09_01_1770,baptised,5,13,0,person.occupation_verbatim,,Michael Grimmer,0.0,spurious
+Num_2_09_01_1770,baptised,5,13,1,person.given_name,Michael,Michael,1.0,match
+Num_2_09_01_1770,baptised,5,13,1,person.family_name,Grimmer,Grimmer,1.0,match
+Num_2_09_01_1770,baptised,5,13,1,person.occupation_verbatim,,,1.0,both_null
+Num_2_09_01_1770,baptised,7,14,,date,20 Dec.,Den 20 Dec.,1.0,match
+Num_2_09_01_1770,baptised,7,14,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,7,14,0,person.given_name,Maria Theresia,Andreas,0.38095238095238093,different
+Num_2_09_01_1770,baptised,7,14,0,person.family_name,Lobenhofser,Lobenhofser,1.0,match
+Num_2_09_01_1770,baptised,7,14,0,person.occupation_verbatim,,,1.0,both_null
+Num_2_09_01_1770,baptised,7,14,1,person.given_name,Andreas,Maria Theresia,0.38095238095238093,different
+Num_2_09_01_1770,baptised,7,14,1,person.family_name,Lobenhofser,Lobenhofser,1.0,match
+Num_2_09_01_1770,baptised,7,14,1,person.occupation_verbatim,Besitzer allhier,"Andreas Lobenhofser, Besitzer allhier",0.6153846153846154,minor_difference
+Num_2_09_01_1770,baptised,8,15,,date,3 Jan.,Den 3 Jan.,1.0,match
+Num_2_09_01_1770,baptised,8,15,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,8,15,0,person,"{'role': 'subject', 'given_name': 'Josephus Stephanus', 'family_name': 'Weiß', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,baptised,8,15,1,person,"{'role': 'father', 'given_name': 'Franciscus Antonius', 'family_name': 'Weiß', 'occupation_verbatim': 'Koch bey Sr. Excell. Herrn Grafen von Hartig', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,baptised,0,1,,date,2 Jan.,Den 2 Jan.,1.0,match
+Num_2_09_01_1770,baptised,0,1,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,0,1,0,person.given_name,Septimus Andreas,Heinrich Paul,0.20689655172413793,different
+Num_2_09_01_1770,baptised,0,1,0,person.family_name,Oppermann,Oppermann,1.0,match
+Num_2_09_01_1770,baptised,0,1,0,person.occupation_verbatim,,,1.0,both_null
+Num_2_09_01_1770,baptised,0,1,1,person,"{'role': 'father', 'given_name': 'Heinrich Paul', 'family_name': 'Oppermann', 'occupation_verbatim': 'Philoloxiae & Medicinae Doctor Practicus', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,baptised,0,1,0,person,,"{'role': 'subject', 'given_name': 'Septimus Andreas', 'family_name': 'Watter', 'occupation_verbatim': 'Tit. Herr Heinrich Paul Oppermann, Philoloxiae & Medicinae Doctor Practicus', 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,baptised,1,2,,date,Eod. die,Den 2 Jan.,0.25,different
+Num_2_09_01_1770,baptised,1,2,,age,,,1.0,both_null
+Num_2_09_01_1770,baptised,1,2,0,person.given_name,Maria Dorothea,Maria Dorothea,1.0,match
+Num_2_09_01_1770,baptised,1,2,0,person.family_name,Märklein,Märklein,1.0,match
+Num_2_09_01_1770,baptised,1,2,0,person.occupation_verbatim,,Wilhelm Christoph Bürger und Bran-teweinbrenner,0.0,spurious
+Num_2_09_01_1770,baptised,1,2,1,person.given_name,Wilhelm Christoph,Wilhelm Christoph,1.0,match
+Num_2_09_01_1770,baptised,1,2,1,person.family_name,Märklein,Märklein,1.0,match
+Num_2_09_01_1770,baptised,1,2,1,person.occupation_verbatim,Burger und Branteweinbrenner,,0.0,missing
+Num_2_09_01_1770,buried,5,3,,date,Den 2.,Den 2.,1.0,match
+Num_2_09_01_1770,buried,5,3,,age,5 Jahr und 10 Monath alt,5 Jahr und 10 Monath alt,1.0,match
+Num_2_09_01_1770,buried,5,3,0,person.given_name,Andreas,Martinus,0.4,different
+Num_2_09_01_1770,buried,5,3,0,person.family_name,Hofmann,Hofmann,1.0,match
+Num_2_09_01_1770,buried,5,3,0,person.occupation_verbatim,,,1.0,both_null
+Num_2_09_01_1770,buried,5,3,0,person,,"{'role': 'subject', 'given_name': 'Andreas', 'family_name': None, 'occupation_verbatim': 'Martinus Hofmann, Beyssiger allhier', 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,buried,3,0,,date,4 Jan.,Den 3 Jan.,0.5714285714285714,minor_difference
+Num_2_09_01_1770,buried,3,0,,age,62 Jahr und 22 Wochen alt,36 Jahr alt,0.5555555555555556,minor_difference
+Num_2_09_01_1770,buried,3,0,0,person,"{'role': 'subject', 'given_name': 'Johaun', 'family_name': 'Schieder', 'occupation_verbatim': 'Burger und Kramhändler allhier', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,buried,3,0,0,person,,"{'role': 'subject', 'given_name': 'Thomas Sedlmayer', 'family_name': None, 'occupation_verbatim': 'ledigen Stands', 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,buried,4,1,,date,Den 6.,Den 2.,0.8,minor_difference
+Num_2_09_01_1770,buried,4,1,,age,56 Jahr weniger 8 Wochen und 4 Tage alt,5 Jahr und 10 Monath alt,0.5396825396825397,minor_difference
+Num_2_09_01_1770,buried,4,1,0,person,"{'role': 'subject', 'given_name': 'Gottfried', 'family_name': 'Euslin', 'occupation_verbatim': 'Burger und Speereyhändler allhier', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,buried,4,1,0,person,,"{'role': 'subject', 'given_name': 'Andreas', 'family_name': None, 'occupation_verbatim': 'Martinus Hofmann, Beyssiger allhier', 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,buried,4,1,1,person,,"{'role': 'father', 'given_name': 'Martinus', 'family_name': 'Hofmann', 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,deaths,0,4,,date,2 Jan.,Den 2.,1.0,match
+Num_2_09_01_1770,deaths,0,4,,age,,5 Jahr und 10 Monath alt,0.0,spurious
+Num_2_09_01_1770,deaths,0,4,0,person,"{'role': 'subject', 'given_name': 'Thomas', 'family_name': 'Sedlmayer', 'occupation_verbatim': 'Musicante allhier', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,deaths,0,4,0,person,,"{'role': 'subject', 'given_name': 'Andreas', 'family_name': None, 'occupation_verbatim': 'Martinus Hofmann, Beyssiger allhier', 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,deaths,0,4,1,person,,"{'role': 'father', 'given_name': 'Martinus', 'family_name': 'Hofmann', 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,29,0,,date,30 Dec.,30 Dec.,1.0,match
+Num_2_09_01_1770,arrivals_departures,29,0,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,29,0,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,29,0,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,29,0,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,29,0,,origin,Hessen-Darmstadt,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,29,0,,lodging,schwarzen Bären,schwarzen Bären,1.0,match
+Num_2_09_01_1770,arrivals_departures,29,0,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,29,0,0,person,"{'given_name': None, 'family_name': 'Herr Barou von Breck', 'occupation_verbatim': 'Cavalier', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,29,0,0,person,,"{'given_name': 'S.T.', 'family_name': 'Barou von Breck', 'occupation_verbatim': 'Cavalier von Hessen-Darmstadt'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,36,7,,date,2 Jan.,2 Jan.,1.0,match
+Num_2_09_01_1770,arrivals_departures,36,7,,gate,Zum Ostenhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,36,7,,direction,hinaus,Ostenhore hinaus,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,36,7,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,36,7,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,36,7,,origin,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,36,7,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,36,7,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,36,7,0,person.given_name,,S.T.,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,36,7,0,person.family_name,Herr Baron von Gleisenthal,Baron von Gleisenthal,0.8936170212765957,match
+Num_2_09_01_1770,arrivals_departures,36,7,0,person.occupation_verbatim,Churbayerischer Obriß Wachtmeister,Churbayerischer Obriß Wachtmeister,1.0,match
+Num_2_09_01_1770,arrivals_departures,42,26,,date,1 Jan.,1 Jan.,1.0,match
+Num_2_09_01_1770,arrivals_departures,42,26,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,42,26,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,42,26,,time,Vormittags,"{'verbatim': '½ 9 Uhr', 'normalised': ""half past 9 o'clock""}",0.18461538461538463,different
+Num_2_09_01_1770,arrivals_departures,42,26,,transport,Postwagen,Postwagen,1.0,match
+Num_2_09_01_1770,arrivals_departures,42,26,,origin,München,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,42,26,,lodging,,Türken,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,42,26,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,42,26,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,42,26,0,person,,"{'given_name': 'Der', 'family_name': 'Münchner Postwagen', 'occupation_verbatim': None}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,49,20,,date,1 Jan.,1 Jan.,1.0,match
+Num_2_09_01_1770,arrivals_departures,49,20,,gate,Zum Mewh St.Peterhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,49,20,,direction,hinaus,Mewh St.Peterhore hinaus,0.4,different
+Num_2_09_01_1770,arrivals_departures,49,20,,time,Mittags,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,49,20,,transport,Posta,Posta,1.0,match
+Num_2_09_01_1770,arrivals_departures,49,20,,origin,,3,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,49,20,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,49,20,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,49,20,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Ekaftetta', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,49,20,0,person,,"{'given_name': 'Hr.', 'family_name': 'Schiermann', 'occupation_verbatim': 'Handelsmann aus Holland'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,43,13,,date,1 Jan.,1 Jan.,1.0,match
+Num_2_09_01_1770,arrivals_departures,43,13,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,43,13,,direction,herein,Weih St. Peterhore herein,0.4,different
+Num_2_09_01_1770,arrivals_departures,43,13,,time,,"{'verbatim': '½ 9 Uhr', 'normalised': ""half past 9 o'clock""}",0.0,spurious
+Num_2_09_01_1770,arrivals_departures,43,13,,transport,Wagen,Postwagen,0.7142857142857143,minor_difference
+Num_2_09_01_1770,arrivals_departures,43,13,,origin,Landshut,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,43,13,,lodging,Türken,Türken,1.0,match
+Num_2_09_01_1770,arrivals_departures,43,13,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,43,13,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Landshuter Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,43,13,0,person,,"{'given_name': 'Der', 'family_name': 'Münchner Postwagen', 'occupation_verbatim': None}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,33,4,,date,Den 2.,2.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,33,4,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,33,4,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,33,4,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,33,4,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,33,4,,origin,Hafnerszell,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,33,4,,lodging,weissen Hahm,weis-sen Hahm,0.96,match
+Num_2_09_01_1770,arrivals_departures,33,4,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,33,4,0,person.given_name,,Hr.,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,33,4,0,person.family_name,Bierbauer,Bierbauer,1.0,match
+Num_2_09_01_1770,arrivals_departures,33,4,0,person.occupation_verbatim,Schiffmeister,Schiffmeister von Hafnerszell,0.6190476190476191,minor_difference
+Num_2_09_01_1770,arrivals_departures,35,6,,date,Den 5.,5.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,35,6,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,35,6,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,35,6,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,35,6,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,35,6,,origin,Straubing,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,35,6,,lodging,schwarzen Bären,schwarzen Bären,1.0,match
+Num_2_09_01_1770,arrivals_departures,35,6,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,35,6,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,35,6,0,person,,"{'given_name': 'Hr.', 'family_name': 'Bothe', 'occupation_verbatim': 'Straubinger ord.'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,44,27,,date,Den 2.,2.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,44,27,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,44,27,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,44,27,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,44,27,,transport,Wagen,Wagen,1.0,match
+Num_2_09_01_1770,arrivals_departures,44,27,,origin,Dingelsfing,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,44,27,,lodging,Türken,Türken,1.0,match
+Num_2_09_01_1770,arrivals_departures,44,27,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,44,27,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Dingelsfinger Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,44,27,0,person,,"{'given_name': 'Der', 'family_name': 'Dingelsfinger Bothe', 'occupation_verbatim': 'Landshuter Bothe'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,45,28,,date,Den 3.,3.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,45,28,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,45,28,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,45,28,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,45,28,,transport,Kutsche,Kutsche,1.0,match
+Num_2_09_01_1770,arrivals_departures,45,28,,origin,Ingolstadt,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,45,28,,lodging,Türken,Türken,1.0,match
+Num_2_09_01_1770,arrivals_departures,45,28,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,45,28,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Ingolstädtter Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,45,28,0,person,,"{'given_name': 'Der', 'family_name': 'Ingolstädtter Bothe', 'occupation_verbatim': 'Landshuter Bothe'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,47,30,,date,Den 5.,5.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,47,30,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,47,30,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,47,30,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,47,30,,transport,Wagen,Wagen,1.0,match
+Num_2_09_01_1770,arrivals_departures,47,30,,origin,Landshut,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,47,30,,lodging,Pfauen,Pfauen,1.0,match
+Num_2_09_01_1770,arrivals_departures,47,30,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,47,30,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Landshuter Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,47,30,0,person,,"{'given_name': 'Der', 'family_name': 'Landshuter Bothe', 'occupation_verbatim': 'Landshuter Bothe'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,34,5,,date,Den 4.,4.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,34,5,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,34,5,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,34,5,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,34,5,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,34,5,,origin,Passau,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,34,5,,lodging,3 Helmen,3 Helmen,1.0,match
+Num_2_09_01_1770,arrivals_departures,34,5,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,34,5,0,person,"{'given_name': None, 'family_name': 'von Mauerer', 'occupation_verbatim': 'Juriste', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,34,5,0,person,,"{'given_name': 'Tit.', 'family_name': 'Herr von Mauerer', 'occupation_verbatim': 'Juriste von Passau'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,32,2,,date,1 Jan.,1 Jan.,1.0,match
+Num_2_09_01_1770,arrivals_departures,32,2,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,32,2,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,32,2,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,32,2,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,32,2,,origin,Straubing,2. paßiren durch,0.24,different
+Num_2_09_01_1770,arrivals_departures,32,2,,lodging,schwarzen Bären,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,32,2,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,32,2,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,32,2,0,person,,"{'given_name': 'Tit.', 'family_name': 'Herr von Weiz', 'occupation_verbatim': 'Churfälzischer Major'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,30,1,,date,31 Dec.,31.,0.5,minor_difference
+Num_2_09_01_1770,arrivals_departures,30,1,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,30,1,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,30,1,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,30,1,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,30,1,,origin,Deggendorf,Tit. Herr von Thalhoffen,0.18181818181818182,different
+Num_2_09_01_1770,arrivals_departures,30,1,,lodging,schwarzen Bären,schwarzen Bären,1.0,match
+Num_2_09_01_1770,arrivals_departures,30,1,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,30,1,0,person.given_name,,Herr,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,30,1,0,person.family_name,Kollmann,Kollmann,1.0,match
+Num_2_09_01_1770,arrivals_departures,30,1,0,person.occupation_verbatim,Secretair bey Tit. Herrn von Thalhoffen,Secretair bey Tit.,0.6181818181818182,minor_difference
+Num_2_09_01_1770,arrivals_departures,41,12,,date,30 Dec.,30 Dec.,1.0,match
+Num_2_09_01_1770,arrivals_departures,41,12,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,41,12,,direction,pasiren durch,Weih St. Peterhore herein,0.21621621621621623,different
+Num_2_09_01_1770,arrivals_departures,41,12,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,41,12,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,41,12,,origin,Amberg,2. pasiren durch,0.2857142857142857,different
+Num_2_09_01_1770,arrivals_departures,41,12,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,41,12,,s_value,s. 2.,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,41,12,0,person.given_name,,S.T.,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,41,12,0,person.family_name,von Seibersdorf,Herr von Seibersdorf,0.8571428571428571,match
+Num_2_09_01_1770,arrivals_departures,41,12,0,person.occupation_verbatim,Commendant,Commendant von Amberg,0.6451612903225806,minor_difference
+Num_2_09_01_1770,arrivals_departures,37,8,,date,Den 3.,3.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,37,8,,gate,Zum Ostenhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,37,8,,direction,hinaus,Ostenhore hinaus,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,37,8,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,37,8,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,37,8,,origin,Straubing,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,37,8,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,37,8,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,37,8,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,37,8,0,person,,"{'given_name': 'Hr.', 'family_name': 'Bothe', 'occupation_verbatim': 'Straubinger ord.'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,46,29,,date,Den 4.,4.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,46,29,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,46,29,,direction,herein,Ostenhore herein,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,46,29,,time,Abends,"{'verbatim': '7 Uhr', 'normalised': ""7 o'clock""}",0.12244897959183673,different
+Num_2_09_01_1770,arrivals_departures,46,29,,transport,Postwagen,Postwagen,1.0,match
+Num_2_09_01_1770,arrivals_departures,46,29,,origin,München,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,46,29,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,46,29,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,46,29,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,46,29,0,person,,"{'given_name': 'Der', 'family_name': 'Münchner Postwagen', 'occupation_verbatim': None}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,48,18,,date,Den 5.,21 Dec. 1769.,0.375,different
+Num_2_09_01_1770,arrivals_departures,48,18,,gate,Zum Weih St. Peterhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,48,18,,direction,herein,E. Hochansehnl. Reichs-Convent,0.35294117647058826,different
+Num_2_09_01_1770,arrivals_departures,48,18,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,48,18,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,48,18,,origin,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,48,18,,lodging,3 Helmen,3 Helmen,1.0,match
+Num_2_09_01_1770,arrivals_departures,48,18,,s_value,f. z.,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,48,18,0,person,"{'given_name': None, 'family_name': 'von Herold', 'occupation_verbatim': 'Churbayerischer Major', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,48,18,0,person,,"{'given_name': 'Herr', 'family_name': 'Philipp Wilhelm Freyherr Linker von Luxenwick', 'occupation_verbatim': 'Excell. Churfürstl. Maynzischer würl. Conferenz-Minister und Reichs-Directorial-Gesandter'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,8,21,,date,Den 3.,3.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,8,21,,gate,Zur steinernen Brucke herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,8,21,,direction,herein,Mewh St.Peterhore hinaus,0.4,different
+Num_2_09_01_1770,arrivals_departures,8,21,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,8,21,,transport,Posta,Posta,1.0,match
+Num_2_09_01_1770,arrivals_departures,8,21,,origin,,2,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,8,21,,lodging,3 Helmen,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,8,21,,s_value,f. 3.,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,8,21,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Cammerdiener bey S. T. Herrn Grafen von Baltimor', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,8,21,0,person,,"{'given_name': 'Hr.', 'family_name': 'Sodua', 'occupation_verbatim': 'Handelsmann aus Paris'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,59,24,,date,Den 6.,6.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,59,24,,gate,Zum Mewh St.Peterhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,59,24,,direction,hinaus,Mewh St.Peterhore hinaus,0.4,different
+Num_2_09_01_1770,arrivals_departures,59,24,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,59,24,,transport,Wagen,Wagen,1.0,match
+Num_2_09_01_1770,arrivals_departures,59,24,,origin,Landshut,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,59,24,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,59,24,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,59,24,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Landshuter Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,59,24,0,person,,"{'given_name': 'Der', 'family_name': 'Landshuter Bothe', 'occupation_verbatim': 'Landshuter Bothe'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,63,14,,date,2 Jan.,2.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,63,14,,gate,Zum Jacober thore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,63,14,,direction,herein,Weih St. Peterhore herein,0.4,different
+Num_2_09_01_1770,arrivals_departures,63,14,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,63,14,,transport,Wagen,Wagen,1.0,match
+Num_2_09_01_1770,arrivals_departures,63,14,,origin,Augsburg,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,63,14,,lodging,,Türken,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,63,14,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,63,14,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Augspurger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,63,14,0,person,,"{'given_name': 'Der', 'family_name': 'Dingelsfinger Bothe', 'occupation_verbatim': 'Landshuter Bothe'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,40,31,,date,Den 6.,21 Dec. 1769.,0.5,minor_difference
+Num_2_09_01_1770,arrivals_departures,40,31,,gate,Zum Ostenhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,40,31,,direction,hinaus,E. Hochansehnl. Reichs-Convent,0.17647058823529413,different
+Num_2_09_01_1770,arrivals_departures,40,31,,time,,Kraft Voll macht,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,40,31,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,40,31,,origin,Straubing,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,40,31,,lodging,,3 Helmen,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,40,31,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,40,31,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,40,31,0,person,,"{'given_name': 'Herr', 'family_name': 'Philipp Wilhelm Freyherr Linker von Luxenwick', 'occupation_verbatim': 'Excell. Churfürstl. Maynzischer würl. Conferenz-Minister und Reichs-Directorial-Gesandter'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,7,15,,date,Den 3.,3.,0.3333333333333333,different
+Num_2_09_01_1770,arrivals_departures,7,15,,gate,Zur steinernen Brucke herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,7,15,,direction,passtret durch,Weih St. Peterhore herein,0.3157894736842105,different
+Num_2_09_01_1770,arrivals_departures,7,15,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,7,15,,transport,Kutsche,Kutsche,1.0,match
+Num_2_09_01_1770,arrivals_departures,7,15,,origin,Amberg,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,7,15,,lodging,,Türken,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,7,15,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,7,15,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Silberbothe von Amberg', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,7,15,0,person,,"{'given_name': 'Der', 'family_name': 'Ingolstädtter Bothe', 'occupation_verbatim': 'Landshuter Bothe'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,38,9,,date,Den 3.,Per Calesch,0.25,different
+Num_2_09_01_1770,arrivals_departures,38,9,,gate,Zum Ostenhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,38,9,,direction,hinaus,Ostenhore hinaus,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,38,9,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,38,9,,transport,Calesch,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,38,9,,origin,München,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,38,9,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,38,9,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,38,9,0,person.given_name,,Tit.,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,38,9,0,person.family_name,Hufschmid,Hufschmid,1.0,match
+Num_2_09_01_1770,arrivals_departures,38,9,0,person.occupation_verbatim,Churbayerischer Secretair,Churbayerischer Secretair von München,0.8064516129032258,minor_difference
+Num_2_09_01_1770,arrivals_departures,39,10,,date,Den 3.,Per Calesch,0.25,different
+Num_2_09_01_1770,arrivals_departures,39,10,,gate,Zum Ostenhore hinaus,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,39,10,,direction,hinaus,Ostenhore hinaus,0.5454545454545454,minor_difference
+Num_2_09_01_1770,arrivals_departures,39,10,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,39,10,,transport,Kutschen,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,39,10,,origin,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,39,10,,lodging,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,39,10,,s_value,s. 8.,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,39,10,0,person.given_name,,S. T.,0.0,spurious
+Num_2_09_01_1770,arrivals_departures,39,10,0,person.family_name,Herr Baron von Holleben,Herr von Holleben,0.85,match
+Num_2_09_01_1770,arrivals_departures,39,10,0,person.occupation_verbatim,Hochfürstlich - Schwarzburg - Rudel städtischer Geh. Rath,Hochfürstlich - Schwarzburg - Rudel städtischer Geh. Rath,1.0,match
+Num_2_09_01_1770,arrivals_departures,60,32,,date,31 Der.,23 Dec.,0.6666666666666666,minor_difference
+Num_2_09_01_1770,arrivals_departures,60,32,,gate,Zum Jacober thore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,60,32,,direction,herein,E. Hochansehnl. Reichs-Convent,0.35294117647058826,different
+Num_2_09_01_1770,arrivals_departures,60,32,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,60,32,,transport,Calesch,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,60,32,,origin,Schweiz,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,60,32,,lodging,goldenen Hacke,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,60,32,,s_value,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,60,32,0,person,"{'given_name': None, 'family_name': 'Schler', 'occupation_verbatim': 'Baumeister', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,12,19,,date,Den 4.,23 Dec.,0.36363636363636365,different
+Num_2_09_01_1770,arrivals_departures,12,19,,gate,Zur steinernen Brucke herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,12,19,,direction,herein,E. Hochansehnl. Reichs-Convent,0.35294117647058826,different
+Num_2_09_01_1770,arrivals_departures,12,19,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,12,19,,transport,Kutsche,Calesch,0.42857142857142855,different
+Num_2_09_01_1770,arrivals_departures,12,19,,origin,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,12,19,,lodging,3 Helmen,3 Helmen,1.0,match
+Num_2_09_01_1770,arrivals_departures,12,19,,s_value,f.4.,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,12,19,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Andrioum', 'occupation_verbatim': 'Churfälzischer Major', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,12,19,0,person,,"{'given_name': 'Herr', 'family_name': 'Ignaz Anton Friederich Freyherr von Dextle auf Friedenberg', 'occupation_verbatim': 'Excell. Kraft Voll macht'}",0.0,spurious_person
+Num_2_09_01_1770,arrivals_departures,31,3,,date,1 Jan.,2.,0.0,different
+Num_2_09_01_1770,arrivals_departures,31,3,,gate,Zum Ostenhore herein,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,31,3,,direction,paßiren durch,Ostenhore herein,0.26666666666666666,different
+Num_2_09_01_1770,arrivals_departures,31,3,,time,,,1.0,both_null
+Num_2_09_01_1770,arrivals_departures,31,3,,transport,Calesch,Calesch,1.0,match
+Num_2_09_01_1770,arrivals_departures,31,3,,origin,Deggendorf,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,31,3,,lodging,schwarzen Bären,schwarzen Bären,1.0,match
+Num_2_09_01_1770,arrivals_departures,31,3,,s_value,s. 2.,,0.0,missing
+Num_2_09_01_1770,arrivals_departures,31,3,0,person,"{'given_name': None, 'family_name': 'von Weiz', 'occupation_verbatim': 'Churfälzischer Major', 'occupation_normalised': None}",,0.0,missing_person
+Num_2_09_01_1770,arrivals_departures,31,3,0,person,,"{'given_name': 'Hr.', 'family_name': 'Bothe', 'occupation_verbatim': 'Straubinger ord.'}",0.0,spurious_person
+Num_31_31_07_1770,baptised,9,6,,date,22 Julii.,22 Julii.,1.0,match
+Num_31_31_07_1770,baptised,9,6,,age,,,1.0,both_null
+Num_31_31_07_1770,baptised,9,6,0,person.given_name,Maria Magdalena,Maria Magdalena,1.0,match
+Num_31_31_07_1770,baptised,9,6,0,person.family_name,Fux,Fux,1.0,match
+Num_31_31_07_1770,baptised,9,6,0,person.occupation_verbatim,,Beysser allhier,0.0,spurious
+Num_31_31_07_1770,baptised,9,6,1,person,"{'role': 'father', 'given_name': 'Johann Ezidi', 'family_name': 'Fux', 'occupation_verbatim': 'Beysser allhier', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,baptised,9,6,1,person,,"{'role': 'father', 'given_name': 'Johann Ezidi', 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_31_31_07_1770,baptised,3,0,,date,25 Julii.,23 Julii.,0.875,match
+Num_31_31_07_1770,baptised,3,0,,age,,,1.0,both_null
+Num_31_31_07_1770,baptised,3,0,0,person,"{'role': 'subject', 'given_name': 'Conrad Ludwig', 'family_name': 'Raimer', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,baptised,3,0,1,person,"{'role': 'father', 'given_name': 'Christian Ludwig', 'family_name': 'Raimer', 'occupation_verbatim': 'Burger, Fischer und Schiffmeister', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,baptised,3,0,0,person,,"{'role': 'subject', 'given_name': 'M. Jacob Wilhelm', 'family_name': 'Goy', 'occupation_verbatim': 'Bürger und Säcker', 'occupation_normalised': 'Bürger and Farmer'}",0.0,spurious_person
+Num_31_31_07_1770,baptised,3,0,1,person,,"{'role': 'father', 'given_name': None, 'family_name': 'Jsofr. Anna Barbara Rosenhahnin', 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_31_31_07_1770,baptised,11,8,,date,Den 26.,26. Theresia,0.23529411764705882,different
+Num_31_31_07_1770,baptised,11,8,,age,,,1.0,both_null
+Num_31_31_07_1770,baptised,11,8,0,person.given_name,Theresia,Theresia,1.0,match
+Num_31_31_07_1770,baptised,11,8,0,person.family_name,Lautenbacher,Lautenbacher,1.0,match
+Num_31_31_07_1770,baptised,11,8,0,person.occupation_verbatim,,Hochfürstlich-Taxischer Kutscher,0.0,spurious
+Num_31_31_07_1770,baptised,11,8,1,person,"{'role': 'father', 'given_name': 'Michael', 'family_name': 'Lautenbacher', 'occupation_verbatim': 'Hochfürstlich-Taxischer Kutscher', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,baptised,11,8,1,person,,"{'role': 'father', 'given_name': 'Michael', 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_31_31_07_1770,baptised,10,7,,date,Den 23.,23. Maria Eunigunda,0.16666666666666666,different
+Num_31_31_07_1770,baptised,10,7,,age,,,1.0,both_null
+Num_31_31_07_1770,baptised,10,7,0,person.given_name,Maria Eunigunda,Maria Eunigunda,1.0,match
+Num_31_31_07_1770,baptised,10,7,0,person.family_name,Lampert,Lampert,1.0,match
+Num_31_31_07_1770,baptised,10,7,0,person.occupation_verbatim,,"Hr. Peter Lampert, Hochfürstlich-Thurns und Taxischer Cammerdiener",0.0,spurious
+Num_31_31_07_1770,baptised,10,7,1,person,"{'role': 'father', 'given_name': 'Peter', 'family_name': 'Lampert', 'occupation_verbatim': 'Hochfürstlich-Thurns und Taxischer Cammerdiener', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,baptised,10,7,1,person,,"{'role': 'father', 'given_name': 'Peter', 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_31_31_07_1770,buried,6,4,,date,Den 27.,27. Anna Maria,0.21052631578947367,different
+Num_31_31_07_1770,buried,6,4,,age,26 Wochen und 3 Tage alt,26 Wochen und 3 Tage alt,1.0,match
+Num_31_31_07_1770,buried,6,4,0,person.given_name,Anna Maria,Anna Maria,1.0,match
+Num_31_31_07_1770,buried,6,4,0,person.family_name,Schmidbauer,Schmidbauer,1.0,match
+Num_31_31_07_1770,buried,6,4,0,person.occupation_verbatim,,"Gregori Schmidbauer, Beysser allhier",0.0,spurious
+Num_31_31_07_1770,buried,6,4,1,person,,"{'role': 'father', 'given_name': 'Gregori', 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,53,18,,date,23 Julii.,23 Julii,1.0,match
+Num_31_31_07_1770,arrivals_departures,53,18,,gate,An der hölzernen Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,53,18,,direction,passiren durch,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,53,18,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,53,18,,transport,Schiffe,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,53,18,,origin,Ulm,Ulm,1.0,match
+Num_31_31_07_1770,arrivals_departures,53,18,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,53,18,,s_value,f. 3.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,53,18,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Hindeler', 'occupation_verbatim': 'Kayserl. Hauptmann', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,53,18,0,person,,"{'given_name': 'Herr Baron von Hindeler', 'family_name': 'Kayserl Hauptmann', 'occupation_verbatim': 'Kayserl Hauptmann', 'occupation_normalised': 'Kayserl Hauptmann'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,0,9,,date,22 Julii.,25 Julii.,0.875,match
+Num_31_31_07_1770,arrivals_departures,0,9,,gate,Zur feinern Brucke herein,Per Calesch,0.2777777777777778,different
+Num_31_31_07_1770,arrivals_departures,0,9,,direction,herein,,0.0,different
+Num_31_31_07_1770,arrivals_departures,0,9,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,0,9,,transport,Zu Fuß,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,0,9,,origin,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,0,9,,lodging,goldenen Crone,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,0,9,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,0,9,0,person,"{'given_name': 'Anton', 'family_name': 'Gottschling', 'occupation_verbatim': 'vacirender Laufser', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,55,20,,date,26 Julii,26 Julii,1.0,match
+Num_31_31_07_1770,arrivals_departures,55,20,,gate,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,55,20,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,55,20,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,55,20,,transport,Schiff,Calesch,0.46153846153846156,different
+Num_31_31_07_1770,arrivals_departures,55,20,,origin,,Wien,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,55,20,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,55,20,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,55,20,0,person,"{'given_name': 'Christian', 'family_name': 'Laurer', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,55,20,0,person,,"{'given_name': 'Christian Laurer', 'family_name': 'Hr.', 'occupation_verbatim': 'Handelsmann', 'occupation_normalised': 'Handelsmann'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,1,15,,date,22 Julii.,26 Julii,0.875,match
+Num_31_31_07_1770,arrivals_departures,1,15,,gate,Zur feinern Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,1,15,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,1,15,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,1,15,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,1,15,,origin,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,1,15,,lodging,3 Helmen,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,1,15,,s_value,f. z.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,1,15,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Herold', 'occupation_verbatim': 'Churbayerischer General', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,1,15,0,person,,"{'given_name': 'Liz. Herr von Dreer', 'family_name': 'Landrichter von Neuburg am Wald', 'occupation_verbatim': 'Landrichter von Neuburg am Wald', 'occupation_normalised': 'Landrichter von Neuburg am Wald'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,46,10,,date,Den 26.,26. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,46,10,,gate,Zur steinernen Brucke hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,46,10,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,46,10,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,46,10,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,46,10,,origin,Schweinau,Schweinau,1.0,match
+Num_31_31_07_1770,arrivals_departures,46,10,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,46,10,,s_value,,2e.,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,46,10,0,person,"{'given_name': None, 'family_name': 'Meyershifer', 'occupation_verbatim': 'Handelsmann', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,46,10,0,person,,"{'given_name': 'Meyershifer', 'family_name': 'Hr.', 'occupation_verbatim': 'Handelsmann', 'occupation_normalised': 'Handelsmann'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,51,14,,date,Den 29.,29. per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,51,14,,gate,Zur steinernen Brucke hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,51,14,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,51,14,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,51,14,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,51,14,,origin,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,51,14,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,51,14,,s_value,S. 9.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,51,14,0,person,"{'given_name': None, 'family_name': 'Se. Durchl. Fürst von Fürtenberg', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,51,14,0,person,,"{'given_name': 'Se. Durchl. Fürst von Fürtenberg', 'family_name': '2e. S. 9', 'occupation_verbatim': 'Se. Durchl. Fürst von Fürtenberg', 'occupation_normalised': 'Se. Durchl. Fürst von Fürtenberg'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,73,28,,date,Den 23.,25. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,73,28,,gate,Zum Ostenchoore hinans,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,73,28,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,73,28,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,73,28,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,73,28,,origin,Weldenburg,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,73,28,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,73,28,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,73,28,0,person,"{'given_name': None, 'family_name': 'Philipp', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,73,28,0,person,,"{'given_name': 'Hr.', 'family_name': 'Philipp', 'occupation_verbatim': 'Hr.', 'occupation_normalised': 'Hr.'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,54,19,,date,Den 29.,29. Johann Lobensommer,0.14814814814814814,different
+Num_31_31_07_1770,arrivals_departures,54,19,,gate,An der hölzernen Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,54,19,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,54,19,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,54,19,,transport,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,54,19,,origin,Salzburg,Salzburg,1.0,match
+Num_31_31_07_1770,arrivals_departures,54,19,,lodging,,Schleisfeinen,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,54,19,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,54,19,0,person,"{'given_name': 'Johann', 'family_name': 'Lobensommer', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,54,19,0,person,,"{'given_name': 'Johann Lobensommer', 'family_name': 'von Salzburg', 'occupation_verbatim': 'Handelsmann', 'occupation_normalised': 'Handelsmann'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,79,12,,date,Den 22.,27. Per ord. Postwagen,0.23076923076923078,different
+Num_31_31_07_1770,arrivals_departures,79,12,,gate,Zum Weyh St. Peterchoore herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,79,12,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,79,12,,time,Nachmittags,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,79,12,,transport,Postwagen,Postwagen,1.0,match
+Num_31_31_07_1770,arrivals_departures,79,12,,origin,München,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,79,12,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,79,12,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,79,12,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,79,12,0,person,,"{'given_name': 'Mrz. Wüstenfeld', 'family_name': 'Kayserl Feldscheerer', 'occupation_verbatim': 'Kayserl Feldscheerer', 'occupation_normalised': 'Kayserl Feldscheerer'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,75,29,,date,Den 26.,26. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,75,29,,gate,Zum Ostenchoore hinans,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,75,29,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,75,29,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,75,29,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,75,29,,origin,Freysing,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,75,29,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,75,29,,s_value,s. z.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,75,29,0,person,"{'given_name': None, 'family_name': 'Herr Graf von Fugger', 'occupation_verbatim': 'Domherr', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,75,29,0,person,,"{'given_name': 'S. T. Herr Graf von Fugger', 'family_name': 'Domherr von Freysing', 'occupation_verbatim': 'Domherr von Freysing', 'occupation_normalised': 'Domherr von Freysing'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,64,23,,date,Den 23.,23. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,64,23,,gate,Zum Ostenchorhe herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,64,23,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,64,23,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,64,23,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,64,23,,origin,Straubing,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,64,23,,lodging,schwarzen Tiren,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,64,23,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,64,23,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,64,23,0,person,,"{'given_name': 'Tir. Herr von Fallbach', 'family_name': 'Beneficiar von Falkenstein', 'occupation_verbatim': 'Beneficiar von Falkenstein', 'occupation_normalised': 'Beneficiar von Falkenstein'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,71,24,,date,Den 27.,24. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,71,24,,gate,Zum Ostenchorhe herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,71,24,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,71,24,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,71,24,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,71,24,,origin,Straubing,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,71,24,,lodging,schwarzen Bären,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,71,24,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,71,24,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,71,24,0,person,,"{'given_name': 'Tir. Herr von Dossy', 'family_name': 'Königlich-Pohlrischer Capitain', 'occupation_verbatim': 'Königlich-Pohlrischer Capitain', 'occupation_normalised': 'Königlich-Pohlrischer Capitain'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,74,25,,date,Den 25.,26. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,74,25,,gate,Zum Ostenchoore hinans,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,74,25,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,74,25,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,74,25,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,74,25,,origin,Straubing,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,74,25,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,74,25,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,74,25,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,74,25,0,person,,"{'given_name': 'Hr. Euersdorfer', 'family_name': 'Deutschreiber von Straubing', 'occupation_verbatim': 'Deutschreiber von Straubing', 'occupation_normalised': 'Deutschreiber von Straubing'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,77,26,,date,Den 28.,27. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,77,26,,gate,Zum Ostenchoore hinans,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,77,26,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,77,26,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,77,26,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,77,26,,origin,Straubing,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,77,26,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,77,26,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,77,26,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,77,26,0,person,,"{'given_name': 'Hr. Thanqueneti', 'family_name': 'Kaufmann von Mayland', 'occupation_verbatim': 'Kaufmann von Mayland', 'occupation_normalised': 'Kaufmann von Mayland'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,72,27,,date,Den 23.,23. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,72,27,,gate,Zum Ostenchoore hinans,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,72,27,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,72,27,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,72,27,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,72,27,,origin,Weldenburg,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,72,27,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,72,27,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,72,27,0,person,"{'given_name': None, 'family_name': 'Placitus', 'occupation_verbatim': 'Pater', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,72,27,0,person,,"{'given_name': 'Herr Pat. Placitus', 'family_name': 'Hr.', 'occupation_verbatim': 'Hr.', 'occupation_normalised': 'Hr.'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,81,34,,date,Den 24.,26. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,81,34,,gate,Zum Weyh St. Peterchoore herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,81,34,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,81,34,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,81,34,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,81,34,,origin,Passau,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,81,34,,lodging,3 Helmen,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,81,34,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,81,34,0,person,"{'given_name': None, 'family_name': 'Herr Graf v. Fugger', 'occupation_verbatim': 'Domherr', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,81,34,0,person,,"{'given_name': 'S. T. Herr Graf von Fugger', 'family_name': 'Domherr von Freysing', 'occupation_verbatim': 'Domherr von Freysing', 'occupation_normalised': 'Domherr von Freysing'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,32,32,,date,Den 27.,23. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,32,32,,gate,Zur feinern Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,32,32,,direction,pasiren durch,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,32,32,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,32,32,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,32,32,,origin,Zohlen,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,32,32,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,32,32,,s_value,f. 6.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,32,32,0,person,"{'given_name': None, 'family_name': 'Herr Graf von Zopdoitsch', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,32,32,0,person,,"{'given_name': 'Herr Pat. Placitus', 'family_name': 'Hr.', 'occupation_verbatim': 'Hr.', 'occupation_normalised': 'Hr.'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,11,7,,date,Den 24.,25 Julii.,0.14285714285714285,different
+Num_31_31_07_1770,arrivals_departures,11,7,,gate,Zur feinern Brucke herein,Per Kutsche,0.3333333333333333,different
+Num_31_31_07_1770,arrivals_departures,11,7,,direction,herein,2 S.T. Herrn Barons von Oberndorf,0.2631578947368421,different
+Num_31_31_07_1770,arrivals_departures,11,7,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,11,7,,transport,Kutsche,Per Kutsche,0.7777777777777778,minor_difference
+Num_31_31_07_1770,arrivals_departures,11,7,,origin,,2 S.T.,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,11,7,,lodging,3 Helmen,in 3 Helmen,0.8421052631578947,minor_difference
+Num_31_31_07_1770,arrivals_departures,11,7,,s_value,,§6.,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,11,7,0,person,"{'given_name': None, 'family_name': 'Herrn Barons von Oberndorf', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,11,7,0,person,,"{'given_name': '2 S.T. Herrn Barons von Oberndorf', 'family_name': None, 'occupation_verbatim': '2e vor Regenders', 'occupation_normalised': '2e vor Regenders'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,50,13,,date,Den 28.,28. per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,50,13,,gate,Zur steinernen Brucke hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,50,13,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,50,13,,time,Nachmittags,"{'verbatim': 'um ½ 7 Uhr', 'normalised': 'um ½ 7 Uhr'}",0.1,different
+Num_31_31_07_1770,arrivals_departures,50,13,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,50,13,,origin,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,50,13,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,50,13,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,50,13,0,person,"{'given_name': None, 'family_name': 'Vnzingier', 'occupation_verbatim': 'Kayserl Courier', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,50,13,0,person,,"{'given_name': 'Vnzingier', 'family_name': 'Kayserl Courier', 'occupation_verbatim': 'Kayserl Courier', 'occupation_normalised': 'Kayserl Courier'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,85,37,,date,Den 26.,23. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,85,37,,gate,Zum Weyh St. Peterchoore herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,85,37,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,85,37,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,85,37,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,85,37,,origin,Wechlar,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,85,37,,lodging,3 Helmen,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,85,37,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,85,37,0,person,"{'given_name': None, 'family_name': 'Herr Graf von Zach', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,85,37,0,person,,"{'given_name': 'Herr Pat. Placitus', 'family_name': 'Hr.', 'occupation_verbatim': 'Hr.', 'occupation_normalised': 'Hr.'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,6,4,,date,Den 23.,23 Julii.,0.2857142857142857,different
+Num_31_31_07_1770,arrivals_departures,6,4,,gate,Zur feinern Brucke herein,Zu Fuß,0.3125,different
+Num_31_31_07_1770,arrivals_departures,6,4,,direction,herein,Hr. Häcker,0.4,different
+Num_31_31_07_1770,arrivals_departures,6,4,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,6,4,,transport,Zu Fuß,Zu Fuß,1.0,match
+Num_31_31_07_1770,arrivals_departures,6,4,,origin,Sachsen,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,6,4,,lodging,gold. Bären,in gold. Bären,0.8695652173913043,match
+Num_31_31_07_1770,arrivals_departures,6,4,,s_value,s. 2.,log. in gold. Bären,0.1,different
+Num_31_31_07_1770,arrivals_departures,6,4,0,person,"{'given_name': None, 'family_name': 'Häcker', 'occupation_verbatim': 'Spitzenhändler', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,6,4,0,person,,"{'given_name': 'Hr. Häcker', 'family_name': 'Spitzenhändler aus Sachsen', 'occupation_verbatim': 'log. in gold. Bären', 'occupation_normalised': 'log. in gold. Bären'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,3,17,,date,Den 23.,29. per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,3,17,,gate,Zur feinern Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,3,17,,direction,paßiren durch,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,3,17,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,3,17,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,3,17,,origin,Schwäbischen Crayß,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,3,17,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,3,17,,s_value,s. 2.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,3,17,0,person,"{'given_name': None, 'family_name': 'Herr Lieutenant von Trautenberg', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,3,17,0,person,,"{'given_name': 'Se. Durchl. Fürst von Fürtenberg', 'family_name': '2e. S. 9', 'occupation_verbatim': 'Se. Durchl. Fürst von Fürtenberg', 'occupation_normalised': 'Se. Durchl. Fürst von Fürtenberg'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,34,16,,date,Den 27.,28. per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,34,16,,gate,Zur feinern Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,34,16,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,34,16,,time,,"{'verbatim': 'um ½ 7 Uhr', 'normalised': 'um ½ 7 Uhr'}",0.0,spurious
+Num_31_31_07_1770,arrivals_departures,34,16,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,34,16,,origin,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,34,16,,lodging,3 Helmen,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,34,16,,s_value,f. 4.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,34,16,0,person,"{'given_name': None, 'family_name': 'Herr Graf von Selb', 'occupation_verbatim': 'Major vom Tyroler Scharffschützen-Regiment', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,34,16,0,person,,"{'given_name': 'Herr Vnzingier', 'family_name': 'Kayserl Courier', 'occupation_verbatim': 'Kayserl Courier', 'occupation_normalised': 'Kayserl Courier'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,2,0,,date,22 Julii.,22 Julii.,1.0,match
+Num_31_31_07_1770,arrivals_departures,2,0,,gate,Zur feinern Brucke herein,zu Fuß,0.3125,different
+Num_31_31_07_1770,arrivals_departures,2,0,,direction,herein,in der golde-ne Crone,0.2962962962962963,different
+Num_31_31_07_1770,arrivals_departures,2,0,,time,Abends,Vormittags,0.25,different
+Num_31_31_07_1770,arrivals_departures,2,0,,transport,Esfasseta,zu Fuß,0.375,different
+Num_31_31_07_1770,arrivals_departures,2,0,,origin,Bayrenth,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,2,0,,lodging,,in der golde-ne Crone,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,2,0,,s_value,,log.,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,2,0,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,2,0,0,person,,"{'given_name': 'Anton Gottschling', 'family_name': 'Laufser', 'occupation_verbatim': 'vacirender Laufser', 'occupation_normalised': 'vacirender Laufser'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,8,30,,date,Den 23.,12. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,8,30,,gate,Zur feinern Brucke herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,8,30,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,8,30,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,8,30,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,8,30,,origin,Rhin,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,8,30,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,8,30,,s_value,s. 3.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,8,30,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Singelheim', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,8,30,0,person,,"{'given_name': 'Hr. Feydler', 'family_name': 'Kaufmann von Nurnberg', 'occupation_verbatim': 'Kaufmann von Nurnberg', 'occupation_normalised': 'Kaufmann von Nurnberg'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,56,21,,date,Den 28.,28. Wolfgang Raimer,0.16666666666666666,different
+Num_31_31_07_1770,arrivals_departures,56,21,,gate,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,56,21,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,56,21,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,56,21,,transport,Marktgütherschiff,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,56,21,,origin,,Passau,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,56,21,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,56,21,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,56,21,0,person,"{'given_name': 'Wolfgang', 'family_name': 'Raimer', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,56,21,0,person,,"{'given_name': 'Wolfgang Raimer', 'family_name': 'Hr.', 'occupation_verbatim': 'Handelsmann', 'occupation_normalised': 'Handelsmann'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,90,33,,date,Den 25.,25. Per Posta,0.2222222222222222,different
+Num_31_31_07_1770,arrivals_departures,90,33,,gate,Zum Jacobertore hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,90,33,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,90,33,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,90,33,,transport,Posta,Posta,1.0,match
+Num_31_31_07_1770,arrivals_departures,90,33,,origin,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,90,33,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,90,33,,s_value,f. 2.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,90,33,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Isling', 'occupation_verbatim': 'Kaysperl. Oberlieutenant', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,90,33,0,person,,"{'given_name': 'Hr.', 'family_name': 'Philipp', 'occupation_verbatim': 'Hr.', 'occupation_normalised': 'Hr.'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,57,22,,date,Den 29.,29. Paul Matthias Raimer,0.13793103448275862,different
+Num_31_31_07_1770,arrivals_departures,57,22,,gate,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,57,22,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,57,22,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,57,22,,transport,Schiff,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,57,22,,origin,,Wien,0.0,spurious
+Num_31_31_07_1770,arrivals_departures,57,22,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,57,22,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,57,22,0,person,"{'given_name': 'Paul Matthias', 'family_name': 'Raimer', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,57,22,0,person,,"{'given_name': 'Paul Matthias Raimer', 'family_name': 'Hr.', 'occupation_verbatim': 'Handelsmann', 'occupation_normalised': 'Handelsmann'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,62,31,,date,Den 23.,28. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,62,31,,gate,Zum Ostenchorhe herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,62,31,,direction,herein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,62,31,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,62,31,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,62,31,,origin,Falkenstein,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,62,31,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,62,31,,s_value,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,62,31,0,person,"{'given_name': None, 'family_name': 'von Fallbach', 'occupation_verbatim': 'Beneficiar', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,62,31,0,person,,"{'given_name': 'Tir. Herr von Fallbach', 'family_name': 'Beneficiar von Falkenstein', 'occupation_verbatim': 'Beneficiar von Falkenstein', 'occupation_normalised': 'Beneficiar von Falkenstein'}",0.0,spurious_person
+Num_31_31_07_1770,arrivals_departures,76,35,,date,Den 12.,12. Per Calesch,0.2,different
+Num_31_31_07_1770,arrivals_departures,76,35,,gate,Zum Ostenchoore hinans,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,76,35,,direction,hinaus,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,76,35,,time,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,76,35,,transport,Calesch,Calesch,1.0,match
+Num_31_31_07_1770,arrivals_departures,76,35,,origin,Nurnberg,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,76,35,,lodging,,,1.0,both_null
+Num_31_31_07_1770,arrivals_departures,76,35,,s_value,s. 2.,,0.0,missing
+Num_31_31_07_1770,arrivals_departures,76,35,0,person,"{'given_name': None, 'family_name': 'Feydler', 'occupation_verbatim': 'Kaufmann', 'occupation_normalised': None}",,0.0,missing_person
+Num_31_31_07_1770,arrivals_departures,76,35,0,person,,"{'given_name': 'Hr. Feydler', 'family_name': 'Kaufmann von Nurnberg', 'occupation_verbatim': 'Kaufmann von Nurnberg', 'occupation_normalised': 'Kaufmann von Nurnberg'}",0.0,spurious_person
+Num_3_16_01_1770,baptised,0,0,,date,8 Jan.,8 Jan.,1.0,match
+Num_3_16_01_1770,baptised,0,0,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,0,0,0,person.given_name,Maria Dorothea Elisabetha,Maria Dorothea Elisabetha,1.0,match
+Num_3_16_01_1770,baptised,0,0,0,person.family_name,Wagner,Wagner,1.0,match
+Num_3_16_01_1770,baptised,0,0,0,person.occupation_verbatim,,Bürger und Glaser,0.0,spurious
+Num_3_16_01_1770,baptised,0,0,1,person.given_name,Georg Friedrich,Georg Friedrich,1.0,match
+Num_3_16_01_1770,baptised,0,0,1,person.family_name,Wagner,Wagner,1.0,match
+Num_3_16_01_1770,baptised,0,0,1,person.occupation_verbatim,Bürger und Glaser,Bürger und Glaser,1.0,match
+Num_3_16_01_1770,baptised,2,1,,date,7 Jan.,7 Jan.,1.0,match
+Num_3_16_01_1770,baptised,2,1,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,2,1,0,person.given_name,Walburza,Walburza,1.0,match
+Num_3_16_01_1770,baptised,2,1,0,person.family_name,Brann,Brann,1.0,match
+Num_3_16_01_1770,baptised,2,1,0,person.occupation_verbatim,,Beysßer allhier,0.0,spurious
+Num_3_16_01_1770,baptised,2,1,1,person.given_name,Matthias,Matthias,1.0,match
+Num_3_16_01_1770,baptised,2,1,1,person.family_name,Brann,Brann,1.0,match
+Num_3_16_01_1770,baptised,2,1,1,person.occupation_verbatim,Beysßer allhier,Beysßer allhier,1.0,match
+Num_3_16_01_1770,baptised,7,6,,date,Den 6.,6. Sebastian,0.25,different
+Num_3_16_01_1770,baptised,7,6,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,7,6,0,person.given_name,Sebastian,Sebastian,1.0,match
+Num_3_16_01_1770,baptised,7,6,0,person.family_name,Holzer,Holzer,1.0,match
+Num_3_16_01_1770,baptised,7,6,0,person.occupation_verbatim,,Weysgerer allhier,0.0,spurious
+Num_3_16_01_1770,baptised,7,6,1,person.given_name,Andreas,Andreas,1.0,match
+Num_3_16_01_1770,baptised,7,6,1,person.family_name,Holzer,Holzer,1.0,match
+Num_3_16_01_1770,baptised,7,6,1,person.occupation_verbatim,Weysgerer allhier,Weysgerer allhier,1.0,match
+Num_3_16_01_1770,baptised,4,2,,date,Den 11.,11. Dorothea,0.23529411764705882,different
+Num_3_16_01_1770,baptised,4,2,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,4,2,0,person.given_name,Dorothea,Dorothea,1.0,match
+Num_3_16_01_1770,baptised,4,2,0,person.family_name,Schwazer,Schwazer,1.0,match
+Num_3_16_01_1770,baptised,4,2,0,person.occupation_verbatim,,Beysßer allhier,0.0,spurious
+Num_3_16_01_1770,baptised,4,2,1,person.given_name,Josephus,Josephus,1.0,match
+Num_3_16_01_1770,baptised,4,2,1,person.family_name,Schwazer,Schwazer,1.0,match
+Num_3_16_01_1770,baptised,4,2,1,person.occupation_verbatim,Beysßer allhier,Beysßer allhier,1.0,match
+Num_3_16_01_1770,baptised,9,8,,date,Den 10.,10. Sebastian,0.2222222222222222,different
+Num_3_16_01_1770,baptised,9,8,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,9,8,0,person.given_name,Sebastian,Sebastian,1.0,match
+Num_3_16_01_1770,baptised,9,8,0,person.family_name,Hueber,Hueber,1.0,match
+Num_3_16_01_1770,baptised,9,8,0,person.occupation_verbatim,,Rothgerber-Geselle und Weysgerer allhier,0.0,spurious
+Num_3_16_01_1770,baptised,9,8,1,person.given_name,Joann Georg,Joann Georg,1.0,match
+Num_3_16_01_1770,baptised,9,8,1,person.family_name,Hueber,Hueber,1.0,match
+Num_3_16_01_1770,baptised,9,8,1,person.occupation_verbatim,Rothgerber-Geselle und Weysgerer allhier,Rothgerber-Geselle und Weysgerer allhier,1.0,match
+Num_3_16_01_1770,baptised,11,5,,date,8 Jan.,9 Jan.,0.8,minor_difference
+Num_3_16_01_1770,baptised,11,5,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,11,5,0,person,"{'role': 'subject', 'given_name': 'Maria Anna', 'family_name': 'Ankofer', 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,baptised,11,5,1,person,"{'role': 'father', 'given_name': 'Matthias', 'family_name': 'Ankofer', 'occupation_verbatim': 'Tagewerker alda', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,baptised,11,5,0,person,,"{'role': 'subject', 'given_name': 'Andreas', 'family_name': 'Liedel', 'occupation_verbatim': 'Hochfürstlich-Taxischer Haußknecht', 'occupation_normalised': 'High Prince Taxis House Servant'}",0.0,spurious_person
+Num_3_16_01_1770,baptised,11,5,1,person,,"{'role': 'father', 'given_name': 'Andreas', 'family_name': 'Holzer', 'occupation_verbatim': 'Weysgerer allhier', 'occupation_normalised': 'Weiser here'}",0.0,spurious_person
+Num_3_16_01_1770,baptised,6,4,,date,Den 13.,13. Sebastianus,0.2,different
+Num_3_16_01_1770,baptised,6,4,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,6,4,0,person.given_name,Sebastianus,Sebastianus,1.0,match
+Num_3_16_01_1770,baptised,6,4,0,person.family_name,Schmiedel,Schmiedel,1.0,match
+Num_3_16_01_1770,baptised,6,4,0,person.occupation_verbatim,,Beysßer zu Stadt am Hof,0.0,spurious
+Num_3_16_01_1770,baptised,6,4,1,person.given_name,Sebastianus,Sebastianus,1.0,match
+Num_3_16_01_1770,baptised,6,4,1,person.family_name,Schmiedel,Schmiedel,1.0,match
+Num_3_16_01_1770,baptised,6,4,1,person.occupation_verbatim,Beysßer zu Stadt am Hof,Beysßer zu Stadt am Hof,1.0,match
+Num_3_16_01_1770,baptised,5,3,,date,Den 12.,12. Joh.Melchior,0.19047619047619047,different
+Num_3_16_01_1770,baptised,5,3,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,5,3,0,person.given_name,Joh.Melchior,Joh.Melchior,1.0,match
+Num_3_16_01_1770,baptised,5,3,0,person.family_name,Koch,Koch,1.0,match
+Num_3_16_01_1770,baptised,5,3,0,person.occupation_verbatim,,Beysßer allhier,0.0,spurious
+Num_3_16_01_1770,baptised,5,3,1,person.given_name,Joh.,Johann,0.6666666666666666,minor_difference
+Num_3_16_01_1770,baptised,5,3,1,person.family_name,Koch,Koch,1.0,match
+Num_3_16_01_1770,baptised,5,3,1,person.occupation_verbatim,Beysßer allhier,Beysßer allhier,1.0,match
+Num_3_16_01_1770,baptised,8,7,,date,Den 8.,8. Walburga,0.13333333333333333,different
+Num_3_16_01_1770,baptised,8,7,,age,,,1.0,both_null
+Num_3_16_01_1770,baptised,8,7,0,person.given_name,Walburga,Walburga,1.0,match
+Num_3_16_01_1770,baptised,8,7,0,person.family_name,Busz,Busz,1.0,match
+Num_3_16_01_1770,baptised,8,7,0,person.occupation_verbatim,,Kutscher bey Sr. Excell. Herrn Grafen von der Wall,0.0,spurious
+Num_3_16_01_1770,baptised,8,7,1,person.given_name,Johannes,Johannes,1.0,match
+Num_3_16_01_1770,baptised,8,7,1,person.family_name,Busz,Busz,1.0,match
+Num_3_16_01_1770,baptised,8,7,1,person.occupation_verbatim,Kutscher bey Sr. Excell. Herrn Grafen von der Wall,Kutscher bey Sr. Excell. Herrn Grafen von der Wall,1.0,match
+Num_3_16_01_1770,buried,0,0,,date,Den 8.,8. Johann Georg,0.21052631578947367,different
+Num_3_16_01_1770,buried,0,0,,age,15 Wochen und 3 Tage alt,15 Wochen und 3 Tage alt,1.0,match
+Num_3_16_01_1770,buried,0,0,0,person.given_name,Johann Georg,Johann Georg,1.0,match
+Num_3_16_01_1770,buried,0,0,0,person.family_name,Werner,Werner,1.0,match
+Num_3_16_01_1770,buried,0,0,0,person.occupation_verbatim,Soldat unter allhiesiger Stadtgarnison,Soldat unter allhiesiger Stadtgarnison,1.0,match
+Num_3_16_01_1770,buried,1,1,,date,Den 9.,9. Johann David,0.21052631578947367,different
+Num_3_16_01_1770,buried,1,1,,age,7 Jahr und 11 Wochen alt,,0.0,missing
+Num_3_16_01_1770,buried,1,1,0,person.given_name,Johann David,Johann David,1.0,match
+Num_3_16_01_1770,buried,1,1,0,person.family_name,Meyer,Meyer,1.0,match
+Num_3_16_01_1770,buried,1,1,0,person.occupation_verbatim,Burger und Aufwärter,Bürger und Aufwärter,0.95,match
+Num_3_16_01_1770,buried,5,5,,date,Den 13.,13. Laurentius,0.21052631578947367,different
+Num_3_16_01_1770,buried,5,5,,age,9 Tage alt,,0.0,missing
+Num_3_16_01_1770,buried,5,5,0,person.given_name,Laurentius,Laurentius,1.0,match
+Num_3_16_01_1770,buried,5,5,0,person.family_name,Lang,Lang,1.0,match
+Num_3_16_01_1770,buried,5,5,0,person.occupation_verbatim,,Weysgerer zu Stadt am Hof,0.0,spurious
+Num_3_16_01_1770,buried,9,9,,date,Eod. die,12. Catharina,0.21052631578947367,different
+Num_3_16_01_1770,buried,9,9,,age,6 Jahr alt,,0.0,missing
+Num_3_16_01_1770,buried,9,9,0,person.given_name,Catharina,Catharina,1.0,match
+Num_3_16_01_1770,buried,9,9,0,person.family_name,Bezl,Bezl,1.0,match
+Num_3_16_01_1770,buried,9,9,0,person.occupation_verbatim,,Beynsiker allhier,0.0,spurious
+Num_3_16_01_1770,buried,6,6,,date,Den 14.,14. Antonius Gross,0.17391304347826086,different
+Num_3_16_01_1770,buried,6,6,,age,57 Jahr alt,57 Jahr alt,1.0,match
+Num_3_16_01_1770,buried,6,6,0,person.given_name,Antonius,Antonius,1.0,match
+Num_3_16_01_1770,buried,6,6,0,person.family_name,Gross,Gross,1.0,match
+Num_3_16_01_1770,buried,6,6,0,person.occupation_verbatim,Hochfürstl. Bischoflicher Leibkutscher allhier,Hochfürstl. Bischoflicher Leibkutscher allhier,1.0,match
+Num_3_16_01_1770,buried,2,2,,date,Den 13.,13. Catharina Gruberin,0.14814814814814814,different
+Num_3_16_01_1770,buried,2,2,,age,69 Jahr weniger 4 Tage alt,,0.0,missing
+Num_3_16_01_1770,buried,2,2,0,person.given_name,Catharina,Catharina,1.0,match
+Num_3_16_01_1770,buried,2,2,0,person.family_name,Gruberin,Gruberin,1.0,match
+Num_3_16_01_1770,buried,2,2,0,person.occupation_verbatim,hiesige Beyssyrs und Tägelöhners Wittib,hiesige Beyssyrs und Tägelöhners Wittib,1.0,match
+Num_3_16_01_1770,buried,3,3,,date,Den 9.,9. Anna Maria Weymayrin,0.14814814814814814,different
+Num_3_16_01_1770,buried,3,3,,age,100 Jahr und 9 Monath alt,100 Jahr und 9 Monath alt,1.0,match
+Num_3_16_01_1770,buried,3,3,0,person.given_name,Anna Maria,Anna Maria,1.0,match
+Num_3_16_01_1770,buried,3,3,0,person.family_name,Weymayrin,Weymayrin,1.0,match
+Num_3_16_01_1770,buried,3,3,0,person.occupation_verbatim,verwittichte Weysgererin allhier,verwittichte Weysgererin allhier,1.0,match
+Num_3_16_01_1770,buried,4,4,,date,Eod. die,9. Maria Eva,0.1111111111111111,different
+Num_3_16_01_1770,buried,4,4,,age,15 Tage alt,,0.0,missing
+Num_3_16_01_1770,buried,4,4,0,person.given_name,Maria Eva,Maria Eva,1.0,match
+Num_3_16_01_1770,buried,4,4,0,person.family_name,Zirngibl,Zirngibl,1.0,match
+Num_3_16_01_1770,buried,4,4,0,person.occupation_verbatim,,Weysgerer und Fischerknecht zu Stadt am Hof,0.0,spurious
+Num_3_16_01_1770,buried,7,7,,date,Eod. die,14. Anna Margaretha,0.08,different
+Num_3_16_01_1770,buried,7,7,,age,11 Monathe und 14 Tage alt,,0.0,missing
+Num_3_16_01_1770,buried,7,7,0,person.given_name,Anna Margaretha,Anna Margaretha,1.0,match
+Num_3_16_01_1770,buried,7,7,0,person.family_name,Högerl,Högerl,1.0,match
+Num_3_16_01_1770,buried,7,7,0,person.occupation_verbatim,,Weysgerer und Mühlknecht zu Stadt am Hof,0.0,spurious
+Num_3_16_01_1770,buried,8,8,,date,Eod. die,12. Barbara Frankne,0.08,different
+Num_3_16_01_1770,buried,8,8,,age,60 Jahr alt,60 Jahr alt,1.0,match
+Num_3_16_01_1770,buried,8,8,0,person.given_name,Barbara,Barbara,1.0,match
+Num_3_16_01_1770,buried,8,8,0,person.family_name,Frankne,Frankne,1.0,match
+Num_3_16_01_1770,buried,8,8,0,person.occupation_verbatim,,lebisen Stande,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,3,2,,date,8 Jan.,8 Jan.,1.0,match
+Num_3_16_01_1770,arrivals_departures,3,2,,gate,Zur steinernen Brucke herein,Per Amberger ord. Kutsche,0.4230769230769231,different
+Num_3_16_01_1770,arrivals_departures,3,2,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,3,2,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,3,2,,transport,Kutsche,Kutsche,1.0,match
+Num_3_16_01_1770,arrivals_departures,3,2,,origin,Sambach,Sambach,1.0,match
+Num_3_16_01_1770,arrivals_departures,3,2,,lodging,Türken,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,3,2,,s_value,,Türken,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,3,2,0,person.given_name,Catharina,Catharina,1.0,match
+Num_3_16_01_1770,arrivals_departures,3,2,0,person.family_name,Uebrerin,Uebrerin,1.0,match
+Num_3_16_01_1770,arrivals_departures,3,2,0,person.occupation_verbatim,,von Sambach,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,28,6,,date,Den 9.,9 Jan.,1.0,match
+Num_3_16_01_1770,arrivals_departures,28,6,,gate,Zur steinernen Brucke hinaus,Per Kutsche,0.20512820512820512,different
+Num_3_16_01_1770,arrivals_departures,28,6,,direction,hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,28,6,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,28,6,,transport,Kutsche,Kutsche,1.0,match
+Num_3_16_01_1770,arrivals_departures,28,6,,origin,Amberg,Amberg,1.0,match
+Num_3_16_01_1770,arrivals_departures,28,6,,lodging,,6.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,28,6,,s_value,,log. in weissen Lamm,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,28,6,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Amberger ord. Vothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,28,6,0,person,,"{'given_name': 'S. T.', 'family_name': 'Herr Baron von Karg', 'occupation_verbatim': 'Churbayerischer Hauptmann', 'occupation_normalised': 'Bavarian Chief Officer'}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,7,5,,date,9 Jan.,9 Jan.,1.0,match
+Num_3_16_01_1770,arrivals_departures,7,5,,gate,Zur steinernen Brucke herein,Zu Füsz,0.22857142857142856,different
+Num_3_16_01_1770,arrivals_departures,7,5,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,7,5,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,7,5,,transport,Zu Füsz,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,7,5,,origin,Sulzburg,Sulzburg,1.0,match
+Num_3_16_01_1770,arrivals_departures,7,5,,lodging,Hirschel,Hirschel,1.0,match
+Num_3_16_01_1770,arrivals_departures,7,5,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,7,5,0,person.given_name,Joseph,Joseph Abraham,0.6,minor_difference
+Num_3_16_01_1770,arrivals_departures,7,5,0,person.family_name,Abraham,Abraham,1.0,match
+Num_3_16_01_1770,arrivals_departures,7,5,0,person.occupation_verbatim,,ein Jude von Sulzburg,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,2,1,,date,8 Jan.,8 Jan.,1.0,match
+Num_3_16_01_1770,arrivals_departures,2,1,,gate,Zur steinernen Brucke herein,Per Calesch,0.2564102564102564,different
+Num_3_16_01_1770,arrivals_departures,2,1,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,2,1,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,2,1,,transport,Calesch,Calesch,1.0,match
+Num_3_16_01_1770,arrivals_departures,2,1,,origin,Reuburg am Walb,Reuburg am Walb,1.0,match
+Num_3_16_01_1770,arrivals_departures,2,1,,lodging,3 Helmen,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,2,1,,s_value,f. 2.,2.,0.5,minor_difference
+Num_3_16_01_1770,arrivals_departures,2,1,0,person.given_name,,Tit.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,2,1,0,person.family_name,Dreer,Dreer,1.0,match
+Num_3_16_01_1770,arrivals_departures,2,1,0,person.occupation_verbatim,Land-Richter-Amtscornmissair,Land-Richter-Amtscornmissair von Reuburg am Walb,0.7368421052631579,minor_difference
+Num_3_16_01_1770,arrivals_departures,4,3,,date,8 Jan.,9 Jan.,0.8,minor_difference
+Num_3_16_01_1770,arrivals_departures,4,3,,gate,Zur steinernen Brucke herein,Zu Pferde,0.32432432432432434,different
+Num_3_16_01_1770,arrivals_departures,4,3,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,4,3,,time,,Vormittags,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,4,3,,transport,Pferde,Pferde,1.0,match
+Num_3_16_01_1770,arrivals_departures,4,3,,origin,Altdorf,Altdorf,1.0,match
+Num_3_16_01_1770,arrivals_departures,4,3,,lodging,3 Helmen,3 Helmen,1.0,match
+Num_3_16_01_1770,arrivals_departures,4,3,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,4,3,0,person.given_name,,Herr Burgermeister,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,4,3,0,person.family_name,Bauder,Bauder,1.0,match
+Num_3_16_01_1770,arrivals_departures,4,3,0,person.occupation_verbatim,Burgermeister,Burgermeister,1.0,match
+Num_3_16_01_1770,arrivals_departures,0,0,,date,8 Jan.,8 Jan.,1.0,match
+Num_3_16_01_1770,arrivals_departures,0,0,,gate,Zur steinernen Brucke herein,Zur steinernen Brucke herein,1.0,match
+Num_3_16_01_1770,arrivals_departures,0,0,,direction,passiren durch,Pferde,0.3,different
+Num_3_16_01_1770,arrivals_departures,0,0,,time,,Vormittags,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,0,0,,transport,Pferde,Pferde,1.0,match
+Num_3_16_01_1770,arrivals_departures,0,0,,origin,Amergan,Amergan,1.0,match
+Num_3_16_01_1770,arrivals_departures,0,0,,lodging,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,0,0,,s_value,,2.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,0,0,0,person.given_name,,Hr.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,0,0,0,person.family_name,Fleischner,Fleischner,1.0,match
+Num_3_16_01_1770,arrivals_departures,0,0,0,person.occupation_verbatim,Handelsleute von Amergan,Handelsleute von Amergan,1.0,match
+Num_3_16_01_1770,arrivals_departures,6,4,,date,9 Jan.,9 Jan.,1.0,match
+Num_3_16_01_1770,arrivals_departures,6,4,,gate,Zur steinernen Brucke herein,Per Posta,0.21621621621621623,different
+Num_3_16_01_1770,arrivals_departures,6,4,,direction,paßiren durch,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,6,4,,time,,Vormittags,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,6,4,,transport,Posta,Postal,0.9090909090909091,match
+Num_3_16_01_1770,arrivals_departures,6,4,,origin,,Churmaynzischer Gesandter,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,6,4,,lodging,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,6,4,,s_value,f. 11.,11.,0.6666666666666666,minor_difference
+Num_3_16_01_1770,arrivals_departures,6,4,0,person,"{'given_name': None, 'family_name': 'Se. Excell. Herr Baron von Erthal', 'occupation_verbatim': 'Churmaynzischer Gesandter', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,6,4,0,person,,"{'given_name': 'Se.', 'family_name': 'Excell.', 'occupation_verbatim': 'Herr Baron von Erthal', 'occupation_normalised': 'Baron von Erthal'}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,69,26,,date,6 Jan.,6 Jan. Per Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,69,26,,gate,Zum Jacobertore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,69,26,,direction,herein,Zum Jacobertore herein,0.42857142857142855,different
+Num_3_16_01_1770,arrivals_departures,69,26,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,69,26,,transport,Wagen,Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,69,26,,origin,Böhmen,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,69,26,,lodging,Psauen,"log, in Psauen",0.631578947368421,minor_difference
+Num_3_16_01_1770,arrivals_departures,69,26,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,69,26,0,person.given_name,,Hr.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,69,26,0,person.family_name,Frank,Frank,1.0,match
+Num_3_16_01_1770,arrivals_departures,69,26,0,person.occupation_verbatim,Hopfenhändler,ein Hopfenhändler aus Böhmen,0.6341463414634146,minor_difference
+Num_3_16_01_1770,arrivals_departures,72,28,,date,Den 12.,12. Per Schikten,0.19047619047619047,different
+Num_3_16_01_1770,arrivals_departures,72,28,,gate,Zum Jacobertore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,72,28,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,72,28,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,72,28,,transport,Schikten,Schikten,1.0,match
+Num_3_16_01_1770,arrivals_departures,72,28,,origin,Jissen,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,72,28,,lodging,Gleyphanten,"f. 2. log, in Gleyphanten",0.6666666666666666,minor_difference
+Num_3_16_01_1770,arrivals_departures,72,28,,s_value,f. 2.,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,72,28,0,person.given_name,,Hr.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,72,28,0,person.family_name,Heilmann,Heilmann,1.0,match
+Num_3_16_01_1770,arrivals_departures,72,28,0,person.occupation_verbatim,Handelsmann,ein Handelsmann von Jissen,0.5945945945945946,minor_difference
+Num_3_16_01_1770,arrivals_departures,42,8,,date,Den 9.,"9. Per Kutsche-, S.T.",0.17391304347826086,different
+Num_3_16_01_1770,arrivals_departures,42,8,,gate,Zum Ostenthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,42,8,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,42,8,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,42,8,,transport,Kutsche,Kutsche,1.0,match
+Num_3_16_01_1770,arrivals_departures,42,8,,origin,Straubing,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,42,8,,lodging,3 Helmen,in 3 Helmen,0.8421052631578947,minor_difference
+Num_3_16_01_1770,arrivals_departures,42,8,,s_value,s. 4.,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,42,8,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Strell', 'occupation_verbatim': 'Regierungscanzler von Straubing', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,42,8,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,41,11,,date,Den 8.,12. Per Schlitten,0.19047619047619047,different
+Num_3_16_01_1770,arrivals_departures,41,11,,gate,Zum Ostenthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,41,11,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,41,11,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,41,11,,transport,Schlitten,Schlitten,1.0,match
+Num_3_16_01_1770,arrivals_departures,41,11,,origin,,der Straubinger ord. Bothe,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,41,11,,lodging,schwarzen Bären,log. in schwarzen Bären,0.8108108108108109,minor_difference
+Num_3_16_01_1770,arrivals_departures,41,11,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,41,11,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straundinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,41,11,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,26,21,,date,Den 8.,Der Wiener Postwagen,0.32,different
+Num_3_16_01_1770,arrivals_departures,26,21,,gate,Zur steinernen Brucke hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,26,21,,direction,hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,26,21,,time,Vormittags,"{'verbatim': '7 Uhr, Abends', 'value': '7'}",0.2127659574468085,different
+Num_3_16_01_1770,arrivals_departures,26,21,,transport,Postwagen,Postwagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,26,21,,origin,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,26,21,,lodging,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,26,21,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,26,21,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,26,21,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,66,23,,date,Den 11.,Per Calesch,0.23529411764705882,different
+Num_3_16_01_1770,arrivals_departures,66,23,,gate,Zum Weyh St. Peterthore hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,66,23,,direction,hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,66,23,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,66,23,,transport,Calesch,Calesch,1.0,match
+Num_3_16_01_1770,arrivals_departures,66,23,,origin,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,66,23,,lodging,,f.3,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,66,23,,s_value,f.3.,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,66,23,0,person.given_name,,S.T.,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,66,23,0,person.family_name,von Abelmann,Herr von Abelmann,0.8275862068965517,minor_difference
+Num_3_16_01_1770,arrivals_departures,66,23,0,person.occupation_verbatim,Kayserl. Cammerherr,Kayserl. Cammerherr,1.0,match
+Num_3_16_01_1770,arrivals_departures,55,18,,date,Den 9.,9. Per Wagen,0.25,different
+Num_3_16_01_1770,arrivals_departures,55,18,,gate,Zum Weyh St. Peterthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,55,18,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,55,18,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,55,18,,transport,Wagen,Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,55,18,,origin,Dingelsfing,der Dingelsfinger Vothe,0.6470588235294118,minor_difference
+Num_3_16_01_1770,arrivals_departures,55,18,,lodging,Türken,log. in Türken,0.631578947368421,minor_difference
+Num_3_16_01_1770,arrivals_departures,55,18,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,55,18,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Dingelsfinger Vothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,55,18,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,52,16,,date,7 Jan.,7 Jan. Der Münchner Postwagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,52,16,,gate,Zum Weyh St. Peterthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,52,16,,direction,herein,Zum Weyh St. Peterthore herein,0.34285714285714286,different
+Num_3_16_01_1770,arrivals_departures,52,16,,time,Abends,"{'verbatim': '7 Uhr, Abends', 'value': '7'}",0.27906976744186046,different
+Num_3_16_01_1770,arrivals_departures,52,16,,transport,Postwagen,Postwagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,52,16,,origin,München,"Tit. Herr Hofrath Jäger, von Kopdorf",0.14634146341463414,different
+Num_3_16_01_1770,arrivals_departures,52,16,,lodging,,f. z. log. in 3 Helmen,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,52,16,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,52,16,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,52,16,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,54,17,,date,Den 8.,8. Per Wagen,0.25,different
+Num_3_16_01_1770,arrivals_departures,54,17,,gate,Zum Weyh St. Peterthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,54,17,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,54,17,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,54,17,,transport,Wagen,Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,54,17,,origin,Landshut,der Landshuter Vothe,0.5714285714285714,minor_difference
+Num_3_16_01_1770,arrivals_departures,54,17,,lodging,Türken,log. in Türken,0.631578947368421,minor_difference
+Num_3_16_01_1770,arrivals_departures,54,17,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,54,17,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Landshuter Vothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,54,17,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,13,24,,date,Den 10.,Per Schlitten,0.21052631578947367,different
+Num_3_16_01_1770,arrivals_departures,13,24,,gate,Zur steinernen Brucke herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,13,24,,direction,paßiert durch,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,13,24,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,13,24,,transport,Schlitten,Schlitten,1.0,match
+Num_3_16_01_1770,arrivals_departures,13,24,,origin,,der Ingolstädtcr Bothe,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,13,24,,lodging,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,13,24,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,13,24,0,person,"{'given_name': None, 'family_name': 'von Dürscheid', 'occupation_verbatim': 'Churpsälzischer Lieutenant', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,13,24,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,59,22,,date,Den 12.,10. Per Wagen,0.2222222222222222,different
+Num_3_16_01_1770,arrivals_departures,59,22,,gate,Zum Weyh St. Peterthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,59,22,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,59,22,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,59,22,,transport,Wagen,Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,59,22,,origin,Landshut,der Landshuter Bothe,0.5714285714285714,minor_difference
+Num_3_16_01_1770,arrivals_departures,59,22,,lodging,Pfauen,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,59,22,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,59,22,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Landshuter Vothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,59,22,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,62,25,,date,Den 10.,13. Per Wagen,0.2222222222222222,different
+Num_3_16_01_1770,arrivals_departures,62,25,,gate,Zum Weyh St. Peterthore hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,62,25,,direction,hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,62,25,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,62,25,,transport,Wagen,Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,62,25,,origin,Landshut,der Landshuter Bothe,0.5714285714285714,minor_difference
+Num_3_16_01_1770,arrivals_departures,62,25,,lodging,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,62,25,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,62,25,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Landshuter Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,62,25,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,70,27,,date,Den 9.,9. Per Wagen,0.25,different
+Num_3_16_01_1770,arrivals_departures,70,27,,gate,Zum Jacobertore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,70,27,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,70,27,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,70,27,,transport,Wagen,Wagen,1.0,match
+Num_3_16_01_1770,arrivals_departures,70,27,,origin,Augsburg,der Augsburger ord. Voche,0.5,minor_difference
+Num_3_16_01_1770,arrivals_departures,70,27,,lodging,,"damit Mousr. Mocany, ein Kaufmann aus Italien, log, in goldenen Bären",0.0,spurious
+Num_3_16_01_1770,arrivals_departures,70,27,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,70,27,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Augsburger ord. Voche', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,70,27,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,57,20,,date,Den 10.,10. Per Schlitten,0.18181818181818182,different
+Num_3_16_01_1770,arrivals_departures,57,20,,gate,Zum Weyh St. Peterthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,57,20,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,57,20,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,57,20,,transport,Schlitten,Schlitten,1.0,match
+Num_3_16_01_1770,arrivals_departures,57,20,,origin,Ingolstadt,der Ingolstädtcr Bothe,0.5625,minor_difference
+Num_3_16_01_1770,arrivals_departures,57,20,,lodging,Türken,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,57,20,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,57,20,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Ingolstädter Vothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,57,20,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,46,15,,date,Den 12.,13. Per Schlitten,0.18181818181818182,different
+Num_3_16_01_1770,arrivals_departures,46,15,,gate,Zum Ostenthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,46,15,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,46,15,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,46,15,,transport,Schlitten,Schlitten,1.0,match
+Num_3_16_01_1770,arrivals_departures,46,15,,origin,Straubing,der Straubinger ord. Vothe,0.5294117647058824,minor_difference
+Num_3_16_01_1770,arrivals_departures,46,15,,lodging,schwarzen Bären,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,46,15,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,46,15,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,46,15,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,23,9,,date,Den 13.,10. Per Schlitten,0.18181818181818182,different
+Num_3_16_01_1770,arrivals_departures,23,9,,gate,Zur steinernen Brucke herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,23,9,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,23,9,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,23,9,,transport,Schlitten,Schlitten,1.0,match
+Num_3_16_01_1770,arrivals_departures,23,9,,origin,Burglengensfeld,"Herr Haberkorn, ein Geisl., und Hr. Geckel, ein Kasen- Beamier, beyde von Passau",0.2247191011235955,different
+Num_3_16_01_1770,arrivals_departures,23,9,,lodging,3 Helmen,in 3 Helmen,0.8421052631578947,minor_difference
+Num_3_16_01_1770,arrivals_departures,23,9,,s_value,f. 3.,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,23,9,0,person,"{'given_name': None, 'family_name': 'Herr Baron von Wildenau', 'occupation_verbatim': 'Landrichter', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,23,9,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,38,10,,date,6 Jan.,11. Per Calesch,0.21052631578947367,different
+Num_3_16_01_1770,arrivals_departures,38,10,,gate,Zum Ostenthore herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,38,10,,direction,herein,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,38,10,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,38,10,,transport,Calesch,Calesch,1.0,match
+Num_3_16_01_1770,arrivals_departures,38,10,,origin,,"Herr Hemauer, Pfarrer von Duffing",0.0,spurious
+Num_3_16_01_1770,arrivals_departures,38,10,,lodging,schwarzen Bären,s. 2. pakiren durch,0.4375,different
+Num_3_16_01_1770,arrivals_departures,38,10,,s_value,f. 2.,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,38,10,0,person,"{'given_name': None, 'family_name': 'Oswaldin', 'occupation_verbatim': 'Rechnungs-Commiss.', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,38,10,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,29,19,,date,Den 9.,Per Kutsche,0.25,different
+Num_3_16_01_1770,arrivals_departures,29,19,,gate,Zur steinernen Brucke hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,29,19,,direction,hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,29,19,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,29,19,,transport,Kutsche,Kutsche,1.0,match
+Num_3_16_01_1770,arrivals_departures,29,19,,origin,Amberg,der Silberbothe von Amberg,0.375,different
+Num_3_16_01_1770,arrivals_departures,29,19,,lodging,,paßiret durch,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,29,19,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,29,19,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Amberger Silbervothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,29,19,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,48,13,,date,Den 10.,10. Per Schlitten,0.18181818181818182,different
+Num_3_16_01_1770,arrivals_departures,48,13,,gate,Zum Ostenthore hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,48,13,,direction,hinaus,Zum Ostenthore hinaus,0.4444444444444444,different
+Num_3_16_01_1770,arrivals_departures,48,13,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,48,13,,transport,Schlitten,Schlitten,1.0,match
+Num_3_16_01_1770,arrivals_departures,48,13,,origin,Straubing,der Straubinger ord. Bothe,0.5294117647058824,minor_difference
+Num_3_16_01_1770,arrivals_departures,48,13,,lodging,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,48,13,,s_value,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,48,13,0,person,"{'given_name': None, 'family_name': None, 'occupation_verbatim': 'Straubinger ord. Bothe', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,48,13,0,person,,"{'given_name': None, 'family_name': None, 'occupation_verbatim': None, 'occupation_normalised': None}",0.0,spurious_person
+Num_3_16_01_1770,arrivals_departures,49,14,,date,Den 10.,Per Calesch,0.23529411764705882,different
+Num_3_16_01_1770,arrivals_departures,49,14,,gate,Zum Ostenthore hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,49,14,,direction,hinaus,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,49,14,,time,,,1.0,both_null
+Num_3_16_01_1770,arrivals_departures,49,14,,transport,Calesch,Calesch,1.0,match
+Num_3_16_01_1770,arrivals_departures,49,14,,origin,Deggendorf,"David Wertheimer, ein Jude von Wien",0.18181818181818182,different
+Num_3_16_01_1770,arrivals_departures,49,14,,lodging,,s. 2,0.0,spurious
+Num_3_16_01_1770,arrivals_departures,49,14,,s_value,s. 2.,,0.0,missing
+Num_3_16_01_1770,arrivals_departures,49,14,0,person,"{'given_name': None, 'family_name': 'von Feuchten', 'occupation_verbatim': 'Geisl.', 'occupation_normalised': None}",,0.0,missing_person
+Num_3_16_01_1770,arrivals_departures,49,14,0,person,,"{'given_name': 'Tir.', 'family_name': 'Herr von Feuchten', 'occupation_verbatim': 'ein Geisl. von Deggendorf', 'occupation_normalised': 'Geisl.'}",0.0,spurious_person
