@@ -11,6 +11,18 @@ The repository also contains evaluation code for comparing the generated results
 
 ---
 
+## Source Data
+
+The original digitized pages of the **Regensburger Diarium** are available from the Bayerische Staatsbibliothek's digital collections.
+
+The pages used as the source material for this project can be accessed and downloaded here:
+
+[Regensburger Diarium — Bayerische Staatsbibliothek](https://www.digitale-sammlungen.de/de/details/bsb11130457?utm_source=chatgpt.com)
+
+The source collection provides access to the original digitized pages from which the images used by this project can be obtained.
+
+---
+
 ## Pipeline
 
 The complete workflow is:
